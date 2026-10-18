@@ -1,0 +1,31 @@
+# owner：同一集团旗下的媒体只算 1 家（防止凑数）。lang：zh / ms / en。
+# 默认通过 Google News 的 site: 搜索抓取各媒体；也可把 site 换成 url（媒体自己的 RSS 地址）。
+# official: true 表示官方来源，同样计为 1 个来源。集团归属请自行核对。
+sources:
+  - {name: 星洲日报, owner: mcil, lang: zh, site: sinchew.com.my}
+  - {name: 光明日报, owner: mcil, lang: zh, site: guangming.com.my}
+  - {name: 南洋商报, owner: mcil, lang: zh, site: enanyang.my}
+  - {name: 东方日报, owner: oriental, lang: zh, site: orientaldaily.com.my}
+  - {name: 中国报, owner: chinapress, lang: zh, site: chinapress.com.my}
+  - {name: Berita Harian, owner: nstp, lang: ms, site: bharian.com.my}
+  - {name: New Straits Times, owner: nstp, lang: en, site: nst.com.my}
+  - {name: The Star, owner: star, lang: en, site: thestar.com.my}
+  - {name: Malaysiakini, owner: mkini, lang: en, site: malaysiakini.com}
+  - {name: FMT, owner: fmt, lang: en, site: freemalaysiatoday.com}
+  - {name: Bernama, owner: bernama, lang: en, site: bernama.com}
+  - {name: Astro Awani, owner: astro, lang: ms, site: astroawani.com}
+  - {name: Utusan Malaysia, owner: utusan, lang: ms, site: utusan.com.my}
+  - {name: The Edge, owner: edge, lang: en, site: theedgemalaysia.com}
+  - {name: BBC, owner: bbc, lang: en, site: bbc.com}
+  - {name: Reuters, owner: reuters, lang: en, site: reuters.com}
+  - {name: AP, owner: ap, lang: en, site: apnews.com}
+  - {name: Al Jazeera, owner: aljazeera, lang: en, site: aljazeera.com}
+  - {name: CNA, owner: cna, lang: en, site: channelnewsasia.com}
+  - {name: The Guardian, owner: guardian, lang: en, site: theguardian.com}
+  - {name: DW, owner: dw, lang: en, site: dw.com}
+  - {name: 首相署, owner: pmo, lang: ms, site: pmo.gov.my, official: true}
+  - {name: 国家银行, owner: bnm, lang: en, site: bnm.gov.my, official: true}
+  - {name: 证券委员会, owner: sc, lang: en, site: sc.com.my, official: true}
+  - {name: 大马交易所, owner: bursa, lang: en, site: bursamalaysia.com, official: true}
+  - {name: 统计局, owner: dosm, lang: en, site: dosm.gov.my, official: true}
+  - {name: 国会, owner: parlimen, lang: ms, site: parlimen.gov.my, official: true}

@@ -16,8 +16,9 @@ article.w{border-left:3px solid var(--work);padding-left:14px}
 .m .k{color:var(--work);font-weight:600}
 h3{font-size:19px;line-height:1.4;margin:4px 0 6px;font-weight:650}
 article p{margin:0 0 10px;font-size:16px}
-.l{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:14px}
-.l a{color:var(--acc);text-decoration:underline;text-underline-offset:3px;padding:4px 0}
+.l{list-style:none;margin:8px 0 0;padding:0;font-size:14px;line-height:1.5}
+.l li{padding:5px 0;color:var(--mute)}
+.l a{color:var(--acc);font-weight:600;text-decoration:underline;text-underline-offset:3px;margin-right:8px}
 .e{color:var(--mute);padding:28px 0}
 .panel{display:none}.panel.on{display:block}
 nav{position:fixed;left:0;right:0;bottom:0;display:flex;background:var(--bar);border-top:1px solid var(--line);
@@ -40,9 +41,10 @@ def row(x):
         tags += '<span class="k">工作相关</span>'
     if not x.get("new", True):
         tags += "<span>上次已报</span>"
-    links = "".join(f'<a href="{E(l["url"])}" target="_blank" rel="noopener">{E(l["source"])}</a>' for l in x["links"])
+    links = "".join(f'<li><a href="{E(l["url"])}" target="_blank" rel="noopener">{E(l["source"])}</a>{E(l.get("title", ""))}</li>' for l in x["links"])
+    summ = f'<p>{E(x["summary"])}</p>' if x.get("summary") else ""
     return (f'<article{" class=w" if x.get("work") else ""}><div class="m">{tags}</div>'
-            f'<h3>{E(x["title"])}</h3><p>{E(x["summary"])}</p><div class="l">{links}</div></article>')
+            f'<h3>{E(x["title"])}</h3>{summ}<ul class="l">{links}</ul></article>')
 
 
 def rows(items, empty):

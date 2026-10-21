@@ -1,0 +1,497 @@
+{
+ "name": "2026-10-21-noon",
+ "kind": "daily",
+ "slot": "noon",
+ "time": "2026-10-21T12:04:27.251348+08:00",
+ "items": [
+  {
+   "title": "Malaysia News: National, Regional and World News",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcUhrelJRN0VIN1ZteGhydkFUck1CaV9oZ3BSWDlSS1VvM09SVnBjc1lmaUxfNE5KMU9fSTgzVzFLVmctNUpBd0NvTVFsSzAzODhZd3k0VkJEUkdoMmxRVUdmQlI3SGVYZF96T2lhQ1FQLWp0NVJiY0FfMnhncjQ3ejJtNFV5c2EyQ2RaS3dXM2drQkhWYTl6UFdBOWlNNUdPeTJja3k3bw?oc=5",
+     "title": "Malaysia News: National, Regional and World News"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbnV3M0swUW9haHpIcFg1Z3lQRTg3SE1XRUJGYU1LeHhQUmEtMlo3S0JCSlFBZlJ0TklWOUk3S2RRMlE5LXZpZTczVGNMNXo3ZTYxYUVxQXlmM2hNVnJWb0x6YmNwVS13VzladmJYN3V4RWJBQW9qWG9CSnJ0UHU5M0U2MUdaZ2M?oc=5",
+     "title": "Malaysian National News Agency"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTVdCZVdfdWNsM05UelMzT0J2cnJsRXZtZDlTRXZVRHhZaGFhX0lQVGROdFZ4bFpDOGdsOHBrQWt2MS1jZFd4UU1RenZRTTBoZ0pUeVRta3FhVEtSdVhUUWtwcWRCc183NmpfTVFmM3prb0hKQ2dBbUhRRkpZUjdDUW5pOUN0LWRuMWZBOEthUjJwRGJ2SkpSbw?oc=5",
+     "title": "- AP News"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPem50TmU0alpDUmZwRFlNZk1KWkxDN184SWhaLTM0aExaMnRwQnVvUWtKbVJYQVg0eG1uRWQ3SFcyQlJFdGQwNUNaSUpjaE9LcnFNaUFnUGpfOVR2NFY3cTRNamFWaENXTTJiTXVLTWFRbXJhSWNfY0JZMGR0YkFGMEh0M0g1TU1PTlZoYUpMUmhRRktESFFBRkRuRFk3bEk?oc=5",
+     "title": "DW News Brief"
+    },
+    {
+     "source": "大马交易所",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSXFlRXFPb0JKWEZ3LWdSZ3Y3dlFIZ21rVkZVVUVMTmpZYzFGZkoyOWR4WXlrVk5PdkFBODJ4M0N3b1ZrZmdwRl9kdFAwYTFiZFJaaEx6Vzg2dHk2dk1QM1FJdWtpUzVLMG05VDR4RDRxZEpkTFlNWWhBSzdiOXFFMFRWQWZBNUVUN3l4cFdXem84ZmF6Qlg0YXVvRlRBTV9LUk92dEhOTlFsYUxGOG9zZi1uQzgtVzl3Mk9FZjlZZW8yWVk?oc=5",
+     "title": "News"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Interpol keluar Notis Merah terhadap pengasas Serba Dinamik",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMkczc2VwMWNpbVF4ejk2OURac0o4ZDlEMHlXREpkVGFMdzQzTlZMakxTbEJZcExXMklvcXpSemdYUk1teTBBNWdfTTRMVGs0TFk4RHpjNFdHQkRXV2pETWc5M3U5VXN6Z0JRWnNpR051OVVTN3E1cjFYQ2VWUW9rdWpCMXlqX1NtbGZqZm1tQUgyYy1qXzdGSkdtRE9RZEREb3ZwbDlwcC1tMXZQZFh6cjItRmFhYXJsS2fSAb8BQVVfeXFMTVJJQ1ItMHdOb0R6TGdVMGtFdEtPZ3pkNWFYWjdjVFhRbkk3b19LSThFbXBCdS1BaFVnd0xJR0RXN0lwRU9mUVVJakE0TUc4Zm5pNC1JTVkyeUtTTXN2UEVaRUY3d09GSmVvX19vS2tZZzZ4MWdSTWJfODVlNGJrTDRxR3otdkpGZ0J4N3JWX0drNlBFVHRqS1BESFVEUm92Z2k0cVljVTFBYVY1TFJFaldjNTZMMzFLeVBnVWh3d00?oc=5",
+     "title": "Interpol keluar Notis Merah terhadap pengasas Serba Dinamik"
+    },
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbUYtR3c3cWZneHJxR3l3YV9oYkxkdzE5ZzhQaldTTTh4enJKVWxIc1NaNEN1N09IN2VROHc1YThSWUZXazdCYnNraXI1ZFZCcmwwUk1RQUItbmZ3VW1zUW5zZ3Y3TzJQU3JVMEo4dUJQbHhpZ3FZR2N3U3c4aE5mZVhjM2p0RzI4bHhVZEhzRXVyNEMwOTBYcUNOb0Q0endDRUE1bXRtbEZEemhfQU9mME5fNVJaOV84d3fSAb8BQVVfeXFMT3I0RUsyZHFpUzFXZzRnMnNtankyLU94a1ZnblNIZEE1QWlkWUVDRTBvcjZlNWpCYTFTZmJQX1Znd3Bab1pPRGVoeGxzaDFpdFpDQjN6WU9nWTNJSXcxRXl3WTVzTGQybFpXRkdGQkxNRWxXWU54VGVwZWNrZGdxSDVkUmlQb1pKdjhac1EtV2dfY05TNEUxd25oQnVGcHM0N05RVlA0UUxrQnpjazdlcUpZbDEzdDhHazl5dXpJTVE?oc=5",
+     "title": "Interpol issues Red Notice against Serba Dinamik founder Karim, says Anwar"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMUFkQkRBbXNzaU9kUzlXTTlLQ3NsNVp2cFVNLVRMakk4Smp6ZkNCNzl0cVV1NFBjNjhCTnp3YzNJNWRGZWdCTnFtejUzeEZ5U1Rmc1BzZ2prTV9kR1RjNnp1RzJhZHpXeWctMUNQOWpZdnp1UTl4MkRWU2duV2NjWEIzY0ZiRWdmZm9LaEJSamFjR2tYMVhaQTlfNnJjb0FIZm9F?oc=5",
+     "title": "Serba Dinamik CEO on Interpol Red Notice"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBWlBFM1Y3cGFvSl9lZmoxT0NkamY5aWJURE8zOGtGTFpBTnVNV3pMTm12SkNKY1RKcDNnTmQ5eUpUd0hMb2JsZ3MzaU5hcGxk?oc=5",
+     "title": "Serba Dinamik founder Abdul Karim on Interpol Red Notice, says Anwar"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Malaysia, Indonesia bincang eratkan kerjasama komunikasi dan digital",
+   "summary": "",
+   "scope": "my",
+   "category": "经济",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOWdaWmJaenVma042d3JEd2pVWVpqZ0tUc3lDbU1INkNvTmNneU9vNXByTHFaR1ZkUTBURUhCRWVyeW5obVVxcVZTd3BVTWphNlJYVFp6THF5WUtrLWl2S3p5MFVZdG93dnE1MFM4NHhKc0kwaDBZcUowYkpsQnV1M1pJSW8zOHZaa3hBenN1MWVDNUVJRzl5bW5TZjV2ZHg2bVNjcTBhcmZBeldpSU5jWEVONUNYc2k0clZRd2xvV1d5bmhZ0gHKAUFVX3lxTE52a0tXSjNDRVpaVS1TbmpLR0hFOC1vZldyQ2hOYkMwYk5EaWNlQkJEX1l5ZnBvLVhOYmx4bWhybXF4MktoRnkxcWJCcmxQOVdKOHNfZ1FaUWx6SUU3czAyLWtKbUZ4bHk2blFhaVZYTlpWbVA0S1gtRFVpS2ZRLWpkVkVaMjNuSldwMDFxUTZ1cVRCOXVuOTRrTTFEYWhRbmtXbnBYX0xVNHpHVGxFQ3hobGVWRExwTkdIN0ZvWHh4Z2hXMzhtWktFeVE?oc=5",
+     "title": "Malaysia, Indonesia bincang eratkan kerjasama komunikasi dan digital"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX0JiZnhBcHlxR1cyZlJLbVRBc2NzbmFfeEJ6YkJZcE9tMEdXel9QWDBMbDlTQjIwZDh5VWU0Mmw3cWZDY2ZTS3pFVVhONFVhYTFfc3g1SnREZUhGOHJ4ZzdaUmFjOS1rblBUeER5eW1Lam1OMjdQYmQwUHBLR05Ud3l3ODdoSVVxZ0g0eWtGd291akpfRm1uWndkeGhFME5EY2h3VFNrSV9ZUENsblNWRVBpTV9iaUlyZ1lRUDlTQWdCdmdhNWQtU3V0ZE01eU5qcC02VVdYOA?oc=5",
+     "title": "Malaysia, Indonesia to establish inter-agency cooperation on online child safety"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nNFlzaGN3elpGcDFJM0tGM3dac2JPbUhKV2ZQMGxjNmJWWktKdFNSMThCUzZOQ29SOG5vS0M5ajk1OW5XQmJ4d3QyYjVzem1wYXBid293?oc=5",
+     "title": "Malaysia Sees Greater Potential For Creative Economy Cooperation With Indonesia - Fahmi"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Pembatalan pendaftaran PN: Muhyiddin sifatkan ia peringatan supaya bertindak adil terhadap semua parti anggota",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaWlPRlY4Skd0c1hpVzVnbWp0NTJZdWZqNk1naV9NTXp4TXNBSmtJdnlMenZpZzdKbHFldXQ3RnBtRGQ3MnJtWnB5QjM4aGNIenhpeEVHSV9DR19rSVM2ODN0bXZXZnRSVWlLNnpPakx2U2RWcVRTRllsSnU1aVdjM1loVW9TQXpCZVQ1WFpiS21SZVJCQm95bmlHR2l2Z3cxekFRZkxhV3hsMGxINEo1ZUd0SkluYVlLcDZvSE5nN2xKOGVGSHREdjNycFJOMnMtYUxlMNIBxwFBVV95cUxPVVFfcTJ2MGN5M2Y3UUpTRldFZGlRSVB6UU9wNkZ4cHQ0b056anR3ZGY2T25FWXdHRGQxNDJqbmdrQnlra3BYUmlYbGI3XzdjR2l3NG10RXlFbklvVHJ2N3ZobnNYcERMOEhPOWdERkVsUi1OeVJoYW5CWmdGeGQ3SWRMbVdZSWg2aWhlSVNxelRaTm8xSHJuenluU2dKTmM1T2p2NEVlelI0TDI0TG5VVlpUZ18yZlBfcGIxZHhuQVg5d3VxLWZR?oc=5",
+     "title": "Pembatalan pendaftaran PN: Muhyiddin sifatkan ia peringatan supaya bertindak adil terhadap semua parti anggota"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRG9TRXE3WmVuQWlfZ2lhSUpzbk9sd0RNM2lRQ1FINmFSaFNMR01IdEVNMUx3ZlMzWG42d0FjLTRwZEtqRU42VmxKRXpYV2k5dDdqbmlGSmxWUjJHakdsaUpBVEhHMnAxR2g0QU5VR2RYQ2lldFFGWGdwU0N3akFtM0ctVTRoQ1pmMXh1VnlUVVZmSHdpWXR1YzVWY3FYS3JLMGZwV1RheVZlVkE?oc=5",
+     "title": "Fuziah nafi dakwaan Mukhriz PKR rancang pembatalan pendaftaran PN"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN0ItUHdpZGFUd294WHd2MG4wNWZCY2NEYllBTHZTdFVEVHhFNERTOHFUN21VQ3FfX2dESkZsTlluRnBla0FmYXJFZ2ZlVTJQbXlIdDBLVWR6MWVPYTFzS2k0aWxxaXFrWWlxbXBzNVZxNHY5NDNuNjVtLUZVZ010dHZNUzNDZHY1ZzFaT042MnpqR1Q3cXBkbFc0cFdlMTQ4UG1N?oc=5",
+     "title": "PKR nafi terlibat pembatalan PN, tuntut Mukhriz mohon maaf"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Bursa Malaysia edges higher on bargain hunting",
+   "summary": "",
+   "scope": "my",
+   "category": "经济",
+   "importance": 3,
+   "owners": 3,
+   "work": true,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEJMWER2dVYyaXZjME5RRFBSRGYxR0xyWFJHTEZhb3c1WGMzQWtVd0tDVm5tUFd2dzhUeGZuMGFrSGFhOGFRNFk4VnV4eUNmUWQ5OUdPWmJ4RDRoaWVBMHdjVHMyT1JDQ1hPWVVIa3VKaGFvMklSNE9BZk5EUVFwTkhqc3lMS0FvYi1sTjBHWDY2S25hQmVEX1JOTFkwWXY3b2UyblVmelV5SHM?oc=5",
+     "title": "Bursa Malaysia edges higher on bargain hunting"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9fN0VpY2Z3aENvNkdVNTZBUUdzeFFtOHhBQmxYNGhWNHlCTWY5ZVRESDM5N2pwbjVJZ3EzY0xhdXd2VTg?oc=5",
+     "title": "Malaysiakini"
+    },
+    {
+     "source": "大马交易所",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTlZscFVYMkJHQ2VrYm5LcUdPbnd2d0w2UzEtY01idHVzYjRyeHlqeWJ3VWNva1dSQmlUR2RTVVkzNjJLeVR5ZWk3akEzNnhidVMxSEtmQXdFWk9aRmo5dF95VFJ3ZTJMY21KS3VzdUphR2VpNjBiMHExdl9hZy01c3UwY1B6Z1czamdURVBaOF9xd28?oc=5",
+     "title": "FCPO - Bursa Malaysia"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "AKPS chief Shuhaily to be charged at Sepang court tomorrow, confirms A-G",
+   "summary": "",
+   "scope": "my",
+   "category": "司法",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTHRMakpXLTE5bDNHR1NrYXA2dHRMUEIxMEVCSWxtM2FTbFlOa1lmZ2VVcGJRWXJ0akUzd2RUVVlnWEhqTUVMaE5rQ2RuUWRoTWt5enpUY01rRHpMNnJ5S2RmOG5SUFhvVkd6LV9oYU1yTlJWeFJvRjZyUVhBLUcwU2h1Ql9yczlkZEc3bk1RSkVSbTNZLVFmNmN2c3l3YlBqTmV5RzNsODhEb3ZVSkNEVWtxYlU1Y2JBOHI2X3V3?oc=5",
+     "title": "AKPS chief Shuhaily to be charged at Sepang court tomorrow, confirms A-G"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbkNjclZ0VXFRTkYybE54QnFIUFktRF9LamNKMTNYQlNVVGRiQ1VqOHRURUU4dHhxazRBY1FDa19fNTI2SGxXQmotNW90cWt4bkV2RGxvbkdfM3BLcW5DWU5nLUZKMGIzU2RjNWtyR1NZM0hvbDBRWWV5RUxQU2NrQXZhRHJ5VTlDNmpOU01rVVZPdjE2T3VMS2RMbkVwRDBBc3IxbVd3?oc=5",
+     "title": "Shuhaily claims trial to assaulting 2 cops"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41VFc2QVBmWENFanlvX2N1OEpTSkVDcjFRRWF0X3RFcjltVFFYZVdJdF9yenJjZi1reVhFWUtOM3ptT3JubjY0aW13ZmVhb1Yw?oc=5",
+     "title": "AG confirms Border Control DG Shuhaily to face charges for voluntarily causing hurt"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Don't play victim, PAS to blame for PN deregistration - Bersatu",
+   "summary": "",
+   "scope": "my",
+   "category": "司法",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWENVV3VYNXp4MVc0X2RlcF90NzZ3bWgwUGNmRE12VDctb1lyd0RKUHdFNjdhbnFaMndYY1M3RngxbFplckJiNkVWUjVwQmtuWF9EcVhCbVZOQ1hrZnF3bE1QSDhyR01aUTJBdUN0R0JQbEIzeTN3MTYtWHNCbDlZeGdtekl3WDhZQUFvVHVYZ0RMTXgyRVVwYkRweWt6QXdqV1E?oc=5",
+     "title": "Don't play victim, PAS to blame for PN deregistration - Bersatu"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbEpJdjVDRmtHUExhSTh3djhUQllxTWtYT0toMV9Rd3FDZWhmZFQ5OUF5aDFRUmMyQlE5Wjl6ZjNWWTdrc3ZIMEtoa1BFcDFmSGhKU1d6c3k4cGNpWjdERS1qZ1lqOThjNHFLc3dWNm50Y2xOTzF4cmRPaHpBMXJ6UzJMeUtrMnpId3VwVFRsRWF2dy1jMGcxV2ZHdzZzZVcteXhOa2JpYw?oc=5",
+     "title": "PN to challenge RoS deregistration in court"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxNkk1NmNBYVVJYmNsZ2g4Vl9QdVAzbmNYVUpjTEdyWjJmSFpTTUVGeFBxZ3RxZURGbEtVVG1oVGFBVmRTODNpQ29Ia25JdjVfU05KR1pKaGFMVXM?oc=5",
+     "title": "PN Deregistered - RoS"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "YOURSAY | Anwar's corporate mafia report pledge faces test of trust",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeTV6a204SXpTdkk2OHhsWjVCaGVrZVJRLWlWbm02NGJOZEtPY0VZb1pkQ2JYNHZqc21DTVZiZHBUUUNVanIzNkhLQzdFYkZjX0hlU3NGc2dBNVVsNms1MmJkNF9KNHEzSS13TXRJTTlIQTNVZmRaaFBUcjRPQkt4b1hzVEZPRUNoTzZva3J6V0xKZmZTVVN2a2NPOTJSYlJENi1KMldVYWc?oc=5",
+     "title": "YOURSAY | Anwar's corporate mafia report pledge faces test of trust"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZzBFQVYwUmVjLXJHTC12aTRxbVlFd3BRa0VtVTFTbjdLMm9EMHh6eExCdFBEME8tLUkxNXRTZTZMWEhpTjJwYTFzNVVGcGlERHA4LWJIc3ZXVFJpXzdwbjdxOVQyU05waE1iLUR1aFRfVDg4a1ZFR2VSdDh0dWttTWxUVHNObW9COVc0dTk0Z09iY1E3NVpKa3dKeElLZWxHMy1keXJ2VWpiRVk4YlFFSHhJVlR6Zjczb2N5SXJPck8?oc=5",
+     "title": "Anwar sidestepped bigger issues on ‘corporate mafia’, says Rafizi"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZZmFWcmhVZ2ZQX21rZjJ1UUdWcXdDSFhSU2l6R3B5UVVDRHFkZzkxN05nSHZrOXpqM25iR240SS1lb2Vnemw3dEFKY0RvSHN0?oc=5",
+     "title": "Allegation minister solicited RM9.5m in 'corporate mafia' case just a political statement, says Anwar"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "KPJ Healthcare brings the Sound of Hope to schools, helping young Malaysians protect their hearing",
+   "summary": "",
+   "scope": "my",
+   "category": "经济",
+   "importance": 3,
+   "owners": 3,
+   "work": true,
+   "links": [
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNajVYZ29FanYyWjlEOFlZTFJiX0tnZDcxVHozcDdnQXA3SVV6OHFvUlhjTTJIQWp3WGZIcjctUXY2cnktWjhkZk45MzZ4N205T0F4WlB2M2FvVENMM2tqSTRuT1ROSkVpcGlKbWJMc2tiMzVQMmJXa0pfci1JeDhjcnNaVlBEaWk2OXZmcFl5RGFGQTh6VlVzdW5TUHlhWkNrWjEzZkJ4MWp6Q3NFYUJ1NndiNmVkcHNHU0VYMGNmOXRRXzB6OWN0RjZ1TElDLVNPTUJWeUp0Z3gwOTlReXdr?oc=5",
+     "title": "KPJ Healthcare brings the Sound of Hope to schools, helping young Malaysians protect their hearing"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOdzdfTUtlUGp5VVBsVVR0X1Z5dzhYTXNQc21KUkdNSHAycVV5bTVLa3pwb3hPVDhndkw3cDRLbEtQZ3MxUFdPYUxoTXdtSVMx?oc=5",
+     "title": "LYC Healthcare delisting deferred pending Bursa appeal"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2JsXzZ4YTVKcDJjNE9iTW42aU0wY0VOZXRtdDYxTzJTanBUOGZIT1FLSl9FVTNxQ1RpTVFSWHlsejgyR0Y1b3JQWXRlT0dEMjJPWWpXYlpfdFJQaHZKZG5KdUNMdW53NmlMd2RwUWJKWFB3dE9Xc2ZBbnRfalF3cWNzblhxTGJOTGlKYUh1a0FmWC1vaGQydWZXdTMzemJjSVg5NWZ0bw?oc=5",
+     "title": "Dow outperforms as Wall Street rises, healthcare stocks lead gains"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "US bans use of China’s DeepSeek by govt agencies",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdW0ycTU2Rk0tanR0OXBZc2YwZlBwbW43OHN5YWxlSTNvQVpwTVRTamR5VTdFd01VQzVXM3ZiZGM4Rko4cDd0TDhGT09IeGcyb0ZUOTdidW96d3oyanBpZEhMSHU4ckF1Y0dVenRPdG1KVnBaZFBPWVNIaTVXLVNCVVZVeW84d3FjbzhmREYyVFQ5ZTJ6Z0tBX2FzSGQwNVZJMFB4UlctQkRJZlVF?oc=5",
+     "title": "US bans use of China’s DeepSeek by govt agencies"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSnlfLWtNdU5lMURrQXdfa3F2ZEt4Njloa0Q4OEtocS05b1FfVG16ZW1FVU9JVXpkMm5TZGhOMl9INGRQMUJlMjFKYXB5RUltS2dsS1pZdjh0Ull4UXQzMmNfR3ZHQXRyVkVpZEE2Ym04Ujh0Tm1lUmlWVnZtRVlrbGtyd3JINmNZUVhFYjBtN0U1MXBpcHo1Q01aMGNybVItUUdOSFlYWkhFWGl6T2xHR18yVldGSGJlNzd1dTliVkVIcnc?oc=5",
+     "title": "AS larang DeepSeek China dalam rangkaian agensi awam persekutuan atas risiko keselamatan"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZYkdUOFh6NnF1TFRUV25ZOGlPYU9mWWxOTkV0d2hIc2tiWExjaWROT2s5V3ZtQlc0NmtYOE8tSG5OR3QzRER4OFYwX0VqY193b3Q2WHRtTGM1ZTg3dWdlUUdySlN5UkxqRGtWSmhDZmN2YXlSMU1ENk9BZGNOQzA?oc=5",
+     "title": "AS arah henti guna DeepSeek"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Musk says he backs SpaceX-Tesla merger as rocket firm turns profit",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWF9FYWh6Z1BrZ1R1bTNTdzBBdVJQTHQ0YVdXQ3lVX1FhWXdVOWRzWUM0TXZ3Y3F1aDdEM1VMY3RHSmhqSU5CTFpWbjVwQS0zYkx3UXcxUDNMTk5DdEVXTHliY0RXQzd0b3VZNFpVRjlMd1dWSlU3SEdVUUtVM1Y4M3k1cUd1LWFOc0pTX3IxR3ZlSE1TWE85RHBJTF9kNXEzZm1TWDZ0UU0xc0x0ZVdjdGwwbWF2LS1TNy11SGVB0gHDAUFVX3lxTFBYeE9aQXNrcW5RU0h5YnN0UzJleTlvY3RzYk5yeHpGc2JFWXdGdDZNbkY4cUxvcmw3WUlmOTBhVTR3a2lHQmZrSlRyRWgxUDNmTGRxZnJqc0J3QTMtRENHRWNnQkJhQ2NlLWZtU2txSVVlRWY4bko5NFNpSVVkODFlZ2htRWZoVVNpSndOXzBHbW0tZnlDSDFiRjYyM1hTM1B3T2NaNmRvd1FHRkdYSmpIeERTdDFweUhrRDdoekEwd0Y1bw?oc=5",
+     "title": "Musk says he backs SpaceX-Tesla merger as rocket firm turns profit"
+    },
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPalJYVm1ZRGJDNG1SRF8tM0JhYmVqdm5JWmJaVk1FLUVGTlNXUVRNNU83WGM3SE5VNkN2ZlFPelAzVUVCWFdqc29sRHhnaG1IOGFzell2WDZyZUI2T1ltQW11eFRvWUtGSXdscFF6MUhseXJ3OTJVdzZoQ2txSFI4TUtNbkJHN0dwWVZuVUl3aXZOa2U2WlFWTXd1b1dwNmt3Um5HTWJMNWJkcC0yenUtZnZLZy1Jd0hFVUhTbEJ3?oc=5",
+     "title": "Musk says SpaceX-Tesla merger is 'a good idea' as companies form deal committees"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xQVFkemlnVHpuR0hUUWJNMzNoZWoxbEVWa2sxMUlTd1BIRXBocmRDLThIYUtOR2JDWjJ4ZWFZbWZuWDhVWnFLb0NNajRJQm9QTU9oSUZXRnFEUEE?oc=5",
+     "title": "Elon Musk says Tesla-SpaceX merger being considered"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHZoMzBtaGg1TmlMN19NRUEzM1lOZkpYb1ZXeWlLTnR4SkxObm1xbDBlN0RsQ2huaHBCMzRxU0VLb3ZPSS1ZeEdhampNY3VNclpoU2xGOWpoQjNfVzVDTHpqOVVRd0pZcVY3eGlpVkxjWTRrMGh4aWtCbVJVVnZ1Nnd1RkU1dFNtcUZCUnVxX1pRWXRTd09QUnpodWJSeEhpS3BKcmxsQkM1aFA1eExGSkNMMVIteV93OXZWa0Q2Vl9yUQ?oc=5",
+     "title": "Musk says SpaceX-Tesla merger is 'a good idea' as companies form deal committees"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Google Cloud outage in UK eases after impacting digital banks, public sector websites",
+   "summary": "",
+   "scope": "world",
+   "category": "司法",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOal9RSWQ4LTgwU1hubXZFUHFFdFdQa3hnNl9DQ3d6RUZ4dHFYa0Z3aTZJSnJRQW1hdFItYmpxWnAtdTR2QmVFM1duRG5xQ3hvdnVQSHRNZlpxbDJsX3lEMkNMR0x2c1c4WVFMYmNZSWFIMTFFOGpQaEotTHdMNWFvMVotVVBzbnRDMVNTREpNU0xZY0Fud0NFMDhNbzVISkdiQ3dBLQ?oc=5",
+     "title": "Google Cloud outage in UK eases after impacting digital banks, public sector websites"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wSF9NTlRSZG93Uk5TZHc2T2dNdW9Jc1NNdVptZkJvZ2tXa1RRbm9QSHpja19lMldpaDRlaTRBZ2NfUGk2M0tQNEFXUXpXd3c3?oc=5",
+     "title": "Gobind: Highly classified public-sector data barred from cloud storage"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS0VTdUFWc1FhZzJaWWZDMkN3dkl0RzdnMU84OHNOS1g0eDdGZ0RNWDVJcVd1MXZzMHU2Unp0QXBXN0tvc3ZZcW1iRlg1Y1h4TFl3Yi1oM2pWRW5KLUNTT0M1NU1YMGdrUjY2MkZTNW82U2FOX0VYRkRVaTlmckJ0ZElGcjJYNzlhSnVCQzA3X0tiVTZ2Z092U2haTQ?oc=5",
+     "title": "Google Cloud outage in UK eases after impacting digital banks, public sector websites"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTFlKekU1Q1lvSWthRzgyR0ZrbGRxbnVLcVAtYUlsaXFNdU5NTG1sUkxud2E0RWJSLXhZX3RwcmpHR3BDY21uUGVJbklBalgwX1RaV1ZKak11NFE5bEllUGZVQjdTaUpqeHh3ejhpR3BwQ1FKeGNrNi1HWjU5ODBSckFzT3puZUJ5VjdNdFRPS3daX1JI?oc=5",
+     "title": "Google cloud failure hits millions as UK courts and banks knocked offline"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Alberta voters overwhelmingly reject separation process in a victory for Carney",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNam5EME1Qam5lQmc2X3BhcDgzXzdMaWJLa1V2akVCc0c2dnJlZmo4bjZ5NEdXZmMxNHp6d1kxV3hEY2QwbkZraktnS1V5a3ItMUFvZmlxb0daZUppSHdqdjBvdUNrNVNueGo0TlROS21OeGl4OTBwM0RlanJuT2pGZjllNWxHMS0wOVFtRV9DOHA0TzZWbkotTGJXMzJHcjJFOHVFbkhnOUk?oc=5",
+     "title": "Alberta voters overwhelmingly reject separation process in a victory for Carney"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdUJSV3FPRjRUZktDN0tiNEhZcnlObm5aWW92NnNvbl9ydjh3X1dDNVVQczRaNFBEUFhxZ3loVzRJU25sMlZZdnpmeVE2MkNlekMtR0Jla0J5NHN1MGVjRFl1WnJCcHNtQi0zZHhEZ1NteVJ6RE0wWTFPTXJZcE1yX054X1FjbUtxYUJGa0Vwb191MEdYZDhiTHJ2dWYxWXBqN3VRRC1LWTXSAa4BQVVfeXFMT01hN0JFVGxZZmZZUHl4X0tPYzVmdDZBTVozeHhpazluLTdTLUNVbW1veWlMenBBN0piZTlxSmJwZ2RNbGFuVUhXQlQ1ajQ1Y0l6NjVmUFhvb0lBeXQyY2Rfa2hxQndWM0VZdEx4N3MwOE8wMkJxRlVadHJ1VkxxMGJyeFc3QWZUcDI3ZmpfZVlZWmxJa0x5QUlLTVJLMndPUmlSSGJjcm55VHZ3aXN3?oc=5",
+     "title": "Alberta voters reject separation from Canada, early results show"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb29FYnNERnE5RTQ1UTNrU1BReXpNODFyVHg2ajFxOUZoaGd5azJzTEtnVXMyaHVTUGg2VlItVllfcENUQTBBUjduM040MDU0MUpFemRTRVNpTXEwZ1hQREFJQjhiajd4eF9rU0FieFRmbXRUNjVxUTA1N1RQLWVJWXhaX1h3c0NuWXcyZEUxMzFIQk5ITjRmRW9vR1dCckR4N1VSUDZB?oc=5",
+     "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb0M4SjZxTzlYWHhyUmIwSlQwQk9NOGw3YkF5N3RqZjdEOUhCRGQxZnYxY2dfZjRFZi1tNnVqd3FKb211SzhMeFYwQmFPRzhuR1BKNVh6OVRPWVVNNWsyd0NzRVFPUDl6S2lLTldGQUlaa2F0UnVQMFlMQ1lQR0plWkhmeS1VdEZidDkzRTBKZDFZd9IBkgFBVV95cUxNc0cwbWlSQXBCdy1EMXI5RlQxSkNSQ3NrWGdTM1E0UmZWb1dkTG1wQVc0dmhoR3ZLblpsQkw5V0R3TUVUOGNRS1pLWHMzSXN1ZG96bjIyMW85VUc5aHZ3N01VQUhzTjJyZXMxRFN4WlpwNlZQLWpDckljM3hZcGtVSzNsaW5BUk1ha0JQOGVEYjFqZw?oc=5",
+     "title": "Canada: Alberta votes on holding independence referendum"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "France Extends Curfews To Quell Riots, Looting",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94cUtRNzRhdmhLQ0ZZUkFZOF9TM2JrdVlqanpoWmh6ZWlwUzY3VE8tQlVYc0M4Sm4wZ2x5bFdUVkdNdUVOdmxucDlJUmcwdTFsRHJCTFc5bGN5dkxPbHc?oc=5",
+     "title": "France Extends Curfews To Quell Riots, Looting"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYUVGd05fSU9ac1QwTmF1MFpWaVlkMjBBOXl4U0dKeXhNaVhBS1BQNkp3QURYWFo2bld1WXM0RlRmY0hiRC1xalZ4aEZTVzJVcmh1RUtmN2VVdnA3cWdfeXZHSm41b0NWXzZySjMtY0N4Y3hLMFBVZFdZckR2YVRNSzYtVEd5VExST2NsdWxJUjVZUGZ2dFdqM0xueHRtVGtxUEV0M9IBqgFBVV95cUxQUEg2d3IyeWkyMEpOZGg3MW51WDdBd2IzWElOanNiUXk3OWtpMkhjYWs1TDZiVW9hS3Q5Zkpud0hHSmUtcWRRbGpHVDZsSzdtRVl1YlJTelBnTGRKX05KaWlkYXl3cDRoSEJKdW10Y3R2MzZYc0hES2FrT2Itc2lBdUVDQUtMXzdUTE9EUkoyaE9NcEktWnNjMHMyRnVlLUxmU3FWUTd3VXRvdw?oc=5",
+     "title": "France PM promises more curfews as authorities seek to regain control"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa3kycGtuQ3hCMk00MUc3cmpjbU9uTFBMQnRtb0FVOGEwNy1MU1FhNWt3VUZJVzZkQlRyaVlQTUVFSTVQelVadFcwZEhmWENaaE5yckpYaGwySnFWb2F0VlZRSk9DbTJ2UlRNS21Ka0F1Y0NTbEFJUGFHeDB6VkJTcWtqZTE0bVY1S3g1elNuZTktNXBoWVJR?oc=5",
+     "title": "France to impose new curfews where necessary: PM"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Pentadbiran Trump batalkan lebih 300,000 visa AS",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTE15S2VJLUV6NU9kVlVkUXRZUGxMQ1o0MG5NdTBYLU9NWkZtWW8wVDZndW4yUWdweVFXMlVmb0Z1djQ2cVJLZVFaaF9fNTBWREkyMnZYZ3VKREFMSWgtYnR0SXRqaS1CNnY3d3lTaFFSUDlTdHg1bWEwcjZzUnQ2UHk5a3RiVWtkMEw4Qg?oc=5",
+     "title": "Pentadbiran Trump batalkan lebih 300,000 visa AS"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVC0zNk5XaGVtcW5ncTQ1ckpKTHJVOFZQQks4Qll4QU8xSlE0ZmIzT3k3Z3pLZ2lmR1FRVk1VUVI0MlM0VjVnTkxjVndYYTd1Z1ptUGdUN05JNEpaMHpXRFRuN2dfT1lHVHZpMHVLYUlxQkJLODN5UUlvNzFKazh3ZXJpSFgyaHFGSXdxN2pTRVpLc2c5Qk5qaUZrcGZRYXFVZjA0ejM2aGhySEwyd3p0Yw?oc=5",
+     "title": "Trump administration says it has revoked over 300,000 visas"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWk1jUWdkZ0Y0OTF5YThSNWZaTVFOVkM3X29GSC00MUc5bWV4dEpCcjBHVHduQkpBSVA0Mm5Bemw4VU5PcWR1S29TXy0zcnpZZzZrSWVrLU1TZHhGZTNsLTRHVVA4NXU2bk9ORHFFT1ZoaUg1ckRscmRqLUtKQmNWWllzQmJ0UmQtN3dTWl91a0wxRVJzNmhRM0RGRk82UQ?oc=5",
+     "title": "Trump administration says it has revoked over 300,000 visas"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Harry says he wants to 'reconcile' with his family",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tSGJidEZvNzNPaUlMWkQxWnM2alBHQnE2eHRleXNwekxmNGhoUWhMejNOdUluUW5PTkxuMHhjTjlVc3huSGFQUzllb3hRVkdDNlljdWtFcW1hN2c?oc=5",
+     "title": "Harry says he wants to 'reconcile' with his family"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeGJvbmtMQmU3OElEWDJ3MlZpbTVydXg1eGNJQWNCMVVjU2hTMjJoa3ptcTFBeUNhTkprSVo2RF9mX0FHaklETjJNR2tkMHVjSFNUeS1COGdfOS12ZEk1YjJscHRLQTV3eE1qeWpIZ25DWHJURGpsWjdBeDg3OU12TWdWWjM4MHhPcDZRZVdNYnhuYU0?oc=5",
+     "title": "Prince Harry says he wants to reconcile with family"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY1BCY1RlRV93S1NNTUFXbjJWX0JqbnRiNDhyLVZ6eUkyR25xVnh1Y2I3cHNhV1E2U1NRY0k5VTY0ZEFrbG5JZWwxUnZna0lSekI5TmVqRzdVVjdhcWlXYmxYQVUxYXRGRFVXTWpHcHVFM0ZJVTJVNlJvNFJBaHhDT0lGcFVfVGNCNnR3Q3lwNTFhMm9WLV84U2hFdmJEOTJhMWcwdm1qbVRHNzJzNUZxNmNn?oc=5",
+     "title": "Prince Harry says he wants to reconcile with Charles and William"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Zelenskyy says early warning system for Russian missile attacks resumes following call with Rubio",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZjBGZWQwSjlYd2Zrc1lncjhvcG5uOGpZOTI2aVhhVHY4YzhDTlNRRWJWTnIzdnk4V1FfVUpTbzNkX3gtOGdwU3VNTTZCdFN3Z055akhaMjNKSDVqY3hXNzM4bmpaU0lQQ0dwTlhIQ0prUUVyRkNtbzhyN3BDOWlIWk02YUItdkI4Nnc3cTJZancxRTk3b2ZSWjd6TlMyN21IUWtXWFUtRjBmaUItQjRGZA?oc=5",
+     "title": "Zelenskyy says early warning system for Russian missile attacks resumes following call with Rubio"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYW0zRnllRi1FTDVUdFpzMmQ3dEhJU3dfM3Y0ZG5NaEZvNmVMUW9CczhCR015OXRhVTZ0M3hMMTZFWG1BLVBKaUtOOWVpQVVJa3dQbk0yZVZfeGNmaURuOVA2UUkzVzNfZFZBS0VKVDZUUHhIeFhvZHplVXVhRVBRSWVJQ1lKNzd0cDlRWkZGNGFkczJtd1FEN0I2aURKaG1WVkpVOU90a05VdjQ?oc=5",
+     "title": "Zelenskyy hails resumption of US advance warning of strikes on Ukraine"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVTdST1MwUXpYSl9vUGNfY2NGcHJ5QUxvSnFKa2RETkVkR3RXUkZTOWdYNUZxNV9VWDJ4ZU5PbkxYcWQ1MDI5bnhqRHFIdkpXTU5xLWRBLVM3LWJfRWhkRktwRTlyOWtGTngtSW4xU1NybHZIdkFVQU5FY1Rfc0lWTUpqZnlhN1JqMTU5bXhxODRDTk930gGUAUFVX3lxTE90clFGbkRyd05FNW5pczQwRVd6VGEyaWpaUzZVMk9MOUVteGNGWXlDanIySU93dXFPQnUzVVdFUWdhQ1pGOU5BZWtuZTVVYl9uWm1ndWhScHBfaUNHdGpGME9DV1RQb2V1ZVJwYjQ3a2t6c3RiR3ppQWhhYW93emJfblRwaW9NV0ZJYXZraVpJaHBnbkc?oc=5",
+     "title": "Zelenskyy accuses US of delaying Patriot missile shipment"
+    }
+   ],
+   "new": true
+  }
+ ]
+}

@@ -1,0 +1,596 @@
+{
+ "name": "2026-10-21-evening",
+ "kind": "daily",
+ "slot": "evening",
+ "time": "2026-10-21T17:58:18.077773+08:00",
+ "items": [
+  {
+   "title": "[UPDATED]: Civil servants banned from using Waze",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMHBVMGwxcVB2MWRGSEpoUTdfc3JYT3g4S24wVk0teUNmVXdnUG5zNHp3ekV0aG5TVFcyeExFdGdZSmZZRTloazJCVVhrTHNsaXNwdWhaejRfMVZNWG4zQmhfa3ZDWUR2bzBQUE41WU9zZU9fOHJmTHlCWUNlVmMzUVM2UEduZmlYMjY3bmxxZFRDN1lxblHSAZsBQVVfeXFMTTVGeWJyOXVGTm5GQ3B5N1RaaW83US1tNFRmZU9hMGNfUXBfY194cjZDV3NYYXlMcjNMS1BPdkFFUHNfTU1PQTZkSFhKOGIybG5UdjFOS0hRLU5FNE1RUW9GWi1ZWU1hM1UxYUZxODk5Z2lKdDRCaFFSU1FlaTZNcnhxZzcwX1VLMlBpUU03ODRwZ1BYLWFKTUhDRTg?oc=5",
+     "title": "[UPDATED]: Civil servants banned from using Waze"
+    },
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQa0FUeGFOa21oSmgzcWJMbWVxSkFkN2FmcjdnOXhDNTI5UHJRMVY2TEVEQ0RLN2JGcGJ0VUZkREhDb1RGcmdlOXpyQ3F3SnkwRV9LV01tWkZDU016cUx5RHJvYkxibkJsLWxIZkxKUjNvZjVSc2pUTzBjYnJOWVR4Yl9TdXRJZkFVY05LcHZidjJBeHdjdnFuM083Z05fMmtBWHJZN0RWUlBGa01wOEVfZDE2Vmt5clBDUDdQdDJIR3ZCTV9LZHhyM1o3N2pTZnlIX29qMkI3UkduVUpoaHZyOUJwUUw1ZGZtNEVObFl6bVJwUQ?oc=5",
+     "title": "Civil servants barred from using Waze, according to Prime Minister's Department circular"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbTBtREdLdWMwdk5RcjZEU21TWGxpRjRNRHdMcVpic3lscnNiRW1UQWV4aklJZkZpWklleG5VYWg3bVhPY3ZnX3NmNlp2S091bjBHbktSZGNPMUpiUVZvaUo5NUhjZVdKV1poNmxqT0h5MUJLT2tzSGN2OXptX1ZEdXZkNU1BN1NFTFpFUS1ra21HaWdXSEpEN0stT3BaYjQ5UGVqMFhRMmg1Ull0eU9mcW1zblZVNDl5UnhtLW9ORGI1MTBua19BS3RZRQ?oc=5",
+     "title": "Govt bans civil servants from using Israel-linked Waze, Anwar promotes local navigation app"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa0tPQ1V2TjJzc01FSnNoTFhnbVZZX0pJMF9WUnR4YWI4djNwU0s3ZmVhZG41aHpTN0RBNjU5enNhenFEcVNNeVdBYTF0ZEluYXZnSkNLNC1IQndkaXNsQk1aVG1RSGhNRG04UUNpd0lqU0NFbUxKZlVHUWJwS1dGaU5kUWl2Rkp0WFlOejdtZHJodHFoeDJNUG1tX29XNFU?oc=5",
+     "title": "Civil servants banned from using Waze"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQU85S2NnYVlHbGstUGNaTkNxaEpqd1Atbm1ycEZYSEExYWx3bjFjYm40TGVQSG9jaXd5TFdrVDdQRWFxX0JqT0RqeldyMGxqTmhkMlBlNW96b3hnRjh4N2IwMHZsSF9Wc29fSWkxLTVpZnlRZ3NVaFVlY1RtVmRzRG5jbzdidTFhZkdLd1JmMmowX2pkRTcwVlgyYlNuVnNIamQ4Q0hUeFN2ZElxYzZ5dlJRWGJNQmNnaWNNZ2dZcTNCX2FW?oc=5",
+     "title": "Malaysia bans civil servants from using mapping app Waze, citing links to Israel"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Malaysia News: National, Regional and World News",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcUhrelJRN0VIN1ZteGhydkFUck1CaV9oZ3BSWDlSS1VvM09SVnBjc1lmaUxfNE5KMU9fSTgzVzFLVmctNUpBd0NvTVFsSzAzODhZd3k0VkJEUkdoMmxRVUdmQlI3SGVYZF96T2lhQ1FQLWp0NVJiY0FfMnhncjQ3ejJtNFV5c2EyQ2RaS3dXM2drQkhWYTl6UFdBOWlNNUdPeTJja3k3bw?oc=5",
+     "title": "Malaysia News: National, Regional and World News"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rSHhJQUo4QUVEdVFGNEUyc05BRG9OMDJubkphTHZDOVhQWkczX3hNV1VtQWRUYUFjWmp4QTdLeGwwQmlLRjNXOGhOS3ZBbnNSajJaWWVB?oc=5",
+     "title": "News"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WcFRRRmJKZVFkVmJySmlXTHd6RWpNYngyLXQzbllvOVlpd1dWWDcyZlFoTE1OZ21CVVpkbDRZdUJKLWR0TVdqY3V0WDgwX2RwckQ4U2JYcHB6NEk?oc=5",
+     "title": "Malaysian National News Agency"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd01OT3ZZZUZhU21NdFBwaWxJaVhoRE1TYzMyLWlnRjltSkxZWVVSR3lHaGtnX2hHRGszQVpSV05QT2oxS2tlS2hnbWxEX3J1ZTlJcFh3a2RsSmVlQWRyTGpQYTA0cndLMGFrRG5LdXZFVkI0Z0FIeWJ3ejFNMkFzby0zNzZ2UWpBaUs3RFdRY21GNmhzRi1mRk1BMDlnd0E?oc=5",
+     "title": "DW News Brief"
+    },
+    {
+     "source": "大马交易所",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSXFlRXFPb0JKWEZ3LWdSZ3Y3dlFIZ21rVkZVVUVMTmpZYzFGZkoyOWR4WXlrVk5PdkFBODJ4M0N3b1ZrZmdwRl9kdFAwYTFiZFJaaEx6Vzg2dHk2dk1QM1FJdWtpUzVLMG05VDR4RDRxZEpkTFlNWWhBSzdiOXFFMFRWQWZBNUVUN3l4cFdXem84ZmF6Qlg0YXVvRlRBTV9LUk92dEhOTlFsYUxGOG9zZi1uQzgtVzl3Mk9FZjlZZW8yWVk?oc=5",
+     "title": "News"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "BERSATU sah gantung MB Perlis",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSXNON2l4bXZrR2tkOHduOU54YWtGdEFKYkllUXlUWkNYOU9yWmUyUWl1bjVaY01qWlZlZkwyOExQamlwcFgzSHFRUDlEWC03ZkFVQXpOZUJWcWhZOEZId2hZLUZmek1MX2VlVmpMaWZzdHNfbWFMalBnNnVuY0d6dVE3U2xOcEFoQzJUajdEbULSAZYBQVVfeXFMT1hFVGpMcHlxSldyMVItMnFLWXF5Ykc0c2RlMDRBUG43ZVhTTndnMEtZWWVmM3hWN21ZM0pMU0x2eWdBdFMzX1Z2QVl5akNmODFlZUNMWU83aVJ5VnBzZ3R6NDdiVnFHVmVOTVBHeU9tdXdGUndKbWh3RG9kcHVUUWhKMWRpNzBnX3pXTjBwS21DZzN6LTdR?oc=5",
+     "title": "BERSATU sah gantung MB Perlis"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZFo2bEY2Z1ZmMEg2SnMxLXZrckpSXzJQSk5yVV9MSXNJUkptZ3BNcFZ1ZnN6ZF9EQml0c0kxaDBnX0duSjFjbWhvQWZrcVVsRTB0TUxiYkYxR2hubFVvemNFbG9DN0ZkYnptS19YRzdITll0clJZeHZnM1VndFB1LWk1dExOUQ?oc=5",
+     "title": "Bersatu suspends Perlis MB's membership"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM2pZSE0yYkVtc192d0Eyb0pzdWNtQ3hfaWVMcjFlWUF0a0NuQV9KXzI0TmQzQ0pKZUhBUlppcmhaZURjV09oX0RwbnRib3EtaC1NMFBhZS1kZHlhTjJIX3c0blp6OE13YmFwM1FZMWZoRWloMHJBYmNTSFRUaWQ5V3lzaS05OXFiZy1qNVlvaHM0MmhpLU5tMDNzaTBiY0xUZ2MtOTBB?oc=5",
+     "title": "Perlis MB Abu Bakar suspended from Bersatu"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1I5amlVVWp0ZXNrb3N2TTlha25mVENfU1lDYnZQcVFhTTN6dUNLVzRTVXpfVDJLNktBNDJrNm5fYk1feHFMOUZDdkJKbjRKRnQ0U0J1dkpUVUQ4MjlYRTJpZk1qamFKOWpvSnpXX2tGaHFteS1maG1UYjdxOGpnOVBaOEE?oc=5",
+     "title": "MB Perlis digantung keahlian Bersatu"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Dr Akmal jual motor, ikan tilapia untuk bayar ganti rugi kepada Teresa",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNXhDblNXSy1tb2lBcHQ3cU5UemJ3VElZMVNjelk0bElqckRjODRqWWh3ZUpYWDZDNUN1TnFMSGF6RXh5LWh0UHM2ZnpsV01vby1oWE9fQ0pyeGhwdjM1MFNMRnZxTGFkMmdUd3lsNUprSHZ6WWJvTzV1Nm9kQU5wNjZJQjk1bF9mRXJ4T2tJQy1vX1Zxbk1DWUY1MDRmZlhpekJCYjdTNnhTZnRIVi1CWHhTRGdWaUZJRjJ2dVJB0gHDAUFVX3lxTE1Ra1pEa2ctWFIxaWUxcVUwTWNubmthampFNmNYeW9ZUnBoTDBFaVlNa2RYUUlwb05UTmExQTYxMlNBeFhCZVJqck0zVEh1eTM3X1JMckF5RzFGeDJJa0NPeWkwdzZBVmplbGc2MGZvVV9SWkN3bHktdVRqbUUzM3JJZHl6S3VwVVI4ZnRpR2xDSENXWVR6QTZ3V1ZxTHcxSDBSV1Z1Sm4yckJiMXFVUlFyVVBWVW5QLU9SLTluZHVNZ1dBNA?oc=5",
+     "title": "Dr Akmal jual motor, ikan tilapia untuk bayar ganti rugi kepada Teresa"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRlNqSnJhcEJaZmJ5Nml0OU4zU2JLMzRrdjhmYmFqaGNtTTA2MDBxUFlGMkxWN1hrbGlha29UWmd2RktFSzBacU41S29ncGo3Qlpxc1pLa29CQjJPbEVZajM4cG10VHp3dklVQnNTQ3JidF9NRDgtdEpOcmk5c3BwNVhrZ2RwdHJzVjJIWHlRdGdvNnF4eTQzNENlczREamZJTXMwZg?oc=5",
+     "title": "RM300k damages: Akmal auctioning scooter, tilapia to pay Teresa"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeG0wU2RfckQyUFJOR3FmQy1lSF9GTHlvU2pKaXJOY3RMakZvcUsyTm1fNUpoX0ZFdlVxMXdYQ0hNRV9oa28wODJqMkJBNVlpYnJJeEtaMkRuVFg0QUJJZnI3TVc4STEycGtNdXR1emhKbHY5RjMxb2p6QjduNXNzSWpzX0xUYjlaV0kxM0Q2VzRpOFVSWWZrVUhfZmt1THZ3bmMxX2R5LTExNUdYbWxMNHd6QnRUM28?oc=5",
+     "title": "Akmal puts motorcycle, fish up for auction to pay Teresa"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZnl3a0IyT2cyVWNwcFNMRFduMGEwa1pfRFhXU3VXZkc5akgyZGNUVUtvaTFjYTU4bExQYmc5Z25FdlN2YmhhUTdpLVotQnJfYVZGWG5TTVlTc3lUU3cycmowbDdBeTdsUUJkaVBGXzkzTnZldXZXTTQ5c29tRUNqd1ZIdlhjZDZ5aWRoYmhFNDZJN1BEd2VvQVBwaHljMGZPMG81Wmx5OXg4ZUxHQXh2V2t5clg?oc=5",
+     "title": "Dr. Akmal jual motosikal, ikan tilapia tampung bayar ganti rugi RM300,000"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "[UPDATED] Shuhaily charged with hurting two Special Branch policemen [WATCH]",
+   "summary": "",
+   "scope": "my",
+   "category": "司法",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUXlzV0ZjOTF5NWVDaVRPVmcyS1ZjZGRqMWR2dFNaR1A1UmNRZURtQ054VVZNdEQ4STg2ZW9QZUUyRzU3Mk54Z01sS1h3LXRybE1sZkZnNEpQb25pSWJ4THpQS3o0a0tFMm1nemp1c1c4Y0pYMG54VnN5c2NLVEVJaXJleExld1ZtMmxFWFBzazRITnBDUUtuZlhWMDIyLWlWVXVjSGMtMllOdDJSVjY2eGJkMnBsUUJxWnfSAb8BQVVfeXFMUDNRWDIwOU9fQWpOZDN1UmtCLTVBczV3ZUVyZEQ1VTg0QUN3X3VIZDJDT1lidkpIODFvVkpwY1hPR2lVZmNRSGkxZ2Fyb3lUQWpCczljQVFjNm9jVmNSclN3VmFkVTJBVWw4SGhGaFJFTVhYUm9PdEFhZ0U2TklhdDhzcjM0TGJmU3J4dUhBd0NoMHhWcmFwZHliR0hrcUZweF9Hc1dGUnlPM1dUamZibEo2UTlEaWFwbksxZlBBRU0?oc=5",
+     "title": "[UPDATED] Shuhaily charged with hurting two Special Branch policemen [WATCH]"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNODdpelIzRjVjUUlKemZES0RMdkNEUmJTeXB2aXBrVk00eEdoYmJVb2NwdGFVcHh0SFlWb21rOEJvTTUwSGhOSkpHQlNZdUtlejhhOEg1bzUxUi0tcVExSlREWWpQRmJyT2RxNjdVZmp6dDVEd1E1c2JaVDVIb3REbHFCaVNYVFFCRDJMWW5TejZINGJTekx2ejE3Zl83UnllZGduQVhn?oc=5",
+     "title": "Shuhaily pleads not guilty to injuring Special Branch officers"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYVBYVDJPQ1A4bnF2LXZlUWlMZzExZ0tJT2lfQU9uZ2xqZjE4UUd2Qko0STl6MGxzSG91c08zU210RWF0cDZQekNkckNRMU1mSzFBZGN1WjctOWxPME5OTG1ha3F2bDRfN2Q5d2dfZTY4NlFMbFBJb05MUkVBMTNleGo2VTNsZWt5bnhsRUlmT01NUUVFMHB4bTlJTGpPeEszYkVva3JodnBmVXo2ei1RWkVB?oc=5",
+     "title": "2 cops to sue Shuhaily over alleged injuries, trauma"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56VGREd0xfdS1vUXRUWnFWSDNPcGZ4VzA5U3pSWl9mUVg0dGMzMVJzajJ0YzJZdkxPVUhlQ2VlVEVJNm8ycE5SQ3l2MVZQSjVp?oc=5",
+     "title": "Border Control director general Shuhaily charged for hurting lower-ranking officers, claims trial"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Kerajaan arah penjawat awam henti guna navigasi Waze serta merta",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYnJEVHBkd3BjcHVWai1QYjlYeEc5dG5ncUlGbGVqc2Y0bWVoUjRMR05zY214bEFPZGVFTUdOV0JoY1dTMVJ1MGhlVTVfanc0VFVqODRfY0htN3hZSjZMZHVaWFVVSVVBQzQ5MlJXZFE2YTJuai14UXhZUDBoT0J4Q2pOZkhzMENKVlFSNEc4bEh6Z05wU3F6MDJvdXhNWFVReGRiektIazQ3clVDTWFjWm1qc3JTQ3N2TDUwNjBWNkZfNW92bFprSFc1OXFWOVREeF9j0gHGAUFVX3lxTE1lS2FCWWo4UW1EUDdCR09ReGhpSHZkXzdzSHJFeFhNOElOZDhON3NvYVJWRjF4RS0wakJBanpFdVBhNmpRbUl0RXdCZEVVd3hpaXcyd2tXZDRRUkQ1WHg1NGlienVTTWZyWWxhTEJ2SGJXUVFIMlgwRGhONko1ZFlaT2RRVWRYTnlSeWFwVlNnZ2RqRkxVNmFiaUVOclRzM0lIc2VxejdFdDFFXzk0OVE1Njhld25FZjd2ZlpNNHlPOHhNaUVFdw?oc=5",
+     "title": "Kerajaan arah penjawat awam henti guna navigasi Waze serta merta"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEpaeG5kUjVKYm1sVlByQW9GUXp5a2VzX0dUellaTFRMSy1OZWpiemxHZm1CYkJxX2daRm1sak1pQzVveVlzNVZuUTdfNS1XNWdoSmd3ZTZCT1lmNEZhR294aDY1dU11bXlwSU4tUW0yUE1QUjlrdm5vQ2hYWkZMVFhkQ0xxWHMtbzA2TGpEc2V5aUdCLWFkVw?oc=5",
+     "title": "Kerajaan arah henti guna aplikasi Waze serta-merta"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTVVMel9FeGJMZGNzWlBrUnpSdDBMTlZuc29LeXNkTE80WGR1T3ZRN294REYzX3ZzX1NDRDJocTNDWF85V0JGWXFFQW9LSktEZ3RHclM0SEVtTmFWeTVTa0dlZ2VNMjRnV0dSUHBMWHoyaTA5dGF5T2ZnYkVNeE9TdGM1SHlIaXAtdHh6QUhB?oc=5",
+     "title": "Penjawat awam dilarang guna aplikasi Waze kerana kaitan Israel"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Bursa Malaysia dibuka tinggi sejajar prestasi positif Wall Street",
+   "summary": "",
+   "scope": "my",
+   "category": "经济",
+   "importance": 3,
+   "owners": 3,
+   "work": true,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbUllTXlMcDdoZVBGLVFWcDY3QXA3MUdlTVFQaXYtOEt2TlRReVRxN0owQlBrY2F6RE52cWFIOWR1WTB0X1ZfQnZpYkNyZ3E4RGtmYnNNMzNia0Y2S0VOa2lPVVNjTmJqTVdGTXh0S2ZDNjRPSF9YaDlIdVRaVDEtVktiZjdpZGk5TXFuTDdkRk4wY29HU0doTW8yd1hoMVVoN0c2U1BjS2k3MGF0c1MxX0E1THJOeldoX2NmZ0hPOTjSAcYBQVVfeXFMTXUzZGt3TVBhSkRuM2JlbURhV2JNUm15SFhweGZ5MHBIempIdDlFUVctT0hkcGIyNFpFZWhnVGR6NW5ud1haYUNYcW53SmhPeW1VaWM2bW5rYkMzaTRZLXk5WEtZa0RmaUVvS2pER1pPcENTWkFWeDZleXZzVGhDajlWVzRwSEljZDY2M01sR29KUmNrVzRld3JwRTdwTDM4cmxxVFRDR2lBSUNvUkQ1d3F2Tjk3T0FsRXF3enhtSERDUlJ0LTFR?oc=5",
+     "title": "Bursa Malaysia dibuka tinggi sejajar prestasi positif Wall Street"
+    },
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEJMWER2dVYyaXZjME5RRFBSRGYxR0xyWFJHTEZhb3c1WGMzQWtVd0tDVm5tUFd2dzhUeGZuMGFrSGFhOGFRNFk4VnV4eUNmUWQ5OUdPWmJ4RDRoaWVBMHdjVHMyT1JDQ1hPWVVIa3VKaGFvMklSNE9BZk5EUVFwTkhqc3lMS0FvYi1sTjBHWDY2S25hQmVEX1JOTFkwWXY3b2UyblVmelV5SHM?oc=5",
+     "title": "Bursa Malaysia edges higher on bargain hunting"
+    },
+    {
+     "source": "大马交易所",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTlZscFVYMkJHQ2VrYm5LcUdPbnd2d0w2UzEtY01idHVzYjRyeHlqeWJ3VWNva1dSQmlUR2RTVVkzNjJLeVR5ZWk3akEzNnhidVMxSEtmQXdFWk9aRmo5dF95VFJ3ZTJMY21KS3VzdUphR2VpNjBiMHExdl9hZy01c3UwY1B6Z1czamdURVBaOF9xd28?oc=5",
+     "title": "FCPO - Bursa Malaysia"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Anwar pushes local navigation app TuJu over Waze amid Israel-linked security concerns",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT1lRS3djcm1hdms3MmlXZWtrWWdtVF9ONjg5NzRqaWgtN2JlWW10Rm9kdmZmTUJ4bGRSLVdNczVCQVQ0WXdVQXlGRE9aaGJhTTB3WFR3QXBsLXluUnE3ZFlvNEVJTlZIc0V0ckJ6RllXa040SjAzMEpYbk16Vm5KWF9tb2xZX3BsOGx6T2RtUTJsVy1oZ25qbkpPZzJONy1saTgzUUdJdFphM0loMnU4MVZvZWxRRWFwWVHSAb8BQVVfeXFMTnhJNEFfdUQzY2s0LUE1bHk1bGhBZ3MwSEFXQVRlajd5RmZRUUdSZGc0VzA2RzdMeHZzN0JKTkxjTHlPSFVHYW83VU43WUxKQnhISUJuWXpFT1BxYUthOU9OQlZJLWx6SEpGRGVjRXZfekg3NjVHMDdLeEJrRUZlbFp5cndRRnVMWGN1a050Z0FuZWZQZm5mTUZZWGFDV3B6Z3lfZXlEZDIzdHl5c0VrcnZ5VWdaNjIwWU9Sc2FKMWc?oc=5",
+     "title": "Anwar pushes local navigation app TuJu over Waze amid Israel-linked security concerns"
+    },
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLVFWV0d6WEV5a2tmazd0Vm8wb1h4UXdlX0hWaEF5QzRhNnhCY0l3VWFpaFRtWkpDYVBySWlVZXVfREN0QUdzNVc3ckcyLWx1SVd3eUo0bC1oeFNMa3lWYWRVVFRhQlhsRVpUampUQ2QtcVlIakhKZHBwWGxCV01SOFhLcDV4YzF5LXJBaVpGYmxuUWJHSjd6SE5ZRnp3WWNDMGRZRVhTLTlOZjBjYkE?oc=5",
+     "title": "Govt encourages use of Tuju navigation app in place of Waze"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ1NEXzFSb1JpTVhzS00yeHhSYUxHUjlWX2l5MlJPMG82T296cHNaenJCaVQzMEx1Y0c1cXUteVhiLVBVeEVpcUxya2J4RXk3NzZQMFZ2WW5vaTM2NXZNbVNiODh0M1lVcjItbEpYb1ZxT0RJbUNOY1gwNGNRWnVoVTgxejk1VDVFNGhqa21mWlpIa3lJWXhnRmVRTUNPNmRaM3Y5bHVYQXJqbUVmWlZIZVRNYWlOUzk5cEo1UVd4MmhkdUlmT1BfTVlR?oc=5",
+     "title": "Anwar advises against using Waze over Israel-linked security concerns"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Indonesia haze threatens beetles vital to palm oil production",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS3JnbU1mWDdDOVVaaUR2bnhacUZ1dl9VRUdwWUJwcUlWY2ZESmxwNEJQYXl6UzREMld4czVSZjl2aUE3cE1DUFYtNXFvYjNsTXJLX29qLTNwV2R3MzQ5b3RrUm0yX3ByMHJsY2YyX3lYTUN6ZklJWXJ1LWJ5Zlk5cEZ2czlKSXRsNjMxV1FGVDkwckdaMTc1RTltYkswbVR4X0NvdTNQRU9VTERGSHotYVJQb0dkXzNNdXFrS09tYVVtUQ?oc=5",
+     "title": "Indonesia haze threatens beetles vital to palm oil production"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxc1VSellzOVB6UGo3UmMzOWU4c0lURlZpTHQ1YXd3VE9HQ0VwUzdVay1HT3I0MUtHMEp5eTlKN0NoV3daaXlvSEhHLXlqRVg3?oc=5",
+     "title": "Malaysia set for tourism fallout from Indonesian haze"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNjhrSC13eGNqQ2M0UXJ4NzN4YmY5RV9Bcmo2YlE1dnluUTVUWmhoLWlzMTB5czZlY1lCeGhyNWk4Smh6LUsxQm00SkY0WlYzQkR5Z2lyV1dGV0Fsb2VfWHI3YXR3LWN6LXB5WVdtc2dxRnFWNGZWSWtSemtWN3FJaUliRm43c1FtdFlHVzU2bzYxbXM?oc=5",
+     "title": "Indonesian anger builds over wildfires, toxic haze"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Musk says he backs SpaceX-Tesla merger as rocket firm turns profit",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 6,
+   "owners": 6,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWF9FYWh6Z1BrZ1R1bTNTdzBBdVJQTHQ0YVdXQ3lVX1FhWXdVOWRzWUM0TXZ3Y3F1aDdEM1VMY3RHSmhqSU5CTFpWbjVwQS0zYkx3UXcxUDNMTk5DdEVXTHliY0RXQzd0b3VZNFpVRjlMd1dWSlU3SEdVUUtVM1Y4M3k1cUd1LWFOc0pTX3IxR3ZlSE1TWE85RHBJTF9kNXEzZm1TWDZ0UU0xc0x0ZVdjdGwwbWF2LS1TNy11SGVB0gHDAUFVX3lxTFBYeE9aQXNrcW5RU0h5YnN0UzJleTlvY3RzYk5yeHpGc2JFWXdGdDZNbkY4cUxvcmw3WUlmOTBhVTR3a2lHQmZrSlRyRWgxUDNmTGRxZnJqc0J3QTMtRENHRWNnQkJhQ2NlLWZtU2txSVVlRWY4bko5NFNpSVVkODFlZ2htRWZoVVNpSndOXzBHbW0tZnlDSDFiRjYyM1hTM1B3T2NaNmRvd1FHRkdYSmpIeERTdDFweUhrRDdoekEwd0Y1bw?oc=5",
+     "title": "Musk says he backs SpaceX-Tesla merger as rocket firm turns profit"
+    },
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPalJYVm1ZRGJDNG1SRF8tM0JhYmVqdm5JWmJaVk1FLUVGTlNXUVRNNU83WGM3SE5VNkN2ZlFPelAzVUVCWFdqc29sRHhnaG1IOGFzell2WDZyZUI2T1ltQW11eFRvWUtGSXdscFF6MUhseXJ3OTJVdzZoQ2txSFI4TUtNbkJHN0dwWVZuVUl3aXZOa2U2WlFWTXd1b1dwNmt3Um5HTWJMNWJkcC0yenUtZnZLZy1Jd0hFVUhTbEJ3?oc=5",
+     "title": "Musk says SpaceX-Tesla merger is 'a good idea' as companies form deal committees"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Pd2FWc296VTFWdi1qTEVGNDBmaE9KYW5nREZKZE5TbU0yTVFwVjNJMHNhbUJkcURnRXZrZjFHMUMwam5mbEU4d2lfdU5hQU5FTUVaRGhyUk1kdw?oc=5",
+     "title": "Spacex Revenue May Reach Us $1 Trln In 2028 - Musk"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16YkJNMmtrWGtwS1o3WVJYN2xHbDVZWXYzU0RrUk1mNV9BdTU3VTktal9xYjhHTW9qMXMtb3JhcG1wTmF1MElCUkFDM1lvM3BYRDgwVXA1MnlQUTA?oc=5",
+     "title": "Tesla and SpaceX: Why does Elon Musk want to merge the companies?"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRkVkNTdkcV9oczJLb25yYzRRajZGUG1TcnBXNF9nLTJIVEhJQnVERENGeC03LTBJNHVOT0diX1RxNnN0dzVJUUdQT2dUUnpCUzE0VVNaSFRzVVpLNk9ZNUxKWDZrdFFld205MlFLMkk4UGVyUG9WbVdzaFg0V2o4a0VTM0ZWcTYtZUt4eWlqTkJrWXc?oc=5",
+     "title": "Why would Musk merge SpaceX and Tesla?"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYlJVZExxcE9vRWtKZWQwc3pCMHQ3SUdoaC15bW1qam9DNFVRYzliR05EZk9rVm1yeEhOVnEwQm0zVndrVjhPTlZmVncweWtrZlFmUEtJdGxwbFlDMFZyaFU1MmIwYmtoQW1xRHJOMmZnbG1tYkdGWlRyVWViWGFMcVl1T0N6U09yb3I0ZHdUaVZhWHcyM0E?oc=5",
+     "title": "Elon Musk’s SpaceX reports a profit and he hints at a possible merger with Tesla"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Most Gulf bourses in red after Houthis claim attacks on Saudi energy, airport sites",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 6,
+   "owners": 6,
+   "work": false,
+   "links": [
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcXpWQlZUSjN2cnJReUppaUEyRldXVWpqOVNvVFpMZ0xMc09WanRpdEhEeE9iZmpMUnIyWmlGeVdNVTczOWIxYUd5VnZ2Mk80VGFheGlPVTdyM1NWS1pCdmhHekh1ZlhKbHdfNnRObnQyNVhycjFtdGQ5RmgydVhHRkthWDlBYWhkQnlsOUlsV0wzNzg2bGZqWGNVcURLMVBpNFZRaWZ6b2NBaGNCMGpuLWFndTRqd21mZzNUSVJ0Q3gzUFlnWGdLN0xQUUdOcHM?oc=5",
+     "title": "Most Gulf bourses in red after Houthis claim attacks on Saudi energy, airport sites"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdFpJQjVaX2pPYVMybXM3OEQ4ZzRzNEdpc2FVMldTRTVWaVFNQXZQVkZrRmdLNVpKc1RVeS1sbGIzSDJlNE12QkRMR2UxcC1PZWIwcnJXY0Z4T0hEQkxmWnBrNHpkSFZxaWgzZU5pRGM1cGJVUWRISHFraGJaUFFzRnlHYko4UlJpMmFvMVZLc1lFdw?oc=5",
+     "title": "UK expands military support for Saudi Arabia against Houthis with ‘defensive’ air patrols"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUW44eVNLWEJDZ0RWZlFHRU12X1hjMG5mc19fblh1Y2thMW1BYVNVSTdvQW1GUkVLVGRJQ3g2M0FJcVUwTUdyejZiTHlEZlU4emlUVTdhUDN3bFdWV2MxcEpXSXZxdVdMRmlJbHB6Y00wNHVLelp5ZVZkZGF1N3gwdTUxbkVmLVpVdUR1VThBQ2V6SlVrVEpBMWIxQXY3emZVQzVnSHNQMVdLUk5rTGNja0gxNmPSAboBQVVfeXFMTnpQbk02YTFsR3U2MGRtcmgwUmQ4cHFHZE1DTktSQXE1UV8tNWhPWExwaHYtWkprLTNrTXU4YmtEaFJMekM4emFsVUUyUjhRT0Q0QzRuaC1NWHVpNmpfNGRpQzJRQkRmTzRhUExjaDJNSlRVcG9Rb2dmTnRSdVAweVJQOW9nMVlNRk50Q1YtWkU2aFVRXzZJUGJqZmdMWVNnSXJNU0p3Q3VETjNCS0RQOWtlOVE1T1huU3h3?oc=5",
+     "title": "UK to deploy Typhoon jets to help defend Saudi Arabia from Houthi attacks"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQnlWZlZpRktjcjBjelZ0X2FRUHZVOXQxYUJSTVZMelcwUlk5ejBkSU9qTVhBSU9VN1ZnZVJlRzA0RjFVYnFlZkN2Y0VHcUtpaHVvSDE5MjB2eXBDYm9yeHM0bWMyY2p1MThRcVJsQWEzOElNcTdvdTZuM3NqTUhCQ3BhX3ltZUh5VlBBQTNsalVyMU43ckJpSEhRUjFJQQ?oc=5",
+     "title": "UK to deploy fighter jets to help protect Saudi from Houthi attacks"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTHA3OEE4OVdhelZFWmQ5SWxwX1ZHZmlZZEsxU1NtQW5XMnNjd0NlemtLcmxPZnhTc3FtajRSeVFLS3REQ25aYjdQVEZyRF9ETFhlYkluc0xMYnloOHdqMzRlT0p0NWZrVXJHUl9xbGFRSVpVdHBuamdJOHNYWDNGenRXa1BLS1NoMTZSRUsyYWh0elJVUkN1MnJiT2p6UWkx?oc=5",
+     "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNnlHOE11c0xZd181elhlT3lQNU5oRW9haGxkRFFtU09JQmNMQWVCeWRrRUJrV0FHU1RiMEVPYVpHdDBzM29zcGk1T2ZmYkNVQU8wOW0ySFRFN0lrMzBMWlM5SDJnd1ZlV0RJaWdoZEdNbW5qdmlFSEdvYW5jUnN5dVJES1dWSWRVRVExcDhLcDNKMFdRcVZaUDBKUVZhX0dFQUFYMHZwYUEtaWo3c3ozWms1Y1FHVW1RUXdN?oc=5",
+     "title": "UK fighter jets to protect Saudi Arabia from Houthi attacks - DW.com"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Google Cloud outage mostly resolved after knocking out services",
+   "summary": "",
+   "scope": "world",
+   "category": "司法",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOFBPNDJvNzJJeW5lWGd2ZFIxZElOQURjWkw5anZEOVc2T1dzOUU0U19fcnVrWlJkb3dDRUtsZWwyckdYcFFBZTZhVXM4aFAwa0h2WUl5QTJ4a09fU29PYkk3ZkZBLUJrNTBWV1doREh5eTBjQzJpVmllNnhiUjJReFpaQUZzX3VpbjBwYTJRS3RtS3Bkcmx3YlZaTDMwbXJNa1BsWHdoYmo2UGdLcE5wYnd0RTR5S00?oc=5",
+     "title": "Google Cloud outage mostly resolved after knocking out services"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS0VTdUFWc1FhZzJaWWZDMkN3dkl0RzdnMU84OHNOS1g0eDdGZ0RNWDVJcVd1MXZzMHU2Unp0QXBXN0tvc3ZZcW1iRlg1Y1h4TFl3Yi1oM2pWRW5KLUNTT0M1NU1YMGdrUjY2MkZTNW82U2FOX0VYRkRVaTlmckJ0ZElGcjJYNzlhSnVCQzA3X0tiVTZ2Z092U2haTQ?oc=5",
+     "title": "Google Cloud outage in UK eases after impacting digital banks, public sector websites"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa19yZHNPSUxKdDBqd2FfTDNXbThvRC1nRWdsLWVzd2htZDhQTE1YT3BPRnFXOEZNdFZKbnJhUlUyZnFldnBIRnhkalRrVmNmazB6U2lEdjNzSGMyMURLYTFYNldpYlBTQk45VWF3UVhlVUpTbHluUHZWVDZxZzczcVRGUjNVX2ludFBOODYySGJHVF9X?oc=5",
+     "title": "Google Cloud outage hits UK banks"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTFlKekU1Q1lvSWthRzgyR0ZrbGRxbnVLcVAtYUlsaXFNdU5NTG1sUkxud2E0RWJSLXhZX3RwcmpHR3BDY21uUGVJbklBalgwX1RaV1ZKak11NFE5bEllUGZVQjdTaUpqeHh3ejhpR3BwQ1FKeGNrNi1HWjU5ODBSckFzT3puZUJ5VjdNdFRPS3daX1JI?oc=5",
+     "title": "Google cloud failure hits millions as UK courts and banks knocked offline"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYQVcxZXJtSWdPV1k3UEZaRWdUczRPa3o5YUF6M19DdVJ1NWwwYzRiUE8xeWF2N1ZNSDQzTEViSTFOLW9aanNHYUNJeGlqVHVxNWNidGJkdmwtems?oc=5",
+     "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZjBGZWQwSjlYd2Zrc1lncjhvcG5uOGpZOTI2aVhhVHY4YzhDTlNRRWJWTnIzdnk4V1FfVUpTbzNkX3gtOGdwU3VNTTZCdFN3Z055akhaMjNKSDVqY3hXNzM4bmpaU0lQQ0dwTlhIQ0prUUVyRkNtbzhyN3BDOWlIWk02YUItdkI4Nnc3cTJZancxRTk3b2ZSWjd6TlMyN21IUWtXWFUtRjBmaUItQjRGZA?oc=5",
+     "title": "Zelenskyy says early warning system for Russian missile attacks resumes following call with Rubio"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYW0zRnllRi1FTDVUdFpzMmQ3dEhJU3dfM3Y0ZG5NaEZvNmVMUW9CczhCR015OXRhVTZ0M3hMMTZFWG1BLVBKaUtOOWVpQVVJa3dQbk0yZVZfeGNmaURuOVA2UUkzVzNfZFZBS0VKVDZUUHhIeFhvZHplVXVhRVBRSWVJQ1lKNzd0cDlRWkZGNGFkczJtd1FEN0I2aURKaG1WVkpVOU90a05VdjQ?oc=5",
+     "title": "Zelenskyy hails resumption of US advance warning of strikes on Ukraine"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeGZnT0Y0S1JPbzEwRTc2X1pDbzdCb1ZlbVpLa2IwWThaTW5vdmFlQm1vdmVTVlZoUGRtQ1E2RUp2Y1ZKekpvZGNWM3lFbEpXYTRhUnlndnhmMVJfb0xxQ0N2UnpIdjdHb3h4NER2RFN3azUzNUlYRnkwclY5dWtEWWFqM2ZwRkR1MEhlVU5ENE1CQdIBkgFBVV95cUxOX3V3cmRHVzB2STZlaDVjZm4tejJHV0NSMkNxY1FlaGk4WC1IakNzcVp5UUF4aTFOb2Q4RG1hY1gxTlZrWjFIWGZVZm5sTDEyZ2dCUUFmNmNvaHE5VVZlQXBKRzJfMWV0OVBUdlo2b2hxenE1cWtRdkNZZzlyWE9MM3dDMjB6ZkVnRXhJYWJwVXhaQQ?oc=5",
+     "title": "Zelenskyy visits Norway amid Trump White House tensions"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Regulator Has 'power' To Force Man City Sale If Charges Upheld",
+   "summary": "",
+   "scope": "world",
+   "category": "司法",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83VS16ZlpGNVZZdE5HYkgwdTRVSlpRaG1MU2ZiUWdyVTRhQlRxeXNwLXdzSWMtS3FZdGdyUVFNVmM5TkRLbXpnYU15UllHN0tnenJuSHRsVTJSVFNObDRkdXJn?oc=5",
+     "title": "Regulator Has 'power' To Force Man City Sale If Charges Upheld"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QYmlMLUxMUVdEeG5IZDN4SkJzR1RNbVdSLThsbUN3YS1GOEhPNWktMW5UNUE2NmVuQVpnalk1Vk1GV2NENXBPRzd3ejh1VXdoSl9fczJJb3ZjZ28?oc=5",
+     "title": "Audit regulator looking into Manchester City accounting"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd2lfa1R1VjZmbzAzWXBGcFd6R1V5UHdoZjhfUC1ERFdCMjAtRjFqSlRvc2FVbzBVWXh4blJrbWljNkRqSWl2T2pKV3JrZUNBN05lMVJhTDN6XzdfSkhIdnJMN3p4Q002SVliblpIVUdiOHNVb0M4OEpNazdTR3FjY3FteVNxQU9ROU9uSTlOQzF1eW5Ub2JGMWw1bmpzdFVGN3lmZ01teVpGZU5oa0NhYzRLcW1mcFB5bHJzVGQ3UkVlRXFGN3JibUZ2RjY?oc=5",
+     "title": "David Squires on … Manchester City sailing into unknown Premier League waters"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "France: Damage From Protest Violence Up To Hundreds Of Millions Euros",
+   "summary": "",
+   "scope": "world",
+   "category": "社会",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RTC12YkJ3NVBEcnQ4QnhIS0lGQTBpblFSaFZ3Uk00ZEtxVkh0ZTJUVERYTU5salpfSHk4MWw3T3ZzX21VMllZNVphTGc3eVFFSGlnTVo5Sk1fdw?oc=5",
+     "title": "France: Damage From Protest Violence Up To Hundreds Of Millions Euros"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMlplc0tOejE1Q0dfRVlSRG9HWmg5TVdmVGp2cThMeXBfNE5JdU5Oc29KOEtlVk82Z21qRS1maUZaQTI1bmR0TS1kMzBMMUpia1NwUEJXenU3MmY0SlUzS3M4ZUcyQU9UV1VTM2xDOWNCakhqamlnaUxMMl84UlMtTjBadjhWTDdIdjRkVUVrUk5KWFJXcTAxcmhycUhTS3BtUlo4MGNfWVpKRktQOHctWGhvYldZZGtjbmVuQWk1UVYxZw?oc=5",
+     "title": "Violent protests in France as police battle demonstrators, in photos"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWWlvWHZuXzlucV8xR2poT1pXcmtYM01SUGh4RTd4UjFDMXpQSUhvUVp5T0lEbFpkN0FDRjl3cmVqVmdHOUl5SjNfM0ZuYXl6aHpvcjJ4N2FqTmoyY0l0aHBKVDdIQ2dOSmdpeFJ0VV81WENfMUkxUVVsME8weDJJUlZSLWt4Q1VRUzFjLU5QVGhxMmRGZDNJ?oc=5",
+     "title": "Why are French police so violent? Their job is to protect the state, not the people"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Pentadbiran Trump batalkan lebih 300,000 visa AS",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTE15S2VJLUV6NU9kVlVkUXRZUGxMQ1o0MG5NdTBYLU9NWkZtWW8wVDZndW4yUWdweVFXMlVmb0Z1djQ2cVJLZVFaaF9fNTBWREkyMnZYZ3VKREFMSWgtYnR0SXRqaS1CNnY3d3lTaFFSUDlTdHg1bWEwcjZzUnQ2UHk5a3RiVWtkMEw4Qg?oc=5",
+     "title": "Pentadbiran Trump batalkan lebih 300,000 visa AS"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVC0zNk5XaGVtcW5ncTQ1ckpKTHJVOFZQQks4Qll4QU8xSlE0ZmIzT3k3Z3pLZ2lmR1FRVk1VUVI0MlM0VjVnTkxjVndYYTd1Z1ptUGdUN05JNEpaMHpXRFRuN2dfT1lHVHZpMHVLYUlxQkJLODN5UUlvNzFKazh3ZXJpSFgyaHFGSXdxN2pTRVpLc2c5Qk5qaUZrcGZRYXFVZjA0ejM2aGhySEwyd3p0Yw?oc=5",
+     "title": "Trump administration says it has revoked over 300,000 visas"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWk1jUWdkZ0Y0OTF5YThSNWZaTVFOVkM3X29GSC00MUc5bWV4dEpCcjBHVHduQkpBSVA0Mm5Bemw4VU5PcWR1S29TXy0zcnpZZzZrSWVrLU1TZHhGZTNsLTRHVVA4NXU2bk9ORHFFT1ZoaUg1ckRscmRqLUtKQmNWWllzQmJ0UmQtN3dTWl91a0wxRVJzNmhRM0RGRk82UQ?oc=5",
+     "title": "Trump administration says it has revoked over 300,000 visas"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "AS arah henti guna DeepSeek",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZYkdUOFh6NnF1TFRUV25ZOGlPYU9mWWxOTkV0d2hIc2tiWExjaWROT2s5V3ZtQlc0NmtYOE8tSG5OR3QzRER4OFYwX0VqY193b3Q2WHRtTGM1ZTg3dWdlUUdySlN5UkxqRGtWSmhDZmN2YXlSMU1ENk9BZGNOQzA?oc=5",
+     "title": "AS arah henti guna DeepSeek"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQW5jaGxGcHBVMHRMcDVDUy15cEdmc2ZYZzQ0aGZ1a2M2WVpjM0VWZjY1YkJBc3ZfUHgtZGMxM1VXRFlEdW9TZ3EyVEdUU2tzaXBhZFd6cW8ybDI1Z2NTbG9FUzh2aTRjeFNsamtNN0xlUTYzVWxXQWdMbmJZU2E5VXc4RzFabFBid0lvVw?oc=5",
+     "title": "China defends DeepSeek after US ban of its AI from government systems"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUd0TUlEeE53Sk9rTkFPUTlIdndjZXdYc3ZiOXVyTVZLWE5kcE9aNkZ4VUdnLVFWLWNZV19GT1Fqa2pxMlV1NENKb295ZFY1VzkxR0p6QThMZUVuMS03TkVQT0ZpNDlBRjl2OUs3ZUZXcEQ0cl8yNXNfb2JKS1FCXzI3VmtlRWxLUEdvU0VocmN3MVA4aHAzNg?oc=5",
+     "title": "China defends DeepSeek after US ban of its AI from government systems"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "NBA: LeBron James' Philadelphia 76ers beat New York Knicks in the season opener",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vX3Z5a1JVb1hLM2dxeXlYUjM1VzMxeVJYV2xGaXlaTUlBZUZ2WlBNOF92NldPYlhtNUhUSWpBbUFUUVZZemJKcHZSUDNoeHZLVVJmZy1ONHdGN0hLYXZIQ1dFVlVrRTBCVTB3?oc=5",
+     "title": "NBA: LeBron James' Philadelphia 76ers beat New York Knicks in the season opener"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNW5nZzFQcERSa3ZfeTNmdWY4WWVib0lQanBob3Q3NzM3VWJzZ294MHU3clNvZ3E1YXFVZ1Zmem8yaFhtV295MDZ3bklQVFdiRkhWNG84b1ZXaE84cXJodkxMN01leGlSZ050bTZMRUt4R2RmaGVWZlVlSkJUS1NOVmkzS0ZNM2RkdTVsTGFkQnQ0cGNmQ1Rrc0hMV3c?oc=5",
+     "title": "NBA champion Knicks celebrate 2 titles on a banner night in Madison Square Garden"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOVdiUlVYWHdQQm9XYVBaRFBmTVp2MjFIcTd0RVJnZnR6M3REazl3aHk0dTdqTFBFUGhROGhCOHVXU3JtaXh4YUV1ZkxPVjNoVWx2Y09nbXB5dlJOcDhIc2tzYjdoMlg0bDZhWU5lVXA1NzQtdW1aZzRTelBha3JhVk9NSWgzcmRwOGhFd2JUWWlhWTRFN0pWMDc3WXotamFFcE5fZnU5VkpMdldKM3drYTg2TkNHeVU?oc=5",
+     "title": "NBA 2026-27 season predictions: A Knicks repeat and LeBron’s villain arc"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+   "summary": "",
+   "scope": "world",
+   "category": "司法",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwMThUUjFuUFdaUTVLb2xmWDMtczVLZWo1cm91ZzZoUTI3OGIwc3VsdmpuaHFBS0hzeW5JN3lrWVNYR2cwSTQ3Yjl3b2VnOTdpbVEwbEdncEVPSGM?oc=5",
+     "title": "Man charged with attack on Australian MP as suspect's father says she is family friend"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTWVncWtBdXk4LW9uVkJjeEJnSHhVOGtXYmdneDdiTUJnT08zUjBuTkpVbWdfMU1xdXNrNzJOMmhKT1pUN1JiTUZtektHSzRpWjJqY0tZYjRXZHBoMHJ6VlpoeEhaS1dRSUJmTXNlNHRhVnM0NEFveng5UmFfb0hDRWtmZHIxSkFtc2tRTjdzaGotMUItYmtYZEtSV3FCNFhRTkl0clEtZm5XSENZ?oc=5",
+     "title": "Man in court over alleged 'targeted' attack on Australian lawmaker"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS1hLNWlmdDRfTDJUWUE2WmFVSTZDdmVZUTZmNDRvUkU4THJ6T29oOC1adll3UllKX2I5Y1FXV0s1LXRCS1ptTmxrenhTWEJGdF92b0dUYVkxMnl3TUhYYkYwZDRseTFDUDl0VUJQdndIbXhUR216VVdnd1NzWWdnMFV1UkJmOEMzUXVEV0F4ZTU3T2RGUjdxdWk2YUhFNTQ0NFlsU29MeUlwTnNJT0RsOUxsWVZJT2R0LVIw?oc=5",
+     "title": "Helen Haines has lost both legs after alleged attack but ‘her heart and mind are in good shape’, husband says"
+    }
+   ],
+   "new": true
+  }
+ ]
+}

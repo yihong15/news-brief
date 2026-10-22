@@ -1,0 +1,576 @@
+{
+ "name": "2026-10-22-evening",
+ "kind": "daily",
+ "slot": "evening",
+ "time": "2026-10-22T17:59:53.619276+08:00",
+ "items": [
+  {
+   "title": "Malaysia News: National, Regional and World News",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcUhrelJRN0VIN1ZteGhydkFUck1CaV9oZ3BSWDlSS1VvM09SVnBjc1lmaUxfNE5KMU9fSTgzVzFLVmctNUpBd0NvTVFsSzAzODhZd3k0VkJEUkdoMmxRVUdmQlI3SGVYZF96T2lhQ1FQLWp0NVJiY0FfMnhncjQ3ejJtNFV5c2EyQ2RaS3dXM2drQkhWYTl6UFdBOWlNNUdPeTJja3k3bw?oc=5",
+     "title": "Malaysia News: National, Regional and World News"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR0dybTlaOVR5bUMzR2Zuc1RyZElQdnRkVWdvdWNUUVlpejZ5dGlVOTZFZ2lpd1lyM05WNUpaek01THR1dmhjZmJuTUlHN2l5TWxnUHlqbkhIVVlkN0loNHE3UHVJdzFtODVkT0NVdGFnWXVpRmt2Z2o5OWFzd0JRem5JTU0?oc=5",
+     "title": "Malaysian National News Agency"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWUg2dzJSQUo0REFEMnVnLXpKazFocUNKTklTcDhhNDJtc2hqaEQ1UTlubDlLQjhtSHRESldnMElReGJqY096bDFYaGRGUnRVeTBGVDN5U3RuZXJhYU9DUnlKeWQ3Yl8tZnBmd3JFUFJyNFB1Ymt5MVllT0gxeGQtc0tsYUNtMGtPX254U0NHS2lodld6NThKbnJYOU5TcElCb0xkUGVmaw?oc=5",
+     "title": "- AP News"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSlFXT2Nub01SNFhIbFFKUFVkX2J3dEExdlAxOHRoQlhydzd1ZWZyMkd2NjRKZG9FeU5ndUFGM01tbmNwUTdUZXFDRVUzTzlTLXpMUzN3SV9acGdaV3JpaG4tMnlXbEx6b3lwN3lKdkxsT2ZOWktrT2Zacjl3Uk1TeVJqQXE1WGxaNTFZUmFNUEFDd3N2S1JfdGpiTVJVUTA?oc=5",
+     "title": "DW News Brief"
+    },
+    {
+     "source": "大马交易所",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM1lENDdZaFlHaXFob1VhVnk0WlVlZHdoSjdwZW1MQWpoTkRWLWl4eGtMNElVTndwblVoal84VXNDTDRpUXY3OHFGeUpnZnZqejZyLW5MbEI5UTBsLUlGVHBJUERNMDlCOVVJWWFSZHI5UWdXOUNHMUZOTmZrSWJqbTRMdUdmYWxMVWFaalRWcHhOS1VmUy1VRWUxa3c0eDVWMWRSZjFfeldpZ1luZnhwRHJIZThQc05kaWQ2ckNkcWdVNExFZGxHZHMzazhtQQ?oc=5",
+     "title": "News"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Waze ban only applies to civil servants while on official duties, says FAQ",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTl2dTJfR19XYXZ4VUptTnF0UmdTRmxaaC1TUWQwRDQ4ZU5XV2R2YnBGaHRiWHNUVEtPMGpuX3JCelF0Q1hxaUQxWnh3em9qYk5mUXFwWkl6RDFudzFaSzctRE5SbmlKM1V0TlNBR3gycFI4TXlDbE9uSHBBaDdPbkJ1djgzUE14UkRpckJKZGVZc2RGbEZzREFQeHdsbm90dFZJQkwycGN4ZXhUd2VVOGxtbDhVUUFaWTFTNHlFb2g?oc=5",
+     "title": "Waze ban only applies to civil servants while on official duties, says FAQ"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUHdVTEV5MVRGVm5Ic1lzM0F4bmRSSVFmZU56TG1ySXMyQXJyZVk5Z0tpaVNFbTFMOUg2MndaRHJ4VDl5M3JCOFVDWmZGM0x2c0R6S19HSjhZTUFnZkV2S21ORUtMUG5NRXl2QTlIbG1haG5wWnIya1dINFdQWnpFUVNuUzZ0ajc2Q1JsWHdKakhILUtEV2kyUnZSSUIxX2VQSk1FX0VnamdaMUNX?oc=5",
+     "title": "NSC: Civil servants who defy Waze ban could face disciplinary action"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbW4xYnJrTlhDS3RiWS0wcUNEOW1GVGpUamRNU3JPcE5LeTQ5ZFhsNG5BZlRMODB2Vk1fWk0xbEdyOE10NkZtdzI4anA2eWh5WmkzVkNHTldKeHhnNXZXUWRrY0U3c1Q5ay14LVRzY0pOVUV6dU1UNnpqTUJ2WG1rU29FNGZDSTVJRUs4NS1Yb0JVQmZxY0ttcDhCclI0aVpVbHpsbFg2WWNyQjg4NmFsbTFxWlNuZlNEYkVKZzhyZ3BNSWh1WkE?oc=5",
+     "title": "Civil servants who defy Waze ban face disciplinary action, says MKN"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpUTBrWC1xZ1RtaU1JNG9MZzc4YW42R0dGNDVxdmNGN3NwQ3VMUUZ6bnRmVjJOcTRTVEFfbUt5QXllYi1MM3B2Y0o1TjA5Y3pq?oc=5",
+     "title": "Waze ban applies only to public servants on official duties, says Gobind"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM0FFeEdrWDR1eXZWUnB4OUY4dlVsZHhaRW1MUmhBM0pfNlF5OC1hX0ZzV05NT1BoSWl4REtQVFZ2OF9pNm1GdUtxc3BrUmtzcUpDbVJBeEtBZkk3R3NJM0czNGxxWE03TUZPYU9UQy1USTU2NEZCaFJRRU9zaEVWMEN1a0t0RFRPNzRpTQ?oc=5",
+     "title": "Malaysia bans civil servants from using navigation app Waze, citing data risks over Israeli links"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "LLM perkukuh aplikasi TuJu selepas terganggu akibat peningkatan mendadak pengguna",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeFFqQzR2US1WN3N2bWxhSUdFSkRSSnpvRUktSE93NkhkSWlyRTk0VjVoX1diMWJKc0JKbTFxODZPQVVZZmhHNG5MMnlDck5zUGltUlIyZGtsQzNhdjNoVGRFWWwwSjZFS3Vfblc3OXFnTFMwUmJxOGdVcXdQVDFYbGxIa0hQbW83SkYyWFd6Ym9EZDFoUzh3d0drMURIX0pMOGkyTVZxMHJiTlhjcGFKODRCZVFtaklCalhDako5WdIBxAFBVV95cUxPRllVaEQxMTgwMWlGWTBITU9xVHFfZ1VHM0JuR0VVS2hHS0ZOV0piZTlNWmwzTUgtX0FobFptai1oRzh3N0NtOHpoNEZwUkZKQ1hkVktVWXpONFdhYkxvRGRIYmpFNElTZUw2WWtfdEVhODRnUjdUX3ptd25zeFNUTjFfNGJXRWI0Nl9MTWlCUWZ3Q3BMUzJCSDM2dVFMVXdYeUtESmNRclFmbm5ka3BJZDE2ejVYeEVYR0p0SVo2c0VrQ1NN?oc=5",
+     "title": "LLM perkukuh aplikasi TuJu selepas terganggu akibat peningkatan mendadak pengguna"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV3FDM0NfdjBfbUctVDVQa1pzMEtXaWN5ZzdjY0FPZlY5anFMbEZvQV9MZWkwZjNSdWZ4bXA1dk9ZWVFCMEJVOTlqRWhvZEdXN0RCV0VURnJoMDhyWEdFSldyOEhTaHFpM0NBWndqcjR2YkZZdEVtXzJGRVdIM2RGSkNtWno0THR2blBtNGlGRFY0Vk9yNHJLcGRwQ2xtaUl3VWZWZQ?oc=5",
+     "title": "Kerajaan perkukuh keupayaan TuJu, tingkat kemudahan pengguna"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOTB4bGVCSHFoR1NnTXRMVmdHcVlQR0M1Smc5eWpMVWo4UjFzWjh0MkhkaEkybEdhRnlIUVowX1ljM2ItTDlsZ2RFdmw5YnJQWkFRczRURzJNYUtlYzFlcWlOcHozdDBGSk5JU0k3QmtiUWU0WXNESllqT3Npa1AyV045cHBYckt0T1czckdFbHZERVJH?oc=5",
+     "title": "Lebih 700,000 pengguna muat turun aplikasi TuJu"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Russia hantar 40,000 tan diesel pertama ke AS dalam tempoh tiga hari",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaUxYTUtaUkR6RF9UVlNsek5TYmxEbXp5OThXMXZyUmtWUUhWeENldGZjWHVYbWs5eFFRdFRfTVMwX0d6ZWpUTVZ6N1Q3alh1aFQtZGZwZVFUTmw1WFJlT28tSUt2aUJLNzV4QnpyU05iazJNZFhTc0k3bUl5RnJoc2luVjBDSjlCcjdEZHhEanU1SGhRQndSeXctSWZ5UWIwTEZVRl9RbnAyNVlmR0hxNHRhX2hrTVdvdEROVdIBwgFBVV95cUxPdzdEQ3VZWk04TDFFWEVHaFM5NHFCUklBRTRtOVdxb0hHSUdianV2ZXFZRTNrQzF0eGpBUjE3SlA3WHZmblN1dVk4LWx4VWY0YWJGRDdHRHkxdGpNVTE5ME51OWZDZks5OFZHUC1WTkVDank5MjZkR01KdjB6ZHBTLTQ1T3NjQjUzOC1PLUE4OFlZb3E5UlNHVHl1RG1BbkFjVmRHb2E4a2RGeTd6WFRuWmtITFduZGxzNjZwYnF6SlBEQQ?oc=5",
+     "title": "Russia hantar 40,000 tan diesel pertama ke AS dalam tempoh tiga hari"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoN1Y3Ul9rZVV6cWw2T3lHWXhsQkZhSDhScjZEV082eTY2MFozeWYzY0htcFN4SThEbFdzcl9qNTJ4M1J1d1JUSFFrVmQyZ3lOdGNjeXBITEg3Mm1iZW9fc3l3?oc=5",
+     "title": "Russia To Ship First 40,000 Tonnes Of Diesel To The US In Days"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVEpJRm5fUk9YZnFiMGpXN00waHVkY21NczdCQkRiXzktVmdzNVJ4OXNNaXh3c2hlV1JXZUttZ1Fla2szNVJ1T1VpRll2YTRZSGhtMWFlZTNyZ2laSlRBNmtuRWk0endrQ3pVTk81Q2pidmhObkNxa1JGMkkxbFpiZy1fU3Q?oc=5",
+     "title": "Russia says it will send first diesel cargo to US on Thursday"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "PRN Melaka: BN, PH umum calon serentak Sabtu ini, PN minggu depan",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdzd2ZWg5enFkaUNhc3JmSmxGYzF0R3FGd3lXcko3WjJ3Ujg2QUE4Qy15YnlhbnVRRzFsS25LOEEtRlRGME1aR0JJS2tCbHZ4alZ1VklNNXFNNFJuOHJaR3l3SjVPSGVJLVlQNU82VHlIa0QzTkcxSDZoR0ZCdkltUU12alBQVlV1NklESXZDMWZ5b244R2xhb2ZMM1FtSUo5SlM5VDIxRUt1ZDV1WVVHeTVqb3JpQzZGemNOZ1Jn0gHDAUFVX3lxTE01SGRzdEZmdGRhRVU4WnlENlh6NTlBbnpwdE5WZVp5UFBsZ2FlYy1RS0J1MzgzTlpUdHppWjE5NzJWT011RlhFb0MyM0pkcms2RW5qMGlYbGhmTUZSWUdBU1BoOU1zQ1YxM1pnQ0hPTENQN093aFozN0NWUEdtZFIwbVR1dmk2c1N1dkZLODBnTGIyMGNKcEdtc25WS2hqeUpKNU1MamVTVGNidkJWblpEQ1llZHpoVTFMQzhOeXNFLUdnRQ?oc=5",
+     "title": "PRN Melaka: BN, PH umum calon serentak Sabtu ini, PN minggu depan"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORFczWHVRSXFQaUdNRDhmenFOWkhidXdQWjMxb1pVekJoVG5FYTFfdTZqSEVWMFdIcEVMZnJCREl5cWFrcWVkTkdWRmxCREFkUmEyVjQ5V3YxRlhwRHVFUkwwRHM4UUpUNjVPZDhzRDlJWnZFQzFGSHRsY0ZSemZoTlFZeTZNT0x3OHZPRVJIZlI5OVlBWU9WdXFPZjhvOXZCTTNSMURn?oc=5",
+     "title": "PRN Melaka: BN muktamad rundingan dengan Pas, tanding 21 kerusi"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xTlp6UjkwZ2RxMllBYjBXb1hZODBlQ0NVRGtwYVZNMkJrMmMzampnMFVOaXo5ZzBqbkRiNXh1Nkg1bkZQdWlnMm1Ca3Y?oc=5",
+     "title": "BN sah bekerjasama dengan Pas di PRN Melaka –Zahid Hamidi"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Axe attack on teacher in Kuching: Student released on police bail",
+   "summary": "",
+   "scope": "my",
+   "category": "社会",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONzJBOUJTbm02SVJsZDRWb0tYT2UzY0hrRHI5VjdieEdJYVBlM1pDNEM1Yy05b2RUVC1GWVo0cEZhTkFpOTI3RHUzZlZZajlGbDZlNl9HU3JGUFk5YmVxSlpnRk8wTlliNG41M01FMWFFOW1fUWxGclVnREdRY0lxNm1xNUltaXJxZHRSdDBIanFXcWRzR3B0WHdoX05sMC1QeE5vREtELTdSYjNj0gGyAUFVX3lxTFBLN1h3Y0dhWXdCako2bTdKc0ZrTzZFdnROTUlIdWUyUVVmVnN2RWRJTEZTam94cmYxU2NFTVM5eUFnT2JPVVByS3RIYVYtaENrUkMxSEVwUWcxU2VwQzFFX3lZbktvNzhCV2ZxWUlwUWtpUWNiRi1CR2xCZV9yUmpocTZ3d1ZERE9GZ3VJRVNsWG01dU1ZRGVzWUVTWmFuVHk0cjg1cmh5VE1sMjNXUUtmNFE?oc=5",
+     "title": "Axe attack on teacher in Kuching: Student released on police bail"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQejhQa2xSUTRyNXd0cERFRFJiT0hyZS1SbkVOa0ZrZVEzcEExUUp1WjBYYlU3SjlxdEpSTFgxUVFBTDFTdDMyYWVuUTY3ckhYWEJGTU9Fa2ttRFZIdVZ0bkl3cmRSOHU5NkFOSzR4bE1OX01KOVdfME1wSU12T0VxSVUwNFlZNXh3dVIzV0pITlJwVTBoM3VXWXhNWGtYZmxxUFpnLUhJeHVTUklVSmZSVDZTLXpxTkFZQldiU0pZNmE?oc=5",
+     "title": "Teen livestreamed attack on teacher at Kuching school, say cops"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oVU1CVWlrN0d4RGpaaldlT250YVBTTnJhUk1jcE5DYVFIMXJDX1NuNXdLaEZvdHc4SzFWdzJDRzJ2QnBLS25hUG93SDJlUzdnTlJ2TnZSZFpfcU9oN09sVnp1VQ?oc=5",
+     "title": "Police Arrest Student Over Alleged Attack On Teacher At International School In Kuching"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Four Malaysian men's pairs smash into French Open second round",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeWxmS2U3UXZmcVczeXYyM25GNU8zb19KWGtNTllud2JONnZQLVF6MV9nMy1tcFBMd3laWnZzSnMxWmdkRDY4c2g3RDE0bUxIR1R2czh3MEVYT2toRVM1Qk1sc1luR3dteUpKekdNdHBJZENIRDFEaEoxSnpoNDY2cUthVVc1VEhmVF9YRkNzbkpTdE8yczB5R3JZc1ExN2M4QUJjNFhTNjc2UWxTYlhJcExB0gG3AUFVX3lxTE9RZjVETkkyNElpTHZPWmotU2c4eW5JYTV5QVA4TzNBRldKM21sREFEcE9NTHpGc1ZiMktuMmVyQUwwazI3MGdiNFhFaWF2UjVKYlprSnpGNXQ5MDNQVDlPYVJ6WWkydTBqcDZFM3dOa2Z1MHF1YWdnTW5nSkk5ci1vXzhsZkhWX19YZU9nOWIweFJrT3JWdjB6TVNrOElaQkkwdGhaZTZMQnBVcTlLTWd2cE56ZldUYw?oc=5",
+     "title": "Four Malaysian men's pairs smash into French Open second round"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU2lJM1pGSTAzWXVNNVZ4Z3U1Y0RteDY0UXRlcFFHQWJnbnFhY0xVUHprV0E5QW9RYlNVOTZtZTlDRkJoa1kySWo4WHA0dGZ0YkNfbGtSY0Y5YW85THh3akZDY2NnNDZSNHJjTGxWVnZ2UXc1S25kYnBaWUt2d0h6QnkxRWZsVmlZaHljTXVHNVBYWi1YM1dJdTF4TFFELWhHalNRSnhrbURrQ3AzN3dGSw?oc=5",
+     "title": "Malaysian doubles shuttlers impress at French Open"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXVTVqWjFDN0FZcE5hc01MSXVNS0F6dEgtYWptSjFJcUtDeW9adjBKRXJzTnBmVE50OVRzZTd5V2VVNGR2b0lnc19Xc1J0OWZoVk44S0FDNnZDU1JKY1hDM1VvOEI?oc=5",
+     "title": "2026 French Open: Pang Ron-Pei Jing Advance, Soon Huat-Shevon Out"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Police bust Geng Suria linked to 20 armed robberies in Kedah",
+   "summary": "",
+   "scope": "my",
+   "category": "司法",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNblU5b2VDNUxZTzRxVm5BalZqNFJraTJvR3Z4NUdJWE1lTkphM091MFpjeXhkSV85dU5kdTc0LTY5dktwbF9VZzM0UDA2WnhxSVRFZVRRN1oxQU40YV9IcFhkb1BQSkFmNXlvR2R5ZkNPa2lVQjhzaXpMdGpDOEVpaE1DQWVkOTNDeDFyTjBHZjhjbnRyQVhGbmNfbjVUbEJQZHFFaWh2LVVsTDjSAbABQVVfeXFMTzVXNUpVU3FyWE5PV0xaQ0tkc3VQY0U5TDdiazVEUEFUVmduNFE0MDJyQUtQd2NPMTZkRkRpdWo3czVLQmNDRndQdG0zYVZaWnY1SlhFLTljN3oxbWp6RkR3RnE5ZkdIU3JxZVVlb2YzaUZwakxsb2xxS2hZRk1GYkJuVVFpaEI4VEg5YUZTMEpXbmlhbi1OSzVVSFlBdl9zQVYzeXh2RjZkd1pON29EejU?oc=5",
+     "title": "Police bust Geng Suria linked to 20 armed robberies in Kedah"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUEoxQmhKTGNHSkh5ZVNDMEJ5VVRzbHE3eHFWMGdmME8tNmMyVzhBSmg4d2djV1ZqUEQ4aXh0RUdPN2wyQWs2c1NOaWZCLXhmY3U4NHBMSFFOOV9YZmVzcVNGYTdUTFc2bVJYRzNMWldDbi1MUjA5SDRLLTFsc2RTSFYzd0tYcFJ1bHlYd3NxWTlJcWgteFJGNlBIUDZtMjZmZ0RpUDhB?oc=5",
+     "title": "9 alleged ‘Geng Suria’ members to be charged"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxcW9hVlBUMEtXTTFJaUVjNm1rTTdEOVh1M1JHYWhOZkctOHA4d2tJM0R5YXpnS2N2MXExU29xLXVqNmJwOEdvMEZlLWJXd1pva2tiTmlBT1FBUQ?oc=5",
+     "title": "Police Cripple Geng Suria, Nine Members To Be Charged Tomorrow"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Experts: PN should move fast after deregistration to salvage Malacca polls",
+   "summary": "",
+   "scope": "my",
+   "category": "司法",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRkgyUC1xYlI4MWpkMFVMWHI4ajZUUmRaVGNLWU4yQVFDZThZVWdRc3p1RFp1dmhBY1lYaEZhcVlGcjlLUnk4d2VETm9BTGpGZGtYQk5saGRwZWZZYnRFQ0FLUFFzb3RfREFFbFB1QTEybU9JeTlwWFh3QXdpOS1GN1Q4TmdqcWQtdk1KS2lXVVVyVWlzWW9qZklWVVVhLXdZczlrNE1QMHpBclB6UnlVX0pYZGQ?oc=5",
+     "title": "Experts: PN should move fast after deregistration to salvage Malacca polls"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMG5wdWwwSGdpdDYxVy1Ocno5Q1JhWW1GSXh0ZUVTaUdvS3VNOVFpdXk1U3NuR0hXRFNjOW16NTJmNk53VzlUUmIwdkRIemZBVUlTRFdJUl9iaHBhOS1oTXVObmtsN0NFNUVhWFpQVlR4SndtVjBsbmFDYy1ETnpvTFJsdlV5eFNKTjBhVG9EYVB4bi1xZV9R?oc=5",
+     "title": "Court stays PN’s deregistration"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FbXQ3V3htTXotZ0pYMnFCb0c3UVRpZks0Y0FaaUE2Zl9lM0x0ME9zOEU0ZlFjVURGd1RiVUwwd29XNDN2TmxVTGNWWGVjMVF6?oc=5",
+     "title": "High Court stays PN deregistration, allowing bloc to contest Melaka polls"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Bursa Malaysia ditutup tinggi, kembali lepasi paras 1,600 mata",
+   "summary": "",
+   "scope": "my",
+   "category": "经济",
+   "importance": 3,
+   "owners": 3,
+   "work": true,
+   "links": [
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbng1a1ZVN0RHLUpEQTllME1fX09XNVdwRHhNVWVYUmlCc2NDWDIxeEZfVEZsOHV4QV80Wk04RVE3a1hnb1hGVmJPYUU2Y1NtTmZlWlVjQ29uaXBHeWtOb1Ezd3l0ckN0ZUF5clVjLXctSWRrazhhbVkyckFOQ0VaU1ZJZjBxaDlyX0VJMk9PU0d4QWU4TGptQXl2UVY3MGhOc3pz?oc=5",
+     "title": "Bursa Malaysia ditutup tinggi, kembali lepasi paras 1,600 mata"
+    },
+    {
+     "source": "国家银行",
+     "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxOZFNvZVJTLVZmdnlnNFVVWC1rbmJJQlB2My1abjUwSDBObXU0QktNMFU0S1o2YjNiYTJNdUhMcWZNeVU3QjM2bER0NWhXLVNmN3lEOFY0SVRpRndvTkpmcG4wd09wRzhlbHJLbTJJbVZYUmdDZ0QtTEp1cl9pZXRBVWxjZm5hREhVMFR1S0xvU3F5Sm4tM19DQXRMd3duQ3pLbGI2ZUphbVlXMHZrYXBWZ0FVQVZXU1ZhZFF2cGRPUnZjTlJFTnNlRmFqV0M5WEpNbmhlS25zd2JDeVVUZVlIOVc1Smkzc3luMDZRVjh0SzBMLW1HNU5aR0paWVQtT3EybS1EaUFKTlpwMG51TzFiYmk4cHJ6eEVwS0FWSUlpeTBsLVVMVDcxUWFRbGJlOFVhOG1JUVNZNjFiTGxfVFEtME5RZDF3VXNEN1FxY1FqTDNnam9OS05YbEpmSmwwNFU3MGpaMERhLXFHQ3hHNVBDVW9tOG5wS19kVjZoNm0yUzFJdldEZWgzX3h4YndrUi1DUE5NUEdrTUZ4WjROUUE?oc=5",
+     "title": "- Bank Negara Malaysia"
+    },
+    {
+     "source": "大马交易所",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10anl6ZUlWa1ZTVnAzM1ZnV3J0WU41M3IyYXliMXRsa1JFZW5sMU8wM0Vvc0JYUVZ0T1pSSjMxejFEM05kVW9YWllqand2VGNjcjJEQU9BVFlIekFSUDNPMmgxU3Y2Tm9nTHYzdFJUZ2w0OEtvaV9sTw?oc=5",
+     "title": "Market Data Overview - Bursa Malaysia"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 6,
+   "owners": 6,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmeWNaNkZfMWgyVENuck5jTjBjUTZKNWE4V29DcW8xMURzclJjUFJsQk5Jb1pwTFNtcnJsU3R3RXI1YW8wVUxtejV2bFVkXzZrUF94M2tpbm5nQVU?oc=5",
+     "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONDg0WFNBeGFxeHpUVUsya2RYd0k3XzF6bXU3eGpZVnh2T25MWHVsQzVrbE9PNEdaWnpfN1dmRmtxajMtbl8yZ29EWUxYaXAxcnkxcFN1NEVDLVE3bUtkR0NwZDVPN2haVXFERXRUeHRnQ2QyVDhVdjBNa2FIUFVDOWFicGJOQVVWR0JFMnZSM0NLV09nZHk5UzA2LTgtbmFEVnlYZDI1Uk9ic1hyLTZ0Z2NKbWI5QWgtWWE3ZzV4eE11bmpCcGstTFAzQnVGUQ?oc=5",
+     "title": "EXCLUSIVE: US orders diplomats to depart Saudi Arabia amid Houthi strikes"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbUtxdXMza05KVjEyZVpEUjFwVGo3NUJ4M1Y0X0EtZVBLTUJDZl9ES3JVT2RjN1M2dDJjZUlNdVBjcGlqaDB3QURvUnlxeDFUVnNndWlXRlFsaW01a0Uwa3hJbDVaTFVyblduMW0zYmxVV1FTZDR2MUo0MjR0RHdPaXRyTDhaOEVxV2Vsc2h6T1Q1elVoNDM0c1o1TjNsczFJdElIWnUyc2NZYjJ3UHlvT21Dc9IBuAFBVV95cUxNRktUWGNqV1JsYnVLWFkzaWgzY1pwTE1Ha3lXSnoyXzIwek9QdjN5dVZLeDhZU2Z3OEs3WTl0MXM4VDhoZmtyWUwtT2ZHYTJHb1JlZmNCQzNvczUycG8zN3ZRYWgwUTZTaGZ1cjlpUmFiRlkwS3JTSm9WU3g2Ql9GUUNHc1R3RXlVOG82MWwyYkVpa00xRUlYVksxbERsRm1VbmZkZ3VhS1BPWmtOUk8yWWExdTE5c1dM?oc=5",
+     "title": "US orders departure of personnel from Saudi Arabia, citing Houthi threat"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT3lwUnVLTXl6WXFhSzZlb0FaTGNoVkhmLVVwdFFVTnpOWDlDX1JpUERHQ2xsbTh2NGxPU0R5cHd6S3J1Ujd5YmZQQXh1WGU2aWY0aXNKVHlEcFpDZGNybHpBa29SZ1kwQ0VSTUhpNk5rTVRoby13QnVvUU5pTlI4MDVXbTdvQUZOUDlpRndNcXR0dUtCckxIaXVoaXJZcUpOODVsaWVyX2lraG9MOU55R2loMmEwc3RoMzZfd2s2QQ?oc=5",
+     "title": "Oil rises as US orders diplomats to leave Saudi Arabia amid escalating tensions"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM21Ia2s5aEhHdThWNmNHSTJhN1N2VUhNRlZ5ODQ3bHExTFNWYmJYTkdiMXVpQk5McTQ4aENzS3F4dDI2N3hwNXpSZlNPTHJzZF9YamJBcGU2RTE3eHFVRDl3QTc3TG9zcTg0NG1rYk4zLUE4TjlreWNXOXRmYWliOVRNWEhQTVVOUjQ5dTNRUEh4WjV1SWxtOGVSQzJCODcwWURDUHFQUWU?oc=5",
+     "title": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRC1WTjNocUNpZlFpOGd5eEl1NGxoSTVXMFVuNEpwSVZUeHlVM0tNTzluTUEtd1NBSVNVUEJSMkZNcElsWG5NMGZNQmsycFN0SWxGa09KQ1FxZjg2NkxLM19vWFVEbnBmbk5WVHRQOUlJal9XUkVYSHhWakNSdFpoS1ZpeG9KWGFlVEJxYnBLN3lYUy1I?oc=5",
+     "title": "Egypt ready to back Saudi Arabia's war against Houthis"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Prabowo accuses MSCI of trying to intimidate Indonesia after market rout",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaTJlSFd1Yk5zOUtvaEN5ZVJYNlFhRjRleHluZWV0MEs2c2p2c1V1dmFkY3JxWFdCZ3hFdkp0ZmdOOEZETnhpRTBQOE9aSVE2eWZ4UTFZYnVEMHNHTE1Kc3BJd2l6UkoyRzJmb1ZEZ0h3dHJLLW9CNjNMUGlxVnVyMnFoMWVjZWdNUm4xc2VwbnZ2VHFPZVNwS2ZhY1J2czZVeW03NzhSSW43OFZjdXplTUE2bWZBMmdodnRV0gHAAUFVX3lxTE53SnhLNUNERlNqQmZRRDBDc3VmZXlOQ0s3eVQ2MFJOOFNCdkJyRDNaMEoyZGxJZnFiSklTRm5icXMwanF4RHk5RzlTUGpJUktOTkt3Mmg5ZWFBZ2ViVEFVR1VfSi1OVHdBZmt5VXBsYlJBQ19BWXNabFdMNjBCTENFdS1YYTdNYnJSTDRSZHVUM2h3WjZWdE5Kem5JVGg0alZjbmdiNkdzWF9sdW1zMzZtQlZTTDBra3kxaXZuZGt5dA?oc=5",
+     "title": "Prabowo accuses MSCI of trying to intimidate Indonesia after market rout"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JT0J1SGZraDlkWmtCWWZIRnNZbU5qSFc3SnR3YTJFcEdnTWo3TjVSQWdERVFocklfTEhZVmxRNUJrMXRWYzczZmlRbzN6dktU?oc=5",
+     "title": "CIMB denies plans to privatise Indonesian unit"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90RU1Sb2dPV054OUdKYWYzQjBWQ284bDdTdlF1bERmeHE3YVZaVmNOcnZMSDdKUHQ0LVJySW90YjJoRkktbUFQdm1rNVpicDlfdnRfWXpQcEw?oc=5",
+     "title": "Why is a peat fire so bad? BBC is in Indonesia to find out"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY3MzeE9TNmZPQTI1dUhlSW9PZktuNzdWOUFsdnFkbkcxT01LMjZwRHJEU0xVVU84eERjYjhmcGd4X3FjVnM2NXJKWVptM2RfaE9MeXpraE5oT1BFenV3NTZxR2ptOWFmYkJUYmJmRVpieGhEX0VHRmxYQ2NMTzdwYmRuTUZ4OWxmLVpLZTJNS040TVJjOUIwcDdrbDlXZUh6RU1wNGhSWVV5WGtpWnIzVERpVEt2MWtub2h2Q3JId18?oc=5",
+     "title": "Indonesia issues record fines to companies over stock market violations"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObEFPNnNlYkxTS1JzXzV3elJhVktRRUI2RzM2SWVQR0lKdUdEOXZ0TTBabDJBRzcwTUExbTRKSElnWHRxc056ckNjR2N1cGd2RFFZNHBOZHNSdmRvN09DbHBDVzR2SDlIcjZZTmh5MFZ5ME5WelFmdFVwNzZ5ZUhpSlJvMXY2WHJyZ1VaRjZWb2lodDJxWEYtR1ZBMVFGbTdwYzlwRjRiM2N0NGJydFZ4cm13?oc=5",
+     "title": "Prabowo berates countries that 'insult' Indonesia over wildfires"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Meta ordered to pay $25 billion penalty to New Mexico in data privacy case",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNzRJd3VHSHJlSE54ZDJ4T1hyeVhkRzdKMW5sMGlPWU9TYmxOTDRNQ19PeVRGWVVrWkNQRFAyZTE2YzVzWHB5eFRFdG1GMmdLNHpuTFBJZWJ2ZUVaQjV1elNEMUhleWdqWGNjcFAwTlhNVG5RYzlsdmZqWmJYcUdGMUh1bTdOMUNhWnJUU0tnUE5vVVNyQzJfRzgydFFMdkExa1MtT0RvVzEzV2x6SHJiSVNPS3RsSndnNUsxdWZwZ2NVWHljLWE1TlVIUmpFcU5sVVgwUFRXQ0kxVFVhbzRqaFZpTXRpTVl2Tm9ReXdnVQ?oc=5",
+     "title": "Meta ordered to pay $25 billion penalty to New Mexico in data privacy case"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DbzNIQ0cwOXZqWHNQU3F2ajM3alppclV5NlhNY3NWUWVoRE9WbDJDWFppZF9zMUhERmpHa3FHTGkzVnFrWkVnZnc4cUh6Mi1mMGxfRC1qYzZlVGc?oc=5",
+     "title": "Meta fined $25bn for 'lies' over user data privacy"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWNTZTVrUDY5dUhLcUduTzg1NGZDUWx1VTNVbFRNV3hOcXo0TG51MDBMRm5WQU9STGRPZGhLNml2dTFMb1h2b1hLelA4QU5KV3pRLWktdDVhOEFxWDY5VW1URmZEVm9QcDg0WEp2Zmo2V1RIcFpCdk1zeFFhdU1VeHl4QUVZeGZxU3ZJLV9UUzZYWG85Ujl0RkRMbGhMd2RBWkdDNnJpbnBNQXduV3FBLXZTYlk2Y2xhVzFSbmthRFJERU0?oc=5",
+     "title": "Meta ordered to pay $25 billion penalty to New Mexico in data privacy case"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQzNqLUljbTJRWlZHVW44WF8tSnJIaEVWM0NIQ0lQNzM0R1JwRnhjd3RjUWFLLUU2NjhYUkxrU3V2XzV3NGhqWkV0YmY4VE1GZThKaUFqNURpTzl3X1JpQ20ydE5JTGJULV93SkROcFVOZjFPcXJwUGhhYkc4bG5uTHNhSWVZYUpna2ltd3F0RE0tUmtQ?oc=5",
+     "title": "Meta ordered to pay $25bn to New Mexico in Cambridge Analytica data-privacy case"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm5IZjY3Q1JMZHllc3VZMTEwV3hTdUxzdkRxVy1wOW9WN1lnZTVTSDBYRHZKLXNZVmM4dmhvaE41Z1F0TngyYVVuTEx4aTNpLW1mMmxZNE41MGRsekF5SmNXWlJndnF3Uk5ZNkphbkZBclIxRWFjb3FkdVVZUFpfT2k5djlRVk9oYUhaZENHZDZ3eG1kaWfSAZYBQVVfeXFMT21ncVNkUHJIOFpuRjE2OGRBaVBfSFhDMEtnZ29mU2V3MGMzQTZqZDRIUmx4dU1GcU9TMm1GSjc4T2JhU2M3c0F2V0lsNzdNWmpCN29aTzd1V29wd2YtMkFwd3llSWhJSVc2cnh6cFpTSFNvX3JWOXNtakNZdzRtdGgwdks4aG9wd3dqR1pKOFNuMk83M1d3?oc=5",
+     "title": "Meta ordered to pay $25 billion in Cambridge Analytica case"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Elon Musk pertimbang gabung Tesla, SpaceX",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOEw5Vm1oamlqcXA5TTI1QnJ4WXZCS3lTU3Q2bjB0VGF6cDFTY2labUxhTEx5YzFETzJTRU0tZmVLSUxZUDZJVjQ3dUl1S3BNMzctbHhSaVQ0MElmeEVuQUd0UnpqMFB2Z2ZLV1BOYXI0eGVnSWx6bTg5NFRSVlBUb2dEZVBWTGsycUZWWjhXb1E?oc=5",
+     "title": "Elon Musk pertimbang gabung Tesla, SpaceX"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS3hNUU9fZGR5WUQ1NElPSE9qdjdWSmtWSmVodXRzWENUMzFnVDZVYUlvckprUGFOSXljOE5DSVJOTWw1b1FlTTkwV0NJY0NyWEd5bFdGUDJrZVBqNWNFMHR6TUFMVERfenZyNTgwQmFJSU9OR3dKdl9EY1ZiS2doUlhjbmYyUEI0c2c4NGhQX3VxOHNCQ185V05xdUVkMTQtZVJHbTYybUV1U0NWQmFfZlN6enNtR2poWnpvOFBaQmo1TU9yd0xn?oc=5",
+     "title": "Tesla cuts spending before potential SpaceX deal even as Musk bets future on AI, robots"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVE92b3ltX1hsa0M2QkhaV1huanh6WEg0cm9ZMV9yLXFQZ21Ub1BhcFVOalNaeHVSaUUzUFFPejREUloxS0dLNXVzWTBJaHRDVmR5N2xlLTdFNUVXcVdKZDlOV1dfOUN2R3hDVDlNU01GenluelpQVmhtUU8tVS1qVFBLTXRHdWJ4NjhRRUlOc25xOUdRVWdVQ3I4TDRsdDEweUMwd0lxS2FXdW5LWmfSAbMBQVVfeXFMTm95eWVMYnpxaHdPdWczbTNSME1RY2wxMi1Ec3c2eDNYMnZHdU1zUUQxd1FpT1R5TUhrSHcxTDlxb3lpTWduRmtQN3RUaDlpTllFY3BEcWF5Q2dfWXBnckh3dlhWUU5UR29LUmVpa1RsRlpNbW16NmFEX0tWV2Rlelk5ZWE0MTczbHhmUVAxRXUtbzV6NXQ2YzJZRjREeER5bV9qVEVnNWc1ejZkMHlNVm1qbjg?oc=5",
+     "title": "Musk pledges $10bn in SpaceX shares for US children: Who really gains?"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Pope does not need further treatment after lung cancer surgery",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4M0d5X2ZERkF5dEJsZmR5dmtob2w3clBnTXh4ZnJMQnB5bUg1bEx0WlBaLWJWZWV5UkFodkp5dXZXOGhPUUVDOFc2YWFyRmh3Q2tIT2xQNVZwMEk?oc=5",
+     "title": "Pope does not need further treatment after lung cancer surgery"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRU5FVXdyeDlsV3hPLXRieGZQWWppMnhlcXJWa21ycTFLRTV1dGtxTG5LdURDeFBnSzNyX1ZOUnVMNTExdmRuME9ndWVvSi1Zazc2eU5CMVlsczdOMV84T1Q5QVdkVmtaeWdEUjlNNHMtWFJoYkZSMWlCUWhnUm1XZjhzRXp3V2RWOVVDOQ?oc=5",
+     "title": "Pope will not need therapy after cancer surgery: Doctors"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc0JRd1FwN1E0SFJVSjNjZGdKYUM2b3VtczRxcWh0TUt6ODRqT0FKdDFTYWt4NlJtTndRV3RvdTJUWWhHM1pEcmpzc1dORy01TFBVYklzX0JZdVdNTEk1aWVnLVZ2cno0S1hRaldXZGVVY3kyb1RqZUFiWE5VUWdZWUxzcHBRNWcydzRFZDMtdHlSd9IBkgFBVV95cUxNckhTdm5nQkNkemUya2wzYnZrQVd6RUQwYXRiUVY0QjBrLU1xRm1adWQzaEc5UmNaQ2NlMDNyVXEzWnVVQUQySV9QUXpLR0dmM2llRERUa3o0bDZqVVBRbENMc21sSXhLYTN6czFFNXFaUkhUN1JQakxTRUpEaGVjNHNQZ0w2X1BtV00zMWZ3a185UQ?oc=5",
+     "title": "Pope Leo will not need further cancer treatment — Vatican"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uR3lheURKOHZfRVVGclF1YVpoVE9QcXpBTTlkc2JjUXV2RTQ2bHY0SFZCa1hmTXVTWU1XTnRaVk8yWk1XX2lUbWl4LVNjQ0Ficm5UdEdMMDh0S1E?oc=5",
+     "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX2tPMDlUNEh6NDBFQ2JlVnZTeWUtZnZPT2FpTm1NTmNvRGg5aVotVUdMclc2Qk1UM0dtLTRSTDFiWUd5Ykg0T2NNclB6aE0xaTlkTWhaWkN3VTRyTFRTZF9GSmxJT0t5emxnSlhIcFA1VERqVTBfZUpCaGMySnptaWJvREp4YWozVHBfYWd1azkzdE5CMWVj?oc=5",
+     "title": "Russia 'ready' to resume trilateral talks but cool on Ukraine deal"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQXhNbFU3LWt4MHZ5cEpRaDQ4QW1URjIydGJwN2N6N1BPcGtSbXJmTi02SUlrNTEzSnUyS0VaQ3dwbnZkNGxmQXhYVEZrMllFazJFTVd1Nk91VEh0VzNLLUtENXBXa19lN3dlZDctNG9oNVhPQWlVc21TM2FpRUhyRXJDYmVwZ1FjZlpLdnBoSQ?oc=5",
+     "title": "US aims for new round of Russia-Ukraine negotiations"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "What is PHP and why did it take government websites offline?",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ0lJS1lzVTBUNTJULVVJZGpTR0NwcXN3SkpEQVgzQ19CaGZxNlFGWEFGU1lRTjhyYjE2RDZDTUJqMGNyQXpnaWhMbGlhLV9qZU1HSmt4WGJlMXlJLWVRNDIwY3FPdjNMSUc3UzhLWWM0N19ubjROa3pjWHJraVNJa05EeUR2WHRSbDVhN3EzWHE3UkVPUVlPN3AxMjdMSkJXdnZfRQ?oc=5",
+     "title": "What is PHP and why did it take government websites offline?"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQkJyNlBfbUg5dGl1VGZmNWdNOGkwc1dnTDJyM1lmd2NkZFNraExkMGx4NjVNc1A0WFl2SjgtSUhadi13aGc5WW0wNkxoNU5JbW5iYjJYVUlzbE5KSjNHUlk5S2pxUGZSVlVSckF2V29sNEcwQVRtWGw3dk1nQnV0WnJfVzFSa2wxQlpLZW1OOUxJUHFOdUgyZTdaRlg?oc=5",
+     "title": "What is PHP and why did it take government websites offline?"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR0xIdjQyZ2hJRTcwMWVTU0hNVW9ZQ3lMbFFOdXJxZXVET2dRby1UcVVwaU1LVnNvWktmdGxLMU9QVWhHZFhpWVlRWmxvTzdkRFh2b3FEYjVoNlN3dlJBclFZNlduZzc1OHlSU0MweUZXdEJaTDRUTzVqTHp1NGRfSkhkVHpLX245Sl93ZWYwVUlYTWpkWnllRkZVMGNPQV9vTEYzTjNBYjdvUEpnbHk1UHI1UUdPRlNORGlKQnphSGc?oc=5",
+     "title": "Flaw in PHP computer language leads to shutdown of websites around world"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Two killed, 8 injured in attack on airport in Saudi oil city Dammam",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSGNWYThfTTlBMk0yXzZJMVdvRkp2NDRwOEItSlJxRjN3NE5nVmRMbFkybld2UUFLWHFzel8zTEVMMUt4T3A3QUxMN0dObTR6WHMwOHUwYmh2RGJYX1hIOFBSb1ppQ0VIUW0xdTFzTHB2NENTTElkMTRqOHBVWGFoejRhb3dhclZtS09kNkZra055RUlyVm82M1ZpNmhHZWctLUtfelg5blVrbW5aVHhpSzBvVmsyNVZm?oc=5",
+     "title": "Two killed, 8 injured in attack on airport in Saudi oil city Dammam"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaXo0Nk1pSDFVdkZGeEp4TGZobnBPS2FpdVlORlptNFFhWnp4SG1UQk9icEhXYTNUSzEtUXVoSEwxZUMtc0Z3cG1lQWJsS3I5TE9JLVJiRnlYTXczSkZfd2E0dFdVNDctZkR1emhpNmc5bF9SMXA2cHhwU3pPOVRkZ090MUVnLWU5NHd5TjN6NnN3S0poLThpYlpzLWFqNHdv?oc=5",
+     "title": "1 person killed in attack on eastern Saudi airport, authorities say"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMktOQVdUcmhmWlhhcHVNQ1laMzRELXBuXzhLMHFqNHdLdEE5TVdmbDR0eXJlT3ZwVjgtQi1KVXNWWm9ReHhsNjhER0phWmxadWdDZDRfWk1xdGNOSWNkUDRSSW1fMC1RNkhCbUJxRTlZTUFoUkYtUGt1Z0tkalVHVWFXSks0N3llZ1g1ZXJWUXpDN2l3MjJFVzlhZVVROWwybnlYMkZWVkdkYkFxTHlGaUQ2Z9IBuAFBVV95cUxObmo4ZHczZ2Fza2VqLS1NUHoxem5hcHVTUXloZnBSeHo5Tk9LUUoxMVpRVGNLYURhanlfb09qcnhRMmtkT3N6bEpObHZwaTJhY0xCWW5oMjI0YWpRNUFnX1VaTkFmb3c4YTUzamdzZUxMVWZ2Yk9oVk1sYmZ1TkdJMXpjQUxFcGFEa0lpVHF4SGdWa0Y0eG9rUG1MeHVKY3VLM2hkUHpPZWJsR0haMUQ5UDhOVmRNcFFE?oc=5",
+     "title": "Attack on Saudi Arabia’s King Fahd airport kills two people"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "France's Macron vows order, calls foreign criticism of unrest 'stupid'",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdVk5czJqc091UDJSd2lQbGNRYXlyQXBBd2RxTUZkQXcyU0M4QzI0TE8tQ3FaU0xaa3NwWWlXNWU2OGg2NjBzZktLTTE0Uy10QnFyRDJvZzFiQ0xiaWdNVEdObEpuU2dvMnRkV2NRLTdHX0lWaE56cDlpRlZxcjdrWUpjbU12ZF9WV0psc2Y3bkVMYkRkNU5WMzBJcGRIaVNGN1pUY21mYS0?oc=5",
+     "title": "France's Macron vows order, calls foreign criticism of unrest 'stupid'"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd3lQQ19SQU9wS1B0N3NWek1pbS1NWXdONmVVOVJsaHhrc0RXN3ZfZFZseTc2NUJQTjl2RnlaODk1eWlUWmFLM1RVVWNCWjE4Vi13cDF1X0xzQnlQRW1La3o1d2tya0I4NW9SVmdYaHAta2l1TWo5Z0xiN0dyV2pWQXgySjZqeW1fY0tCNkNzdEo2UkQ5djhMcDkzeU9QdlJ5UkQ4Y2pZcw?oc=5",
+     "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd05FUGxlVEFoOTZRQTlBbEgxUnhmMWZybkJieDE2MGgxYWJVSEF3RHlKOUVITGtHbVgxbm1iTGlSZl83anA2R1ZUWi04aDl2WlN2YmRHZU1zcEFkdDNPQTZ3bnJEUE9LTTJ3Ujd5M29Tc01FWkNzams5SHFTeXJHY1lXR21VRjE5d05WYmpUTjBlSkU2cm45WtIBmAFBVV95cUxNYVc5eko4U3lyMG1aVDBILVFSZEtpUTFpTkFrNEU4a0pGSWR5S0p0MEIyLTlyZ3NJTXFSSW92Y2RsaGl3cGVLWkphSDU0RU5hVDdOVGprWEcxdFd1TGk5VEM0RkJoWG92WnBRTTF2cXMwd3Rmb2lxNElYemRHWDJxSFQ3Nllxa2E5ck1jUkJyRkszMUxYck5ZUQ?oc=5",
+     "title": "France bans protests in parts of Paris as Macron slams Trump comment"
+    }
+   ],
+   "new": false
+  }
+ ]
+}

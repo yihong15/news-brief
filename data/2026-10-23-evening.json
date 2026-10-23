@@ -1,0 +1,593 @@
+{
+ "name": "2026-10-23-evening",
+ "kind": "daily",
+ "slot": "evening",
+ "time": "2026-10-23T17:57:52.281141+08:00",
+ "items": [
+  {
+   "title": "Bursa Malaysia ditutup pada paras tertinggi harian",
+   "summary": "",
+   "scope": "my",
+   "category": "经济",
+   "importance": 5,
+   "owners": 5,
+   "work": true,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVG5OZ0JudDZTMU1HcHd1STVtTVFheko1UEs4Vk90QUVVTW1jUEwyUFNtaTI4cC1ZSFFCZGFCUE5BdjkyQWYxeHVWSkpnOW1PamJHZmcwRGxjSHBuVXBEdG5hYWIzYTI4dGpNeGl2ZWNwYWg1QkJKeWFFZkFLdmh6bEU3UXBILVhIYml5b3MwSUludGwxQU1TMXpYQWJjOGRPNzZrcE5TczM2MXNR0gGyAUFVX3lxTE1SOF8tSV9xTUJlc0EtMTh2aXQydGRzQU82MVVlcnRpdjlSN1o4QlA0SXMtc0UxOEJJZ0d6UndQalc1UGgtVGtET0xNaUE4aFZRNEV5SF9aMVdRTXA1cWg2Ti1rOVNYSDRnYzV3T1JlNmlDNGV3MFFiV0ZuaFVESExzdzRpR21WOVdiSlk4YXVSeDJ1bVhaZ2RpOW5BSV9oVXVPcnZEY25rYmJaMS0xN1FDZmc?oc=5",
+     "title": "Bursa Malaysia ditutup pada paras tertinggi harian"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XVzNfSEQ3V1pfMldBZmpDcGJENURHWEhGamFVN3Z5aUI4eVRPcmtlNnREOW1WSFJoV3VESWVHZXRzaDhPdUFfaVQwd2dYNzFuYXJsUG1TNVFvWXl4NFkzQlllSQ?oc=5",
+     "title": "Bursa Malaysia Lower In Early Trading"
+    },
+    {
+     "source": "国家银行",
+     "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxONWNkaXZHdGhRN19uM09OX01OSjJLbUxKdFpJZmZfMkxpRl9DVVhuUjhtWnluVUFGTXBFOGc1MmUxeVJsdmt4YnFCcDJpajNlRjRaMHgxeDJ5cXJtdU14YmpTb2U4LWVUalV5OTdJZVhNOE8yMnNWNjFUVXFkZm1JY3JTdDZrMVp1djF2M2Y5aTl2MzB3a2IzOUtGNzd3eWc0a3ByUUVQOGtFRHdvN1VRVV9CNVg1akI2aENDWEZfMnpUSGpJUmplZ2RKQkQ3OWQybVpmNGE1Tkx2OWxIT3B6YmtoU0NjdHRST3NXYU1wcHJWMUZBVWxKS3ZjaHBTUkhjTjNhUFRoR1NMTWhja1FkQVJUcXFwNlp4bVFzT0tlTm5SWW5feGFtMDNIUG1hQUtVYTNJd2NsSFE1MVBPTkhNSHlyTzRNUkdidHVpSlg5S2pZOUR4Y1kwWkxMR3d6WUhUUU1pVWxnNnRSN2hQOWlBaEpxQm9UUHRYbjJ4cEpnWElFRTJWWVNyNWEzTUNBVW5MY0ludklEaUZHY2dPOHc?oc=5",
+     "title": "- Bank Negara Malaysia"
+    },
+    {
+     "source": "大马交易所",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10anl6ZUlWa1ZTVnAzM1ZnV3J0WU41M3IyYXliMXRsa1JFZW5sMU8wM0Vvc0JYUVZ0T1pSSjMxejFEM05kVW9YWllqand2VGNjcjJEQU9BVFlIekFSUDNPMmgxU3Y2Tm9nTHYzdFJUZ2w0OEtvaV9sTw?oc=5",
+     "title": "Market Data Overview - Bursa Malaysia"
+    },
+    {
+     "source": "国会",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KMGVjcUtTTHh4OXdnZkZKelBPNDdTaHNjcGU1VlFER3hYTmVPeGJvV3VKakc1eE1CNzFVelpqQXZzT2g4WUF5THpIMUs2X0VKSHZqdG95bERIY0VZMjU1WjQ5M1N3QzZnejI2UmpxMXdJSVVrWGY1U3hOWnNwZjA?oc=5",
+     "title": "Kuala Lumpur - Portal Rasmi Parlimen Malaysia -"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "DUN Sarawak dijangka dibubarkan petang ini",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOU5NUHdpUGRKWFZidTFRUmRrQktOYzNpN0kwMXRTeDZfbC1BclQwNlZxaDVWTW5ackFWT0h3ZEoxN0ZoQndyZTh5OTg1akZBOVFYbzBYT1YzNThncW5nYzIzUmUxcjRmd2RHTHIwQS12Q3pfdDhxbFVZaWFFdy04V3BaT1UzN2MxcmZLVXB5Y0RJTEpvYklJellybi00ai1XcFVlZG5JRXFlbWVlMXpjd01yVzAtQdIBqAFBVV95cUxQZ2RmZDNXR2ZyNkdZejVEZHBFMEZwUmZENWxtVktNYm9SZGpzM1FjOTVIU0UtenVQWUJ0WEtQNDUtY250MFV4U0llZ0lwbWJNZXM2THJzc2Z6MGo0Zy1JU1VqbGotVzdjM3lOV3EtZ0pzZXVSQ2NqZ0tQRTY0aW1vcVV1NGJTcTZhWWQtX3lJdzRfUDcxZVhHbEViVTV1czNWclA4aHNKS0E?oc=5",
+     "title": "DUN Sarawak dijangka dibubarkan petang ini"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzN3RoclJwbXR4a09zbkRVRWx3b0tZcVVRTVF5SVN0cXJUcHllbG8yN2FURkRBWl9Hbk5zTUFMZjlGSS0yQ0FvblR1NVRWdXFuVVRvemdMUTRlWGVGNXczRVBn?oc=5",
+     "title": "DUN Sarawak bubar 26 Okt"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96bVRMSDIxcUlpenJJbEJNcmtrZ1JRM0N3QXRhVUhmNnh4aS1weFB1dTlGNndqZTlVS3VUcnJjTkZLdXVab1FFWmY0VHRyYllzS0FmaFpULWtQVDBkcnpPVzRvbzh1WDlwcGVabXB5by1pMDMzV3M2OEUwdw?oc=5",
+     "title": "DUN Sarawak bubar Isnin ini"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMEFVNHpJa3NVaTZ4dEJxTUxLVS01RURqYlF1OWlwQlRueW81QjNSZGNxNTlqb2NBc1BuQlBWTWhOcEpuaFhreXRaSUhoNU1GOU1oekoyRHVLdGhwMGV0emFVMmlLNjM4cVpKbndYc0NxdjBjVE9CQVh6TE1IcnFIYzZYSHRaNjh5SEc1XzlBaExScFlG?oc=5",
+     "title": "Abang Johari umum bubar DUN Sarawak petang ini?"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Perikatan Nasional’s deregistration and Melaka state election: A test of law, coalitions and democratic accountability",
+   "summary": "",
+   "scope": "my",
+   "category": "司法",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "星洲日报",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uaDVBNExTR05Nem95b2xMM1RqZ3pKX1hqT3MtdDlzQTlOdHNiWk1sMVJfTWZWa09XTUt1N1NISUxOSWtiV0NUU1YxdVNPWHRXM21ZME9XWWtWbTI0cUlONGJHdlgtZnZLbWNaRUs0N0ZTZw?oc=5",
+     "title": "Perikatan Nasional’s deregistration and Melaka state election: A test of law, coalitions and democratic accountability"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVGhsZUU1NjY5cmhWLTVUanBWRG9qWHJhSlpKQlk5dUUyS0JwclJjQWRveXMyWEQwYmpRQ1kwN0J3MFRzTmZRRDB5TVBSTUFORXd0Ymk0aDlyaXpxNzhZVUFGbFRfcnZYMFNfSWZGTDlsNEJYcUx1ZFZRV2Fra01ZblVVemplRkdreE55WEVsZm9DOWs?oc=5",
+     "title": "Court grants PN reprieve from ROS deregistration"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WWW9hY0ctQkhFdmVYVlpaWjhiMjZONDNadU5MQ0lXX2l3V1pwYWI5VWlsNmx6eVJwb0YtNkNvMThqM3ZvQ3JhNldneWxtQ2E4QmthVjFVOHhZclZ1TGxpVGdn?oc=5",
+     "title": "Court stays PN’s deregistration"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Enam kali gagal hadir ke mahkamah, penari mabuk dipenjara tiga hari, denda RM20,000",
+   "summary": "",
+   "scope": "my",
+   "category": "司法",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVTlJZ0lzZkl2UVRlUi1GZVp0d0MyaTdDMFZSbXl1VGgzR3JzMGlBSWc1V1NYZHRrMkdJRTNoQVhkVFhGbFRDY3BuaGlRT0ZWNGpib1VZX3dKZXhfbWk1YUtlVFJwZUd4UUpNSm9kSV92d1BoTlFPWTZBZUpYVGZhRkN3V09oWlRucWthVEltbF9GMlFqME5naFZYOVczNzhTeUpTS3kzTUp1VEJwMTZnc1pvWFNfTEZ2Y2xBQi1GdmxJRUhG0gHKAUFVX3lxTE1kd3Z4M2tGR19lREYybGo3cmNrQ01ic2lPWFphamEzVGVxZlE0YmItczZ1QXV3NERPdV9FaTdvT2FBOTFCSWZjS0wweDhjQzVaVm5sVGlwWE81YmVUYWpleWcwMWdndmxMQ05EREI5WHhaX0o4NDdFNzZwMktMemJxT0tPY1ZLa2UtU0t5Ym1hODk3NlZQNkVHU0JrZThNX3FMSnRYRFVJem9tY21abHp2OHhYOWpYeWxJRDVXU1czd2JDNEZodHZsMFE?oc=5",
+     "title": "Enam kali gagal hadir ke mahkamah, penari mabuk dipenjara tiga hari, denda RM20,000"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbHYtam1UVjd0OWlHTWh4R0hLZ0Rjb1NwbXdZakZOVHN4QUVHbFByV1hLWmtPd2FLRTBNWC1SSDRxZ3RTVS1QSHJha1k4Q2VMWFVuM3B5WkRYSXZDUW5vSEJxc0pnUEdRcG5VWnRfRk5XS2Uwb0xSQzJJWkxEbGlwdDU2Tl90V1VoaGV6SnlMOHEzQUVIZEtObnNsZHhCR3d1Rm1EVEwxd3I0ZVVSVjE4enZ0NA?oc=5",
+     "title": "Lelaki pandu Porsche secara berbahaya dipenjara lima hari, denda RM10,000"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUVQWXlwaE4ycmNsMUFHTmpHTjJLelZmV1c3OFVNSGFHOUk1ZFlpdUxVaDNiMGtBWUNtajFFSUhaMWNWMWhNcjlpMG9Ib21IUnhDa2ZfMTdXM1pITU9iU3pMall5OEhINE80RkdVTFFHdjBzN1E2QVNRUDcxV0F6dkN4RGdMRFFxSnREbnVmVk4wOXlyeGVpS2J0MjBBN09xXzRvcC1rdw?oc=5",
+     "title": "Ratu Balqis, dua rakan subahat dipenjara 12 bulan, denda RM5,000"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "PETRONAS, TotalEnergies, Mitsui bangunkan hab simpanan karbon",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": true,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT0dmYUJCVUJRZlRmYk1adEY4VEYxc0F4YzNZOTNFUTlfMU9ZWmNnNTV6cDhmUGZEcnhQSFB2R2ZPSjdpUnNUeWU1c3oxWmlkVnljMkFocHBHOXVlYWR4VTRHSTRvM2JuZHpSc1pKS3h6eVNvSV9qSXJlYXVwMjQ1ZHFWVXZuUzhrMzJxWmF3ZmJuZFhMUlZGLWVrV19DWnEyU1FROXpyMlBJdHpBbVd5M3VvUXI1N1ZBb2fSAb8BQVVfeXFMUG45QUxCcnlOZ3hON3ZTaDFHd3R0Sm1vcEV2RUl5c0Exb3RSbHp6V3lERE5ZZl9DVVJHaUhtVER3OU5WT0VRZWdFSi1UUWl6OFRibjhXYy1ZeWtPX0drSjA5R0JkLVRyZmZ0SUVfNlVBYm13QkRmSmVBdVlJUzJrMmNXcVdRZ1RBS19aUVVLV2pjeHZsUlZlOVU5djZnZVZ6cWMydi1EQjhZQi03ZnpDdG9XYmZhNXJHUUpmVi02Y00?oc=5",
+     "title": "PETRONAS, TotalEnergies, Mitsui bangunkan hab simpanan karbon"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50M1VwM0o2VXFfei03Uzllb3BWYWRYOEcwZ21EMDkwNTJNSnBMWFY0ZG1EODQ0MkxTT2k2TUp3SUFtd09OQXVWVzdmWGE1aFpyMVpuRk1fcTVvWGhjWEhRLWtR?oc=5",
+     "title": "PETRONAS, TotalEnergies and Mitsui Sign Joint Venture Agreement to Develop Carbon Storage Area in Southern CCS Hub"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KWVFqU1I4MTBqMy1temk1V3lTVW1MWXZHU0I0M3k1WVZtVmVRYzl5UklBRWIyNktFNTRZdi1XOEVJSXpHckFVV1J3ZzVxS0tf?oc=5",
+     "title": "PETRONAS, TotalEnergies, Mitsui sign JV deal for carbon storage area"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "PRN MELAKA: BN umum calon serentak dengan PAS",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcTdwUFZrTDQycFFzTk96UVVsYW5pSnhFYlFIUHRnVmV3LWQ4YkZHc1dYU0xsbndlQmNPYzF0VEN1bzJqcTdrM2NpNksxbUtfS29XY2lhalJDNUNYOTdqYS02VG80VWZSMDItQmR2S3hvaEQzZHdvX0Z4VTBOTFg1RkZSU3I1UnhwXzZGWG5VU2VUdDBqNFpVSy14azFjUjN1SWNKWdIBqgFBVV95cUxONDM2NG9mdG8yYnRoVlR6R3JZME4wRmhJVzdGSk93YWk3czEyLXA4d0tCaThjak94a1FFS1R1UVNLdjM1Vi1qRG9FWGhVbWFUb0FsM3A5UlhhVUdJMGhkajNJYlN1bFI3TnZ0d3AxSlVZcTV4RHpoMU5PRFZiMWNjd2RLM055MGQyUklvQ0dCbU5jZzUzT3JQZkExZy1RdE5VQTdsV2I2RzNTdw?oc=5",
+     "title": "PRN MELAKA: BN umum calon serentak dengan PAS"
+    },
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbG95VGJTblZoWTNIT1c5U1NfSzh3d1lsZGNVNldOZ1hFazcyU3lKRzd5c1R0RkF2a0lES1F1NzBQcjBJSWZ6RWVlMlVqZHczZHBDMTF0b0x6YWRRc2d5MDlldXpSby1taUF2ZXhLOHFWemZiM0syampwbmdJMFp1WkkwU3hqcTRZeVRKSGU1ZEhjWm9KUXpQbmNRVkNjR1B0X21Sd2FIYmx3Ukd1aGdZ?oc=5",
+     "title": "Ab Rauf named BN election director for Melaka state election"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BR2RWaU93QXNEWk5xTXJ3LVlSWXpsM1BZdXFiRWZhQXE4VG1WWVNiY2llblJTRzV5WC1mUHdBTTlyVDBSelRWMUQ2ZFd1N2FZZ1M4MGRabVE3d3doMTFJbndR?oc=5",
+     "title": "BN, PAS kongsi pentas umum calon PRN Melaka"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Three Malaysian men's pairs smash into French Open quarter-finals",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX3plWVlqYkI0WWIwbnFBZ2lNR2czeERJVU5VUnoyejZ2dmo0blJNT0VGV3RzekxIelVxSTdDbnJsVG40bmgwSndNUnhXVmtySDEyeHp4clFQSGVySHlRMTlveWJ3VmZOVlN3M1VOdU5rajRhQ0VrZ1JtcjVPdHJ2LWFCU1hJamswQlNDaWtOeW1PMWp0QllTOFBtclBNNUFvWEdzNG0xOUlURFdmOEtscDh1QXd6Z9IBuwFBVV95cUxNckNzSEp2bWpyRWx6YVdVU2Qzd2RyTkxTcktYcFB6eGRsQXFseEU2WmpXb2lzZm1RdXJhemVRUnhBbzYyQUhmcVgxeFkwQllYdDBBbTNXUk5OcVplU3dSaGdfM2RiWTNHelFHZW5TNmRtbXExcWJJTDBob2gzNEx2YXRzVGZfODV3VmJ1a3NkSDNRUlN6UlR0eHhPSjRILUNsZmt4VUVfMWJDQ011eDFSdVZrNkpXVER4N1pF?oc=5",
+     "title": "Three Malaysian men's pairs smash into French Open quarter-finals"
+    },
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWTJuSG5uVk9HZ0NCNFgyRVltblpSYTRmSDZDTFRlVERJWFJFc0paeVhiLWFhRzB6cUJfdUdfNmlMNTFHMTlXZ0U5dEdJSnFfaXhPVzVDRm1ieEpWdUd5bjdwbVhlNU9YWHB0T2F6V0QzMGgzRE52SlR0Y2JuS1JwWmREMjRoVXZOMkVYbEtIZnh6UVZBVWsxYXFOOXprTVlUOE1peEhWVjlfeVFJN3czOWViby10UXVTREo1WVpTR1hhVjJ6YlJuVEV3?oc=5",
+     "title": "Badminton: Pearly-Thinaah dig deep to oust Carmen-Xin Yee to reach French Open quarters"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fOGlzY0oxWUdIdTF2NlU3dDRuNENNN0F0SUFDS3FzY2E4b0p1S3kzejE0dkVIQjdqaWFHSmNFLVpBb3dnWUNZc1d5YnJTTkhLMFIwdVpMY3ozcU9zNnc?oc=5",
+     "title": "French Open: Pearly-Thinaah, Two Men's Doubles Pairs March Into Q-finals"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Malaysia News: National, Regional and World News",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcUhrelJRN0VIN1ZteGhydkFUck1CaV9oZ3BSWDlSS1VvM09SVnBjc1lmaUxfNE5KMU9fSTgzVzFLVmctNUpBd0NvTVFsSzAzODhZd3k0VkJEUkdoMmxRVUdmQlI3SGVYZF96T2lhQ1FQLWp0NVJiY0FfMnhncjQ3ejJtNFV5c2EyQ2RaS3dXM2drQkhWYTl6UFdBOWlNNUdPeTJja3k3bw?oc=5",
+     "title": "Malaysia News: National, Regional and World News"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU3NsZU41SEtZTWM0ZWNjMzFoY1RScTRGUzJsdG9CMFlpQm5pbTdGYno5ZWFRVUREM0NCWUE4dGlCSXdHSUZ4Zk5lRnU3bmI1c1YzNk9SWmdiMENEQXhzTlhWNV9kTUtzamtZTHU5dXpDRlZZTWVfOHJES1k4RUZVSnpKTTk3X3dHZ09Cem5HUVpWY194QmlvVGw3aEFGZGM?oc=5",
+     "title": "DW News Brief"
+    },
+    {
+     "source": "大马交易所",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95T0xQYzV3WmwyWFJ0YW9PRDZ4eTY5aHRwWkZuQkx0dDh2SEF6Y0l0Rk1vSmJRZUxVUVFvbnBHd2lTTUkzSm5FS0U4T093aDg1M0daeXpyeEJKS3FiOExrX3B4M0RDXzJaWUlTYWFR?oc=5",
+     "title": "News"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Fortrea, Omico To Match Australian Cancer Patients With Trials",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XT3RSY2REUFFGQXNYeTluaG5qMmMtX3ZYNUJ1eVprYm50N2V4bFkzVlJpcWloOU96elJCQ3MxUGdTVEdhb083UUJ1emNlZEhRNExpUUFZWVV0UQ?oc=5",
+     "title": "Fortrea, Omico To Match Australian Cancer Patients With Trials"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHdacUhULS1oNG9uazJnbkNxQUt4Y2JreHRsdl9uYTNvSElGdm1RWlBYM2d6alllMUZCR1JjSkxJQW9TbDlFTk0ycFZuQ3lFU050ZV9zRk5semZUWFREVC1jTmI3elhLS3ZWbHByYlQwdXRtc19GTkNQMzdqSDh6SXFxNzBnVUlVTjJLTGJCd0hROE1fVEFVV0p6X0lfbGFP?oc=5",
+     "title": "Sindiket judi dalam talian sasar warga Australia tumpas"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RRWZHeXBGdDFORHhWcm5KencyaEZxbU5qdzktM0lhcy1wZk5NZjN6RzNDb3JhRUdQaHpNemFhTGd5REplaGVYUlRwUVJ0NkZWbUN0WVk5Qmg?oc=5",
+     "title": "Moment man rescued from sinking car by Australian TV reporter"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Saudi-Led Coalition Says It Intercepted 11 Houthi Drones And A Ballistic Missile",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLb01nTThBUDBuNU5GTnZocFVPcHdVTDRWTXBWV0N3MExRZkVURlhpV01HbGp2dWJlbVJnZjhNVkM1WEd1N3laaGMwZnJTSldMSzNGWGVxa2xFMHNI?oc=5",
+     "title": "Saudi-Led Coalition Says It Intercepted 11 Houthi Drones And A Ballistic Missile"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85b0IzYm9IMWZTbVYzQ29JNHNldmtwY0NsQUdDU05Ca2I5bGFsWjNrcmNXeUVZcWdhWHV6ZV9Zekc2V0VBQklSTUFWUDh1eW1h?oc=5",
+     "title": "Oil little changed as supply concern lingers amid Houthi attacks on Saudi Arabia"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yZ2dTanNHRmFaRmNxVWRFLXoxMF9wUU9hYW1udXV5ZkUta1R5SVVRWVp1eHhfUU5admNaQ0JWN1VZZTRrVm9hZGpVcEgzMGxCNm9GZXNtZkpINnM?oc=5",
+     "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Powerful earthquake in Tibet's Nagqu area leaves 16 dead",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 6,
+   "owners": 6,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HbFZ2QmxZN2szRDYzOXd2S205UFJrVlM3d2Z3bnpuZFpVOEVfWE9UM1BfWnNfMllodUpJN3JMVW43WmtyS1JCUnpMUVJOLXNKYU9COEZRZ3RoaEE?oc=5",
+     "title": "Powerful earthquake in Tibet's Nagqu area leaves 16 dead"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT3RUZTBjRENZY1ZLS2FfZzJIWUN6QVdCcnYzQXVtc25yZFJMZTg0UVpSMlAzM2ZqQzVzSVBvclp0NFZDb1drQ29zZTlnakRnNXc3aE42R2ZId3RqSll2Q0dBamdNdzFUUnVTX19vWC11XzVJTTZ0QmxIazVPcDY2S3pFeDduc2oxaWlTQ2k4b1pQbXo5RjdNb0Q1TFBUbHh4UjZfcU9laE5sdVc1Vk1PUmRkOVZqZkk?oc=5",
+     "title": "Injuries in China's Tibet rises to 76 after earthquake, death toll remains at 16"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORldaOFZPaTBpbVQ2N05EYjc0VlEzMVFUSHNTY0NZMTlUQnQwRTd2MTk0YU96N1N6WUlFZ2R5c3RnZ0FCNWkwemZlV1FmM3dfSVlFekRYc3AwQ2U4WmhESG5pT0xPT2NDUVNxLUZtMlFQNmFkYjN0TmRfUnF2azNnR3Z0aVVsZE16OGc?oc=5",
+     "title": "Powerful earthquake in China’s Tibet region collapses hundreds of homes and kills at least 16 people"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMlA0M2NiX0FrVENyNlNoaWdITmhpbnVNODZndmxlSTFab3JBVjN4M1NSMVFtd0F1UXM4N0xJUHZzSHBjb3h6TFV6OVJHWWlyclBRX0o4ZnpKQkJtZ1JJSzh2UGZYLTd2YWlMN1habW9saUotcTZSZ1MtT2FrcE9TQ2VVWEZTbjBwVnpvXzQ3SUVGb014azFr0gGcAUFVX3lxTE02cGtpR0dZR2FtRlpNUlBOV3Y0LUlGejFST0JNWmVaTVl0TmtXM3NwWE12TGtTTVZEekZObjhWUS1uVDBUSGxrNUNZbUpVN1dTUUgtc0ZuQ1JOVVhYdm9OTnJjR2ZfVkRsQ1VZb1BkNmhOUmFlRlNnQkxLZjJTWXRGRUdsRkdSekNWUDNqd2hmQjFmcTZrdHlQeDVHSw?oc=5",
+     "title": "Tibet rocked by 7.0-magnitude earthquake"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYkJSdXF1cEhtY08yM2JSS3hGRXFjYUhEa29mMlZxaVN2c0NKSmlCOXdPNW9KQkNtR1RkWEJkNjRheUJrdnl1WmVHRjBWUkR6LXRycHJFWXVQeG8wMjY4Q0ZtUVZKQTNYZlEwamJ6SUFxbVktRW8tenVBLVhaMlUwcC1R?oc=5",
+     "title": "At least 16 dead in Tibet after strong 7.0-magnitude earthquake"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOVlqcVhIdFVSLWctSDNYdHhkRHVZNExjODlkaHRHd0JTM3RkWFJwYzlRSFFTMEpSS3hmNHBQamkzUE04T0tVcTFxWGZUWDFtZGV3SzFaU0prQVlBUVlTTmk5djlZQy0yRUl0MmxQcHZFQm9laWxaTDJ1bkJVRFZzTmNMYUxrcW5mQy14Zy03MXdrTWx5ZGItc01PQjRzVHhodHNn0gGjAUFVX3lxTFBNYlQxSVoyWi1ENHA0WG5UclhCNFhKc1NCUm8xNjdHZlpqRUVYUlpKM3ZZOW1DREVMc2ZjTW9YUk9SOHE0eDhGcWVQc2txU3pkS1JqbkF6WXFabWJ4SFMxQ05yay1aODFwWHpqcTF0emo5WDVsWU0xZkFLMEMwY0xNLTB4MGpuYW1YMExya2xEbFlxSXZpalN2YnoyWkFfV3FnWHc?oc=5",
+     "title": "16 killed, dozens injured in earthquake in Tibet, hundreds of homes destroyed"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "AFC President Backs Infantino For Fourth Term As FIFA President",
+   "summary": "",
+   "scope": "world",
+   "category": "政治",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93MDAxMTNCZVpESUhsdVZVeGpvNkdoSHhHUkdGVG56WW9LX1dSS1Q1cVNzeThJdXZtOWo4MFAyaElVdklYeUI0NmpzUXdqUDZSY09IdEtEb3l2Zw?oc=5",
+     "title": "AFC President Backs Infantino For Fourth Term As FIFA President"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13QUlNWnh6MUpNV3R2WXdNVzNjZGlIMzR1cjNLLURuRXNGTzZhYXhWa3dHS01iVmxVNFhlTzVKTXVDNnNveUNCLWJfbHk2bm95ZTNWeDBoZzEyVjVHT05yM2tZS1ktdTNJ?oc=5",
+     "title": "Gianni Infantino: Asian football chief gives Fifa president re-election lift"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXIxZzJmbWwtZ1dNMzlPUGpfYURvZWVvMUFMLUVBU2JySVJNbDVVMnNiY2hIODhCRGprRWk2N2FqWTdCM2gxZk0xVVFnaXJNS2c5djU1T2hnMlR6NlJUWFRXMFZhbjlZcXRiMTBLYVB5TVJfLXNqQk9OY3hOS1hLamE0Xy1PSkRwb2pQTWdKM2hqTFotaEh2WVpFLXJjbnBoOTE5VTdHTVM0VENtTXN1YVVvczFMTDVn0gG-AUFVX3lxTFBURzZJRmVFdDJ1NlBPZWlFUGtGWmdGcHVpcEEwSkhVckdNWUJqMDJncUxyQ2JwTnh4aDV0anJSQUhWZjE4WjFIeTFBTXA3YkJXbWJHOXVMbTFGRVN0QVhVaWVscjJtLXV4bENVc2ktcVBSMjhEbS0xcVA5SDhKdTV5VGhCWDBJSmNTN19MaVRWM3lPcGdVOW5TVHh5VXE3ZG1keEcxeGt0eEJ0MjZYaEVuMUJhNkk0YnBuNFZBZmc?oc=5",
+     "title": "FIFA’s Infantino made to wait on Asian support as chief coy at AFC session"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTkt0M3JOdk12dV9DUkNjUWo1OVpkUVQ2S3NOWnhfd2lVX2lIbng3eGtrbEFIMFhSVmJsQUMzQ2l1VWdfOXl2NGRnajdyZDdvYnh6WHRGTUltU083bGNvQVZTWWo3Nnhna1gzcU5HRFhiN254TUVlUTR6U25MMzgxMlpEMUFMZjhEZ3VlZ1BSLU1ZVWxpbTdzYWtpeFNVVTFJbGsxSg?oc=5",
+     "title": "How Russian aggression is shaping Bulgaria's presidential election"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Taufan Champi ancam Taiwan dengan angin kencang",
+   "summary": "",
+   "scope": "world",
+   "category": "司法",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZFFJLVMwVHNoQ3JjdG1YU2ExZmtGNUR5alpxR3oteGg2bk9aTDRvOHAxVldmUFpsX0ZKcHlucnMwbHF6S01RTEtwejEyNGZKdDhlLTROMW9vR2hETk5SVGJhMlluREVVdUdtc1hzY1p1ZG9vNUxHZ09SWUtNSHhpNE1xRjlkaUE1bng2elhZVEtWMy0z?oc=5",
+     "title": "Taufan Champi ancam Taiwan dengan angin kencang"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSkppSzFJMWI2bE5OT3FVMnR3LTAwQklDLXJnV2lVX2EwbWtneGd1ay03REY5Y3ZSLV9leEN4Z0x0S1NZaTIwVkFmZHU5bGZsYW1MZjlzbjN0UHNZcXAwRkdmYmpTbWkyRThKenJSdGswSk9RZEpiMWpKczczQU40WjZqSjNQSHR6YU4tbXIwTks1OGxmZXctN2l0VzQ1blp5WTlpdUNPS2RaZzE0eU9CYzVqMVFZc3MyTXdmc2EybEJRRUdFQVNjT0pENWE?oc=5",
+     "title": "Taiwan shuts down ahead of Typhoon Champi, nearly 1,000 flights cancelled"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMU9kMjNJa0UtaE9mX3FoWmw5QkVjODFZVDZYdUVNanNxRkZ1N1hXQnBTYkxiYmhTTGc4MHhVVFJYcndJLTZKSmk1VGIwY2ZycW1ZZ3llV0hxV3kyeFVIczZVTGFZbENDWEdINGliVHo4MndGdHJYXzRZVXlYWV9iaUNIRU52aHBhQVQweS15WlBBMUF6cV9ZYmxvTlBmbEZBd0E?oc=5",
+     "title": "Taiwan shuts down ahead of Typhoon Champi, nearly 1,000 flights cancelled"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSkFjeTFDQkRzSEZtOHZSQW9IY0J5d0ZZRTBubXBHaWhRT0plSFd1emtCU2RDbzdVSFFKcC1TN1VRcEJrajRrZFZFV0JYSTZWMzNnMDNUNjUtVTlobVFGcV9tUW1MV2tjUENoOWNGbndoV1V5aUpleHE2c29pZkIyanhuMVBDMFZ3Vk5VNnhkR0ZNc2tNa0hmSXl4Q3VVZ1Y0dkpxczdB0gGmAUFVX3lxTE9tN2NQOHdjV3laWnp1ZWc3RHI4dEwxWjRNaG5nUFBwTUxvV0lOVjlxZjYyUjFnczNNVVpTUzRJTUJMSTJ1TDFrT24yVlhPU2xFWnNtSlk0blQtajJMTVBRbi1PWThhd290enlhanE4OGpvQWppQU5HQ2FUcnJhSGRNWW8wSEhObURPZnVId1ZOVHJSU1JDbWwwUEJEejNKZ184OUE4cUE?oc=5",
+     "title": "Taiwan braces for potential direct hit from El Nino-supercharged Typhoon Champi"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yTVNOUmNuUEt3bDA5elVvWlMyZnFHVEZIOHJGUVBidDhNZ01GZnExZ0pLYlY2aHppRUFGOHluOXNpWHNhdlh3anJMSm82Zk4xSDc0bW1sTDQ?oc=5",
+     "title": "Ukraine hit by strikes after Russia agrees to new peace talks"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVi1TUmlTaWNYT20wZG4tbGE2VTBkc3hzVlFoanNac2Y1eXBiRDFwTjdVVHFUc0VKNFkzSDk2UjZkaEx4Y01BYkQxOFByVFFQWjREVUJQbDhDZTJYaW1RVHdYbzdiQm9Ra1ZKd1IwWU9nME1BYURIbk1jdDduUjRGNExsbXVSU3IyeEk3MEhFZVFQNnBIMTJaNU9uS3pEdWtnTWhUbkFfN2hzVm5hY3YwalJYbzA3QQ?oc=5",
+     "title": "Putin says talks must focus on security for Russia, Ukraine and Europe overall"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcUl1dGl4Qnd1VWl4dXBSZV81OUIzejg4VkdDTzVIaXJ4UXFKbkczMUdrQW16QVBZRVJxRDdEME5FaGV3RXFXUVBaQlk1V3M2Y3Fsdi1LbzZxT2RHTUpBdXp6Nmxlby04MUtpTWlXVnQyYU5MRmw0eThqSV9CZ043eXpsSTJlOThCX1lpYTJ5cHFQZGVxSEkxUDBSVjE5bWh1dEtVX0U3OGVnV0xIYXJj?oc=5",
+     "title": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYzVzbHJHNXhzNHladFBYeUJLaS1NWVFMaXhfdlExM3FpdE1xMUh2d3hXM1VmZTJVcG14UzF6eThzTUxhNi1SRElETjJaeWhNVWZtYnlXekktNFRsVjhDc19WSm9lcUU3ckl6WXgtQTZiVE5OR3B3eUN0ajJMNF9SYlFtOExYYUtTVjNNaXBKQmY4U2taaGluTEhVWTNrWXFpUi02UXp4UFRjOTViakZYYXhuTzBhdHVUdG0zYUNjZDBHakZRWWxPcnVlVWhmRDc5UUkzUTU2cjZPRkVK0gHcAUFVX3lxTFBNQWlCMHlHTTFxdVpYamFDVzlFMWpQVXNyRkVqbHV3NE5JUWZzT1h4QWhzb3A0MmMzay1kSWNUU2p4anAwWl9iSm5CSEwyVzZRNmhXOWdDdVI5XzNxZTNpa3FZUTBFNC1MZHBIOXBwYzdfNEc2WFNreDVKVzZfMkpHWEF3TFZjQUo3eE5QWGpaVjZYdlM1Zy1pU2cwUGVIWUlWRlg2OXRVSktZQTFjNTBiczVnbTg5clBBcTdiQXpRcDNSR3U5Y2tzMlYxcjk2YnlYbjlvVk9tSzRjR2I?oc=5",
+     "title": "Putin proposed trilateral talks on Ukraine. What role will China play?"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Govt reviews student protection policy after teachers protest",
+   "summary": "",
+   "scope": "world",
+   "category": "政治",
+   "importance": 3,
+   "owners": 3,
+   "work": true,
+   "links": [
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGh5RTFDR080ZldnVUlQWGdiN3NWQlJTQVlTZlQ3NUI2U1R0UVFJQldjdll0RlhSTy1YYXdxcWxJb1lvZ0xQNWpSNEFhRmJIVGF2cl9vUUZiRGlmM1U4X2lHcjVxVkJMNWdXdXp2eHI1X3Q2ek0yZ011RVUyS3VlZ05OaEZ4dmVjRUpLNXR1V1RvekpVWTE2ZUZrWUh0S2NQb0ZlVnhMNzhndnVPcEJmWGhEMDdpcHk4MDBjWU9WYw?oc=5",
+     "title": "Govt reviews student protection policy after teachers protest"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa1p4MEE0bE1INkpNQWx5eFk0Qm9iTkdTQllWRXYzMlpHU1c2S1RXbk92cWlmdXdma3dRYi1oVHdKeF92ak5yNDVzMzBTd2JSY0lIYzBvZE9KVnBQaGpiWEpPTHBOc1ZzSDBWYk1uWnlYOXdNR2otdHViNEo4dXotR3YwaU9oek9pX3FWQmdDUzc0YURrbXRvUGI3bXlUVlI5TUtTaGd3cTUwaEpMQ0dz0gG0AUFVX3lxTE9xTXl1amYycE9PbWNlcTdfcnNHcERMMlBTcDJkTUJsd3NLWEdEYjBVcnQxS2JCNHNBclNpOTdUanlHUGtoQlI0RzNzMTZVaDM1cGFucEpYMTJ0SFVMYXUtbE8wZHpKNjlpOVZhdlVlaU9yRUJrRkkyRi1HQ3RMSkMxU084cmdqTDlFRUpWU0xmT1RwenRPakRhOFd1WGV3WGhhV2lOM2dVSlJjMEs3eFo3RVVtNA?oc=5",
+     "title": "16-year-old Malaysian student attacks his teacher with axe"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX2pZODB5Nk5TTWlsRlpIR1dLVGNKSzZyTFlmRnFIUVM0ZXJDVmlzdnJJWDNaY21IYjNnU19qTmx1d3hUTHBxWU04d0dDdHVpS21KZGlPZWtTbGxrT013cTJEUUdVQXZneElrTkgxZWlNWFg1azZpMmxYR1g2Rl9wZkZ3?oc=5",
+     "title": "Teen arrested over axe attack on Sarawak teacher; minister urges public not to shame student"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Tech sell-off slows in Asia as oil hits five-month high",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pYm5nb1pMVTRyN1NQckpscVVEZ0NMTzV6WmhuWkxQU3JzdFZRcmJIUVFGSnJobUJfM0QtX0hnTFItMVp3aklId0ZNaWVLS1BW?oc=5",
+     "title": "Tech sell-off slows in Asia as oil hits five-month high"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMG5uTk9BQ2lzbUtHT1k4Nlp4RlRCcXFvVXR5YUhCamhubGQ1SlB0c2FYczVLdl9ESzJBRzdkNmVuYU1ISVc2MndXWnBZTzBDNFdzeHBEQTNPTGU2SGhBTmtKM3Z1SWUxR2szN20yYWIySGIzUXlZcXVhdGNtTlJNMGN1WQ?oc=5",
+     "title": "Tech selloff relents, oil at five-month high"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSkIzeWdNTnhad3RfQTdsMFg0OHQ5ejlGVjF2R016akVNelJYNDdVQVNsaE5PRXQ2SWJpT1JDbG5RRmtDdWFEazN2b3FLYkY3eUx5Rmk4bThDcVZmWExKcTFBVW51cEpSUHBPd0ZsUGVnWXF5eTJxY0V1aHlaYUtQTHhsYU00WjdtWk8yOS1UMW9SVVAwN2I3bU43OA?oc=5",
+     "title": "Oil prices jump to five-month high as attacks threaten global supply"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "US proposes curbs on investment in Chinese biotech firms",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MTUJlMllPbDZYdkRfZW45LWZNRjd4M2ZzbTBZQTdTX0NMbUJjbm5pbmFBa1BWSFdqVXk1VFhtNXJZX09MdVYzM2VvUFpKSlhZ?oc=5",
+     "title": "US proposes curbs on investment in Chinese biotech firms"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOHpQWm5nQmJpYnlpNkloZEdBcWdKYmV2dkhOcFhuVEdtVUJBNlo4bVFZSkM0NmNVb3N3WEJ0QjYzekhrOEFvVmgzaEMtTUxtVnBpd0VIZm83RFpPOXpPV3FpVmtmZzNfRWphcjkwNURkMnk4MkhSQVI2NDgzRjFveWg3ang0VFlQY0thTzVybzdkYWRSeFUxdDYzMjBWU2k3UU1HamdFRVoySEJYeFJYd0h5X3hrY1l0dEtXelpCNA?oc=5",
+     "title": "US Treasury drops Venezuela from countries facing outbound US investment restrictions"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSE5iNkpiZ2FiYnczNGJ4Z1NXUzQ2WU1OaVhXbjlRaXpHVy1HMHg5S1Q0dFgwS1Y3ajJIV1V4UjBIcWxodTMtZmJtbzZqVWZ1bVdVWEpicmI3dktxdzdfOTZkQW94bWVvR19tR01OZ3QyOFZiNGRrN0I4TFdVLWZNNWZkZk4zYzI5bk8ycjI5SExjdlVFUDNsMVJLQks?oc=5",
+     "title": "US Treasury proposes a rule to crack down on high-tech investments in China, other adversaries"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xQUJkVUhrLXRrSThMSERNLV84TVlFbm4za2NQVnpfeHc4RHFpVjRtTzdOS18yY29yd0ZwNVdWZ0tmb3A5VGEzbGJBWWUtOTI1QmxrM2FyV0dsVzg?oc=5",
+     "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRWVrSU05RXd3Q0RmUmhPdUJGT1ZlOWpFcWY4QWM1QjYtdXVBOFJPd194U3V2Qlp3Vk5VLXN5S1VyMW9qdjR6aGNRbDFCYVBrVk9TYlRoelNJUEZBaDJQZDRpREotVEk2M01IMzNZekVoeWEzV1lxMTViTjJ1WlZFMTdhbWNSdEFUSFVHd21yTmVHc3o2RVdNME9fQVJIU3p1M3A3LXVjM2pYU05waVBWNEtOcXJlUQ?oc=5",
+     "title": "Zuckerberg makes deal with Meta to help him pay billionaire tax if it passes"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPajRUS0VYa1ZiNFRLWWZlaVQ0eXZTLXNEZWgtTU4zRE9VTWp2UHRqY20xNkMzdXdqLWJjaExyRW12MDlwa3FQQWo5T0RmSnlyY09ZYVZYU3V4cmJoVmtEeEVsM01Odkp6NUFPcE5ieFFEejYzNjdXbjdYek9LbGQwY0ZqU2E4MWIzS2JXRlEzOXNuc0JBc2VJZkE2aWs0LUE?oc=5",
+     "title": "Revealed: billionaire Reform donor was in business with foundation linked to Iranian regime"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "PHP: What is it and why did it spark a global cyber security scramble?",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1V0VTbm4wQ3BmN1hGMnNiSFRrU3FMTlNGcEV4Nzl4RVgzRk9NNjZIWXVkaWdFVElIZVRQUGdjbWZ6Wk1CUHM5djJJMGxqZVFlVjJqQ2tjUWRoZTg?oc=5",
+     "title": "PHP: What is it and why did it spark a global cyber security scramble?"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeTZpekQxR0pOZEphU3hQT0ZFVTZqMVcwZTVzcndlQk0xMng0d3R0SFdWblpxVnpPR05TTnJGOU5JWFBBbjhCS09JaEd4VnlpTnpiRFk0ckpER0lkdU5BQWI3ZzZmVnRYcW9jNUd5Zl9pcXE1YktldnlnSFZKTG9JZUZNZVFGYmw3VDBBcUVWWUlmNlFDNDFxbkJ6bExGcW9EZjhUNi1nenZHemliLWV0YmdmMjB1M1hWTHBKT2FB?oc=5",
+     "title": "India's eMudhra exits website security business after flaws trigger global alarm"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS2k2Vml1ajlwX082cTJyV2V0N0RPUmItdGRsYzQyZjlseHdXNnZyM2tEVXVCTnJUVFZrTTJXbmQyU0lMQS0xdEN2TkxJMGJ4aTRpdVRXM3RheFZ0azg1ajNHSWEwR2tfdzBfYTVXOGlYblROdTdQOXdlT2prUkc4OWFYb21sMmRfQTRlSmQ0WVlmeEFsX0dBWlFR?oc=5",
+     "title": "Germany news: Government websites coming back online after major PHP security gap discovered"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZWE5NNWNfS0NVRTFRcmNVZk1BVTZMQ25KRVpwS3hlWXZia1k3Um1MNTA0RGlvRi1IdmdVa180dXZpSWRDRzlCM2VCVll3UHlvcUJWQjlKX0xJeDg?oc=5",
+     "title": "Ukraine says Starlink still restricted after Trump says limits lifted"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeVl2TFdMRGk3SHRydndCTVJDMm5QSV91MEtxODd1aE5QNmxXSk4tV0FmVUlYcUpwU3JieHB1MFNCbXlNMnY0eEtvMnh4UnpsZURBaWNacmFBRjVLZHdNNk1pY0NyU1lwREdkNnNmNlY4UU9MMHZ1c2Z3cnBNM01PcExkYVlaaVRpWkNCcGpfdHc3eFRQMGxRU3pPM2tEbmp5Z1ZJSFgyZ3IyNWxIYXFCa2lsQmt4Zjgwd1F2MnZR?oc=5",
+     "title": "Trump says Musk restored Ukraine's Starlink access, declines to say if they spoke"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd21DS21xZzFQRGFTdk03LU85NnRNeU0xb29ZVXpTcTNvSDVWTnNOSzFrYjUzVjRocHltSlBmZ2tCVWE0WFJUajRRMDU4Rnp4ODFibElPWV9KUzlYU0dubE5ELU9UbGV0ajNoSFFtNU13czFDUVNrNU5WbzdJWE1sWFZ2bDNFM1JfXy1n0gGLAUFVX3lxTE1BWFlDUm11cXJ0amwzYVU5NkhDeTY0eFJ1RkpDOHhtU1BUYkJacGkwWGhlUjdKLTU4M1Y2MWh5ZHJmMkpzazZETXRDcm15N1Njb2ZNRzl6UHlXQ2VNMnFpZEZRbnpJcTI1STVsbWVfYWpkTGNubm5jSTV4b0FBYmNSS2p3NnRObm5oTVU?oc=5",
+     "title": "Trump says Musk's Starshield system 'back' online in Ukraine after reports it had been capped"
+    }
+   ],
+   "new": false
+  }
+ ]
+}

@@ -1,0 +1,532 @@
+{
+ "name": "2026-10-23-noon",
+ "kind": "daily",
+ "slot": "noon",
+ "time": "2026-10-23T12:05:45.347175+08:00",
+ "items": [
+  {
+   "title": "Waze denies being a security risk following M'sian civil service ban",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 7,
+   "owners": 7,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTHJ6UGJ3em02R1hBcnBqWlNPLXlfLXJZTUZndWF0RjJ4emxBM1doa24zMzNDc2xVZEJuZzdSdmctem9mVGtOaEIwQnNMQWRNa28zVmpMM0l2UmdTa1NQci1fR1lUZVJaWEwwLU1idXI1ZzVDa3Bsa0FLeUFVdVQ5VWZBUmNMTlJ0b0dHSm1LOTNpYjZaRC1qMGhVSFd0ZUNDYWo4SFEwdlVDY2FfdWVxMnRVRjk2ekXSAbwBQVVfeXFMUFFYblo3QkdIU1RWbkJRX0pJdUlWX0I2azR0NVo5SlJpNlFrak5KSEpnWjVqZktkU2VrbFRwdGhkTmZ5Y1VZOVRsUGF3c21yUmk1dThjZlpzQ3dadVZFVk9rVWV1ZkVaSFl1bHdVOTJQUWl4N0N1SEhHeE5BWXIwQUtfN1BoTjZ0N3pHRDBuUTdHWEVxc2NDNDRabWlXYVROZ2paS2ZfRXhmaXcyNXFfTkxOLUZYU0VvVDRXcHI?oc=5",
+     "title": "Waze denies being a security risk following M'sian civil service ban"
+    },
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYzlPbGxRN3FxZmZkbDhrYW42Ym9iYW9qdE9GdTVqcHlmc3ctYXo0elpqSjEtbmZWTmxVcWp3UU1FTTVzeURCVC1UdkZzVnNoTDYySkJRYU53MjlBYTJqc3FSM1dNT1lCVWo0WVFwUlUyanlRYUNZMS1HVzVwcmRkUEc1bDFJYUE2VUFnamRFQmM0dWFCaHBUOXJyTHVjR0ZCYWxTLV9fcjlZSDA3bWt5OUZOaw?oc=5",
+     "title": "Civil servants who defy Waze ban subject to disciplinary action"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUHdVTEV5MVRGVm5Ic1lzM0F4bmRSSVFmZU56TG1ySXMyQXJyZVk5Z0tpaVNFbTFMOUg2MndaRHJ4VDl5M3JCOFVDWmZGM0x2c0R6S19HSjhZTUFnZkV2S21ORUtMUG5NRXl2QTlIbG1haG5wWnIya1dINFdQWnpFUVNuUzZ0ajc2Q1JsWHdKakhILUtEV2kyUnZSSUIxX2VQSk1FX0VnamdaMUNX?oc=5",
+     "title": "NSC: Civil servants who defy Waze ban could face disciplinary action"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbW4xYnJrTlhDS3RiWS0wcUNEOW1GVGpUamRNU3JPcE5LeTQ5ZFhsNG5BZlRMODB2Vk1fWk0xbEdyOE10NkZtdzI4anA2eWh5WmkzVkNHTldKeHhnNXZXUWRrY0U3c1Q5ay14LVRzY0pOVUV6dU1UNnpqTUJ2WG1rU29FNGZDSTVJRUs4NS1Yb0JVQmZxY0ttcDhCclI0aVpVbHpsbFg2WWNyQjg4NmFsbTFxWlNuZlNEYkVKZzhyZ3BNSWh1WkE?oc=5",
+     "title": "Civil servants who defy Waze ban face disciplinary action, says MKN"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpUTBrWC1xZ1RtaU1JNG9MZzc4YW42R0dGNDVxdmNGN3NwQ3VMUUZ6bnRmVjJOcTRTVEFfbUt5QXllYi1MM3B2Y0o1TjA5Y3pq?oc=5",
+     "title": "Waze ban applies only to public servants on official duties, says Gobind"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRzhOdEhtdU5na205RTYySDRHVUI4bTFYT1VsWkdaNlpjaUw0UDJiODJWNU5qZGtwWTd1UnB6S1NGbUVjVlFaMWlmbF82NzE1MFdBQlh2bHZURUVIdXNhOWxXVnBrUF81WkZzejNPMmJKb2NGWlVxNW9RaXIxeEdxRjNoTVVLN3FFZU1sUA?oc=5",
+     "title": "Waze rejects Malaysia’s data risks claims after civil servants barred from using the app"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRmRqRS1Fc3lHVUlYUEs1WWdmSDZDTlk3VkFFTUFQc0JZbVl6UHRlSEhZMTB1OWFjeDgxQWNmQXljeTEyc3cwN2g1SEIwMVhVUXJ3cklXMDVqS3BvcE9sanBlOVdoUEZFNENpell2VHNTMlBNcko5Y3RHQ0tYVmJfNk9tR2hrMU9uTmlwaXhFeGV6UQ?oc=5",
+     "title": "Waze rejects data security allegations after Malaysia bans civil servants from using app"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Human Resources Ministry lodges reports over alleged meddling in TalentCorp review",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYnBVUldUcHFvckJSU2dFU1ZhaXBQbG8yU2JCaE0wRDFtaWxfLURoOXFrV0xkV1lLcDVLclF3TkJBYldjS2RuclZ4RXk4TGlqY0ZtWFhxNF9KY2JsM2JuWXRSanpXNzFXOXllcDV2dDBtdm95YWxPOWVLb3QxV3JhUGpRcW11UkkzNEtBLUp3ZU5vbEctVnBBdXJDekdWdWVUMmNxUGVqN1MxUlg2WUFlX2JR0gG3AUFVX3lxTE5SMFJLa19EcllDYkxRRGZUVFc3WTQzUmQ0ZWpQREl0WmFxU1Roc3J0WXpvc3dYdlVxWHVQUEZjVEhZQW1uSDZsamRFR0lwMmlJdVVBUmtUNjVySEhBVUpjWFV3ZFpUQXRWcGg0ekllSHBfSXFEQTFDRHNERkEyX0JxMEgxZXVLcmdWZWoyMjItX2pMSGMzMVJBNk1jcnhQMjNpYVFXRVExX0NsRWNxNWZBUG5DX19LQQ?oc=5",
+     "title": "Human Resources Ministry lodges reports over alleged meddling in TalentCorp review"
+    },
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSVBaSVdkQU5sU0h0Qm1RT3g0bWZnWE9zNHY1N3NFTWg1eUZFQlZGMlZJSUFUX010NTlSbzlLai0zMmpKRk5iMHZybklaSkFRVVllaS0xMnBwdndBX3RfX2R3Rk54cUUzcW5jeUFUd09zU0JEZ2Z1SWlFdHlvR2toZHhaeWVoYXg3RFNHTWJvd2ExZkstcWJwOVRUWjhYLUFCbmdZWmdpczNWVGNiMUZCZA?oc=5",
+     "title": "Reports lodged over alleged interference in TalentCorp review"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQVpZYlplOGFBelJNVXkyMV85cFJJMU9PXzNCcUFXNFl1RC1VNHdCLWxPNmNSaDVhX1AzRnNWTl9NNU9OUmNEOGxrSE4xZzNMT25sVXVUXzR0YlA2cjZqVTRIYmFhcVI0ZThSVEthdHkyaXhtUjhTc0Z3ME1JUnRUUV9MRWprSDJ2Sm1DTWhZeXdqMm9vNW5HcXB5WnR5bWZ3dzFrMjBLMWdqandYVmN3VnA0N3poN2FwczdKWTBJaw?oc=5",
+     "title": "Reports lodged over alleged interference in TalentCorp review"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fZ1hmV0NobWhHRU42ZDNZSGZmQ2pfWmdnYkNuQ1ZDWFFsUUtldFlmNTkwTzF6d0h6VG9rNTJ0dzZSOGIwZGFvMUVDMEhtTFZPaUZ0aExtQk9nVXM?oc=5",
+     "title": "KESUMA Lodges Reports Over Alleged TalentCorp Review Interference"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdHNNOWtQSzBKdnc1Q2xNcHdiTC1KaUNLeHJLbE1GdDZRRnZxNlFZR1FSVGtzTDZ2aG1rbDJoUWNVSFhNaXlzMEF5QnFTMjRIQzFvZkdaSHFIMTJrOEkycThsQU9sSThBSU11NHNaeGp2V1B4bTU1Z2QtT3JrTDlTbTNYX0Y5U0VxSERkbnB3eUxjNEFWQ01sNEd0TnQ1dVU?oc=5",
+     "title": "Nobody Wants This review – prepare to fall in love again … with a different couple"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Bursa Malaysia ditutup pada paras tertinggi harian",
+   "summary": "",
+   "scope": "my",
+   "category": "经济",
+   "importance": 4,
+   "owners": 4,
+   "work": true,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVG5OZ0JudDZTMU1HcHd1STVtTVFheko1UEs4Vk90QUVVTW1jUEwyUFNtaTI4cC1ZSFFCZGFCUE5BdjkyQWYxeHVWSkpnOW1PamJHZmcwRGxjSHBuVXBEdG5hYWIzYTI4dGpNeGl2ZWNwYWg1QkJKeWFFZkFLdmh6bEU3UXBILVhIYml5b3MwSUludGwxQU1TMXpYQWJjOGRPNzZrcE5TczM2MXNR0gGyAUFVX3lxTE1SOF8tSV9xTUJlc0EtMTh2aXQydGRzQU82MVVlcnRpdjlSN1o4QlA0SXMtc0UxOEJJZ0d6UndQalc1UGgtVGtET0xNaUE4aFZRNEV5SF9aMVdRTXA1cWg2Ti1rOVNYSDRnYzV3T1JlNmlDNGV3MFFiV0ZuaFVESExzdzRpR21WOVdiSlk4YXVSeDJ1bVhaZ2RpOW5BSV9oVXVPcnZEY25rYmJaMS0xN1FDZmc?oc=5",
+     "title": "Bursa Malaysia ditutup pada paras tertinggi harian"
+    },
+    {
+     "source": "国家银行",
+     "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxONWNkaXZHdGhRN19uM09OX01OSjJLbUxKdFpJZmZfMkxpRl9DVVhuUjhtWnluVUFGTXBFOGc1MmUxeVJsdmt4YnFCcDJpajNlRjRaMHgxeDJ5cXJtdU14YmpTb2U4LWVUalV5OTdJZVhNOE8yMnNWNjFUVXFkZm1JY3JTdDZrMVp1djF2M2Y5aTl2MzB3a2IzOUtGNzd3eWc0a3ByUUVQOGtFRHdvN1VRVV9CNVg1akI2aENDWEZfMnpUSGpJUmplZ2RKQkQ3OWQybVpmNGE1Tkx2OWxIT3B6YmtoU0NjdHRST3NXYU1wcHJWMUZBVWxKS3ZjaHBTUkhjTjNhUFRoR1NMTWhja1FkQVJUcXFwNlp4bVFzT0tlTm5SWW5feGFtMDNIUG1hQUtVYTNJd2NsSFE1MVBPTkhNSHlyTzRNUkdidHVpSlg5S2pZOUR4Y1kwWkxMR3d6WUhUUU1pVWxnNnRSN2hQOWlBaEpxQm9UUHRYbjJ4cEpnWElFRTJWWVNyNWEzTUNBVW5MY0ludklEaUZHY2dPOHc?oc=5",
+     "title": "- Bank Negara Malaysia"
+    },
+    {
+     "source": "大马交易所",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10anl6ZUlWa1ZTVnAzM1ZnV3J0WU41M3IyYXliMXRsa1JFZW5sMU8wM0Vvc0JYUVZ0T1pSSjMxejFEM05kVW9YWllqand2VGNjcjJEQU9BVFlIekFSUDNPMmgxU3Y2Tm9nTHYzdFJUZ2w0OEtvaV9sTw?oc=5",
+     "title": "Market Data Overview - Bursa Malaysia"
+    },
+    {
+     "source": "国会",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sMm5IM1RadTVzTGRLSm9BUE9XeDBIOWNvTWxkVjhHcUg1TkQ4UWZaeTN0a0VuMDJKeWRpX2lpVUlsbTF4MjlySmZ4aWdNT2p4Vjl3eXAyYm1USmtDYmZfUA?oc=5",
+     "title": "Persidangan - Portal Rasmi Parlimen Malaysia -"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Barclays mahu buang 5,000 pekerja bagi diganti dengan AI",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0gwT1dzZFZqQ1VWNkRibnJHdFNpZ01IbXhVQUdUcHZFa1dKQkR6YlFFSThyZUJTbG43NXB5NTZwOWNyNF9SeGZuZXpRVlpUUkw5aDVPSkJ3S0hwQjhocmg4akpCSDFkZS1WZHl4Y3lXamJmT0VWTFlTMVlTYjlBeW9wblVESlZ5RGhtM0xyTkhaQVVSdmN5YkE1V1ZWdERJcVRHT3VfeUItSE8yREItQWNDWXjSAboBQVVfeXFMTWJtamZOanFOTDNuMllVeEZSbDZWNkNwMVhKOGo4OEdQSXZpTzRlOFNpR1VFX2RzQTd3QTRpWEgwTFhBSzVwSXNCMS1ZTkJ3aTJadzJSTzd3dUF1NFhTd1F3NjNHWHl5dWpVVzRTTlp0MDBtTmgwR0JYMzFoS2FjbmlOdU14S3lIV3RUbklsdmxRU2Z5eDN0Z1ZsRWhqZGRZeXE3MTdZb3dNYlFpellra000cE5KNzhoR2lR?oc=5",
+     "title": "Barclays mahu buang 5,000 pekerja bagi diganti dengan AI"
+    },
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWVzTVRPWGk1ZFBRZFBqNlhpQm5tS2lXcEhaUkg4NVhQRXNuNzhQRU9IWmVPZ2txbnZadVRLaTZEcHpGNHdmUjlSN1NXRnNJdWEyYXRKTFROdkVfbzRiV3FPY3loSTdCWE41azM4RXB2aFpuTGRUc1NjQjVoN3NWNzkzQ05mZ3lqMFV6Ynh3U3lWUDY5YTlzTXhYcVI1QkctZ0FRdFhxRjJMRkp2cTlGeDhOLS1mWDYzVUpmcnpn?oc=5",
+     "title": "Barclays to slash 5,000 jobs in AI-powered cost-cutting drive"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxVWkxaS10M1lTMkNibTlEeVNYcVZhQVFNTFNhbmNjSEc5VjV2T0wwOU05TmZmbEN6eFRjb1U0b0N3RWhvTk9IVnBCRnpYM3BIejZYWndkc0VIMTQ?oc=5",
+     "title": "Barclays cutting 5,000 jobs as it increases reliance on AI"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "[UPDATED]: Zetrix AI yet to pay RM314mil in govt revenue arrears, says Loke",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRTFNMlFPdFQzRllvNzVnTlJVZVZfeE1adE9hNngzTHkxWnlxU2JHRllnOGxOWGlvZERWelBERWhOd1N4TW9pMkd6TjZ0M2loT19pNWtrU0w2QjNCTHNJRTNCTDFBZ2hvcUN2cGxPRndNbk9KZG5vZy03MnY5MjExbl9LN3hLQ2NjTnh1MW02MUhValJkRW0wam5XU3Q1eU9IbUxyV0cwZ1ZfVC1qMXdBeUItUk5PRFnSAbwBQVVfeXFMUHd0clg1UklHMWhNZWotaTJhc3Y3ODBWeExpdUdYd0pNckluX1h3RUpVWmtyZ2t6LUZZTFpIMTEzSDh6UmNubllpMlVxZzJUQXh4dEJ6M05aTV8yUlg1cEpxblZPZEItUHAzQzRITXZMSDQ2MWU1eWxXMVVQUmtSVF85TGhGMTNDTjVXdF9ZSWxESldEOFhRSUdpSjVmLVp1NlJyeVBSanRQSWlRZjV0ZHlEdng1eGIwOUM5MEk?oc=5",
+     "title": "[UPDATED]: Zetrix AI yet to pay RM314mil in govt revenue arrears, says Loke"
+    },
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2k0akh2TDhxdkdMQ0pQT3ZUNjAtY0EzbkdSTjZIVzRKdnBMSTItd01OUnhlMlh0cnRjVTVIbHFwM2t0QkZMbzJieVdHQ3c1bkNrMVpUQTkyZnZrWkJobTlweVRUZjg0RTVsWGVTMEJOVTNtYzEtWGg1cmh0SGRJZ3dpb1ZaRXg3cW5oUUZaZGVjOE5CNDVkOGRXMXk5cm1oWC0xVWR1cmZONjhtLTg3SnNVeVpzb1dXMmc?oc=5",
+     "title": "No disruption to JPJ services since MyEG, Zetrix suspension, says Loke"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRmNGc250YlZFNlFPdXZMckJNa3k2QkVad1haYkFoVXVOZmUzbXVuWUpidXBMOHQ3TVR5LVAwZkVQRWZZemtPSGVtSnhkYnJjWDNlV044VzB5UjdOMDVRMTk3T1pLcGVRa3pFZDV5aW9NT1d2ZTJWbWFtcDNTbTJEbFA0MzJuZnpPYmNnUUhGbkN0dnNGTTJtTUlRWkpIeXhfVmc?oc=5",
+     "title": "Zetrix AI Bhd masih belum lunas tunggakan RM314 juta - Loke"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Two ex-Tabung Haji executives claim trial to cheating board members",
+   "summary": "",
+   "scope": "my",
+   "category": "司法",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdEFXR1dTQkxZcmYtOEhDZ2Zhd0JrWV9tT0o0cVQ4V0dHUkZOcDFIUDdJcHNGeXZOeEF4X2tLc2M1TTdRYThDTW55Q0JjTnRLaUFueXZ4NVZuRHgwVUxtQmkxeEUwYmJRcFVjM1hPdVZlTDJyZDBsUk82RUxGT1UxSkxlT1FwcFRESzh0eWdNOU01aXFsTjcyN1htTEowSXh5U0VkU0dUZTRJQ2FYb25QRThUaVI2M1A5?oc=5",
+     "title": "Two ex-Tabung Haji executives claim trial to cheating board members"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeGxOUElOWXFYcUMxV3VGQ0RoNklHakNxMWd1NkRkblVISzhIQk85T3dIbVgwTnlwRGQtVV9MWlJxcEFyVUxZTktiM21QNVhOUjVjTHpIN1FHd3RwbThKaURHVnhxc0o1aGczVjN2clBrVFpFTkxUSnlrTVVDUlFFd1dhbWhSa1M3aDd5NFNnbTIycklrOGc0aWhNaWVFTzdpR2Q0MUx6RFpTMW9GWFZYN0lhNk9sTFNwV0x3QkZOQQ?oc=5",
+     "title": "Ex-TH CEO, CFO charged with cheating board over RM3.3bil hibah"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwck5sU3hMcVA1NXJqeXVrNUF4Q1M3MUtkd0NyM0NaVlhKdU1qblJreU5WMVZ0SlM2MFBNYnF6SmtySHlPNkFxeWRFWnl5cE10?oc=5",
+     "title": "Ex-Tabung Haji CEO, CFO claim trial to cheating board to facilitate RM3.3 bil hibah payment"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Court grants PN reprieve from ROS deregistration",
+   "summary": "",
+   "scope": "my",
+   "category": "司法",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVGhsZUU1NjY5cmhWLTVUanBWRG9qWHJhSlpKQlk5dUUyS0JwclJjQWRveXMyWEQwYmpRQ1kwN0J3MFRzTmZRRDB5TVBSTUFORXd0Ymk0aDlyaXpxNzhZVUFGbFRfcnZYMFNfSWZGTDlsNEJYcUx1ZFZRV2Fra01ZblVVemplRkdreE55WEVsZm9DOWs?oc=5",
+     "title": "Court grants PN reprieve from ROS deregistration"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMG5wdWwwSGdpdDYxVy1Ocno5Q1JhWW1GSXh0ZUVTaUdvS3VNOVFpdXk1U3NuR0hXRFNjOW16NTJmNk53VzlUUmIwdkRIemZBVUlTRFdJUl9iaHBhOS1oTXVObmtsN0NFNUVhWFpQVlR4SndtVjBsbmFDYy1ETnpvTFJsdlV5eFNKTjBhVG9EYVB4bi1xZV9R?oc=5",
+     "title": "Court stays PN’s deregistration"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FbXQ3V3htTXotZ0pYMnFCb0c3UVRpZks0Y0FaaUE2Zl9lM0x0ME9zOEU0ZlFjVURGd1RiVUwwd29XNDN2TmxVTGNWWGVjMVF6?oc=5",
+     "title": "High Court stays PN deregistration, allowing bloc to contest Melaka polls"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Kar Gee leaps to gold, Malaysia hit Asian Para Games target",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQzcxZzBfRlp1a29uSU9wNnhXQmcyejZuYmp5N3pHcnJtbVdHSkV3U1BRV0RpeHVPNWRQTHlKYmVIX1hRbkNud05BdGZYMXJwYTRGUHdQNXBLMGxISGdWWVJnUFQwd0kxRXNVdm9uTnpaRTU4N0JVZm9sMXcydUtSRU9ja01hT0wyY3dmNDFsdTdqMS11VVhnd0tvdjFIMmVvQnpkT2RpeUwtVDNh0gGyAUFVX3lxTE5aZzQ4Ui1FTWhremhZbFdQemk3R2RQYnNnNnpQcXRDU1BoQmZPb0EzVVItUXpxYjl3cXJBRms1QjN1X0k0Q29pZmxETUR3VWhnaFZ4MnBuX2Zja0JTdTAtYjZnb1BTanQ1VFI4OTVTbjV4dWFFRTk3MGptMXJBNUdPaV9QcWVQSWJ3UUh1VmozZDRGWEh4SnJIWTJhdnU5eXF2X01rQXdaTjVwQ2FVR09TSVE?oc=5",
+     "title": "Kar Gee leaps to gold, Malaysia hit Asian Para Games target"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fLTJNQmZRV0N6UkhUVEc1eFcyX0x1TFI2UVBRUmh6dmd2Sy1kT1l5ZTdzbXlmbG1xc1d5OU5PTDlPN3dOZFVYVThWZGk2SEdRTnlhYTBTMW0wTzQ3NmtGd25uUkk?oc=5",
+     "title": "Asian Para Games: Abd Halim, Shahafiq Contribute Silver, Bronze In The Pool"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM1o2bDY3N3hJTUFBVWZiSkJwMnpkMThrRU1NR3psc2VKVHJpcGNnRnNUbkZlMTY3c3gzSWtqdWJNY0FsM19zM1JnaFh0ZmtrZGRXd0NQckxLOVJCQnJOb00xZGVwNjNmOXFCRnNrcUtPUWhCMUZxNmE5bUJRYVBqSUNSbl82NTE3c1RMYmtDMHJXZ0FMYk40cE04a3VUSWxtdVpLeFpkeU9lQURuUFIxQ1hJNHPSAboBQVVfeXFMT3VQdHRiQTBkRDlXZ0M0RURBRHJDSnhsMzFMdHdmSi05TkpaT1dvejctYXM4OXNsdHdaUGE0OTN2b082WXpBTkpZUmV4WHhfMHBoWTV1cFROYzZQZktBVXJ1MUdCLU1FN1dXTTlwbWk2aHRmWjJpQ3EtXzYzWlVaeThOMjA3VjJGanotZDdDTFJfbUlBOWo3blpkenpnTWhINDdlRkR5cVI1eGhSaElSTmNNRTkteDRQSjZ3?oc=5",
+     "title": "Wrong national anthems played three times at Asian Para Games in Japan"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUFROenlVWkRUMTVyNzgyUEhhQTdUQ3QtSjhLQnhsSm5BWEUyMWtBc1R3UzFIb2UyRmg1aWhFUlo4LW5YWTBHcnFPcnkwaFN6d1ZsRzJzdkdiaVdEMXdrOXFrSkNLaEs0ZDFDNk4tNWJPcXdteWJVU092ajJKQm1hU0xFdHdnTy1KMEpsTk1hUmY?oc=5",
+     "title": "Wrong anthems played at Asian Para Games after mishap-marred Asian Games"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Malaysia News: National, Regional and World News",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcUhrelJRN0VIN1ZteGhydkFUck1CaV9oZ3BSWDlSS1VvM09SVnBjc1lmaUxfNE5KMU9fSTgzVzFLVmctNUpBd0NvTVFsSzAzODhZd3k0VkJEUkdoMmxRVUdmQlI3SGVYZF96T2lhQ1FQLWp0NVJiY0FfMnhncjQ3ejJtNFV5c2EyQ2RaS3dXM2drQkhWYTl6UFdBOWlNNUdPeTJja3k3bw?oc=5",
+     "title": "Malaysia News: National, Regional and World News"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWnlYNEkzTDI2NHBVOFN1X2pZWmVPVXR0V2tGZEFjcVdyUzNXY1p1STlQNENkaFRrVWtoMjZUWnhRWW1WTmZWQk16UldmQ3F2VDVsTVNWZGY5X01RX002WEI3RWxMN2pGdlh6dGV5RHR0YmVBOXUyT2dhaE9TbHM4R2F5UENzOWxwYU9HbGhtaHMxT2Z6WGpJNy1EOXZVQ2puMDBUSnFWVQ?oc=5",
+     "title": "- AP News"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU3NsZU41SEtZTWM0ZWNjMzFoY1RScTRGUzJsdG9CMFlpQm5pbTdGYno5ZWFRVUREM0NCWUE4dGlCSXdHSUZ4Zk5lRnU3bmI1c1YzNk9SWmdiMENEQXhzTlhWNV9kTUtzamtZTHU5dXpDRlZZTWVfOHJES1k4RUZVSnpKTTk3X3dHZ09Cem5HUVpWY194QmlvVGw3aEFGZGM?oc=5",
+     "title": "DW News Brief"
+    },
+    {
+     "source": "大马交易所",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN2VnY19uM3N4NVptNUVkVXpWbVFVMUZwU1BTMmtUZmJ6OGc2TFZVeGtKLXVDX2V4NHREaHFjejJ4NXpFdE16dE9Ua3Z4OGtvR0xhQzZHNmdhYS0wWWtNY3dGU3Bwa3ZIWDVhaWx0MXhtNnVpVUdEdVZKTEdVS3pDZ19fNDlEaXY3TGRLaEl3WTRzLUdHV0J1UjNTaDdiVEg4dEd2VWxqU2l3RWRMaEdhOHF3?oc=5",
+     "title": "News"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Millions of hacking attempts as companies, governments rush to patch PHP flaws",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02Yi04YzN1QmNVQ0pPVU93aUxYNG9XdFJrUG5fdWcxNkM0YkdpQTRwRE05T25JWHB1eGhSUFd5T3NPRXp2b1lOZUYteEVKdG1N?oc=5",
+     "title": "Millions of hacking attempts as companies, governments rush to patch PHP flaws"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdktBazJSdlhwYU9JVlI3SEFkZ2k1V0plWjZ6N2RxOFdmZ3VubFZmM01zbGhsX2k1Z3dWQ1pwZjdQeS1Sa3NFN1ltampIQjhmT2t5Sk5KV1luajZoa3JqUzVCRjRFV2ptT2loWVFkYWRnVGFPZWh1VjRtMlo0aE1Nc3FGemtOOVZxNUItM2ZYOGMyaDN1c1RfdlhFZFpZclNYdnF6RWdmZjVicWhXMGs1NUx1SkNHWGNY?oc=5",
+     "title": "Hacking attempts surge as companies, governments rush to patch PHP flaws"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcm51eEphd2xheTRtcU5aMDl0LXJ0QlZnQmtBOTB2MkluV3lYelNBVVp0YkRwcmhlb1pkN3ZlTGpXUHFtalE3TEJVN2Q3WjhZcFJ2X2JXNEM1ZkVhbDhQZU1tM1BfS0NHSDNxRFFjM05oeEU3NFk4Ykhnb1lQMTFLLWRwODJqQVh5MV9adWY2M2R5TGhN?oc=5",
+     "title": "Cloudflare sees millions of exploit attempts after PHP disclosure"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOExPYWZSWVRrcVdBOGpVRW9FSmFvTUVvcDdOSHRLWjVyTzI1U3dXZ250cGlHR1pYZHJlQXVXTDBvY3hWSVgzanJwMVFfOWpnNndDaFR2MWJ0WGxWcWpjdTZZWlpuenRWYTVTejIxaDEyOVdDX2ZlX2FLZXV6ckZVMWhpeWdGM0xLMWl3VHlDdDQtRV9ya2pfc2RUMy1Wdlo4OHFXWUxEVXdUSDFaQWFzMWc3bXVoNGdiaWFVcGVSSWhHYWc?oc=5",
+     "title": "Websites across world hit by millions of attempts to exploit PHP code flaw"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Magnitude 7 earthquake in Tibet leaves 16 dead, reports say",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HbFZ2QmxZN2szRDYzOXd2S205UFJrVlM3d2Z3bnpuZFpVOEVfWE9UM1BfWnNfMllodUpJN3JMVW43WmtyS1JCUnpMUVJOLXNKYU9COEZRZ3RoaEE?oc=5",
+     "title": "Magnitude 7 earthquake in Tibet leaves 16 dead, reports say"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUlEUG80aTRoVHhfOFptUTJYZHpwWE1LT0hURTlrM1JpejJqZ0pEYnJUSG1zbWk4RUVmMnpnMXVlU05LUXdoWjNrMXAxYS1HR051VDBVZ2FqQ1RHOUs4aVFGcExLTDFJVHg4QUhpUDNlNkxud2dldEFQYXA0bUs1eThHS1lVWm4zUm5kQ2NQcGxKQ0E3N3gyZnUtVk5GNENkVXc?oc=5",
+     "title": "Earthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhua reports"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMlA0M2NiX0FrVENyNlNoaWdITmhpbnVNODZndmxlSTFab3JBVjN4M1NSMVFtd0F1UXM4N0xJUHZzSHBjb3h6TFV6OVJHWWlyclBRX0o4ZnpKQkJtZ1JJSzh2UGZYLTd2YWlMN1habW9saUotcTZSZ1MtT2FrcE9TQ2VVWEZTbjBwVnpvXzQ3SUVGb014azFr0gGcAUFVX3lxTE02cGtpR0dZR2FtRlpNUlBOV3Y0LUlGejFST0JNWmVaTVl0TmtXM3NwWE12TGtTTVZEekZObjhWUS1uVDBUSGxrNUNZbUpVN1dTUUgtc0ZuQ1JOVVhYdm9OTnJjR2ZfVkRsQ1VZb1BkNmhOUmFlRlNnQkxLZjJTWXRGRUdsRkdSekNWUDNqd2hmQjFmcTZrdHlQeDVHSw?oc=5",
+     "title": "Tibet rocked by 7.0-magnitude earthquake"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSEJZWkVGQjVKbGROR0VYMVphb2tmT3FVc0xsbXBXOC1qb2ZiS2pXLTNpbHZoQkZUb3Z2OU9sZXBqcXpnVndmMENZX0w4YmU2UzZ4MlI3ZmUzMncySDd1SVdUelFITEpqT0Z0Um1PRjZhUWtYRXVyUTFoOXpKWWUtTA?oc=5",
+     "title": "At least 16 dead in Tibet after strong 7.0-magnitude earthquake"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "South Korea: Celebrity shark guided out of Busan canal refuses to swim out to sea",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Wdy1VemhESU1iSXRhRmZCcTBBTmtMNFhHb0JDOVkwVEpyY3B2alU1bGp4dXNBMGVJX2duMGNYVlFfaWR5OWxPRXoyaGtNTXdRUDlLSDFrR2QyRTg?oc=5",
+     "title": "South Korea: Celebrity shark guided out of Busan canal refuses to swim out to sea"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWQ3Ung1VTQ0a1ZCNkFDa29XNGM3bGVrU25DcTZzcEVibmM2MkZfSkpidk5Ka1JZYXdyMDNYS3plcG5hSFgxZ0d1d3BUcUdvTkpIeVJkS1pjV0RPeER3aTZOcnowcU1iYW1oRk9jTk9tUXlhb1Q1SzNyMGt1VFJHcmxzZjZySTJpcG9jSGlLZ2hqZXZuWEhELWlON3cwVk1wWUo4SWdJVmtPX1hxa2FqUWdybTXSAboBQVVfeXFMT1dYQ1J4SVZIWDdFTGpSTTB5UkJQZTV3bTJicVAxZDRRZFlDUnlFd3otU3FHSlFBRWw4TUFBZTdKWEFGMlU2WGZiVmZFSnRtd1JGS1VwNE5aeVlYcEM0OFp0VGk0U1RBb0ZTcm5jYy1Jc3NVWlNXMGx2Z1IxckNLeV84T19HYjVPX1lXMkIzOXpueFM4S1NaTlUxVlNrc3pBWWRNRXh4WjdVWnlQR1FQZmhOcFVCbkNtX25n?oc=5",
+     "title": "Shark returns to South Korea canal after failed rescue attempt"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU3Q2RTJQY2tKSFlWY3E2d0J3NUxTdVlSOEVybmk1eml3bk04RlVDWlBNYXFLMGIza09hMXRRLXFmWU91bWpMSFpMOHhLdEV4N3VobjcyR1FSUkVnSHVNRlZBOVRXNmJVSmsxSE9nM1VBY3Rrck1LZEt5YV9VaVFRSmlDSEVQVHRHMFRwM0JUMHlpYUdMNWp4TEZJRS1FZw?oc=5",
+     "title": "South Korea's celebrity shark back in canal, prompting new rescue bid"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUlVMZ0RWQnE2bEVXaDN0MkRkeklMbU1iUjYtNW9xQWJJcW5YVm1kVzdzampBem9ndlJ2X3BTLUtjYWpROEtyYkk3QVlqcHFra2ZBU1VmTVc2NkI2SmdmTXVFR25oV3NSRjk2Vi00LUdhWWp0ZTNKeFJSZ3N6VDFSd2g5WVhabGVyalVKb0FOQ2RLTlRDQm12Vldn?oc=5",
+     "title": "Bukang-i is back: shark returns to canal in South Korea hours after being coaxed out to sea"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yZ2dTanNHRmFaRmNxVWRFLXoxMF9wUU9hYW1udXV5ZkUta1R5SVVRWVp1eHhfUU5admNaQ0JWN1VZZTRrVm9hZGpVcEgzMGxCNm9GZXNtZkpINnM?oc=5",
+     "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQS1ESU5ra242UzdCbkxuVkNzUkV2NWZVTGlRcDZnSzJBeE5KTkFyMEZvaTd0ZEl4LWduc0lmbGZkRnV6REF1dV9VUkRESHpVM3lLUkt0SmtfQzJDLXdnZ0l6akwwOWZpS1lza2tSbHczcnlpU2JPSXo5eHNrY0c4aWNpWjNJSlFYa2M2UEhDNnVsUnQySGF6MVJSY1FPam1LSlliSkJUTzFKck9tZ2J6S2xlUnVSam1TTllJbUxQWmtTcjQ?oc=5",
+     "title": "Gulf markets fall as fresh Houthi strikes on Saudi Arabia raise regional risk"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMktOQVdUcmhmWlhhcHVNQ1laMzRELXBuXzhLMHFqNHdLdEE5TVdmbDR0eXJlT3ZwVjgtQi1KVXNWWm9ReHhsNjhER0phWmxadWdDZDRfWk1xdGNOSWNkUDRSSW1fMC1RNkhCbUJxRTlZTUFoUkYtUGt1Z0tkalVHVWFXSks0N3llZ1g1ZXJWUXpDN2l3MjJFVzlhZVVROWwybnlYMkZWVkdkYkFxTHlGaUQ2Z9IBuAFBVV95cUxObmo4ZHczZ2Fza2VqLS1NUHoxem5hcHVTUXloZnBSeHo5Tk9LUUoxMVpRVGNLYURhanlfb09qcnhRMmtkT3N6bEpObHZwaTJhY0xCWW5oMjI0YWpRNUFnX1VaTkFmb3c4YTUzamdzZUxMVWZ2Yk9oVk1sYmZ1TkdJMXpjQUxFcGFEa0lpVHF4SGdWa0Y0eG9rUG1MeHVKY3VLM2hkUHpPZWJsR0haMUQ5UDhOVmRNcFFE?oc=5",
+     "title": "Attack on Saudi Arabia’s King Fahd airport kills two people"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMUN2bzNpQnRBUGhqeXlDU2pwdjl3X0tubXQ4TDE4dHh6WTRUSVdZTmFQdlhaM2ZFaW1tQzBoUEhFQWdibWlNT0FRZHhGVXB1Q1pWOGFRWTh0dUluMEZiVEhSRjJHUUk0d2lFTjNKLWExeUpvLVdKWnRCeUNZdWVkd2FhdTJ2ZFBaRDVKNlotX1AxNFNPOG5FRA?oc=5",
+     "title": "US orders diplomats to depart Saudi Arabia amid Houthi strikes"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Govt reviews student protection policy after teachers protest",
+   "summary": "",
+   "scope": "world",
+   "category": "政治",
+   "importance": 3,
+   "owners": 3,
+   "work": true,
+   "links": [
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGh5RTFDR080ZldnVUlQWGdiN3NWQlJTQVlTZlQ3NUI2U1R0UVFJQldjdll0RlhSTy1YYXdxcWxJb1lvZ0xQNWpSNEFhRmJIVGF2cl9vUUZiRGlmM1U4X2lHcjVxVkJMNWdXdXp2eHI1X3Q2ek0yZ011RVUyS3VlZ05OaEZ4dmVjRUpLNXR1V1RvekpVWTE2ZUZrWUh0S2NQb0ZlVnhMNzhndnVPcEJmWGhEMDdpcHk4MDBjWU9WYw?oc=5",
+     "title": "Govt reviews student protection policy after teachers protest"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa1p4MEE0bE1INkpNQWx5eFk0Qm9iTkdTQllWRXYzMlpHU1c2S1RXbk92cWlmdXdma3dRYi1oVHdKeF92ak5yNDVzMzBTd2JSY0lIYzBvZE9KVnBQaGpiWEpPTHBOc1ZzSDBWYk1uWnlYOXdNR2otdHViNEo4dXotR3YwaU9oek9pX3FWQmdDUzc0YURrbXRvUGI3bXlUVlI5TUtTaGd3cTUwaEpMQ0dz0gG0AUFVX3lxTE9xTXl1amYycE9PbWNlcTdfcnNHcERMMlBTcDJkTUJsd3NLWEdEYjBVcnQxS2JCNHNBclNpOTdUanlHUGtoQlI0RzNzMTZVaDM1cGFucEpYMTJ0SFVMYXUtbE8wZHpKNjlpOVZhdlVlaU9yRUJrRkkyRi1HQ3RMSkMxU084cmdqTDlFRUpWU0xmT1RwenRPakRhOFd1WGV3WGhhV2lOM2dVSlJjMEs3eFo3RVVtNA?oc=5",
+     "title": "16-year-old Malaysian student attacks his teacher with axe"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX2pZODB5Nk5TTWlsRlpIR1dLVGNKSzZyTFlmRnFIUVM0ZXJDVmlzdnJJWDNaY21IYjNnU19qTmx1d3hUTHBxWU04d0dDdHVpS21KZGlPZWtTbGxrT013cTJEUUdVQXZneElrTkgxZWlNWFg1azZpMmxYR1g2Rl9wZkZ3?oc=5",
+     "title": "Teen arrested over axe attack on Sarawak teacher; minister urges public not to shame student"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "United States Grand Prix: Max Verstappen says Austin track bumps 'unacceptable' and 'out of control'",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xb2JEX3lGaWI1SDQzTlVoZEQySFhuWXNwQW5WYkdZY0RZaFdmSTdhcnNwSlJ2cGZoQm9BRW91LUFieFRiSU80TTFoRm1uWkc2SFJOYWxCVWkza0FMX2dJQkszMVJxQ3VL?oc=5",
+     "title": "United States Grand Prix: Max Verstappen says Austin track bumps 'unacceptable' and 'out of control'"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0NmbmtxUGF2WjY3ZHY4YWROc0k2aXp0emdUdlVIWlF5cnVuWURabGt1R3JBWFNHNGJOTDFGLVRxRXdtOHJONjNOa0lsX2YtTi1iV29JS0ZpcGxXeVVMdFJUWEF5TFROa0xNZXRaLVlIWmNmVjZZV1NSNk1kNmdDSFJmOXpHQVlybDdGNlRpYjFfTEJCYnNIVTh0RWw1STlDRzNaTUNNbUZ6MEVpNURuREE4VVVsd9IBuwFBVV95cUxPTjByS3JNTk52VVU1MGNKLU9TM2VPc3BwQW5KOHd6RjFwVU9HNFFsMjlaNzdyV0xqeUE4aWVJVlA1Y2xzb0QwY1haTHRBVEhqOEJVYU02SjYtRERPOGxiMENGQmNzUXhlSkszbzRqdHF6Tk1fODFNaXo0SWJRY0lYMUhJLVhyU1I3dVZYcnNsRTdRdmktQjR5Mlo2VlBIa2JROEN4Nm50ejM3eG1jYTVPU3c2TmtMZ1pQNWJV?oc=5",
+     "title": "Man United’s Carrick not worried about his job despite ‘unacceptable’ loss"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdl9tYkZtblJtVTZYM3ZXTTVNdDcyNzJWQTRZZmRGNXBXVFFjYWltNU4zVVV2dHZYc1RzbERJeDh0NnZJZTdOeEdiVUtXQWoyOUIzN0V0anFPMEp5QTVXR3dFWHlITUlUbllncXRzMUF0V2xUNUYySTh5ejlwZmlkNnZnRHJoWlBZRVRLTndXQ3ljR3Q3YW91b0M0cHluZEJOdV9GaWlGbWlrcV9lRV9FemU2WDlnNWxaQ3dRSWFCbW0?oc=5",
+     "title": "Carrick joins Wilcox under the bus after Manchester United’s latest night in crisis | Max Rushden"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZWE5NNWNfS0NVRTFRcmNVZk1BVTZMQ25KRVpwS3hlWXZia1k3Um1MNTA0RGlvRi1IdmdVa180dXZpSWRDRzlCM2VCVll3UHlvcUJWQjlKX0xJeDg?oc=5",
+     "title": "Trump says Musk has restored access to Ukraine's Starlink network"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU0ZDU3ctZms3MzcyT3liSW5NSXV4SXpvUVRyZ3YzTm9SWXFaRkhIRFN1NFlRN2RlaG9OcDluTDh1Z3RkTzVGN3JKSlozNHdWZW9ORGVDSlZfcDViMGFGRl9mVDlaT3c1VVlRUjV3NFFjWkFPSFZUWEhpQzktaHZiQTk1WGhpRFNXZ2QyN25OTDNnUWhWb043RHJmaEtqaWNaZV8zaHdYMTNpbXdWYUJldw?oc=5",
+     "title": "Trump administration offers mixed messages on limits to Ukraine’s Starshield access"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS1Z0WkM3NnhRODJSZnhNMmZsX2NGdmN4UzZfS0ZfUXRlN1pHMEcyVnk4aEZWRkx2ZjFzak1ESUstNXRvNVVlc1I2aEkydXhFdjFoUDA2NnlOem9xTVpFMTEybmJURG5uSVFyb2dqMWhVd0hqejBOUEdJM0tEY2JaUmFJRTlHT01EcXowejlpRC15YjFzXzRoYlNPMDFnRUdKZlhjQVhIci3SAa4BQVVfeXFMTlBwYlZtX2NWcE1tTHlaN3c5S1c2YTh3WHdfZ3BqQ0cwa3BiSG1HOGNpX2ZoX19qUk01QnlfUlJPdnVEcnRpWDNlQWlHLVBMbUdYdXhSRWN3Y2hpWml5U2hmbUlIWEREQ19KYS1CMVRnbkFxejByQk42NThvMnZ3RWZxbXFnMmRYbWwyc3lKWUVKRnlad0hSUGhqbnlLdWpfX3liTGlId3RFdWJjRWR3?oc=5",
+     "title": "Ukraine’s access to Starlink a decision for Elon Musk, Rubio says"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yTVNOUmNuUEt3bDA5elVvWlMyZnFHVEZIOHJGUVBidDhNZ01GZnExZ0pLYlY2aHppRUFGOHluOXNpWHNhdlh3anJMSm82Zk4xSDc0bW1sTDQ?oc=5",
+     "title": "Ukraine hit by strikes after Russia agrees to new peace talks"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcUl1dGl4Qnd1VWl4dXBSZV81OUIzejg4VkdDTzVIaXJ4UXFKbkczMUdrQW16QVBZRVJxRDdEME5FaGV3RXFXUVBaQlk1V3M2Y3Fsdi1LbzZxT2RHTUpBdXp6Nmxlby04MUtpTWlXVnQyYU5MRmw0eThqSV9CZ043eXpsSTJlOThCX1lpYTJ5cHFQZGVxSEkxUDBSVjE5bWh1dEtVX0U3OGVnV0xIYXJj?oc=5",
+     "title": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYWdVRHdQMmRia1pfNXZlRU1yckt3NlFoYUxQUnRlbGNyVDBZczBVSlZaelhMRmpjVGVWSks2bnljNk9EajNGOHNvTFBYSjkxSEhZemQtNEdnd3Bza2h0NlVyWnNBbW9zVWpNWkF0cnZuZ0xsQ2FqcUxlTHFTQ3NkRmJLM2V1VUtDYWhQZFlWR0N6Tng5Q3B1NjZ3N2N5dUhGQ1l4NlY1UDNTMzhRbFE?oc=5",
+     "title": "Ukraine, Russia trade strikes after Witkoff talks - DW.com"
+    }
+   ],
+   "new": true
+  }
+ ]
+}

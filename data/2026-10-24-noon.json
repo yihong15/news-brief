@@ -1,0 +1,638 @@
+{
+ "name": "2026-10-24-noon",
+ "kind": "daily",
+ "slot": "noon",
+ "time": "2026-10-24T12:02:06.259481+08:00",
+ "items": [
+  {
+   "title": "Mahmoud Issa | New Straits Times (NST Online) | Malaysia News & World Updates",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 7,
+   "owners": 7,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KcDJvQjhJWk1fLUtnQWFtS0tnT3B1QmJvaFVPOU56alpRelBlVkRIeXdHLTZudHVvdmhwOFlKV0JnclM1ZFphR2Y5ank3YXBrNjh1RTVScVRGLXNGTDBBWHJn?oc=5",
+     "title": "Mahmoud Issa | New Straits Times (NST Online) | Malaysia News & World Updates"
+    },
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcUhrelJRN0VIN1ZteGhydkFUck1CaV9oZ3BSWDlSS1VvM09SVnBjc1lmaUxfNE5KMU9fSTgzVzFLVmctNUpBd0NvTVFsSzAzODhZd3k0VkJEUkdoMmxRVUdmQlI3SGVYZF96T2lhQ1FQLWp0NVJiY0FfMnhncjQ3ejJtNFV5c2EyQ2RaS3dXM2drQkhWYTl6UFdBOWlNNUdPeTJja3k3bw?oc=5",
+     "title": "Malaysia News: National, Regional and World News"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rSHhJQUo4QUVEdVFGNEUyc05BRG9OMDJubkphTHZDOVhQWkczX3hNV1VtQWRUYUFjWmp4QTdLeGwwQmlLRjNXOGhOS3ZBbnNSajJaWWVB?oc=5",
+     "title": "News"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82VTMyYmRCVE84UlZTVmpDMG5xdmFsbkxtbERTS1cwaS03MF9NZWtsRmphTEkzX3BlaTBCd3A5WUlGdmVVVk9weXpfLThwdzlhQ3pELWI0NVhBZw?oc=5",
+     "title": "Malaysian National News Agency"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVBRT1VNd3dBRVluS0U4VGR3T2J1TXM4TEIxV09xZ0JVSFViUnVoQWx0YVhSaGt3Y05EVFVXazg3RVZ2eV9GMTMxeU12SGVNZ2J0MllrWG1INzhYZnJrQXRBVmdjeV9TeVRVT3R4QjBvUjk3QVlUVDgtZEN3LV9ncG1Xa3F3dFpKTjFzN1p0b21vSjh0NThWVHBRaHhyVDZYNDV1RWNNV1NBQlo2cVZ3?oc=5",
+     "title": "- AP News"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWTZwUU9vdHZzaHBkSThSNFJOQlNKdktKc3hHYk5JdFR0ZmlIQVh3dlVrUVl2aW4tOFpGejRoS2hDX0tnaU1BSnlVWUNDMW5QTlU0YTY2RFlBdWlZZTRxV2h6RlBWbVFGbFBGM29nRWMtaWgwRk84NVFUdjFOV3lGamR3RmNRNUJMdkN3RUVnOGJjYlJaQWt6YTNZejdFRHc?oc=5",
+     "title": "DW News Brief"
+    },
+    {
+     "source": "大马交易所",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVmNzdGlmcU5pXy1BU1V2eEdVRWdlQjV4VjhadWtzRFFYVWQxTVh1OGpESHZ3MHU0OUlfd2FOYTNJaGhNc0lKQ05zMFZLTkxQYmZ0UnRjZ1VkcU8tLS1RelY2M0Rxa1dWeFhWSF9QZEtMcnNvdHlDcWNvV2NYQlM0RVdkX1hOZFBQSUlLeVZZVVVUM2NFVGsxNkRsQnY0LXZPc3JxSU1sYkozN2JtRW4zNnhWLU85cEZucFZnRU5oUVBVMnhrdDNSUDRpZw?oc=5",
+     "title": "News"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Perikatan Nasional’s deregistration and Melaka state election: A test of law, coalitions and democratic accountability",
+   "summary": "",
+   "scope": "my",
+   "category": "司法",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "星洲日报",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uaDVBNExTR05Nem95b2xMM1RqZ3pKX1hqT3MtdDlzQTlOdHNiWk1sMVJfTWZWa09XTUt1N1NISUxOSWtiV0NUU1YxdVNPWHRXM21ZME9XWWtWbTI0cUlONGJHdlgtZnZLbWNaRUs0N0ZTZw?oc=5",
+     "title": "Perikatan Nasional’s deregistration and Melaka state election: A test of law, coalitions and democratic accountability"
+    },
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWHZEYnU5RGc1UDY4YnhjYkdqY3Y1bGZhd3c5VzlRT0JwbmVSNzB6QU5ySmNIbDFEZkswa2Y4OV9NOUVsMkFyd3AwaV95VDZNWXhFeENDWGRyYVBvWndlaVM4cHd2dC1WZVFsUDNnckpQOVFnUTlDanZ2VUUyXzFNaTJTdmFTM2RLdTJ3b1RRLXZhUlhWck5EV3BrM1lINkg3c2xJTDVqT3pYOS1rQnQtN2ZVWkFPMmdHZy1Cekw4d1VGQThTMnk3eWt0a3NFQnhOWC1zd1ZBNkJlLVFfSEJnWnFPSlBubUJfYXZrSFllekdvOHpM?oc=5",
+     "title": "ROS, Home Minister file appeal against stay on Perikatan's deregistration"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY0RCclhDUC15Z1NUWV9qclVweWNJNnZHSGs0aDdDOXk0QzVIbWl2SlVoSzI5dU9meEZTcE5TX1ctMW4wLXdkREdja0U2WVNqek56a0FZbVNaTGZLODVlMHhXUXByaERlREI3NXktR3JoczdyNUZXazBTRS1IVU16Rks5ZlJQQWFGb0xLbU1TeHRRY0pFLWk1dFVnMVdIS2lVV21nNEtsTGVwQTBwRXg1RzJn?oc=5",
+     "title": "Govt appealing court order suspending PN deregistration, lawyer confirms"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBueEVPWVhCN082TmFkVmtkcjFqaVJIdG1RRmo3TjR4R3IzVnhIc2lhQ0s1V2pWeWhXOWVNWW9HS01adE91b2otaXpxaWpGWEZQV0hveVpla0JIQ1ZBUzdYTkFR?oc=5",
+     "title": "RoS, home minister appeal against stay on PN deregistration"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqRFJQeWZTTVY2amZ2ejkzSFV2cUFGajVwT2RhZ2tfMTBiWGlianVzdl9LWlMwang0ZE9lTG45OVZ2czVSMExQTFBwdEQ1X2tQ?oc=5",
+     "title": "Home minister, ROS appeal High Court ruling halting PN deregistration ahead of Melaka polls"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "BURSA-C1X - BURSA-C1X: CW BURSA MALAYSIA BERHAD (AM) (18181X) : 公司简介",
+   "summary": "",
+   "scope": "my",
+   "category": "经济",
+   "importance": 5,
+   "owners": 5,
+   "work": true,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR0JqVXJ6NXh5ejQzVkh6VGRqYjRJZVlQZExkNFgzU1lhelpTeFJLNUxwUllNTzVXTTRsdnhVUmdnRE5vZ1hkS3JiZWdLcFRrZWtwbDBULWpnN0xjTGN4NlZUZXdXM0V1Ty1sbk9IeDF6WFE4ZDdCV01UUG9QZkJIUXF3LWc3Nld6WDcydGRzVjlXbjdydjFZZVFWLW5ZR3hBT2JEY3Y4WGo3dUZhMklMQjFMaUp5aHc0b2RuRDBkeW1rZ9IBxwFBVV95cUxOU3VMRlM3ZTNsb0JYbzZXbWd1YkhVTjhLLXZxVlNtOXV5d1IwTHh2QjJFdzIzMVZLUmpwN2JMWG1VWTBUVDJkdHJpS1Joc3dtVFFfa0tFT2psMGRtbTMzOEpwTVd0RUVqa1FfRlB3TC1Oc2FIZjZ6blFjV1g3VjJKbVVqMmhnMTZKX240WVp4YVdUSTNrazJoSDVSRTJ4VWVlS0k4dGxkVGlrdVRGN1hKd3VLMERYTnh6Y1UxQ3NMTFl0eXIwQjI4?oc=5",
+     "title": "Bekas CEO Bursa Malaysia dilantik jadi Pengarah Urusan Hong Leong Investment Bank"
+    },
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ0VZTDV3RE9TaS1iSmJkcFRULVVKbkoxT0FnWnNlem83aGdnWHVzSEZhUEtVYW8tSWxFRjNFUjM2RnFOVnpUbWJkS1lGZktyLVd0S1FMLWVpMGxTRE83VjZsQWRWX0hMbDkzSjZDZTdfeTNfNDlBbi1KWVJJZ3FYRkpBQ25Xc0FhNGJBNzhEWVNQdGhIZmU3a2JtNmlNcEpoVDVBVV9WR3VVS3BMTVR5UWFlUjhIVWJ3UDVpdHVXMGVnbDNJN1hjMXc3blM?oc=5",
+     "title": "Former Bursa Malaysia CEO Umar Swift to helm Hong Leong Investment Bank"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RcHRpVmNLTkhmVVE5Y3BjcVphaGJIUko4akhHX240NmZmR3M2WTlFelZDQUlxNUViYzFXYlFMLXJaeU1MM1ZsMjBOQ1loLUxt?oc=5",
+     "title": "Ex-Bursa chief Umar Swift to lead Hong Leong Investment Bank"
+    },
+    {
+     "source": "国家银行",
+     "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxPZFZldFJwc3drVTY2TEFFV292TDJSdnA2cGtwVW1UWFVZU0gwWmNsQWxMUFVGdDN2dEdtWjdYOTFvMFhZamtlVXRMNWNLWTlpcmhGdGZBQlU4RnROWHdNc1R2UllTWDRxcnhWZVRvb28zekMxOF9JM0ZPMWM5MW9KaXQ3OEc5eXdwMURhak9vWGRjRnF2ejEtYm9TRjFER2pxakpWU0hlOFpfRnVpWWhmRkhybjBxQTRvZ0V6b3RqZXlqRGNXRzZrWGk1dDRxem9JU0U0aW4zemtWLU9nUy1IeEs2dXdTQnNLTmxTVlVZZHdpQzdDRDFfTDFtY1cweXEwMHBEWnNSSTZuVm5VQkJweGhFU0RjTVotbmFJZnhUV1hOaEF1Tk84X3VNSWpTYmE3M3RpTkphRkxCNmVTaENXbFdxamxhcHFCdlhFX1czbWRhaERJNnA5YjRYVlhLRFdQc01KX1FTOHNxZU9OekxjcWJLbC00Mlc3SG5mTF9IdC1JUE5zTnNUMGhxYUZxTkJVNFRfY2Jld3dMNGMyRFE?oc=5",
+     "title": "- Bank Negara Malaysia"
+    },
+    {
+     "source": "大马交易所",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTExNeC01anBURVdrVHQ2bmUxZk8tRTZNZzRQb3F5LXU5ek9kY1JiV1hueFZlSURuT2RuX3JxaGFOZE1TZ0F5bTI2c0hhV1pIcEx0MzVaYWhVVFBSZmh5OHkyT3NsT2U4c183RDUwQjlMZ3hwVXdTX1BjRDhrXzlKVmx1X1pTaEZid2JtcmgxeGI3aFdfT2JBcWVCRDdpWHBXSWxfak1JNHZjakxK?oc=5",
+     "title": "BURSA-C1X - BURSA-C1X: CW BURSA MALAYSIA BERHAD (AM) (18181X) : 公司简介"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Govt may ban Waze entirely once suitable alternatives are available, says Anwar [WATCH]",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORGFUQzZIejk5YkxHV2JWdDIzUUhHel9OdWh4SHg5SUIzTGFmdXkzOERPTjc0dVBkT3B1VGpGWE12aXlHRGt5QVBmbFE1U3J3NnhvZDFzMjl5cmNMTnY1YnRPYXh3NXNxWlJ4bV9rd3VlNVhXVXA3ZWgzZ0Zxb3pSaDJOeUdEd3R2aHhoVFBnWUZ2ZldZZDZwalRsR3lmZG56aldCWlFMSkhCWGtBSWw4WXJraEdlck12NkHSAb8BQVVfeXFMTUFRanl0N0J5YmR2dkRjdkwxcDJ0SmVJZGcwNERMOC1mamQ3ZlZ4bHgzd2EyRkIyWDAzWV96WU4zb0N2NWlYa2NaaHVjSDVGdjlMMHB0cHBiSHdZc2pINzliRXl2V2VGejVMSzJGdk9ZLTlVLTV0UE04b2pqS3pzbTN3SDFFdTJyZFJDTVFsbmhmTWd5djhYWlplQi1Rd2cwYzBHay1DVDhPRlNvR3FOM0tlMURJcXNvYWxaY0cwbkE?oc=5",
+     "title": "Govt may ban Waze entirely once suitable alternatives are available, says Anwar [WATCH]"
+    },
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdDFrcHJ0NzZGa0FvRGlMc0tqT2NOdWRySzlybGt1VjBMNFVTWkYtZDVPMEdmbTVkRHVuZm8tNkRsQW9Sa0hfUXpqN1Nyd2QzU2hYSW14OF9PQ3lFUVRKdjIxbWZFSUZPSGx4cVoxZlJVbzVTX21UUVM3UGU5Ml9tTk1TWlh4ZWJrbXhuQUpXZ2tubXRnX1BDUUlTNDFpZWpRNmJ5YnhremZtcWhhYnVZQ2VuXzRreWIwZkhnUFdyQlBPM2hoUXoyZlNoazZiQQ?oc=5",
+     "title": "Govt might ban Waze in Malaysia if alternative navigation apps available, says Anwar"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42WDlVS0VtVko5MzBSbXdnUnltNzNUemlqZ0FWcXJzTVJROHR5U25kSU5uRjdVT3JtNkdmbUNxcjFmcTdjYU5wazVNTDRKVHd5WktEOVJ6WndqN0NnTDVEMUxB?oc=5",
+     "title": "Govt may ban Waze entirely, says Anwar"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WSkdSSThhQk9DeXB2MHZSMjR5NFhMZEhNbXFReTIzWUh2ZkNuQmJYcnpDdnl1VTg0aUlwbUVUak1lVVZEU2RSdEhWaTc5OHZu?oc=5",
+     "title": "PM says could ban Waze entirely once alternative apps available, admits TuJu's shortcomings"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Melaka polls: PAS denies joint candidate announcement with BN, seeks more seats",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYkpLRm82VjJyVGNEQl9YX3VCLVpWd0tmQTdYSlRqemFvREVnYWNsWWxlUENMeVBSVnBkdEJHTDZNbzNiSDN2U3JaSzZtMVRuS083NmZNb0NaTlNDTHdpUG9XWS0xNWFDU3pEbkxpZlNKc1g1YS1idzhrQW5iSUJPUjdxWnJuaWpFN0hnQ3lGQkFudExPQk5xeEpQYkhLTUFwTDlmR0hESjg3UjlkQmJvMUVZeHlrRGozTWR0REgxZk1jNWNOekE?oc=5",
+     "title": "Melaka polls: PAS denies joint candidate announcement with BN, seeks more seats"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fMVRhTDEyd2JTMFZKeW14QVJ3NU9nRGtPOXZidnFsaFBBSXg4R0xHeXE2UENCZXJwNzM0YlJQMWlOLUEyWmVIQW5BRmw4dkpQaVFZWG9KeV90eG5xenB4MUdn?oc=5",
+     "title": "PAS denies joint candidate announcement with BN"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYkl0UEdpTXV6OFBma24xNHpldWI4Yk1lT2xjX0tlbElGMjZCSkNUNlZCQ1lhWUZYYVFCVHlvT01WZVRGRTVQVFg5U3hwM3B5SjNkNURfLW1QV1lOSUZfVWJheVc0dWlvdGNoU3dHc0owU1BzU0ZsMy1CLXVFcGVtZXB1MmJwV2Fma3otN21jUzhKVlBOMHMw?oc=5",
+     "title": "Kenya announces 2nd Ebola death, a close relative of the first patient"
+    },
+    {
+     "source": "大马交易所",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRjJERE5pOF9JNGJZSkFYZ3hpWG9QQkZPYXYtQTJMRFViSmhMRDN1aXA1TnNXR0NyNkNZeG1TOGZ0NTFNU3kzTkxZU0o2b2dhbU5IN3lyMEtWczB1V19RYjJHc25PR0VEeDlPam5QM2xTUFBtY1pyQmlXRjh0NHo0cmdnN1l5YWc?oc=5",
+     "title": "Company Announcements"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "PRN Melaka: Zahid beri bayangan Ab Rauf kekal Ketua Menteri jika BN menang",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTS1XRTRXOGtEOEFDNmEyNG1YejNkWTN6WC1lSXd5eTRuUktBR3J3SlFlaFJxME9CRjBNYXhaOTdCUkZCeTQxMnp4eEw2d1FWNzY3eWMtQVlndWg1MEozX1ZDTDIzMnNkU3FweWNEWmJvN0JYTGxKLUVEQnI3SVc0SjJBRWh3RU1iNlowVWozRWZtdEtKNmJ3TUtoYWU4Y19vMlhUOHdYd1lKZUF1OUR6U2ZPbDh5QzJkNlVqb1ExMUFiaE3SAcgBQVVfeXFMTkFzRHJSS2JzN2x5UkRvQmNVeEY1RkNVVlJIMFVpMjR2TTYtbnQ0LTU0eWlNUkNRbjJiTk05bW15SXZnTGhPRGtwTUJyTHZMVUp5Zy1jUHBkeXlldm5CVlQ2TWtOOFJCbXpFeWVELTFaWlV3eGdxT0NNY0FlSHpGTmdaVk1tU1Z6R3JKRU5weElrdW9TRmxoeF8zbGFmQUpPTmJib2VLY0ZGamIxVkU2U1VtNU9JTUM5SFgtbk9yRnY0dVVoM2Q2dnc?oc=5",
+     "title": "PRN Melaka: Zahid beri bayangan Ab Rauf kekal Ketua Menteri jika BN menang"
+    },
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORTlZU2t0MjlFLTA1V1p6M3pmUjA5UHBtUm5hLXZsWU0xekdGVklGdmJCcnlQQ2JaTWdGczJxVlRHOThBU1FmLUNVa1RHek0zVkpMWlRFdFc1RDA5Q1RtRlRKbzR2ejRjZi0ycjBtSlZUNmtvbHFiSUp1czByOGZjZkNpMGVNYl9TbTFzQ3VQbzNCM2xsZFJQMDNqa0Z3eXZNTVJfX3FwOGpEOHhsTGVsYkZGd3VTeVJB?oc=5",
+     "title": "Melaka polls: Ab Rauf to remain Chief Minister if BN wins, says Zahid"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pR2JEV3BOd2JweTUtYW00YUFWM05KWEhXOThKekswbFN1YzVNX21sczdydjh0WExNOVhoYnFNZzdIOHB0V0cyclBqRy1HY0tvNFVwc0d3Y2E5UGdpY0F6Vkln?oc=5",
+     "title": "PAS nafi sepentas BN umum calon PRN Melaka"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Enam kali gagal hadir ke mahkamah, penari mabuk dipenjara tiga hari, denda RM20,000",
+   "summary": "",
+   "scope": "my",
+   "category": "司法",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVTlJZ0lzZkl2UVRlUi1GZVp0d0MyaTdDMFZSbXl1VGgzR3JzMGlBSWc1V1NYZHRrMkdJRTNoQVhkVFhGbFRDY3BuaGlRT0ZWNGpib1VZX3dKZXhfbWk1YUtlVFJwZUd4UUpNSm9kSV92d1BoTlFPWTZBZUpYVGZhRkN3V09oWlRucWthVEltbF9GMlFqME5naFZYOVczNzhTeUpTS3kzTUp1VEJwMTZnc1pvWFNfTEZ2Y2xBQi1GdmxJRUhG0gHKAUFVX3lxTE1kd3Z4M2tGR19lREYybGo3cmNrQ01ic2lPWFphamEzVGVxZlE0YmItczZ1QXV3NERPdV9FaTdvT2FBOTFCSWZjS0wweDhjQzVaVm5sVGlwWE81YmVUYWpleWcwMWdndmxMQ05EREI5WHhaX0o4NDdFNzZwMktMemJxT0tPY1ZLa2UtU0t5Ym1hODk3NlZQNkVHU0JrZThNX3FMSnRYRFVJem9tY21abHp2OHhYOWpYeWxJRDVXU1czd2JDNEZodHZsMFE?oc=5",
+     "title": "Enam kali gagal hadir ke mahkamah, penari mabuk dipenjara tiga hari, denda RM20,000"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN0c0SnBWeDVwa0FJb1hSV29GUzRPWE1TTmxsSFV1QWE4M2lSbFAtODJNQVd1TmV3OHJ2NW55VnV0aUR3cWhiQ2Z3SUloRVBiekhuWVdrVUlDSUJkT0VFdTRZenRXYW9jOHlnbEJ4MHUyb245U0U2VXhCbFowQWJYRVpkSmZ4WUw2aGF3Sng0TkZobEJtS0ZJSmJuZnl6NTg2N0VKcmkwT296V01pTkVTVWZFRGpGaUdXczFET2F3?oc=5",
+     "title": "Dadah: Mahkamah kekalkan hukuman penjara 30 tahun, 12 sebatan bekas pemandu lori"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUVQWXlwaE4ycmNsMUFHTmpHTjJLelZmV1c3OFVNSGFHOUk1ZFlpdUxVaDNiMGtBWUNtajFFSUhaMWNWMWhNcjlpMG9Ib21IUnhDa2ZfMTdXM1pITU9iU3pMall5OEhINE80RkdVTFFHdjBzN1E2QVNRUDcxV0F6dkN4RGdMRFFxSnREbnVmVk4wOXlyeGVpS2J0MjBBN09xXzRvcC1rdw?oc=5",
+     "title": "Ratu Balqis, dua rakan subahat dipenjara 12 bulan, denda RM5,000"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Murid Tahun Satu maut dipercayai jatuh tingkat 10 PPR",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV1ZWTXkzeWNfSUxpeXRZRllCME44TWhPaTI5blJOcExpaVJnQ3RhdGtSb0NZM1RsSGJHVTJla1EwM1o2NHczMmlZUlVSRFVaaWlqY0JYeHJLRkpFVXg1bE9ZZVQ4cEp0SENMRUlCUTB1WnVsenFPMXo0cWJCaDZwQjhKNWZPUmZLZFdFYUtzc09ac0F2bEhoWG1CX1o4clhmWUZYODhlaU5Ca2JaTzYyZ0lB0gG3AUFVX3lxTFBkQ1hmVFhBTjg3aXVVVVdibXV4dlFIQl9aWXRuX2RUS1JNWGN4dWpFWnNKZExJVG9MZVNqNGdBUW5RekZfQ3FXMFp2elUxT3REXzFjTEdNbmVGQzE3LUdHZ283NmhURjBwTHdxZXN3a0pULTZiN2ZaWnlRckN3dGk3dVI1elRUZnJMUVZVRVBVOXF4VEluenJVSUtGTml1LW16aEIwSlVwZC01TThuSDVVdFhxcVV1Zw?oc=5",
+     "title": "Murid Tahun Satu maut dipercayai jatuh tingkat 10 PPR"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVEJLQllVVkpKbi1tREdER0FMVkNwTkdaZWV5UXRpbWc0ZlQwQkt2TTJUTlNvMGV3eVQ4Y0VRT3M0TUxNUnpudV9EeEFfZDM5WE82UGQ2RGkyOC1uejZjNVhIQ3pFdlVqUFZxVEZUTkZ5c1h0b3BONng0UElkS3M5SEZBbENuWE5FUkpVa053aDNpeGhhajlmRnpQdGNNN210SHBYYmsyZ2hFS2c?oc=5",
+     "title": "Greece lulus larangan media sosial untuk kanak-kanak bawah 15 tahun"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaVVCMm5IODdaWkkzZU1wQUx3czlrdFExSmNacVV1SlRILVZnN25YWHJlTklMVzRPS3pDejdKU3lYQjgwUXNrblNZWmdiM3B0N194WGdMWV9WSmE3czRZeTdyYTZrTFBLNmRTV2VTbTE4bVJyUGVhYlRmUG5MaXhPYzlCZEp5WUhsQTB5ckhkTU5wclVhSGlHTnJ2NA?oc=5",
+     "title": "Kanak-kanak lelaki tujuh tahun maut jatuh tingkat 10"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Police record statements from 24 people over Kuching school attack",
+   "summary": "",
+   "scope": "my",
+   "category": "社会",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGZQSE9wa3lxTW9xc1BBWDNTbnQxcEJCQ3h3NkV0OXZGeUVLZHY1bnlldUdwQVA0OVZqZHlJMFZqWXljLVpZcjVfVlprU0pQanllS1YyNjVucDZ5OGlrR2ptaUJsUlVabDE2ZjYxRXRtR0YtYzdqVkltM2x2WllkV1FuT09TTVhqMm8zSEpuNlZzaXZBRllOYzJDdE95Ny1XbWhFdElGR21FTzM1R3gzWGRLWjhEcXkzYXg0bmJVMzhiSjYzV3JN0gG6AUFVX3lxTE5CMmhYR2FnOHNRSlQ4ZHEyX0xjSDRxZGJ6cEVBcWFUMDNJT2FhdFhSaHhwam84RDZHSmwxeVhlWjJVR1hGMjJzZk1FemNCRWRIdVR3MmFVY0szWTRhR1V6LUlYWkRrMDY5dDVUVVUyN05sYjJERGswNlhINWlXNjR1YjRVX1FhZ1NiR1RUV1VvNGNIMk8yTG4xWTBKN3FmbEsyYmNDTEczbmpXZ1FremFiODJRNjc1MHRyQQ?oc=5",
+     "title": "Police record statements from 24 people over Kuching school attack"
+    },
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZGtoeDBsejlNbjlMTHFQSmY4MTY3ZDl0Z1JQeXhVSnU3V1dYbVBGSmdFclhadGxpcjBuWWxPZ0tBUGwxNGhuSWJxcHZBbFZBSFV5R1BNUUJSRXpjUS04M0xqb3pxbkhUUkpLaHNPdDFSZ3h5UURxR0dBcUxnMV9JUVpHUnpteFhQZVlDeGY4b0Q2UnNLNU9MR1FyMlA3eEU?oc=5",
+     "title": "MCMC probing livestream of Kuching school attack"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdUQ5SUtseTVQaFBMZHl2MjJ0VkZ0b2NfV0ZQRHJNTUxvMTNQTnI4MGVaUmdMNEVGU1pkLVVqbzdQZzZLeTA3RXV6M1JqZi1WbWo5OV9TamhiMDZGVlc1aGt2OXFJd0FzRFZvdi0zNDBvUVN5aDhkMzUtaDdvSmN2X3dHYnNoMUx2aEhvekR4RUlXYy1aZjd2amZpMDZtNV8wSFE?oc=5",
+     "title": "MCMC probes livestream of alleged teacher attack in Sarawak"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Sarawak state legislative assembly dissolves effective Oct 26",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV2tsdGlKeEJ5R2F5QWpLQzdTT21BamdJLUQtWEV4c1NHRlU5UFB4c3NSbXNUQlZ2QVJYOFhVTmZlcVo0dmpkVDFwVHlmajgzNTBRVDlNUkQ3aVBjVUdSU2xrdmNpblBaYmhlYThONmVGV0dtTkwtb0ctTFg0NWdYREZnRk9ZZ0QwcVROSXdrZTkxYTBsLXhrbWJjMkRCSS15dE1ldA?oc=5",
+     "title": "Sarawak state legislative assembly dissolves effective Oct 26"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hYzFMVUhYbVR3bUhOeUJtSTY1TDFSdllSdzhuTVRzY1IwRmVRWU1kMlY5YlFiV1pwV01ubEpGb3dtSWtFRnIwZ01mbGlxamdvdjhiQmxoT0Nqbk5OeVVNMHhB?oc=5",
+     "title": "Sarawak assembly to dissolve next Monday"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVQzM2VIQ1pjQnBIRGQ1QVNnZVByaFdtR3k4WG4teGVhcU1IZV96YVU4dWNGdXk3UW5HeDlmNGVtTDBEa29vaFFjYnFwRkt6ck1kX3N1VUYyNE9vU09xUXpKRi1NYTBxX0U5M1haQWdLd1dJOWdtbm92Q0VQWHlEZHQwUUR0bGowdWgxd1RhM20?oc=5",
+     "title": "Sarawak state assembly to be dissolved on Oct 26, paving way for election within 60 days"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "TuJu’s glitches to be fixed within 2 weeks, says provider",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yQ0Z6Y21tTFdOY00yeXBIbFBYR29PeFdqWDlrakpHZ040MC0taHNJRng1ZjBNV0Eyb29hQ2x4TE5ad1Y1c2Voc3lEeXVGOS1aOThVZDZMLUVMUzZmVXRwU2ZB?oc=5",
+     "title": "TuJu’s glitches to be fixed within 2 weeks, says provider"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jSXRvNWlhRXFURjVXbnZOSkZRdk03MzVGdHlSUlA3UFRPNHkzbDM5WHdwVnF1bTJfbU1oSXdoTkc1b2lyNVNHTkVsWjhUZVZyc0dNa3BxSVVTZw?oc=5",
+     "title": "TuJu Apologises For Navigation Disruption, Targets Recovery In Two Weeks"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1abzQ4MFV0MW1uc1ZOV0pSUUd0d2NLMDNHejBYU3dsT3dKalNjYkx3aTdWSG1YV01hbG5XOG9ZTFNIdl9MTHZsRHRENDEwWlZ2?oc=5",
+     "title": "TuJu apologises for losing its way, targets recovery within two weeks"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 6,
+   "owners": 6,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVjJEVEF5eWJUVGRjT21DcjlJM3VrX3pOOTRVQmtmanVFTVY2ZE9wc0ZDSUF3U2d6c0czR1VGSTVQUFVpWHBFdjdzVWJoQ1VPX0hQOHhUcGRRWlliN1hoYXd5Q0dfVzJJWDB2aWduM0J4SVZFYjlTTEREN3ZhUUtaSkJNdkd0N2d3eGRDc2FtakR5RDlUdDNnNlJPUno0T3ZpR0dSSkpPNGFaTUxIWFFTZmdESWxzUzZMWVNYTHVaTWlVS0pMOE1CNHFNQQ?oc=5",
+     "title": "Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HVXR4Q2ppWjg1UE14akpXVTFoRWtic1NBV3ZkbDdpaldLd0VjSmlRNFp6UGljVTRNOWpPVHlCdTVnYVYybFZsT2NFaldRN2JzbWF1bnlIMUJJamM?oc=5",
+     "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkVOVkZPUnl6Z2d6SWt4cWJDOUNrSW5Fdmt6WXVUTXJMRXFCMXVVSWRZUWNHUXc3Nk1MZHlLNGVhVzNRMWdsSzByUmtHWFh4YzNRVjVlT2dCbjh5Um13c0kxT2pENE1zS3hmbi15T1FEcHl1SWgwNFVIZTdYaW1LdktVZjVVeUIxOTEzUlZZZnQzVmpSdGd6d0lyTXNjWGUtZERkVXM5N0VZeFhTamI3VGRSeXFqUlJNbU81c2VlcGlrQ01MU1VR?oc=5",
+     "title": "Russia, Ukraine agree to ceasefire in Ukrainian city hit by food crisis, brokered by Melania Trump"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkNRM3hJTVJkUGxjNjB3QmhSd2FSb2JHZkZtTjVNdzNWeHJ4QkpwdEd0cWttQjg0ZmVSQUtCV0JHTFRCeTd3NGJITy1ybDRTQzB4ZkhEdDEtRkRhcUZrWHdONWJZZFlBbGV5YmhkbDh5LTlaZm9jelQ3Y2FWOEcxUlhLZE5yX2c4dVhSZlYyVDUtVllza2ZLLTVXQ2RCN093aGJlRmc4RU9jcHZROVRv?oc=5",
+     "title": "Melania Trump brokers a ceasefire deal in Russian-occupied Ukrainian city to get relief aid in"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSHlzeURsR3Y1eUZHZDhJMDV6c1NmazNhamplQlF4LWNZNUswWlVhNDBNa3FaRmRyNmV0U2tiSXk0M0ZHSDRnYl9iS2ZBWHA4MnFkbWdYR2R6M0tLV2tSNWpBaEpYcXREZlBGYzBNdERTdWloNk0wTENNNlZ6dC1wdVhKV0ZCdmIyajJpRTBSeER5dU55VHRLeGEybzhHRGQzNGZWUnMyX1NLbzNRbDkxNXVB0gG3AUFVX3lxTE5qTDdlWnc5Zlc2aGRVTFhpcVoxT2VnWnhmeGdfeS1xWE44WUp3RjZsNmMwOUx3dXE3amtWTGxnQlg0SU82VXA4bGNEQjlFM3Y3UzZqSk03M2xTWmpseFlEd3NvXy1lc1UzanlLbV82eVVIQ2wyWDJ6enJCSDRYdjQxT0FSbDhqYkhUa2pQWEJDWjRsZFRDRmFENnpaMzlBNjBRMnR6WFVac1p2eC1YdHhOdjh0NGMyaw?oc=5",
+     "title": "Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQXVPZDR3anhldVZhWlRwYThoWWhTZ2pSdUZHTkpMQmo4NlBDUEVBLWlGQ2JHdC1oQWFZT1E3aGdXcXoyNEdvaVFDRlVJQmtWRWJJUkZjR2Etc1dVZ0tybUhuSnJXc2x3QWtCeTlNQU5lV3ZTcUh1NFowYVRzdEVxWWZxQVc4cmZEUzB1ZmJzcTFvM1g5NlhZQXY2VUpMcnZKNFNnX0x6YzlKazl1cWZCQmUzcTFrUm8?oc=5",
+     "title": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Italy Demands Release Of 5 Women Detained By Israeli Army In West Bank",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 6,
+   "owners": 6,
+   "work": false,
+   "links": [
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PQW01WTMxcXpwa3MzRHV5cVJOeVQxYTRKeHpFNllVdWNNY05tRDg5Z2tReEdOemJmZG05OXdaU25rUldfUlVZdXdrcnpxZVR4Um1UYmxVbGVkUQ?oc=5",
+     "title": "Italy Demands Release Of 5 Women Detained By Israeli Army In West Bank"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HM1k3QTBMRmFxNk5TcXAtU0RnMUVyTWhINUg3QnpOMlZWd3hBUEd6QmU2WVpJdzFqeG4wTE9meHI5cjJtZ0lMMDFxaFJ2M1djc1lmcG1vXzBNWU0?oc=5",
+     "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUU10ZzZIODMwNWxTQWN0dm55NUVrYV94T2tlajc3OGlSR1luUlBlZUh5djZiclJWMkdmcHAtSWViYkJSZHJrU0N5TFBkdEZhdTJCRWxlNkFLQlJ6RTRUZTM3ZU1RR3hUUzg4bTh4dkptQ3RoakJSVWJzTmVtWHk0WU1iUGdPdk9nV0NWVGt1aGdWVmJ3bUc4UHVB?oc=5",
+     "title": "Israeli military says 2 soldiers were killed in West Bank attack that also left 2 gunmen dead"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaFM4bnh4THFPU0RCVFZBbGJlZnlhVTBIT3B1bFdSUW5CSTBhbUdpUF9mLVpNYS1oM0VVUzgyay1SOG1ac3kwcG5mc3RQbWExbVZUZWstdDRiaWFGTjFiUFh1S1pHb1dSenR6ckdNc0NPdlFZakNKZ3ZGdFQ4Z3NqWHJISkNlblFZTDdPUzhZOHh3QzVrR0dvQ0VnUkRrZGx6SzhxR09WQ0huYnRCUkRtMnpEZno0OVnSAbwBQVVfeXFMTjhJbWNSakw4dW5EcXAxT2hEMTFVUklTalNRTy1nNjFWZmRWY1hSTUdXS1BTLTdHZW0zMDlfU3Q0MUZBS3BsR0d5YzB0V2RhNVQ0MjRZaTZiYnVqTHJLQUJGRGVscVpidndEUE9OaTN6Mmo3Yy1DMzNma2IxWDQxSk9Cem9HZllqS1F2ZFJZOU0yWENVYkhuQzZRMFhFRk4xdWJ0aFByaGVweXRva3ZCVGVnU0JCNkgxcFd2d20?oc=5",
+     "title": "Israel preparing full lockdown of occupied West Bank after Hebron gunfight"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQnFVX1RqM1JLSEZIXzZMbHYzbjkyZWJWbVZ1YTdpU0hzSmtrOXZYVndMeklLRjJ4Uk42VFJNdUY3UWVHU0JnZ2xYYUd4N0hOWGJlMmswUTU0SEdwZlRJbVFJOE9EcGRraUlXaGZjOTdTUUlVMkhnNU9HTjRjcXV1a0pFbUxlZTV1bERway02VDQwakdzNDJldjJLdl9hdzhJQk9oZDY1NGQxUWJUMEdtODlXbkxlb3R3REZQSUFGYndETjg?oc=5",
+     "title": "Israel launches collective punishment campaign in Hebron after two soldiers killed"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSll6WW94RUZKc1J2QUpCaUlFV1NmUU5YYk1DN0Jvb3NONzNlRkkzMkJtbnRkbVFEdkxLUkVxT1FVTkRoak5iTWNldFdoSXVXNE9tVVZDVkEzVS1qZGRXZzlSa3Jra3V5SEZHSmdUbWg5b05kWDd6ZDlEXzV2dzdtWHV0am5CRGZpTWh4d1ZoT3VUNDFQa0lIQ0ZGMVN4alXSAZ8BQVVfeXFMTVVGekM3aWJhYnJuRWk5NHJXX2ROYlA4Y0o3b0RGbFg1eXB0ZVZwakdiczJGOEQxaElfNXdkUHlLQXlOUkVpc2Y3NEt6SGVLQXZhUWk1MFpieUNMZ3h4N2hYbUFTV2ZlQVhnNzhrYll0YmVEVkhPQ0U4b21ybkRibUo3VS0wSks4NUdyRWxyNjZoSU9uRmpnZmpWMzAzeVNR?oc=5",
+     "title": "Israel orders home demolitions after soldiers killed in West Bank"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Several Killed, Injured In Jordan As Unknown Gunmen Open Fire On Church: Reports",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OdTl2cllWV1NwaVVDS0ZkaDZoMjlwcGdEQ3lKQld3M2J3bGptRGYxNjZYQjVqV0NPOUV3VlFna2c5dlJLMllkNl9PbS03cVltdkNLNXdVZVhuS1RaSV9VN2dR?oc=5",
+     "title": "Several Killed, Injured In Jordan As Unknown Gunmen Open Fire On Church: Reports"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PaUdRVmRXdUhxR3haU3dtY0ZUbm96Y2RrYVFQdGd6RVJGR3o3eFMxSldjR3FvQURrdzJONDhmRUNhVDd3TDh2UzVndUtGcG0tNTFoLTlnOXhSaFk?oc=5",
+     "title": "Jordan church shooting leaves seven dead, officials say"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXJlUlhXa2k4Z0t0c0FMNGlNNWZyM2Y2QkdXeFhqeEFMcmduN2JZZVUwelo1aU41bHZtTUMyamxGUVB5YTVQLVQ1S2p3ZnRtVzU5ZXNsaGd1NXctODdmeEZJbTFpN0l2MlE0MFlVSHZDbWtKaVBJeTd1bkNEeF9sTVRTZVZ2VmFxT0E1X2lrOVpybnlLUHJrUTRUWjl6a1VpNGpDRm5OZ0xqRTA5?oc=5",
+     "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWDJEUlpqMVFqM21NUFNVNzdrTHlkNlJIT2FwbExlZm5FR01ZWEpFdGRFMWltUDRPSHlseFpSanVYc0EtU3ZZcjJoR3dfMnJuN0drRkx4UlZzQ1RtOUFsd2h1NWtZQmdiYmNCU256VzFTakYydExHOGRoTGg5ZzBCcDM5NVA1LUtkcHNuV1JCcDB4WXM4ZnBqY3V6Y0x3NkF6ak9KbVpqVzFHQdIBrwFBVV95cUxNbm5hVF9hZnBmYnBCS2haUGJ6akNiOVdnSEl0ekdmYUlTbnZZOEpHakE3ZWhvTnNXRHM4R0JHQUVIUkJPdmJsY0NSckdxclZiRGtaVS1tdXQtTkNCUExKdXZTandkWUNzTjdTak5iNmwyQmp1aXJQRENpbGtIUmxQaVpvbTRMX2FTamZNeG9fR2xZXzV2cUFwbVJPWXRYLTdfR3JzRUNSRlZ0RllWZXdB?oc=5",
+     "title": "At least seven killed after gunmen open fire at church in Jordan"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSGwzcE50YVZGam9UZjFMUGFMcUtuY053ZHFCaUVObkczcGRiRHgzWUZYU1JzLU5JaFpFZVQxcDIzUFZRRVRVNXBKWE1NeURrenBrQ29NU1NLWUM1eVdPZXViNFFUaXdQYWRXamZOcldVSTRVekpLYmlLRzBxTFF6bzMzSVE1aTYzUUdzOHh5dm9kOEVB0gGUAUFVX3lxTE1GQVlRWlhmWkI2ME5DQURXRGdjdUU5XzFZSWJWa1RHTmljQU1rMFRXOHl4cU1Ram9CMTU0bFhldnE2ck12N19HTzVzd1JPYW9vUkczVy0wbFdGdlBoYllyNlJmZUR4UzBIMkxTbkZVMVlNd29VS3k1eHpkY0NsOUZZQi1oc0JIRDdYblJlWnF0U2lmWDU?oc=5",
+     "title": "Jordan: Karak church shooting leaves 7 dead, dozens injured"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Malaysia's offer to help Indonesia fight forest fires still stands",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb3plLTVNaHRHc1dzVEZWZkloRXRPRFpRVWNJYVoweG1sSTdEekRoYmFoenlZYjJNREJKU0pGaTdwbUdjZ3pWSzVNc2JJdkVTQVNmUDNGcEQtcEM0dE5kRTZMTWV5Rm5NQ0M5UV9xUjl2RlFpdnlPTDlwMUpmZ0RFa01SREJLbnZOY3dYenhsTjJaY3JoS3pZTXNOU3p0aHRRNzBxNzJBUVkwQmZBUEYtT0ZiONIBuAFBVV95cUxOb1M1eV9maFZneDFZS0lkQXVGMllzbEFFQ0FSb05RNHpOa1cxWFRIN1FUWGNLMDFuOU5zYm8tMGU0UUJiMFpsNVJkMjZoY2ZvdFk3aW56VWJkNDRXaXNHRzBjOEFXSTJ2a2ZlRmtpSTU5aVNuVGRJTnAxV2VQc1Q2Z3ZVNDJLUUVBOTZqZkx6dGdBajkzQ2ZDS2JkNmJzSjdBUTkwVTQyazc2VWpNTUFmUU03ODZZVkNR?oc=5",
+     "title": "Malaysia's offer to help Indonesia fight forest fires still stands"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVmhjUW1WNHlRUXRGT1RoZ2NPcXYtNWZZM0V4UG81b2hDMHNESlJHNzI5a0F2cC1Wc2RKbU8zekp3czVuR1RKQzlmelpwMVVVbHlGVy1McnBSWkc2QmZ6bDkxNTdfYjN1Ql83RVcxUHhRUG95Z2oyQzRza1JZZWtEX3YtVE5aMzVacms2REhUX0ZUTW1ldUpDa2pkclpaaVNLeThycmltQkVkNWo0VThzaDBWUEY4UW8?oc=5",
+     "title": "The world's oldest cave paintings in Indonesia under threat of wildfires"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR3VYalZKczBURWlZaXdwSE5GN05HYVVzaXBuUVQ4dVMwckFScjBjLVplTmtNUXdzdGg5a1R2WUxQWDFCdDYyQ21RTUFldWc1SWhNQ0p1NlZBcUlyM1U3cGFydVlTek5UdTc3WWwzODRJZ2U1SktwU1BIR2NWcERyNDc5TUdaNFJBMnJHT3JUVnJpbnRyM3F5bThvSQ?oc=5",
+     "title": "The world's oldest cave paintings in Indonesia under threat of wildfires"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "South-East Asia's worst haze in over a decade sparks student protests",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUzZpNWoxRVpMZkRlb1pMMkRBM29tMUFyclFrNzlIcVRJMldWeDJxQ2F4QWpsMFZtMXBsMlJ5WUxSTnZKMWw3MmdjeXFXUTVxNkl3dXZ0bVdYZjlWWTUxYzF5Vk80amRFYlMtUEkyOXZFdVlJb19DQW1OMjlSSE9QTzltSDFJbmJqZVZyYWZVNzdoT0hjQjVaSHZnNWl3V2tkLVpXOVk1NGZkeVZZS2d2UC1ZNkh6OTlpTFlZSE5vMmFrZ3paY0NrdGVkZ3BWekE?oc=5",
+     "title": "South-East Asia's worst haze in over a decade sparks student protests"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa0s4a3J0c3ZjZ0gtLTUwX2JDZnJvbVYwcGR2bHQ0aDczakJ5SGZsUDFjaU9uVkxfbl9WVEdMZkVQNjJ0a2cyU0U1TmVuY2dtbms4OFlDQzBia2ZxM1A0eHpqdVExQ1l2aHdLUmxJZC1RdkZ1Ums0LTBrSTZkX05fQ3Bqc3FXRHVfbl9DNnBYUkZMQVlLVF9uYU53RHpSVDd3OHJCQS1uWTkybms1dGs1aG5aWlRJS19Xei1jTVZxRE5iQXM?oc=5",
+     "title": "Southeast Asia’s worst haze in over a decade sparks student protests"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV1IzT3RBS3h4THZwclR3cU1hV3B2X1drNFV6WTY2N21VazdvVlZ5b2t6Y1Z3bHZKSmlpM01PeVU1Z1N2R2FHRTJZUS1kOHBOenpGZ3hkNDJOZ3FGQVJlWFdtekVQekdjanFnLWZXMEpqRTZOUE9STGpTWFNMTGxaV1pQenFNZGxxQWFnMmpuWlY5TXVZQk5Oa283RV9nVFBKTWgxT1pBREROWGlzOUpXR1IwVnNjTXNJcG80RtIBwgFBVV95cUxQNWhvc29EOVhNWER5Ukg5dUxlcmVodXRyVW1PcGw4cUVkZlNhTHA0Zks5M3NuTzROc1BDWEdKZW5paFFjM3pMNjFucHgtUXFJM096aDY0aFd3blpPa1RNOExaNEZFOFJBamkxU3V3ZnFueng2T2NtZUY1VmhfSjFVdFJqRUpLbGVjdmFxTFBKbXFkYnd3QWJSX3B4MkU2MGtzSjR3YmtEN0ZhMzcwM1VaM3d4d1ZXY05tWmFyX1ZWMUMwdw?oc=5",
+     "title": "Are parents in France and Italy liable for damage caused by student protesters?"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+   "summary": "",
+   "scope": "world",
+   "category": "司法",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRMHNqZTFJc2dEemswQm1TS2VSVjJ6UTNZaHdwRkN3U09PRzhWa0Z2ZGZDOFdOZ1BDMGMwOTdYSjJ3ajNGQjBuVmJWd1ROdXFhTF83eV9KVWx2T2c?oc=5",
+     "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcHpNSUlmVUV2bHgwNzlETWVMOTdzeDByMkFxOTNJLVVpdTRUdUI0QzVTZTNENDJ5ZlhFd0s2OFFQakJzd3htYlBNNHVxd3AtS0xORzFCVXNaY0RueDh5SXNMQVlCdDUzVjNUWkFIUkZ4RnlwTTkySTUwaWVzVUpOelpDbHBBUWxyd3ctckl6QlNtd0QtaXlQaklOUmp0d9IBowFBVV95cUxOQXJjZlYzZUs1Wjc0U2psamQ0MmZzUVlCbVFCUzROYTdMRWdTMmRkQlpkSnQzWXRKTlBrZ3ZFMXItb01jbGxkVTFzM19udkpVMzRNdVdXNVp0amxLSU9QWjhLVXltZFB5QnFPNWY5TU9DUUVWRkhENHdUY1VlTmdSLVBJczhCV1JlUDJ3YlQ0eWFLeEppdjdQLUJ2TTZoa1RmWDc0?oc=5",
+     "title": "Typhoon Champi hits Taiwan, killing one and injuring hundreds"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSkFjeTFDQkRzSEZtOHZSQW9IY0J5d0ZZRTBubXBHaWhRT0plSFd1emtCU2RDbzdVSFFKcC1TN1VRcEJrajRrZFZFV0JYSTZWMzNnMDNUNjUtVTlobVFGcV9tUW1MV2tjUENoOWNGbndoV1V5aUpleHE2c29pZkIyanhuMVBDMFZ3Vk5VNnhkR0ZNc2tNa0hmSXl4Q3VVZ1Y0dkpxczdB0gGmAUFVX3lxTE9tN2NQOHdjV3laWnp1ZWc3RHI4dEwxWjRNaG5nUFBwTUxvV0lOVjlxZjYyUjFnczNNVVpTUzRJTUJMSTJ1TDFrT24yVlhPU2xFWnNtSlk0blQtajJMTVBRbi1PWThhd290enlhanE4OGpvQWppQU5HQ2FUcnJhSGRNWW8wSEhObURPZnVId1ZOVHJSU1JDbWwwUEJEejNKZ184OUE4cUE?oc=5",
+     "title": "Taiwan braces for potential direct hit from El Nino-supercharged Typhoon Champi"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Powerful earthquake in Tibet's Nagqu area leaves 16 dead",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HbFZ2QmxZN2szRDYzOXd2S205UFJrVlM3d2Z3bnpuZFpVOEVfWE9UM1BfWnNfMllodUpJN3JMVW43WmtyS1JCUnpMUVJOLXNKYU9COEZRZ3RoaEE?oc=5",
+     "title": "Powerful earthquake in Tibet's Nagqu area leaves 16 dead"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORldaOFZPaTBpbVQ2N05EYjc0VlEzMVFUSHNTY0NZMTlUQnQwRTd2MTk0YU96N1N6WUlFZ2R5c3RnZ0FCNWkwemZlV1FmM3dfSVlFekRYc3AwQ2U4WmhESG5pT0xPT2NDUVNxLUZtMlFQNmFkYjN0TmRfUnF2azNnR3Z0aVVsZE16OGc?oc=5",
+     "title": "Powerful earthquake in China’s Tibet region collapses hundreds of homes and kills at least 16 people"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOVlqcVhIdFVSLWctSDNYdHhkRHVZNExjODlkaHRHd0JTM3RkWFJwYzlRSFFTMEpSS3hmNHBQamkzUE04T0tVcTFxWGZUWDFtZGV3SzFaU0prQVlBUVlTTmk5djlZQy0yRUl0MmxQcHZFQm9laWxaTDJ1bkJVRFZzTmNMYUxrcW5mQy14Zy03MXdrTWx5ZGItc01PQjRzVHhodHNn0gGjAUFVX3lxTFBNYlQxSVoyWi1ENHA0WG5UclhCNFhKc1NCUm8xNjdHZlpqRUVYUlpKM3ZZOW1DREVMc2ZjTW9YUk9SOHE0eDhGcWVQc2txU3pkS1JqbkF6WXFabWJ4SFMxQ05yay1aODFwWHpqcTF0emo5WDVsWU0xZkFLMEMwY0xNLTB4MGpuYW1YMExya2xEbFlxSXZpalN2YnoyWkFfV3FnWHc?oc=5",
+     "title": "16 killed, dozens injured in earthquake in Tibet, hundreds of homes destroyed"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Trump administration sues to block certification of Alaska election",
+   "summary": "",
+   "scope": "world",
+   "category": "政治",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Rekd5WmN6ODVYY2c4cEphakxOTTVCVXB0YXFmb2VFQkRYZUFyTTNNV1p1VjI5eU9ET0NRX1dVeGVkeUE0U1VvMjVpeWdTTV9tSkRJOFVOYjM0OE0?oc=5",
+     "title": "Trump administration sues to block certification of Alaska election"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2lwdVh1SXlFeWVFaFRvNGN6a0dUaVV1b0diS0ZvaXhmYWJRR3JVYmRudTdhRmg0V18wYVVvenVWaUJJLTRBRkFkZXhIbEdYcHFGOXZiQ1JUMGRadHRMclMxdG9GTE5rTnBlVVoxbUdNM3VuZ0pkN2REZ2hKYWxVcDNubW9ESVMyQmVtS3doVUNLRTk4a1ZBT1hKTVNoT1Qta2U4V28tMW9KaTdpcUI3bDhPYjk?oc=5",
+     "title": "Trump says he ordered the Justice Department’s lawsuit over Alaska’s US Senate race"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdmFWVGdIS19YcFBZczhtNHZ1V1g1MUR4VEQwV0ZheEZXbk40ZEpwdlZRNkM3S2hqaGtuSnlFSkJRODcwQ0FQcG5jTmUtdmNmVkdTVVJNOUtzODRkczg1c2ctUVVBdS1HUUJvaG9fQWY1Y3F5dXRWUzg5YTl3UEZkWkRFSFpIVXBhaW5TMXFOd19YVUtQcWpN?oc=5",
+     "title": "Trump says he ordered DoJ to file lawsuit to block Alaska Senate results certification"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Russia steps up attacks on Ukraine's digital infrastructure, Kyiv says",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc3J2MDc3anpSU2p0VjB3VkZ4YXlUTWxzYmpUVlU1NHRvQ25PU0JpS0YtQnBVWXhVUjJRZWRlaDRoQ3hTLVgxdk9CYnZyRzd1ODZyT1FrM0Z5dXdBWlE5RTdadVVxd0JqeDRfNVNhZHI1M2UwNEFlRmdPWlVOaGpHeWNGa3paRXdQZ3lwTkR5ZjhVOTBhREJKa0dVWG00OUgtZmFrOVlweUFPb1JDeG9Ub2dzeWgwUmdDQmpIUHZYNUlfRm5JM19j?oc=5",
+     "title": "Russia steps up attacks on Ukraine's digital infrastructure, Kyiv says"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZmdoaWxGa09IRldhZ3BZSVJMQmp3eUlTc2hqMU5PbG9zc01JM3czR1ZHRHMyc1dGWXNfNFd4NWlOUV9nVXdHTFJ6T3NjcjdZbXp4bzVQSU84ekhHY3kwYkh2OGx3ZnBXb0ZWa1dTbUUyMUNMamtGSTliSHFhY21zQTUzSlA1WXhuQ1drSUY4U3Mtam9KallQWnJYT0VXYmtEMi1icGVwdkdQTVgyQkJtUdIBtgFBVV95cUxPYnVibzVDTUUxWElra19mZUdXSGdnNjFzay1rU1hEMG9xRk5CVU1PSWVJeVllRmEwQnlfdHFvMFdxV0FKVkp4dHFsajl2S1J1WldYZGxlcDZwRGdZejdWRXU0RmFNUmxFb1ExRFpZVXktakpVZklSdG9pOS1ReTk2Ym1FTWVGS0hia2RKSmYtOTZJREYxT3g5Ulk2cFhTc1lZVWI1Tk5PZGx2cEY2N0g3YjhxZEdxQQ?oc=5",
+     "title": "Russia drops cluster bombs on Ukraine as Kyiv consolidates front line"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbG9qVXBmWUhQNmJFdWR3WXV4TlZrbkVMZHZwck1NdVdTSmlaeHN2VnNpRkl0NTJETlBlR3FXam1ERXl2MHRMd2hPanhTMHZhMWUxbzhkNzBDaUwxc2FqY1lMQTNBMVc2Z1RERGNUcVloMVFvTU05eEN2Wkl3TVJBdnpUdWdFVU44Ni0yVGtOWEhieDcxbU10Q0pqOFB4T3VlUzZvMjVBbC1XbDVxSDF5OG1jY0xtSkdQRG9RbVgzR091UDRNYzQxb2phVzZoT2NGYlJTSNIB1AFBVV95cUxPVVZUR0xIZmlOTjdReUVCZVlMcERvcUZLVTZaTlhRTmZKaFJJdWZ6WFkzaGFnVkFBeUdzNHBRcWxic2Rkb0VtMzlsd3RIcG5YSU1KNC1YZ0lneFFkWE8yM0JaLVlhVUQzT1d1ZnhyaVlqWXhseTBXN3pvZEJsVVJqUWZRMkR0VklGbEZOZ3hxR3RmVWpEVkh3T0djUGtsWXZ2cmZWa0txMjg5VmZmSGtOV3I1N0pScHhJUll0WF9YRlF3VlJoLXllanBZYlM0N0o3WG12Mg?oc=5",
+     "title": "How Russia's relentless attacks on Kyiv have turned Ukraine's capital into a front-line city"
+    }
+   ],
+   "new": true
+  }
+ ]
+}

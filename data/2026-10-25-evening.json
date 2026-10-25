@@ -1,0 +1,579 @@
+{
+ "name": "2026-10-25-evening",
+ "kind": "daily",
+ "slot": "evening",
+ "time": "2026-10-25T17:53:40.353967+08:00",
+ "items": [
+  {
+   "title": "The Star | Malaysia News: National, Regional and World News",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE41S0MyQngtV0VKd2h5ZVZac3h0ZEFrMVZhVE9STGVqb2U0UHNwamJrOGJ2bFFtQzRNRXBpYzJULXY?oc=5",
+     "title": "The Star | Malaysia News: National, Regional and World News"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rSHhJQUo4QUVEdVFGNEUyc05BRG9OMDJubkphTHZDOVhQWkczX3hNV1VtQWRUYUFjWmp4QTdLeGwwQmlLRjNXOGhOS3ZBbnNSajJaWWVB?oc=5",
+     "title": "News"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LVmZQdUZEZHlOcFd5S3F4Sk15Y1drV0V2dUxXbTh1bjJGVVhOZWN6Q3BxNkxFeFo2MmxndV9BZnhHZk9naWVKM3lCamFSOFY0d2VvY0VLbVdnQXdPeG8weS1YRVJJSHpDYzA4LTRESFBraURxbkFxUFVn?oc=5",
+     "title": "Malaysian National News Agency"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcjFueXZXUGRxZ3BMOTNBbkt4d3doeFBTekJrVU5FVjNhVDU4Q1VKMzBzMFJqSi1Tc3U4cm0xcWZOWmFjVVNUeVFLM1lna0tvYW9WS25rVnROQTJibWQ3R2VfdjcxYmQ0LUhxcnNhVmJuQXpkNUVPT1B1RDBGUmZSaFNNNlFvYTkzT3NyMFI4SEhKNXNDTFRjSmQ3UDRlN1JwS1dCN2xGRQ?oc=5",
+     "title": "- AP News"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVFpmQjlYSFltMEQzNWI0TjJKX29RbFpWQklPNk9yakpUZ0xkZDVrNU9XSjBKY243VWY3VmZBRWhkNzhhN204VDA1YjhfRkVYQVZtUnJvc193N2pWbjZidnN5SmJROWZPLWItNjlEY1dJMF80UnUtNzJmR0ptOW02a2J5WEREZ2pZZERYR3ZUb2tyRUgtSjRzeDh2a0ZOLUU?oc=5",
+     "title": "DW News Brief"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "MCA leaders stage walkout at BN's Melaka polls candidate announcement",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVXdSbEtjNHdqQXhCcnVqQjdLMmNpcHY1S0l2OGFfQlRsdXQzVkhiS3UtVzBCUVppUUNKSmZkNXdVRjlZN3QyNHFsRjBNX19iNDBHRnFkZVVqOFJjUkU0VklIY3lpSTZYZ0c0NGNzZkdwS0xWLVlXVGdmTTMyMTloVzFqUnBBMGZZUTVGeGNGTExSVW1oTnM4aGFmcFB1bXlLZDNfX2NJU3hKaTFabkd2R2VkdUw3YUFhQlNMRzZ3?oc=5",
+     "title": "MCA leaders stage walkout at BN's Melaka polls candidate announcement"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOejRDQ1lvVFJ6RDlBUG5kemVtNTZtWEtsWDJ3bGJpR3BZMkEwNW9RUFQ0bm1VVDdCMFNKajFhanVadUp2aFhtWjYtVnN3OENzdU5ndVJhRWR5ZHJvbEJPbk1tTDM4Z3NldFZtcml1OTFPMTRqNWhYQ2ZId3pUQ0xWNjZYYzI2c1VlUlQ0ZnRzNW85WjM3azRHT1RnZEdfRXk1eGZqdw?oc=5",
+     "title": "BN to discuss MCA Malacca candidate issue before Oct 31 - Zahid"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxNFY5bEdobzFkaTRxT2otbWo0OTNnbkc5MmhWZHg3eHZPTXZCUERjOXRkUjdZWnBxZzF3SmlCbTJlZW1BZ1BOeDBCR3ZaSlJkeHBkN0JTVTBvSE1IRk4xT3F3?oc=5",
+     "title": "MCA stages walkout from BN candidate announcement over seat allocations"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fUDZQWnRBVGVlMEhBLTlSWXBwcG1sVWRmS1lrR0xGUFFJLU14SXc0YURrbXNSRGlhbU5yaFRhT0M3R3ZlbGRMRFRyYnNibk1zWmZacG1LSUp3RnNkY0dXT2liT0I3QQ?oc=5",
+     "title": "Melaka Polls: PKR's 30 Per Cent Women Candidates Offer More Inclusive Choice - Fadhlina"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yMXU2TUNUQnlCV2RXSTVxemxwWC03Y2lXanFrdWx4Wk1fNTVPVzhoR1dia2RXQy05ZGl5eVNvVWZtRENfQmNHY1F5TFRObkVp?oc=5",
+     "title": "Melaka polls: BN to discuss MCA candidate issue before Oct 31 — Ahmad Zahid"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "PRN Melaka: 13 muka baharu suntik nafas baharu barisan calon PH",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMlVkc05ybWh1b3BJeFZQUEZlekR6ZEw1WlBHa2xZTTRWakVQX01ZZGl3VkdsUTd3bmZBeXlyYjBkZnhscTlob2pqV2pNVDgyQ1FzWWVNLVJITXpMS3dsOFR3SHVER3MyZmM5ODVadUJYSkpsUDVfcTIyVWZNWjFXQ1I3WUZwdktLb1ItNzh0a05Yd3FIaWVZVVdBUDJ3bnRPQXpFTXp2Vl9vUG1XX2hXVERXWWVIMzgwODc3RXVB0gHDAUFVX3lxTE01TG1nRk1wM2drT1FTOE8wZnZiN3QzemNNZDVCQWptR1lRbmJHbzFZWkMtN01aZWpzZjlBdVFjSmQ1ZnpqakgxOHhaUEE5M2xsdG04VGZnZTctS0xnajJ3Rnk2Qkt2WEhfZ2lqVWtXZ1BqWFpvdkJWZFVXenpuZDFnYXFhOVNwWFBJS3NmNkExdWxfcXUyU1NaWGU0bWZtNTRDMzg5VGhoc2dMS2NMSVRKWmRLdnp4WGc3bHVTSXJDLUJZdw?oc=5",
+     "title": "PRN Melaka: 13 muka baharu suntik nafas baharu barisan calon PH"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EZ3VVS0liaFBBTmxjYmJ3Qi1QeEk3T250ekdpZm1kcWpxZU1yVTRrRVBDT0pRcWg5Q1p5MzBJTUxfSHpJQTJxVkpWTHdkanBSZTVZZTlYcXNtYk5HR1oyelZR?oc=5",
+     "title": "PH tanding 21 kerusi di PRN Melaka"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbWhsVnhLSjNJTUJPS3RpME9fX3pUZDdvdzZzUHlJLU04VzN6TnNyQlltczdGZnRSV0xCcmpfNHkxSFo3UDVGN0k2c3liZDFmV3NNakdvdllnY0RiMjJYS21xSXFmN2d6eTVHckFWSUtSWWxwdmhoWUZyRlQ4R3pkR2JPSXZHbmtfVl9QZ0JNM3huc2ZVcDBuaE1n?oc=5",
+     "title": "PRN Melaka: PH umum calon 21 kerusi, tujuh lagi kosong"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeHBGYmRBWWdpLU1hOHJEMThrVjhQQnJZcmF5dVN4bkZvdlZNN1lrSlgtZnlfTU9EdDZoY1F3bGwxSTZvYUdtYUgyNXBkOW5DeER3LWNoVnNXajl6LUxhcndLR2lkYTczVzh3Yms4a3ZjYlFRMFQyWmZIbmRWZDlMQVk3SXczbUdiS0E5WU4tV1htend3?oc=5",
+     "title": "PRN Melaka: Calon Wawasan tunggu persetujuan PN"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Victim of fatal Paya Terubong landslide identified [WATCH]",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObEd6QUl0MG5uZklqc3JzRUV0cTM4LTE1eUdGWnFlLU0tYldXeXRjV1E5RlJLRGZaWjN3RDkxS29XOHdRUkNMZG9ncmE5dF9ZLXE1NEthMTVYcUtwNDh5Nmc3NHNacGxpbHpQNmcxa1NTQlIza2liazVsQ1JNbDRHdG55VUd3ZGpvZ1B2WGQ4WmV1Zl9SQUdvd2UwaWpyb3p2NEVLelVOYjl3d9IBrwFBVV95cUxPTExFU0JWYWJsV2dRdDRPM2czUGFtNXc4RzhSS3BnUG1nVldQYlZlYnlDeXJfblNWM3VRYmJXQm1IWXMwYzMxTVkxVHhVaUpRNlplQzM2Q1RCUVROTmdQRjdpUkhSaUoyeVpXdG52aVJTNWIxRm9BSXVBMThyc2lwWFptWVlocV9pS1B4aEhyVDduQTF5LWdKQWl0ZkFaazNibFlGaDBzMnNRcC1LZGY4?oc=5",
+     "title": "Victim of fatal Paya Terubong landslide identified [WATCH]"
+    },
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdl9oUFRfZzk0bW5DRzNaLTNwUWVNMWZXVFMxTlRPazBhT2tIUjdnLXZWMmNnYWVPMHp2UGhzZ2dMOVZMTXp1YjNkM1Z5dFR5M2JSbkp5TWtySE9jd3RzUmF1NWI4bEFkbmM3ZjYzbXlBbjhSSE1CMllYVjVTbVU4M2YtMVJWbUtING85Yms3TExHdU0yWlExX0RsVTdlc0toNnc?oc=5",
+     "title": "Paya Terubong landslide leaves one dead, two unhurt"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZUEJ6YWxheEsyZ3NFQXAwY29JdU0yTXMxLU1XcVNVbnVxZnlRak9VeVRlZmI1Z051cWtpZmRNOXZpQWQ1cEFvRFhRSGRhb3d0QTNNUl9ORVZjU3VibVgzX0RR?oc=5",
+     "title": "We warned Penang govt, says SAM after doctor killed in landslide"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01bWJiSjUwcFBRLUxmQWdtMVhtT1dUZnVlMjRTWjhhSDdaR2cwV1p4dVhuQ3pJNFN5VnUzU2hmS1VpWDQxUHNGaHFRLVNTc1RaUEhNUGk2ZHZwNFdKci03Z1hjNUY?oc=5",
+     "title": "Body Of Doctor Buried In Paya Terubong Landslide Recovered"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Billion-ringgit investments alone do not define progress, says Sultan of Selangor",
+   "summary": "",
+   "scope": "my",
+   "category": "经济",
+   "importance": 3,
+   "owners": 3,
+   "work": true,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT3FSNHV5emtCUGlNY1hTRlAxSVZjQnQ4T29kTWI2WHFrU09wSldpWGY3UVBLSGk5RG1NZEZacnUtdWJrYjZ1X09rZEc2UzNRV0NMQ2dPRDB6dzdqZk9zbHZWN0JySzNRazdybjJZWm56OTJPczNidzJtWGt4Uks4YWdhWWVubGpRdFFKNDVvak9WUWVaOHAzTFhRdlR0RGljR0FRMmhFTUMwNkVWdHZodDhlTEhSektxcXQ40gHAAUFVX3lxTE5Pd1lUb1ZZMDAxSE5IeEJyRlVfc25jWkYwYm56bmxDelBSR3NDT0VybnVpRENDSm5sZHA4Q1NRVlpmNjRGeF9Ud1ZtMFRZMnF0SVRSamJtck1XRWllZU5ES0hSOVJZOFZ0SlRmRnh5d3pZQmsyVnBFU1JPX0NqOXBhTTF4ZDEzaGpjc0w4bUoyQzlFbkNPb29XUS0wM09nc096dU0yYUNoQ1NoaFd6ME9uM0o3WnlMRGZsT1ZaNDRGQg?oc=5",
+     "title": "Billion-ringgit investments alone do not define progress, says Sultan of Selangor"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xMTdYN1hIUnZLQ3hWbHNXdkdDWTNzTGV2U1BQS0FOQk8yaWpRM2EwVXBQS0dIVU1lYmNKRGtxV0l2Wm5MZ2pGYWRTN3l1UjVSOVp6bFQ3Z1NJaS0weGY2YXdB?oc=5",
+     "title": "Criticism not meant to interfere in Selangor govt affairs, says sultan"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vTmR3N0Q3aG1XdVpTbFp3Z1BWWE9iM29vdDV1TVd6cGRMcXNQTGVyMnVSbl9ZMWRCMEVRTFBpYjJ1OWtGdHhvQ0FLZGFHZFdYNmFERnJsMTNjZw?oc=5",
+     "title": "Sultan Of Selangor: Criticisms Aimed At Safeguarding People's Well-being, Not Interfering In Govt Affairs"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Melaka polls: Seat allocations for BN are final, says Ab Rauf",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTVhrcFNubVQzTjBqN1loX21wdS1HSC1uaUNMdnFTb3VMdWhpWmFRUzN2VVBLU2xsMzd1cnNmWmlYUWpZdW9BYmQ4Q0k5eDhoU3hpOFF5MEVqbFBjTEE5WEowQnY2aWJjLWt0QXhxaVZYMFlXdDBOZDR2c2IyR213T091cy16cEVkZjFBbzVhQ3FrOG8zNWZEb21tVGlJRndRWmc0aUVyckR2V0FKRWc?oc=5",
+     "title": "Melaka polls: Seat allocations for BN are final, says Ab Rauf"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcGdRcmM4aTB1UGlHRnZxZ3dZTG0ycFp3V185Q0pzSkVMckkwQ3k3SzhsRTB2czRMdnB1RmlhczVVVkg5NGVNUUVxbWZfdmdmUmlKUE15WTVXMXFVSFAwOFlKYzJMY3VlUmk5cnIwTHBqRVozRWZPZWxWWkxTMjBnOVFtbzRBXy1PdHJhUGZqcGw0SHl3UDdrcQ?oc=5",
+     "title": "Malacca polls: Rauf says BN seat allocation final as MCA sulks"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5YQUMyRWkwZkNjbG9Iak1TVEJHUnRIVEtFSGhlZzFGN3FoMUVOVk5ZdlpJdGQ4Y2tZMXUwekJ3SWN4SHpjWVlFMF9XUm5nNDN0?oc=5",
+     "title": "Melaka polls: BN to field Ab Rauf, Akmal, Noor Helmy, unveils eight new faces"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Sultan Selangor kecewa salah urus TH, muak politik keterlaluan",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVbVp6NkIzemhjMEticG1uS05yQk5vQVA5a2l6ZzZRNjJDWXRKUVc1bWUtTUVKT0pfM1RMWldqNUgyMkJzT0Q3LVBodHY3Q0pEX3NrT3VYVmIwTkx4TVB2azJn?oc=5",
+     "title": "Sultan Selangor kecewa salah urus TH, muak politik keterlaluan"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSHZ5X2s5YWgxc0tCdXgxcVpGMVJaSTFZdm1oSVVycEhHUEF0UHVHamdjWnN3NFRpNFJySzZpaHFLOU9uMzcxblVkbWdGU1IxUkZ2ZFdkVTZHdVZwd29IQjdoenpIaktkb19FUF8taWI2VEp6NUF5VWNtT3FMSDZRZ3ZTVzRYYldlc2ZrSXktX1pwME5zTUw0MVN6Yk1xUE13NzZKa1c3NFNrQzhkQjNRenVmUQ?oc=5",
+     "title": "PM Anwar ucap tahniah sempena Jubli Perak pemerintahan Sultan Selangor"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaEZsdFpHNUlhSUszdFRVaTY2SlFZNjctTDkwS2FfWHd0Wl80SVJDMWlkQTdNSk1feUdsaDBqU01uZHBPTko2eUVDX3hGT1dTb0c4TEtkODhIMUNtRTVyUHNOUDJBUW5FZGpYQzdWU1N0YUU4OS1wakN6eHM3NndtNzg4SU9YaWdQYU8yZlFjYXg2S1o0bERqa245Z1ZUYU0?oc=5",
+     "title": "Titah Sultan Selangor bukan mencampuri urusan kerajaan"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Isu bendera Malaysia terbalik: Hina Jalur Gemilang di luar negara jejas reputasi rakyat Malaysia",
+   "summary": "",
+   "scope": "my",
+   "category": "经济",
+   "importance": 3,
+   "owners": 3,
+   "work": true,
+   "links": [
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd1ZoQndiaWxKNWJXajJmNlRIRTQ5M3ViZlBDaWVzTFRsWUhhXzg5bWFyeGUtVkh4THFwTEk2MDV4VS0ySE90aGF4T3MtZEpDdTFvbnBCR2pMYTY4OTAxX293NVZWY1ZISDNBRHhCMFRRc0otMTM0NGVzN0NKMmhUcGRPWF82NF9HZGxqV0VKcHc1OGV6TGNhWXBON1JVYUFKcFJ2SC1qRjJsUDdIUUx2eVhtOVVzSmhveXZNdkd3dk1QbndZazRFZjVFdXYxT1hCZ2lRSGln?oc=5",
+     "title": "Isu bendera Malaysia terbalik: Hina Jalur Gemilang di luar negara jejas reputasi rakyat Malaysia"
+    },
+    {
+     "source": "国家银行",
+     "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9IS2lOMk5hcVVROU1leWx6NUxIOGVTaDJQdlhRTVFBZVVQZGtnT2x0cXhHVGk5cTA3UDNJa1pB?oc=5",
+     "title": "- Bank Negara Malaysia"
+    },
+    {
+     "source": "大马交易所",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcXdkN0R2THktVFM0ckRfX0FsYXVWT2FSSm1qdFNIOHROYmJsVE1rYkJKSEQ3bEg0RWo5bmhnWU5BV1g0T3VjaVQ5RW9TemJSdnpzcEdfVW9CZHdYUGZOQnM1dV9lRC1SZ0hFZEFYd3lmanI4NGgyMFQ4UmhmT2VKRlFNNWNrREhfR29wU21iZjQtM2lSZ2lINkZOMHBnWEpUQmNISUxueUtWbm5SV2ppUllwY0VueHNCajlJ?oc=5",
+     "title": "prospectus - Bursa Malaysia"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wYU9INjVIeDlBUGVueHEwZlhEMlU0Xzl0bmdpS3MtdXF4aV9CbzVQWENkSVRrR3RDLU4ycVZqdlUzMFdUckc5anRFWmlhb3lnQmhfMjhMeFZtUjA?oc=5",
+     "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVklsWE9QVlFHcHRES2xGTXNTVEtudENYZTR6aFRMZmVuaENzXzBCb0twTjdadFhWY3V3Nkw4aWZTLVJmYjF4OTVmR0haOERYVGlFSFB0a1lsQUUyVDM2UF9lZ3QyeTJ3QzVGN0J0eEF5UEsyanhKaUNHZmpaZnA1eVFsWkVKdHhkdVJjTWZrSGtHOHN0aC1JN0JkbTByTE1vaG5vc2dPWUswNkZxYTN3aFV2WkJZbVlwNlJtZU1R?oc=5",
+     "title": "Ukraine says Starshield back to normal, Musk says Kyiv violated terms"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOGd5SnEtSm9xemFDa0s3MnhQUjFKOHZmcUxxcHVJU01FWk5aWWEzQWJKaG1DUGlqMFVIWVJrWXA0NUx6NTVQblRkb2lUNXJSWWdrd3A5VlNuc1BqbWM1TEdCZ0pJaHUwdWFpa1g3MVFkODMzWEZuS21WaGpqSldLTEZqT2xReDFQY1I3NEV6ZEZWTl9Pb2gzbG13?oc=5",
+     "title": "Musk says he was behind Starlink speed restriction after service in Ukraine is restored"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU3VLUUxndXB1cUNuNnlhczJRcWVkQmJGQ0tnVXB0UGtiV0MxMWZ2VHFrZkpNaGhQM0l6QS1yZUtMMHZqMDlwQXNVM2tacnlRZXc4T2hQeFNCOE9ENHotZWJBYThaMUxtVUpqd1BlakVkekUzbGFTQ0lQWTJYd1dVYTV4NXo3ckZ2Ukp0YkZKR2t5eXZsUTVqcnc2YS01SktiUjI3b0NOU1NneGo1Q3F6MA?oc=5",
+     "title": "Ukraine says Starshield back to normal, Musk says Kyiv violated Starlink terms"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRnRBWjN0b2daUUplQWRLeXlLYWNNaTBNbVhuQWlIY3FjUkdaUjhOS2NES3NJcjE1U19nY05ZOEE3Q0Q0bnloWlNEenFTb3VxN2FYX2cyNWVMQTg2RjE0VXE2NEJfcnJ5bi00Vkd4TTE4cEx1dTdaUFJwbVdnTnczaVB5Mm9DajJpME1zZWRR0gGOAUFVX3lxTE92LWJDS25OenBabXczTjhRcG5GOEcyN1VVMVI1YlFPREw5aXdaMXl3OUVVUXRMV2ZMNzY1S0xndUR5N1hxMS1HaTlBUFFSSEMwMm5CWFp2eW04LXVnb1dmcVJjWk4zYlJBaUtYZG5adlMzbUVQblY4M3RMankwUE0xSGMxV0lmNXpLTndfbWc?oc=5",
+     "title": "Ukraine: Starlink satellite speeds restored to normal"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "North Korea's Kim Jong Un returns from China after war memorial visit, state media says",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUmFRMDdLSEpoaWR3LVZkWTlFQy1DYjJiU3JObElYXzRHWkFDaXQ0YXFZaGpyQ2pSeWN1UTV3UUFnZjA3bzRLbk1YQXJqa1E0OWk0eEttYzVrNlRRNzZvRnhVMXNUYTBSZTh2MXJROXNobTdxRThFaFRoc2hyaGMtZFlDUE1mUUZZMG13SEt3WHZYNGJ5WlpfWDloU2hkMnVCUFUtbEZxQWZYdnBhS25mbnZZUHlmS0JjOWtTWXNNbDFHRXlUOWUyLTdCOHhLYzFKZjdWRGxxTUdmZDQ?oc=5",
+     "title": "North Korea's Kim Jong Un returns from China after war memorial visit, state media says"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0I1TVQybGpFam8xeDVVN1NTdVFha1Q3Und2cjhZbHJnMG1CekZFTWEyMXI2VFNTVHF0MlF5ekIxM3plalZMVU9jVjZHanE2WnozM2xQN2x6WDA2NHh1NUVXRXIwZ2JVczFsQjZ5aXY2VU9tRk1kRWg2bDZpSlJKVzVFaVlhOFc0N0pnOUp0cWVwREY0b1JlZ2xSbw?oc=5",
+     "title": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVJ0Wk1NQ1B3YVBqY3BqdmVRemViZTZqd3QtcE11alNiM25HV2ZYVVZWcUJtdGw4U1o5cXlleFRNTTZVdG9TakRpTDFucGV6a1hXWjZ4OTNVd0tUdjJfdkhJRFpuQ1gycldFMkFVVVh2SldLQ1FXb0pyX1F0alhQOHBRZDlidmhNb3VyaEFCZUxzQmRwTkt5Ui01cEk3NzUwUi1tRFFaX1FTLXfSAbABQVVfeXFMTkVhU09XckZfdmNVRDNubFdzQzNPUC1Wd2I4QUFPRlZtRVVyTjVYX1NnWEtRRnRDWjFhTUZVUWljMjktRmlYek1yYk91ek91QmdNZXNDSkxLYm83Nk4zNjVVdVdpYm4wMmZMSk1POXIyUnNpZ1NpaUZvNlZCNldaVXh3Rzhwb1JmaHV3dGljbktiajNmclRXS2d6ZWU3ek96T1pvN0FNVE9uM1QteDlBSm0?oc=5",
+     "title": "North Korea’s Kim Jong Un visits China via newly opened bridge"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMUgyR1hrakZRUGxwanpKeUsxaDExUkxmM25fY1pvUk51SzFMXzdSYl9xTmtpMS1uMl91bElETlJvdmV4NmtWYXBBV0NJVm5xZVpoZkZuOTRHdUxUc3EtbEhIMFBnM2tNMzhpcXFmWXU3NzdFNVdodmxBVGRyVl9ER1g2OUVOQkV5c0ZQTzVKMUU4TFhrQ1RwOXRCYXFPRXVoMGtlNXRfMXZkYlVYQ0JUaw?oc=5",
+     "title": "North Korea's Kim returns home after visit to Chinese border city"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaGN0cmhrMUJWVmxSUzg5S0hXWU9iaHp3SHhMUERMb1JCOWh1bWxiUGVzN0k2WXNGUFRPUFlCQjU0TXBKZUVwbHpud3Y2TFktRmlwX2tpcGlwTHRDcWlSb05WZDZ6amJCUmtFbkFXeHBiTTFIby1Qekcta1l4bnhBRzBhdlF0WnlmMzQ4QzVYRzROdGYzS19uZnlfekxRZmtZcUU5eU9YMmw4YlZPdUphQ1lJZHg2NmdpUDNz0gG7AUFVX3lxTE5QdDltZXZaZHRUdUN2NVZFWnVheW5oR1VUWXNWb09fMHQyZ0M0NWpaM1BMc3VGUm5fclFwUExtelg4R1hlMl9ZUmhtc3cyLU5fQVY3WWY4V1R4SEt0LVJvZkwyWXBDa2RiYnRiWUs2aFhrOEpsTlBxMURRXzFuUmF6YU5mZncydTU4d2ZobWZDbDRudTFtNkdCNVF3LUlIbjdBa2IyRE5jTTJsRklNejVxa1ltTEJGYjlrOW8?oc=5",
+     "title": "Kim Jong Un travels to China via newly opened border bridge"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "AI and EV Boom Draws $690 Million in Advanced Materials Investment Plans to Thailand",
+   "summary": "",
+   "scope": "world",
+   "category": "政治",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "星洲日报",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rTEc3LWlYMUNwNkx0dDFvSkdIYXBEOVZBYmFzVUdGbXc5MDBReW1uYW82V3VpTF9XZjkwNGVvWWh0Sms1WWxKcnhiM3lHWDJkUWI3S21XNGNBa1A2RGVlZDhPRUZBbGlmNVE3bkxsTDg2Q3Bsa0U1ekNBMGZ5cXM?oc=5",
+     "title": "AI and EV Boom Draws $690 Million in Advanced Materials Investment Plans to Thailand"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ubVgtLU9DUW91cE04TUp6Z19KMmg2NHAxU0NiV3JpUkRvZzNuWGFpY0Q4ek15eVhjNUp5UlFtaDFIV2FZa2h6aDRTSy1fbXpo?oc=5",
+     "title": "Anwar says a global investor plans US$50b tech investment in Malaysia"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3V2bWpZckhlWExlaDZRLTR0NG1MY3l4NmpfZzJCUkVpSkJGblR1S0RScmxSa2tWWVhtZFdBNzkyc0ZaUnlDU2lVNEh3WUpUTkw3d0tIdGlzeTNrRnpWNFhiUk9xTEw4bENXWmxuRlRYTXQtU2N4MXRLVURsUkVxYUpGMks3R0hUaXA4eUZHSXNBWXRLRUN4VVkyVW5WQlBVUFo1dnRSVGxPYmxqMXRXUnVn?oc=5",
+     "title": "China urges US to halt proposed expansion of outbound investment curbs"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNkRKV2pzWVhMdHBqODk3bFdCMHRMQlNJdDZUaUYtZWVtNEtreThTT2NkM0ozRHBjeTE0LU92VzZqVm5RdGZhaHp0d2Z6RXdnVnlnY29CODdfbGk4UlhXRC1IMWg3c1F6SUNSTlRpOEhYZnNWSEFDWnQ2amx3Rm01blVPMjJGMGJFUzdtUV9FeWdIWjRQNXJMOHZMSWhVVmxqTHVJMU4wSjNCVmktZS1R?oc=5",
+     "title": "China urges US to halt proposed expansion of outbound investment curbs"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Arab Saudi tuduh Houthi serang Makkah dan Madinah",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVWZPX0ZzTkNDaEw2TTlreEtnNVBvblo1YmwtSXB2SmlCNTFjNDhYZUx5U2tzalA4dWc0UVRMbVkxQ1pvUlYxRVBxRlhrRHRYNHBXQ2E4RGN2TTZQZFZrc0FTdWFHNGljSE53T0otVHNPOFkzS2d0bXYzeWl2X19vTkhIZmJUZWgzTjMtX2Y0dXVmRXZDR0hTZUltMVR6NjE0eV80UXd30gGrAUFVX3lxTE56VnR0UDFZMmNER3M0NlRoeXhVWVYtNVp6cEZ6emRveDFacjZ4ZzNvQ25UVmR0TmdwcXpPVlZiX25SWTlNa1MxR210bWVXUWpjZGhkODNZRTh5bzRoUmhFYkp5R2ItNE5XYXAxakNjXzNuTUJkZ1Z1ZUt0YWgwMk5sV0ZqWTBPSTQ1bjktVENMY3ptM0h4aUVjUGRyZjZGRC14RTlodXZUenFuVQ?oc=5",
+     "title": "Arab Saudi tuduh Houthi serang Makkah dan Madinah"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOako3eGQ3b2NxMXlOV0xXZGUyX2VpNEUyR1BXNlpQalJKZ2d4ZkFPYzlFSWgxNnJHdnpyMVJiYkctdk42LWJDT2I3eUpidjVONkJJek1xODJuMVNLYXI4MlFVQVBSQ3otdmR5MlRmTGozdXRTMW5ybWY3UjJYX2JsZWhzSmZueDlPOERaNVl5bjdXcWUyZDl3VGtUMEVjdDVuSVpCVFpjNUlzUQ?oc=5",
+     "title": "Houthi nafi serang Mekah, Madinah seperti dakwaan Arab Saudi"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1JpTkpxd3RUSFgwb29mWkRuSmg5UFd5d1RMQkZMdE5tV3F4cEN6SXFOODhTQUZTbTZucHJGVnpxMWpGZVFuSXJzZ045Q0o1Uzh5NFNvVENFX1M2dFQ0NzRGYjUtWk9TYjBWcldGNS1hY21yS2IyOXBsX29hcFg5N2ZENUlIV2oyTE1OT3hJQUFaS1pjTHV3VnZUTkRWbVFnd0JqYV9iZmVwUW4xcGNVOUdUZmgtaWpkVGdsVzJ1SXR1U1hyWG5uWg?oc=5",
+     "title": "Houthis say they targeted Saudi oil sites; attacks reported in Aden"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejJVeno4cmRWUWhlWHZNR2NoWF8xZ19jNnVXTS12b01LRFhpbFdpMUZCTXdJSVk3WFFhSy11dHZlekhOaUxxZTNOR1VObXdtZkQtRVpRZGhQbElmV2dJbzNWSzJpTHlrV0drQ0EtZ2hXVXJmTUZZUklOQlV4NmdoMHV4OUp5MGtXVzdTb19WZzVWTVFaNzNma1J1cWTSAaIBQVVfeXFMTTVxZm9xZlhCcDJhb0p2cV9GeHl2eWFHM28xak5sT2J3cFBiNW5hdk1WamVxdXBiQzd2UmIxcnd0VTNNU3U2MUNZVW1xTmIwMGRsTndWZnZENlR4WlpvZXJUQ2N2LU9LMWRpSURFX091Wkxfd2xFMFM0Yl9uV0xNQTg1cEpZUjE3TG13c1lKU2NIVlFmT2J6b2I4QzNLTDBMVEtR?oc=5",
+     "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Malaysia Condemns Extremist Attack On Church In Jordan",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwdnpwbDlndm81dVowUzBhdFdObGlHeWc1Tkg3cjU5OWtXTHUtWUxFazhGNGItM3ZIdTl0VVphaURDQTJkQUN6YU9wTS1NNWl6TXRBajdLcHJ4QUkwdTViT2xxbw?oc=5",
+     "title": "Malaysia Condemns Extremist Attack On Church In Jordan"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZVhBcHBITVRDY2hGb1hueUEwVnhWbUhBc3dvc2NXTk5Yd3NybDQyUW15R3NfVnBmOHpJLVo5b2UyVmN5NjdURndGT2xQb05hSlE4UU52cnFYMDdjbnlQTm9LRHpBSkdLSDUtTlhKdGJYVjN1cGY3c2hEelZjN3FhRXM1X0ZYbVk1Q05lX3ZPdWtBRHE4U3BHUjJtNUpMemJTbXhRcEVERGFZTUt2QW1JbXlSWUpWOGZ6UWc?oc=5",
+     "title": "Jordan church attack survivor says assailant pointed handgun at him"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXJlUlhXa2k4Z0t0c0FMNGlNNWZyM2Y2QkdXeFhqeEFMcmduN2JZZVUwelo1aU41bHZtTUMyamxGUVB5YTVQLVQ1S2p3ZnRtVzU5ZXNsaGd1NXctODdmeEZJbTFpN0l2MlE0MFlVSHZDbWtKaVBJeTd1bkNEeF9sTVRTZVZ2VmFxT0E1X2lrOVpybnlLUHJrUTRUWjl6a1VpNGpDRm5OZ0xqRTA5?oc=5",
+     "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYVc3RzgwbFotSklHa19HWmhNM0d2N0xJZDFzakxBdkRnM3hrOHhzWmRKMUNVVVZMRnpJWXhidHVqQVNyWGc1X2pCUmFkUktuU0xpd3ozb0NzUFJHVXNTQnpSMDMza3BhdG9zNG1wY1J5LW9KSnN4dkZfRUVoYURPNzZLYkIyNmxXQVpVR3FhcGk4Vm9vTEZOMdIBngFBVV95cUxObVZSV0hlMkhHVGs4ZEd1akpNMFFWdGFVZUhCb1QzQUdob1F2ZmtyRWdfczU4bW5KNTUzU0Q5THp0aXJxQWVHYTkzbjVEYkpqSUsyQXNzWE5YTzdlS2lMYWdNUkdadGxGTERPV2VTNTY5MjdtQVczQjZKYktSR1YzZU9GbWlwelV3TUU3ZEJ1RGhEZGpSMV96akU5Wl9Sdw?oc=5",
+     "title": "Who was behind the deadly church shooting in Jordan?"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Indonesia kurangkan eksport gas: Singapura tuntut semua pihak hormati kontrak bekalan",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd0s3S1FLaDNnOVdFTWdBOFdWeWVlTHNxNkFNV1lrUlpDTUhGYk9uUUtiZU5FNUZmeXJoeTFZX0ItN2trMDhCOS1lVFh5cXp5b0FhMU1UT19lSDh2OVFvdlZPN2V6dVR4bllCb3E5b2ZBUFM2bHR4SmprMHdHV25PZnB2TVFsYWJCMUNiYWk3VEdkMHIzNktFTzR1WGlYaFJDVVdVYnJjWWE1eUMtcWNUWm10UDVxZ21RajJNNHlkYXktZw?oc=5",
+     "title": "Indonesia kurangkan eksport gas: Singapura tuntut semua pihak hormati kontrak bekalan"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wekpYN3B2cnFFcHFNd3Y2NVk3TllEa2FvWU5ZZ29UcU1aS3ZzenRsNmRReG5LM3M5RXhWdkZtaXNJbHBIc3NBREF5TVhIWHQy?oc=5",
+     "title": "Indonesia says cutting gas exports to Singapore to prioritise domestic demand"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMVVkTFlZc0hWcDVneTJjckZnXy1kYjhtX1BYaUlZR1JwTlBJMTRzbU1jWm1yQTVqQUZ5Rl92QndOdk1wTFhoUVZUTHU5NTQ1WjFXd1YwcHJZb21JWEw1MmJVUlZRTDc2VTEzU0VyNlVIeXN2cUNOVWlKV3h3dm9Ud21RQU9ZbmdnU2lFaVU5SDMyUG9pcEI5aGF1NEo1TGZCUkxuUjQ2YjdQX0Vj?oc=5",
+     "title": "Indonesia cuts pipeline gas exports to Singapore by about 9%"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRTAxTDMzbHRaQWJIMThQZmR4MktiUEk4V3J6QWVTclRNaGd6OVpJTzE0Ti02M2wtZGkzaEYwSW9abXVvc2tOWTBvU2d6YXNXT2FLQUNxbGJ3V0RadUhBeGhrQ1cyUVREOEpjbmU5SWZHNmJrbU9HdTJLMlFtSzZWTQ?oc=5",
+     "title": "Reduction in Indonesia gas supply amounts to less than 2% of Singapore’s total daily demand: EMA"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Ribuan penduduk Israel sertai protes besar-besaran anti-Netanyahu",
+   "summary": "",
+   "scope": "world",
+   "category": "政治",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbEIwN0JZNmV1OThiWFp0OXNWMk5EV0hNTHhtRmRDM3doN181VE9iUk9ia1FuaGV5d1huNVNqa2hGN2JYcURRRzdPeFBrczI4U1phbmJnS09QMHQwMHYzcThhSjBhNlpHa3B0RVh5Z1haRGEwSVlyV0RVdG41WUppSkVsNHRIbThiSGRqNVNFRkIyVndjSXpIQXByMGlYdmk0d0VEdzh2blBNaXdLVU5UVzNR?oc=5",
+     "title": "Ribuan penduduk Israel sertai protes besar-besaran anti-Netanyahu"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcDJ1SGFoTUhVdlBmTFRuTFc2eEJiMlBKc3RiWmdpQVlWZzZOTEppNkpweDlxbEJfQm5hbUdfRFB2eTN1MlZEMk1wcGxJMWtyc1NYYW5VV1p3b0RaVDh4SlpnUC13T0Fna0ZRSUpnRlBOWDd2NHVDTEZtbzM4cXd2RU1QZVVHNTVXWnd2enphaUR3NkJoQ0x1c3J3SWdjc3FLRmhNYWY3aXFhNXFKbjFxUUhNSdIBuAFBVV95cUxNMVE4bWlIamtEdEtYR2R6YnR0VW9zOGRZb0lhaURxbUNiMEhzTVVTX0VTMU9Bdmd3TkZRQThuR001Tm5za1VZLTB2dkNRb05kNWFteWZfSkhFMXB5el9sY09IVmg5NjlvRnFNS3ZhcWhaRWhRT3Iwa1VVWVZqODNOeng0amxiSldFb1daOEpGWlVNWFVKaUNMNlAxRWZwM294djdDUHFsbG9oY3lPRXJUNFJlWTBlVGhh?oc=5",
+     "title": "Thousands of Israelis rally against Netanyahu gov’t days before election"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNmRaOFgyUTdzU2ZIRjY5NmtkUmtNajl5TEdYMWs4VnBEMlJ5Q3RHeF9kcF90T1NxejhyOXdnb0d6N2Y4QUo5dmIxN3JpSkc4V0duaTVpSlRkYnYwUHVVaGtYdlNoNXhLSzNuR29TQm5iYS1vUzI3bWhWU0dRak51UDFsWEtoaG5wSV9kVkJhdWRCYnhxSWxSMnFFRDV3WDUzeDF2Vg?oc=5",
+     "title": "Thousands rally in Tel Aviv against Netanyahu ahead of vote"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU014QURYLUZFeXY0NzhXQmNZNDNJd3N3UTcwZ3ZxYUQ4T19rNE9hZkJjNTExaFhJa0NlUmJHTTV4TTNaemNpZHc5OXJndERYQW5uU090YjVZcklpb2dkal9ZSEF0czNwbTM2aGtOUVpkd3ByLXBtT1h6aXpzaEJSVmExSm1aLVFCdzBKNlNSZw?oc=5",
+     "title": "Can Netanyahu survive his last big fight?"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Meghan broke contact with father in letter citing abuse claims",
+   "summary": "",
+   "scope": "world",
+   "category": "社会",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYRGl0eDV0VGw4OVo3amlna1I5SmZQYlJsUUhwNXVYbVRaeUJEeXVJU3N3QnhJaVFtS2lnU1RobzQ0dzNtNkw5TkVia2NvYldlbGxZWldWQlYxUHM?oc=5",
+     "title": "Meghan broke contact with father in letter citing abuse claims"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMUpEWUJEZmZwdXlEWm1paFJRMlpJVHVjQ3phV0lQeGpaVjc5WW83QWNFSEdfd1doNjU4SUg5MmxQRjBycGtobmJjcDFyLXM2YlcwU2I2MlhIOVNXQ0JDMEdrVHRXdHV2OEtCUnB5SDBVZmRLd2gzUkkxR3BhN3hJazV6ZTRBRDlaZVdqZGRBSlYyMWJWeGFpY3oxQjRpMVNkY1dYR0NZdGJiam9wLVl0RVI4Qm9Jdw?oc=5",
+     "title": "UK's Met police says it sent allegations letter to Meghan and not other forces"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORlhYNkg3Q2hpdFVWYnUwa0JVbHV2R29Bd3hPZ0VlWl9OY0RlcG1uX2ZraEV4aUs3QlJrTmJJVDZvYTQwZHFIY3NvZFdiRDlwR0syc1V5c1N6N1JZZjlsV2hpcDRZZ2Q4dVV2dUZ0Z0liR2ljMXlWdDZiMmNEYWRPWEVYaHU3Mk1qQjVSemZUU3FoeFhDcDBqQndjcEVlS1BvLVBhQ25BaVM1eWRLaklod1lNOXVIM0RiNUs4WG9B?oc=5",
+     "title": "UK police say 'claims' over Meghan Markle's dad not sent to other law enforcement"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNXzhLVFFQX3o2YXM2RDJQQWNHamw4ell5YUtiODluekhXMnJma1d1cXY5a0Q3TlEzbThTa0NmRVhHTTBRaTFCT1JDamNKX3R4YTBPeGMwSWpVYzkzaWxaYUktRGJCVFcyVHF4c3NxTmVqQWQ0bldVd1RyTlBaZGFCaE9iVEcwX254UklxZXhJRk5ZWG5OdGxUbGg3M2JRWXlKT2p4ZXlvc3VSU3BDQUlyVjFVQTZSRTg0RFBvd2h5WjdMRy1WOTVCQ3R5T3ZxSnVLSW9yWEoxWExtWk0?oc=5",
+     "title": "Met says it shared allegations about Meghan’s father with her but not other forces"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkdVB3VzZ5U3JiUXVrMFFYQ1d3VzNpd2F0R2NKcUIxdUxiWHVyd19FOUhJbi1HMFNrOUIzbTI2NTRsdjZWX0V1RXlvZUxGYTdUVTlOYlZfOTUyTTA?oc=5",
+     "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
+     "title": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX2VuUkdyX2ZRU3p4M1JObC0wSFc2dkgxQU5TdzdFRnBqZlp2cUNpd3RpQ2tBdFRlekVRRnRlVnFqbmN2anFZdXpQZGlrdlZ4WmRkX29ObldSanp5R3g5bGRiTW9kLWpkMUUwTDZXVGdpV3VTMUprbDFERTRPUnlJQ0I0bENwU0E1SnJwdzc2c1lKZw?oc=5",
+     "title": "Fresh clashes rock France as protesters march on"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ibUd4UmJBOWljZ21rREdmQzc1Nk10NDN5UG1uX3d6VzAxMFcyUlUtSjhFZXNFSGlHWXlOeFZ5dlpQaVVwTmRXUG1EVGoyZUtOc0otNkl0SUN2b1Q3TjBLYTJRQ0ZMMHhqdy1CdTRpRE5GZw?oc=5",
+     "title": "France: Clashes break out as protests go nationwide"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Football: Soccer-Arsenal join Man City at summit after Villa end leaders' perfect start",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON0hJUktrZ3dXMGg3VlBTcnV5UkVTZEQ3LTM1bHdDNGVYTjJfNXlBTTJZYXVfVnM3NG9yMV9pb3dLRE5oaDlPazh2eDFWTllfZFVTc3ZwbEZ4bkY4OWR2eTFKUlA0RURPQUtoWXJQSWtwNHFuelZUX2dpdW0tVHRGNlEzTWFKUFhqOHhMT1E2cXB1Z1pIb0tObWtDS0Y2YXVla09fbXZmQ1o1eGlQYTZ5THpsbzVtYkRTQUF0LVNR?oc=5",
+     "title": "Football: Soccer-Arsenal join Man City at summit after Villa end leaders' perfect start"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yWDhqQ1BUZ3RnMVpMdUtaRTlOYVBFSWllYVkwMlV2cVR1V0dxYjNHNzlJeHI1T3pyMWdnQkZ5Q3A1U1BvdDZ0V0V1TXZmZDFkWGJaQnRQc2Rua2FQd25MVUJqSmJjOGpw?oc=5",
+     "title": "Jackson stars with two goals - player ratings for Aston Villa v Man City"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTW5qMEFudEJrQlBsd2VVRzZtZVk2WXhBbk1DSDRRTWI5cFdTRlVENFpOektHMmtTUmNkeVZKeVE5b0Z6cFgxaFhNRUFHVHA0RlZ3LXVtVUxSWE1YVWQ3d0YxREhXa3REcTdSYW4zOHNhemd5aHp1QkxEbl93SmpWUzI3X1lzck9uczMyeE1XRDdHQjc0a1pSSGdTdWRrZ3k0bDlvUFRRZw?oc=5",
+     "title": "Nicolas Jackson double sees Aston Villa end Manchester City’s perfect start"
+    }
+   ],
+   "new": false
+  }
+ ]
+}

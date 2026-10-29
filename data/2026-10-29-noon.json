@@ -1,0 +1,818 @@
+{
+ "name": "2026-10-29-noon",
+ "kind": "daily",
+ "slot": "noon",
+ "time": "2026-10-29T12:18:11.267503+08:00",
+ "items": [
+  {
+   "title": "Oi Wah Announces Interim Results",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "星洲日报",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XZEpyZDdvYUQ3Nk41dGpybENacm9LT2NOQVI3cnZZNGM1dWhicml5TVFmc2JkUnVJcHE1UFFYelBhQTdRUFlONGRQT0FCMF9uYWEwSFJ6cFUwOWtGcXVzcmJWNGt5ZUJUcHc?oc=5",
+     "title": "Oi Wah Announces Interim Results"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa3Y1UlY1UnBwZ05PdlBtWm5xSmdpRm52YVFGSC15aHV3bTVFN0N5UnZrTU9HMjRCbXQtM1RsQkpDOTZwU005dldLREpWQURNMWhpS0R2eTVxbjBqbUZHUnZjVHZqUkdoZnl6N011OTdEUWh1MWR5eTRCUldoTEtxZk9vMTFzSGpxbElRa2I5TVRkMTVMWHdHN3RiUzRFaDJqSUZxS3BjUjlSMEJMRFdWVTJQMzhjRHhLQ25zc3c3MGJ6d3c?oc=5",
+     "title": "Bersih slams Loke over RM1k taxi drivers aid announcement at Harapan candidate event"
+    },
+    {
+     "source": "证券委员会",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd09EMFZiM0lTRkp5aTZLZXhQNFBiSUNkdkRsZm5iWFFXemRtNm51bGd6NktBQ0tLUlZKNWtBRGd3QTc3ZXM4MEZxU1NYWXltRVNRbHFPZmdTNl9sanlRSk5aYXU3eGFzNTVFWVlzc3JVV21adXFMR3c4cG1DeDBzWTNxbEE1VWdWN1NMbVJyRXRId0sybVlzcmZOOA?oc=5",
+     "title": "Investor Alert List (as at 28/10/2026) - Investor Alerts Announcements"
+    },
+    {
+     "source": "大马交易所",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRHB6VGdFU3pfVUEyZG9TUVdZTmdKT1hBMDdoNnFxUWpVUkhzbTRNODBvdTRiQ1ZVVWZoVFVVWlVtOV9FZDdvemlGWWlmd3JxVFlKSGtNT0VvSnJLa00xVWhSS0c0TmdHbF80dUtLZnk1V3JCODhRcV8xakN4cDFoamNRck9LYkk?oc=5",
+     "title": "Company Announcements"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Kes langgar pelajar hingga meninggal: Tuduhan dipinda, DSP terlepas hukuman mati, ganti penjara 90 bulan, pampasan RM50,000",
+   "summary": "",
+   "scope": "my",
+   "category": "社会",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU3RrMGxxSXRGLXd3ZlB3TGlxRXpKZEZobk5BVGNiekJrZlhfc1did1F4X2xJV1Z0Sm85LW9KVi1pbEtMRVdaN2pZS0JTR0FOZ0xEekpMX0ZFY0dJSEgxVVY3Y2NQb2MtRjVJb3FhLWpWcnpMekQwUlNjSy14bXNZX1lET0VJT2Q5N3pWeGZXX2twa3VoaDdrSW1vTHhfbU9VMEtLcHJTZDllTzVOdXloVWQxSFJtdlViZmlhVXZKQWZFd9IBxwFBVV95cUxNLVByZllnMTVQNHY2UUU3ZVc3UVgydU1CbTZ0djgtTmV2aWRaVHRqSlRYY0J1b24xWmN6dmRtRmtZVlNmYnNFdjBscUw1QWpXU3Q3U1d6YXZ5MklHSi1NQUJyY1FvM2NQcmpBTWt1R256WDFQcVpqazRmNnZTSXp4bkk3SEcwUzZuQ090cExIUEhSVlowTUNncm9iMk1pZHNlbER3WGZmaThTMGlIRGtLSTNXZjM4SlBKUWpyT2wxRDh3NVVIdVVV?oc=5",
+     "title": "Kes langgar pelajar hingga meninggal: Tuduhan dipinda, DSP terlepas hukuman mati, ganti penjara 90 bulan, pampasan RM50,000"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5MVdBTzBsZ2NGVDN5MXAyQVZfN3phSVk4TEpZNm55T1hUSmplRnIzQnpEemE1NzRpRVY3NDY0ZE5ScUNUY2tGRHJ5WkZXbGRROG5tTzl3VXlWenVDM2p3MXZ3?oc=5",
+     "title": "Chegubard dipenjara 4 bulan kerana fitnah"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRWlMSkhPN3FON3RmLUFkZ0hiVkN4R0lsTmEzcTBzbUVlRlIyOUgyQ0xvcXpvNElpNkRSeHBQQTJhUUl2RXdtMzhsYm5scFdCaUpNZEVaT1VlTXZoMDlMbEx5V2gzbnVkSGc1VzZCc0RjSEVMcndMSXB2UDUtU2ZsZVB4VzBRdXkxS1FueWd3YUZrcElXNFVvekg0WEJaajBOc284V3VXVmZrS2Rkb2drYTNoVkh4N2RzNkpYbWRXa3dZX3dCcGdKSEdNZlU2TzJpdkE?oc=5",
+     "title": "Pegawai kanan polis dipenjara tujuh tahun enam bulan, bayar pampasan sebabkan kematian pelajar"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUHZSLTNDdUF5T003MnRGcHgyeFl5YjVwaEItaUt0alNfd3Q2eGZ1WklHdm1JZ0hlVUhYUkxMaGd6TzBjUXlZV0VleWFzSVYyVGU3Tko3aU9za1U5NGdzM083OG1NQXlXYklzemtjdTZrXzdoNmlNRWRWMnYtaFd4X1BIdjhuOE9KOXBMTnVuM1hvMjA?oc=5",
+     "title": "Pelajar kolej dipenjara 12 bulan, denda RM13,800"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "18 firms probed for bid-rigging involving tenders worth RM108.3mil, says Armizan",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdnk3RjlVRnlSMTFKRWppWmxTMWw1T0wzNUpCMkhER0tWeDA0OTNmUm1TcWtCd0tnS0dLRFF0emZvdXBNVUZNTFd3SmU3bTRJN1NmNHBwaTBMSDNqM2psNDYySlQ4M3ZXakJuci1XdGZfTUE5U2VpVUxJcUpUSGxMa2pDODlucUctN1lHZjlva3l4Ti1iYVR6cnRMRkNYbW1tRC0xM2NRcjVYMkV3NWVEeE1CTmxjY0szbnlYRUgtQnRWT05IeFpr?oc=5",
+     "title": "18 firms probed for bid-rigging involving tenders worth RM108.3mil, says Armizan"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOXJhZ3ZLYnNJY3N0dlF0eFNQNlpSd0ptcmR6SzRlV0NNTXcwTVpLRzNkemJnZFI4c1kwelMwQktqSVR0OXdKSXJwSUxIY2F4WUZNQTk0NVp3aDV5X0thZHJSVlJZSHhrTl9XbFBuTHlxV0podVNaRDk3ZURMOUZFZmMtdlV6R3lGRWk0aGFkSUZueHFTcHlvWVp6NFRtS0cxcTJqeHBnSHNKUHRGMXlB?oc=5",
+     "title": "510 firms probed for suspected bid-rigging in tenders worth over RM3b"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82UmF3RkVXREZwcV8xSUJJcXNGXzhwdm56VEtUNkhNVW1zT25qcmFvNUxnY0FTYTJDRTF2czdMT0FTbVl3d0FqS1JRTzFTaGNIRDZ6Wlg3MjV5OWZiVXJBZzFJbE1ZUVU?oc=5",
+     "title": "18 Enterprises Face Proposed MyCC Action Over RM108.3 Mln Tenders - Armizan"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CLThidWNhUXhWeHFqNTRSamFHaTRhUkd5VkdGZG9DRVB4LXNsRmN4X0tJb2ZzOWNuMXZSbmIxRzdEMTZUWGs0bmRTR213ZGhx?oc=5",
+     "title": "Malaysia Competition Commission probes 510 companies for potential bid-rigging"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Sarawak polls: Abang Jo says GPS will contest all 82 seats",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWpJVld2X2p6RUUxS09DQTdyVzFETU1DVnY1Ti1ZdXB1U2MtNF9Qalo5QWdSRWlUbnpBM2YxTk1UR3ZrZHE4bDdqU3BMTVVibzhQdkt1VnNDazB1MmNFNGMwc3NtYWw0aS1ISkhadm5vS0pmRFVYSHlDaVJSR1pkMXN6ZVJQcFFrSDBhazR0aFNQd2tCcVFJTmo0dEI1dlhTOTJxcEd5QzRFMWM?oc=5",
+     "title": "Sarawak polls: Abang Jo says GPS will contest all 82 seats"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81ck95cVloX0xjT2ZWNGJzMlc5S1k4aDBUMTdmSDF6RHpwbi00eUNySjZYOGFFZFF3eTJHTVZIUVNaZmxDTmFKT1dzd2pSelM5VUZNei1DMjBwRlBTaUswdGpB?oc=5",
+     "title": "GPS tanding semua 82 kerusi PRN Sarawak"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTnZwMVZTMVlwSHZGN0hpcGdodHJtby12XzZKTHJjT3AxTjN6bkpTMDZObk1SMjdWa1kyalJJaWlnbHJOSGFuYl9IUXZsRm9Uc0RSMG1aYjJtMnh2eU5ELVF5WGpmSjNpM3dOclJtc0tXY2FYX0FrQThzTUFIaDRxMC1BUnRUN2lJYnlTX0NTRW45ZkE?oc=5",
+     "title": "PRN Sarawak: GPS bertanding di semua 82 kerusi"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZemE4YldMQUJXR3QtYTk3NktyYlkzUTFmNHdPN0NIbHhUUmZqSEo5RmhRWE5yN2Q0ekJodkZNUGRoOGNNWUdadG15elp4NnNB?oc=5",
+     "title": "GPS to contest all 82 seats in Sarawak election — Abang Johari"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Feeding Malaysia: Sabak Bernam’s Growing Role in National Food Security",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "星洲日报",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wLTBZX0lXOEhwZ3poeVQyV3hqeWQ5dlNYRGtHZFY2WEtGWHo0TDRCMEdXM2ROai04emJKNEJoQml4QWNvWHlQWk1qam9IZ3VYWlpPMUlrZ0txa1Nhd1UzNDZycUkyTGswTVE?oc=5",
+     "title": "Feeding Malaysia: Sabak Bernam’s Growing Role in National Food Security"
+    },
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVmFuV3RROUxuRUh1ZllLNTdPOEN1TmVIc2JzYUlIbjNGRHVOVDVuWHJtdElqX2padXE2RkxZaXJWX1k2Qm92OExGdkRnRFdQRnlVMF92TU5pNko2RUU1MndvZ1Q0R3p0RjhKVHoxUGs5VjlVOTN5VUdZTm4wb2hPUmVSZkVJRjU3OGIzOFYzWGNNQnlqYXU3TVJrWG9UN2otY09NZU1tLXExN2hQZDdsVExtVmJUd2NPRU0wNHRMYllzZUh6VkVlVkFWQ2tncEoxOXJZ?oc=5",
+     "title": "Malaysia calls for stronger global cooperation to ensure gas supply security"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNGFYZDh4Wm1tcHpLUXphVGFwVmJxYnNQYmUxUmh6R1VZMmd1enJnbldtdFRaWHltVldtTWM3bEpVVUt6N2l1Z1RqVXZucXY1Q25jMWh0cEJxd0Vtc0p4NGgtcjZOZEtTdDlFLWhnVERpc0R1YWZBbjBjN2ZJQ1VDNDMzakRBZl9xWnFjZmdXNHRReEY1NWh3Z3lNUHJXa0M5cDlmdHJzTlFoZ9IBrwFBVV95cUxNUHBmbGNNS2lXWVlMSFM5eUE5eWExV0gwaFU2eml1Qi1OU3hQUHVvZWxGaGdFTDFaRjlVcVdwdnZ2dmQ2NWlLLUJucHd5MXl6SUZmTUFNMk9icExLOFVlYXpacmkxUkNncTVxTFRYUEphVE9iOFR0Ulh5Zy1QQmxaRE5QcmR0MDRaV09Hb0lmVmdHNjZNc2ZzdlhqWnNrX0FmSkptWjhNMEs2SlhRWkJV?oc=5",
+     "title": "Are GCC countries looking for a regional security pact with Iran?"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "MCA akur tanding dua kerusi PRN Melaka",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT3pIbmRXSXZ4ZjNBSllZQ2xUbDYyVHJBOEFNZkFhZzJrNkFPaUJBclpjX0JtWWtzUzlvcG1sZW1OXzlKbTU4Ung4NWJFeHA5VmxhNjE0YXBJQVhLZjhNTXpLRndXeERSTG9Ddk5WbW1JdFFqR0gtMldMS000U2JsQ2tOa3Ewai0yM05VUkM3amhDV2pCVDhXdG1VOTRHUdIBowFBVV95cUxOd1NNVGVVOHJmZXI4TlNGWW5HQ1FHa1FLcXpSR0JTdS02MFJhLS10dzdtU3RlRlAzMWNzZXJNVVVCZFIxZ0lHLUF5NUF1LUpiRXE1VjFvVUxLbzE4aHRVMHQ3Y3Y4Uzk4cTlMelpLWTVnRzlXZHhlUWVkSFIwdDNoeUJBRnNNcUtLMjFDRXNHUGFVLVlGem1QTzg4N3pxTHh4SkpF?oc=5",
+     "title": "MCA akur tanding dua kerusi PRN Melaka"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OelhERjVfSGZSLXdDU1hXRUF5dEJkU1JQWlpJNWMzUkdwQUthTGM0dko1WnJ1SFcxUm94REpsMENQSjZtZkNaSUw5Mko0bzROS1k0UWpJMFpGWHV2OGtncnVn?oc=5",
+     "title": "PRN Melaka: MCA akur, kekal bertanding 2 kerusi"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWVN5cmQ1WWJ0MUsxTzZxeDRqb3dzU21yOUJTYmFvVEVjWnA2VXZsQk9EV0RQbHFJU0hZeUhyN2R5Smg3NWJTNlpyZ1ZiSnFKZkJzVHRiM0ZFVnJXS2J4MGd2bHd5cWhqWlN5MmJPVXUtZFVyTmQybERZVW9QWmRjOUVXTl9EWVpRNEtJWnBqVkhHQWxGbjFMMGFpdmlVSXhTNjBsQm0yOU1ndS1uWG8tTG41dFFnQm1J?oc=5",
+     "title": "PRN Melaka: Agihan kerusi BN selesai, penyertaan MCA akan diperhalusi - Ab Rauf"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Lapan lelaki Bangladesh ditahan disyaki terbabit sindiket 'Hundi' di Chow Kit",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdUtfNTctbVBpZHp1YWlEUDViUXV4VHI3S3AtVVd4ZnA3a2VjVzhSb2VUa0ZHa1R6QmstMnQ2Nm03dFZWX21BTFVPempqUUo0eFFCQkZiMGVpUEpqbk51TEFhNHhEU19Fb2RZN3h6Z2hhWHM2d3dJWkJ0cjFtVUd6LXpiUm5fOWNGa2xPdGJqV0dRRkIwV25KeFI3SUEzaFp3M2J3cGNMVG1Dd0RaRk8wOGx1cmEzQS1Tb0RTaVJaWmVPWXo4Y0xBcGR4M0JQQ0FLZlZ3bUZ30gHIAUFVX3lxTE1zNjVLcHdpOEVpbWZhTE5Bc0lTNXJTOTJxLUlnazVWR3doS3NXTzA0SG1XSXBqRDV6Z09LX0Zjb1c3X0VpNnZZa2s3ek9LYURBTVJmSzEyeVNFSmEtQk1Zem9nOTNJVTRMdDFDM0pGWHRDSDU4M3gwdGQ1WDA5bUdKN2JwLXFIcUJXb1A4blpqaW9RQlFPN1FSeS0xQ0NXYVJqT0h4QU40NUxUdWNHV3VEemwxRDUtOXRFWXNfYVJpQWpadVZyMHJX?oc=5",
+     "title": "Lapan lelaki Bangladesh ditahan disyaki terbabit sindiket 'Hundi' di Chow Kit"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVaFYxQ3dVb0RsQXVGTlJISm5iN0V2OHBPS1BVWG5FVFdDcWxtWjctZWt0WmF6ajdsSTg2RmtfaVh0Vmp6VlJzOE9KczM0b3hDWll5Q2tnSkNMYzBIbkZDektn?oc=5",
+     "title": "30 tender makanan, pembersihan RM108.3 juta disyaki terbabit kartel"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV25DLWFOWVo5QV9FS3JHN0kyaktFblB2cjN3SlVmTV9NY3Fmb2pqcURocGFPMEZiODUxcHBVMWlxUG5HOTlQVXMzajRmU2tLSWtNWWc0UzFGQURMN0JmZTRNbDJOaS1CS0UxdmRUeVMtTHdiWVM5Y2ZWdERjalFfa1dqQ2ZtMjluNTYtYVlrelJFaXF2TlFhV0JIOVJFSUE3cS1YNW43aVpTQTAtWHQyLTh2X1BHeEs3RE1IMXhweng?oc=5",
+     "title": "JIM tahan 20 warga asing disyaki terlibat sindiket penipuan dalam talian di Pudu"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Status perkhidmatan Shuhaily di AKPS dirujuk kepada AGC - KPN",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOV0xYMHpMZURNQVhnU29LaVhaUEN5cEJJbGNtU3dhN2hYZDF2MklmU2NNcmRsN0lRcEtDZTNocUxDd0lYNHJqQkt3ZmJUVlBGbkJHNWRGam5WSklqNlUtbXhMMzBmcjdQZkltTG0ySjc5UzFBa2VuR2ItS1lVdG9HdkQ1SzVUb2lnVzJlajhyNm1sbnRMc2VWYWwxTFBjZmpzZmNjSWp4M01TaWJ5YXg5dmNyMjl2dlNfcHR3Y0dDUjFWYnBodk9nWGRtRWfSAb8BQVVfeXFMUGJwdkVibkxsTy1BM3lyWTZOLTJmeU9HbjdrRVdGa2diMXBvNE9wVi15U1NBM2lvZUlvRHhZZlN0cHRlbVIwd0Y3ekJVSlZlNi04ZWhMTDdpT1JKaFFPMXpaLTF5a2VQeDlSSlFodzh0X0FVTkdiTTlOd1pIVHNjMV9XWHpxU0FzN2VZU2doQ0FtT3gwemJYMENJUWE0dzZwOFprWVVISFE4ZEp2WU1WSXN2aFJJZG9hY01aMEdYODA?oc=5",
+     "title": "Status perkhidmatan Shuhaily di AKPS dirujuk kepada AGC - KPN"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EbDU1NG1HNmVud0g4UU8wWXhyMzVDYUNmV3MxSHZVR0FwZFljLTNlV3RSZkI3enhDUm5iTlJsRFNDMndkQjFyNTc1eG5GZEdsRkFNOFQxYUdkMUppaEczUTRR?oc=5",
+     "title": "Kedudukan Shuhaily dirujuk kepada AGC, kata KPN"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONm9LanRadWJ1eUFMYl9qVG00N3IzR0tudXVVNl8ydTNDX3QtZEw3X19pVDhiM1pBUURZQVNaVWpHVVludFlGSlRtX3BCY1NUVHpodlpQcGQ3ZmNidXBUY0tOaS1LMEZSbHpWNkhjdThIc0tkcjZla3htSjdMVGVxUDJEQTNfY1EtQnBPNGZXalpaT0dkelpGQkJTRWlMSjBQMXlqcVlOdHdEbWo1ZTVBVjdlT1M4MVdLd1J1RGxYR2Y2TjA?oc=5",
+     "title": "Kedudukan Mohd Shuhaily dirujuk kepada AGC sebelum dipersembahkan kepada Agong - KPN"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "IKEA buka gedung fizikal pertama di Sarawak bulan depan",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeS10QjVib01PS3Y4blc3ckw2enpXejdSWlczdFdNS1dOU1A0S3NnelJILUNSa0ExM0hSTzVGNXVKZmxCN0JXaVFDR3c4OWxRb0tRU0pUbUtLOFhMNDlLVERrTmV4ZXQ2eVdocEJ4RUhsbERlN3RmNDkydU1aNGdZUHFNUy1yNEVuMkhtUVgxNy1mM1BVXy1Wa3hRajdfcC1Cb0RtSVRiNEZmZ0k4Q25MbFRySTXSAboBQVVfeXFMT1llZlRQczhuSEhpS0Q3d2x2QU1MeDNRT2tSclltZkNDX2laR2h3eUd1U2NralNVa0ZoM1dxZUFfUkwwb3NpV3lDcE40c0w1TlFZQzJIR1NzU05xMDByekVVU09XMFI0QlRJTFU1OVRKbGdrVklIRWlGSW5UOHMwel85YW5ENnJsMUZzOFB4S0UwSklIXzlrTGROOFZ2ZExaYWtfWDdFckszNS03ZFN4N3F6QzBuOWVtTG1R?oc=5",
+     "title": "IKEA buka gedung fizikal pertama di Sarawak bulan depan"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjN2kzTUtwSmh3YzdKaWl4OXhIVHJZSmxvZ2tSb3M4QmttMjdSc0drN095MnRJOERxM0M5MUdmRU1qNGdDNUV0SU1RcU9FdHA5MHBzS201ZGRzR1M2YnRwY2dR?oc=5",
+     "title": "Kawasan bandar, majoriti Cina jadi tumpuan utama PRN Sarawak"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ2Q4WHROcVJSNmYyc3FCX3dOMVV3X19WVnFfenY2ZHRWTWdObXpPWlNZRkJGNVlSNElPcE9Tc0xqTHJZcUV0aWxEY0lxb1ptT1JhRGJFTjM3MDdqd3BqYTBxcFl3dzBsZWRvTmxLSmI2elBPU0VrSVZJNDhUa3NwNWNHel9ucy1yYXF5ZUpLeFh1OU9vV2J1Q3B4TWhnMU8tNWtkcDNES3dTSVRIZGZwRXFqeUNFQ2dwMWc?oc=5",
+     "title": "Peruntukan jalan luar bandar Sabah, Sarawak tidak pernah dibatalkan - Mustapha"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Malaysia pilih cara diplomasi tangani isu pelarian Myanmar - PM",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb3hWOFlxOUlCbGtPSk1JWHFld1ZHZG0waFF4ZXV3VWRXSVVoN09WbjkwUmpxYjJiWUQzWUFzR1p2YXJQeWtVWl9NREhyZzM4R3liNzVkdXlCVktfWVdmNlNvSnBKVVBoWWVQYTRCc0wxd1A1ZmFyUmd3WEVKWXlXLTVWZ0QwdTBwSExBMGlBWmVvV21TcHBNT0hTX1JfbmVXUDh1Nkt2Qk1EZ2FscW5kUkM4cHpMWEN4YzY3edIBwgFBVV95cUxOUU9oZERHY0pxbGhoWkxaSy0xZ2dPZUVuSzFrMkRLbHJUa2pCMjlTX3Mwem91M1hDb0tRcjNseW9DWFBuTFh6RWRYdEdIRjBRRVJvY2d1WmxELUU1SHBocDc4WElUQnhGV0daMk1BalJlb1JtS0p1a1dMMW5aZGg1Sm1WYU1TRDF3QUxNTV9pZHhjUldCajJWbU9DTGFiZk5Zdi1WeTZzSEpWTnNoYXNOaVhFZmo0aFJzSjBNVmMwV1Nwdw?oc=5",
+     "title": "Malaysia pilih cara diplomasi tangani isu pelarian Myanmar - PM"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQlkzQk85NDdRaUZmNUQtZWlMQTJjdjRpdTlPeUxDUWJVeXM4b04taXhScldCOXJ2ckdnMzFpOUw1QjcxcDVPY01qOUl6NG05R3g0bXk4RjJLRjJ4TFZ0ZW1GU3hfb2ZlOTNlUXBCUGwxcDk0bFFZNkRCTjhHLUowWV9KR09MaVNTdWdHNHRlLTdrWDkwd1otaVRyUmJxMHdQazBJYkNpUVhUaUJ1cFdmOEpQcVlMRG5l?oc=5",
+     "title": "Malaysia kekal jadi destinasi pilihan pelancong Indonesia - Tourism Malaysia"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY25RRExRWkFSeUtoaEctQUp0M1FTUlBKRVJVV21McmM5a29DX0Rqcjk1QVNMLXBoQzlBd1hZWnh3NmhzeEFjbkhKRWxQY1U2bTZYdVRVMjVrWjRURm1KcVpmS3BSNzM5QkI3V0RqYUVUSXIwYTB1RkhwSlBiY3d2dVpPbFBVejFyLU1MV29CVkxVOEdEU0ZKLWdPN0RLUHVlMDh2V3dsLUc0eVZQY2c?oc=5",
+     "title": "Malaysia tidak ketepikan hak asasi dalam isu pelarian Myanmar – Anwar"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Rosmah's appeal does not prevent enforcement of RM67.5mil judgment by jeweller, says lawyer",
+   "summary": "",
+   "scope": "my",
+   "category": "司法",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONjJ3U3BWSE9TQ2o1cmNwYTZ3R2ZXekJqblc4czI5M0tDeW5aYnhlMjRmZmwyX1lQWDMyby00RHZCS1BSbGNScThScDdTc2xUQXFUSGVodVV6M2hhNFc5SnNEWS1LLUtlNWlhbEpqQWNzbl9ZM0VSdERVaVlHMjlMbVR3YUYtUXJzeE1reGFpX2pjOE4yQVVta0xCY2NWYUVpNjlaQ0ZxSi1ucl9JNDZBWU1DTjU0cWhjWHBJLV9nRHJoT01lSnJhSXBwSkFndUYz0gHDAUFVX3lxTE9PUXV3NDFoR21UYnRHV1NlNzFOckdOdDVvUEV3VEFORkdWdl91Q1NIY0FzTEZjZE1YLTd1VXVFaS1GWmNIdlV6NVhLQ3lnQWJ1bW5MS0Z6WWltT3ZId2hxZms0b1Z2WEhQbmlEaHVnYW5BekloOW9FZVc2WTZoZXUwbXBORE5HUHJRQWZ5ODZFVnROaEhsT2pUOW41OU43VXVWSGNoUnc2eWJENk01M1lPVzZnY1F5Ylh1UXJBWHliMGRJdw?oc=5",
+     "title": "Rosmah's appeal does not prevent enforcement of RM67.5mil judgment by jeweller, says lawyer"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTmdYZGFpU1p0NnBzTzMwRGlwa1IwQ3lldEoxUG9pamdxQ19oWFY1NlBVYnRMYXRWaS1VZlJYRF9Nb01Cb2Nxei1xcXFYa3ZDbVQ3QXROWFdnVlFGR3RUeUFtWGhUY0VoYkRlWXNwV25reHJzVE1RSGhSLVFHZ3VjSTM3Y09qclFFTTIzelRwdkFxX09ncnlicmw1YmJ0YXBOZFhEUVBHTmJGa0dYUV9NTzViUnhidDdjTnBz?oc=5",
+     "title": "Rosmah warns jewellery firm it will hit a wall if it comes knocking for RM67.5m"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DeGdRY253VHRSZjFLay12ZElta1lEWllpdlpPbFZfbVFVTWhIc2NHS0JpWUpsdm1rYlBWOHRLQUR1VUdDZHd4RUhkaGRvM2RR?oc=5",
+     "title": "Dodging RM67.5 mil payout to jeweller amounts to contempt of court, Rosmah told"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "MACC arrests two officers, three others over RM1mil bribes to protect foreign workers [WATCH]",
+   "summary": "",
+   "scope": "my",
+   "category": "司法",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSERyZEZEVk5ucXlNbzE0aWREWWFaM0RoVE5jeEp3cjdzVFAyZ0FyS2RNeUxVRkY1S2dPV2NiSDRpNUpfTHlBV1FXbEFreExvS0tEYXBaOWVyVEVudjhoeC11OC1DR3V2YXo0bG8xQ0JzU2VPYWRFcWJJVEtVcmp5M0dyTDhST0hUdmJxSkpQRmdnZXVnWTRrYUN4S2VaTElkNXBMWFdTX1YxY3F2NVpLU0VPUkh5bnfSAbwBQVVfeXFMUFB3VFQ1bUFuTFNfOVdXTHhsRjI1cll6aEpCakV4MVlXZXZxcVIzLVZfSmU0UFlhcmY4dmNQVEJmRVJQdWpsM2NBclhzTjVJU3VCZzRjQkY2ZXlWdmhpTlBVX2JVUlhPX0dpYWg5Y0JvaC1NbTBYMzI3Zm9PUi1pZ3VFT3hXYllqV0t3MHo2ejN6N1dNaHdVMkg1UTlsZXk0MmkzZlNWenktOHVCVGo1a0dKYVFoZjBzZlJrZlM?oc=5",
+     "title": "MACC arrests two officers, three others over RM1mil bribes to protect foreign workers [WATCH]"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSTRGSFcxMFpRWHIyS3I3bTZoYXFwU0w4QVp6RFpoMXl6VXVsTU1IYnNTWVJETERzd3JvZG5jZnVibThLTWR1UUw5bUNCektoa1pIOWh6dkEzOGx4QzlLS09VYV9IQ01iRVpUbDBmbVZvRlcxemZEYjlxYXBzOXlvR1N0bEUwQVpsYU9nUXh1cjVhZVl1SFZYNE5IdG42WE4zVm9aOHlmNm5rTGFoc0J3YXVZWGdlNkRVLUhvcWhB?oc=5",
+     "title": "MACC remands 5, including 2 federal enforcement officers, in RM1m corruption probe"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00dllLNWd2cklTd20xVUNqWFFlTjZmemlMSXlFTTJFZFMtVkNnaXhPNGI4VkNweXJMSEFrdlYwcVBWUnE2YVQwY1pmVi05US0ydGxDUk43SG5xOTZVTldWVmZR?oc=5",
+     "title": "2 govt officers among 5 arrested over alleged RM1mil foreign worker bribes"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Malaysian billionaires revive plan to create nation’s biggest mobile operator",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT0NpdzY0c0xELVJNU00zbUlIVkNKOTVzN1pVenRhMmUzNVphSGFCcjJ5WWVtQVQ4VnkwM0JGeDJNX0RlMFVyWlNfanFRemJ2SC11VUp2aWZUcGtXYVJrckl0TFRhVWFxRjNVY1ZlOW92V3gtQUZBa3AwZkNUR0NENVZXeVVHRkVtZUhtV2hlaXpMc1lSbUg2Umc5WXI4dUtOWEJHaFEyRUhsWTMtU3o3VFkzWFUzVXhlUlRSX1I5Rmg2MHZ2UGlzVElwSGh5U2dtNlE?oc=5",
+     "title": "Malaysian billionaires revive plan to create nation’s biggest mobile operator"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CbUpqUzN1VlAwMDV3ZG1sdkpsZENrSVhzQXh5aEY0MzdrUkFYLXlRSlJPS0VMU3A5LTNTRnhkczZpQ1EwR2U1RTU5NzRIMG9I?oc=5",
+     "title": "Malaysian billionaires said to revive plan to create nation’s biggest mobile operator"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOTFHVUJrN1pPZVBHMm9uQ3MxSHBISy05ZEZ2eWlHOUctOVZqb3dTSXRlYURDQ3o2NHJhM0RKSXN5cm83YjZ2WVlIRkRFenJxbVE0d1VQRUROSWJTQ1BnY21Ud2xva3FDLUF6azdjdWMyTFVwSHpsZXJmM19RZUlWR0tn?oc=5",
+     "title": "Jay-Z is the perfect Super Bowl shill for a league of billionaires"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Over 350kg in pangolin scales seized in Negri Sembilan raid",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMEhlRGNsQVBibWRDWlBVelU4NjhyRmdDTkwza3NSc0pHTFhXM19MRXI3U0E4b1cwcWNybk1uUm9WTlJRYXFqcGdGOEtBcEdHOGZvM3IyMi1UbVJwQk8xYXVyQ29KblI3T0hSaDJTY2R2eVZWWHZ4aFlxbWpvWWNQQTB3bTBwQ0FpMGJudERvbzVmX1lCNFIwaDZHSDB2UlJDQVh0R284eEhtZjhZVmc?oc=5",
+     "title": "Over 350kg in pangolin scales seized in Negri Sembilan raid"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93QjdLSDBBejBnQ3p3eU1fTGtEOGdxLWJHMlVrakZRR0ZDVkR2VGg5TkVwbnlZdDRwWmxxTTZpWWRqS1ZjSTVNcHJ0NzBSWVZUVG0tNzhGUnNPcmVFcUVlVzR3?oc=5",
+     "title": "Negeri Sembilan gazettes removal of 2 disputed undangs"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU3M3bzNRRDNVWVFZbDFpbDFFak9GeVRRNXNnbmhJaHc1eXpjMnNRU1Y3bFFlMWdLNnpHQTVuUjhCOGtneGNmN3NBNUlEc2RpQnBqcnJ0dFJwY2MtRUUzSW9uZkhHRUFNYlBwaFZheENMZVJTNzJQdG5HbE5yZVBBZTgtcmVOdXc3ZmlVUm5RXzhzSm92bTh6UkN3UmRoVm9acjF3TXp0VnBva0w0?oc=5",
+     "title": "Kerajaan Negeri Sembilan wartakan pemecatan dua Undang dipertikai"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Melaka polls: MCA to contest Machap Jaya, Klebang",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdDhpR0g2SXpOVGQ0Yk80N1k3aGRXbXlMemItZ2xINHp4OGwtcDU1eTdmYUwwZklEbHVaWEZmdGpfM2tmN3QwYmNTWjR6dE1ieUp1NkJyV1lGV2d6WlZueVhBRVZaN190dEp3ME5udk9RZm5LamdLUENPVEVNRkZ3QlEyZnpYUm90N00tOGlHaHc3M1h5Uk81SXJEUFlnQQ?oc=5",
+     "title": "Melaka polls: MCA to contest Machap Jaya, Klebang"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT2wwTlhEZTRpSktaY0FBYXpSdjh4clFSMXpZdXhaRl9tbGcwR0tuSll4M05pbHlBRlA2VzRTNFFuN3ZTdVNBdnNndEgtS0tuekY5Y29NR0EzblRTSnIxVi1XV1VjcVRWMEJaQnB3YmhwVnlWLW53QXJPbkt5X0hlNGg5TkdhQlh4OHdwZHEteGRxWU9TNGxIbXFtYlIzOHR0YUpKeA?oc=5",
+     "title": "MCA ends 96-hour standoff, agrees to contest two Malacca seats"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RLThJa1pacHNaNVRlOFdGUnZrRzNvTDVUQ1c1TUNLY0diWlVOOTlOdmQzRlowTXVkeEZuSm82bkVUa0QydndiSk9yUUpKeVcxc25NNHk5YUxMVTNsaUhZbC1B?oc=5",
+     "title": "MCA agrees to contest 2 seats at Melaka polls"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "At least 68 people dead in Spain's second major train crash this year",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 9,
+   "owners": 9,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQazkyeDk4V3FNMnlJeHI0M2djVzYyQnU5Qk1RSU1YVXlYQjh1UmNHNGZGR2h0WERIclowU2h3WUE3MklQRzNxTmNURnF3TDNTM3gyai1VSTNnajNkOXliWi0xQTlHU0stYzFYbm4zVVNSOERaczR2cEJNbWNxYWxUUy1NX0pDX05LYWI3cmppbDBYcHRXYzJnT0cwTkJneVA4eHJtWHJZWXo1YWM?oc=5",
+     "title": "At least 68 people dead in Spain's second major train crash this year"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WQ05vQ2ptSk9UaXVmWWF3NVY1UnJoS3A2dDNTbllMNGR6WFNhUVMyblNCRE9fVUs2SjJScFF5UUhnNkxsOFdjd05aOVRMMGVFak1XTzBVLUZaYlY1czVXa0xn?oc=5",
+     "title": "Death Toll Climbs To 64 After High-Speed Train Collision In Spain"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MZnNqRWV1SjZMemxDT0pIX1Bqd00zbEdoS1djUWk1aGZYTkxoVm1hTm5GM3p5UV83RFF5clBUWTdBU3YxaDhmVlNuZENPUGhVTDRVLXE5WURSdHM?oc=5",
+     "title": "Spain train crash: What we know after two trains collide with dozens feared dead"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUl92blFTT3BtRmEwUW1tNWNPX09pUzNYNEhrSUZreGM5bWRIdG5FaVRYal80MTR1MHBkeEdQak5sNzNwdmlwc3d6YWNPUEd1U1ItX2gxaGJSRk1LWGt4MDFhREVINXFvZWNTQWdIV3B0YXhPQWZKZ2UxUEpWTk9YbjdXX0doZEJfcC00TUlSOVhYaUNQWllyMU9QVkxOZw?oc=5",
+     "title": "At least 68 people dead in Spain's second major train crash this year"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNejlKVDZEb2JQZ1lKZzBJSEZISTlCUUJBTEJYdVFJNmRTbi1wY011V1JrUFJRY0k4RjNYaHoyZ2VnRjUyZzJjWXVlNXRKOXU0NmJ4TndFVElHSFJ1WDZkQlFDZmJuVlJPRXRfMXVFbGtCVFl6bVNGd1lkRDFxWkc1QmFQVzlCS00?oc=5",
+     "title": "High-speed train collision kills at least 68 in Spain’s 2nd deadly rail crash this year"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNTRTN0Y5MGdzX1ljbWt5Y1oydGZldFZwWWQzUHcxcl9fSW9RTUdZT25ua0RudERtV2E1dDV5aTR1R1pYbVBYMTN0TVFBaWlHLUQ3cjJlZVo1M3haTU1KVUhkZ2JVVFE4YVpxYlF6NVZEX1RwTm14Q2VndGxteFFiSHJwdW1PMks4Z0xLTVdEVWtNQlRWQVJtQ9IBngFBVV95cUxNcHN0OFNkMnEwajFVTkxDaE5SOGxpWGVkbmVxaTVIaFVodjlITkQzNmR6VjdoZFY5UnRxUE4wS0tTUHM4Q0dHWldaTEJCMkJYUXRoam1PeENURW1ITWhVU09rQWd0aEZOb1c2SkFFcTdwQkxzU282ZDJaR3JLQ2VpOWVVM0R0dTNCd082UXVOcFhLcWdJaVpOaVZGX2sxdw?oc=5",
+     "title": "Train crash in Spain kills at least 68 people"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU3BsM2JZc0R1VnBZN1VrMVhFS3BSb2VoUTVRbUFRM25NSl9kcXZGUW1HN19kSV9teFEtc0NmSld0UUxDM3BzWExmSU1ya2EzZVkwcjhpeEpkRFRjclVrQ2pQODJCZHR6dXByWXp0NE5FVXZqSktCbE9wbml2WEdKQlNQWlRPdw?oc=5",
+     "title": "Spain mourns after latest train tragedy kills 68"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONUdwT0xaYXdCRDRhX0dTRkRsV3FuQVNmeFJyUFRNNmVkRHV2Y3pGQVNHanhwN1kzTlc5MFRUT1FXY3RlRUR4eXVHVUIyXzA4bGxDdTJEa3p3RVJadHNHcmRlNGxIYS0wbmNUMHJXQ1lXLVhtWnRSV2VPa1UwSWJ3U20tN0ppYVZU?oc=5",
+     "title": "Spain’s Sánchez declares three days of mourning after at least 68 killed in Toledo train crash"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZkNCdW96YlRLN3hDOVREU1h4RDhrbWxKYThVVi1hLW1peVg2d19VZS16TG5PRGtUaHJjUXJZeFNsVDIxdDNtbmdidmRweUwwS3dXQllUdmtVbWF0aWJnOWlwcjdVT2xFMjd1QkJyaE1JNmZTNG12WUcxSzdRWHRYUlFMdkdNY1QyOE8zNjRwa2hLRVNDVUo4OGR2TWtsbDFQMGtvdUNR0gGmAUFVX3lxTE9PZ0FlbzlfRjF0R3B1cFpGSzZmNnpvbXY5OUd0Wm5EWkZBM2k3cllicEkyR2JPSzhKTmc2WUJqRHBITUpqVlpRUGJELU9rTlB6LU9uWGo5V2dReGFiQXZiZDI1N2J6aUoyMmg0SWZZTWFCNWxKeWF2cEZMd2lwOFlMQ2sydGFHY3hDaFlHTzV5ZzFpemxETGJfMm5CM1ZTa1M5Mm8xeWc?oc=5",
+     "title": "Several people killed after high-speed trains collide in central Spain"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "US To Issue Visas To Defeated Brazilian Presidential Candidate And His Family: State Department Official",
+   "summary": "",
+   "scope": "world",
+   "category": "政治",
+   "importance": 9,
+   "owners": 9,
+   "work": false,
+   "links": [
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GajNPZ0pFcnBEakExY1RLT3V4QThuYmdLSjJpV3JMazQ1NjJyczR6M1JzOXE1S0NSVWdLNHdGbE40UzVDZnluZDZfbWJYTnhnTno3ZWh1eTdFT00?oc=5",
+     "title": "US To Issue Visas To Defeated Brazilian Presidential Candidate And His Family: State Department Official"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSUx4UUdzdUpVbTBWYlRHTjJRbVVoZVJ6VG9WeDcxeW5QLTA1RGU2OF9uTmtYYXRLMHJ2YWhCSk0yQml6VUctM1NabFpPOTFfZzVrdFI0eEhqR0UyV0tlbUpEQlZuc3JTLXlwaDhPT1hZVkxtcVpBd2pKNFgyeTJQVUNvcHRKQmhmSUlyZlRDV0NZc2dCRnk5UzVSSEV0T3NoU1ZGTlduTTNZOFB1eTdaWl93?oc=5",
+     "title": "Bolsonaro tinggalkan Brazil melalui Argentina selepas kalah pilihan raya"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RejV5RndiaW9vWlI2U2wweUlKcEtmUjNJeGJqTGk2dm5IS09NSVFiTkR5MmNmd1NoWnZQRVJHYTdFS3dROE5xQ25rWTQxNzZzQ25VU2FwQy1mcFk?oc=5",
+     "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYWxyOENKWVdrbnhkd21SeEw1WmtqanpZUU5OQ1ctZ0xWamdfYnQyUC00N1VzYkF1akNBR2dHSVJEWmhSbFppV3ZndC1rWmZ5R2cyR1BYeS1OZDlkdkY4T3I3V1hBR240eWUtd2dUdERQZURYa0hPNkFfTEFfV1hmVTV2MHlsQloxSEN6VHEzSTRQWFFhME1UeUIzdzd0Zk95b1R6c21nNUtQYk05SGRST2t2Sy1DZUU?oc=5",
+     "title": "Flavio Bolsonaro declares himself rightful president-elect of Brazil"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTlDM3hOQUxUMmVMYTJUeWxDVXAyRnh6Y0xSaFR0cTdHeDY0aW9LNnFDdUxXczNGenlLM2FpbXhrLWpnbFVVYkRUUFJfUDdMX3Y2YktHa1prTi1TRE9NSndVWjQtbkIybHRJdTZxUmYtR00wMHE0ZnZvcTFUSnRNMHY5OFJCbUE5dVVseExuVHNOUG53bXVfbmpZYThFSmlwQkpERnV4YnR4TjhZLUhV?oc=5",
+     "title": "Defeated presidential candidate Flávio Bolsonaro and his family land in Miami after fleeing Brazil"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWTJ0VWN1Zkgzbk9TX3lOcWppR19BNTJIbC1IV0FnbkJoc1NzNG5yNnZHeVRyN2ZrYzI5VHRaY3RhRzhCR3NLV0lvSUVPRXdxQlpkSGxwRWU4Z1FEVTgwMmFWdzNmQUFzd3pmenhzMnhBWk9OVUFGTFVnVVp2TkktN1BUQVNyeGdiazFURHJBOVVKZ1NxRmdDcGI0YXhJbkRZVFNlc2c0OTBkUWZpRTNQZURPZDItaEHSAbwBQVVfeXFMTWg5dHV2bnJzSnBtYktXbjhyeWhBeTEta1NEdFpOU1lVaU5VOTg3RThET3h0M0NIc295NkcyU1RiYVE0dGFHVVE0N3dXODBGNUYybThTbDlYQTdiNF9sUnRSTGxXME5RSnQydENNU2NfcE1KREVEMWJ6TVdGcWh4Z242TDZSN3JnZFdLc2plajJsX2Fkdmg2X1FJMWZ3ZkFnZFMtYk0waTM1U1kySkl5ZWZEcFNIM2RuQkZYd0o?oc=5",
+     "title": "Flavio Bolsonaro lands in Miami after losing Brazil’s presidential election"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONVNzOWhkRGoxXzBIQng2eGZCY0Q0SUprNF9FUDh6d3dLa2tQWVQ1N3FYYlFrdk80akFXRGxLRU1iMDlocWdEYXJfRW9lSUFCbHRoY2kwdTJYMW1KMVBHTzcwS0xtQi1KTDVKNWIzRF8xc3Z6eHN3YnIzRnlxTGpSWkFRMTZpV00yY1Q5bDNSdVdWVGE3ZmxkLQ?oc=5",
+     "title": "Bolsonaro claims he is Brazil's true leader after fleeing to US"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSDFQcDMtUURYOUoyeGM0S29OTzZROUlCazJ6RVVybHJLZmdJQ2N0ZUpfNHlYcG5vaXN4STBhNFhyRWJHeXI0YjVaVDVtXy1ldkRuUkt1aDE5WWtCZm5QN1hxNEZ0bThwM3pFaklmd1l0c01yTXRXUV9NdGI1a2RUZDgzX2MxMEs5MGJ1NXdzNm5ra3JBYWsxTTJoTDZ2b0lPc1JsSUZ1ZE0?oc=5",
+     "title": "Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMlBHX0pXUVh0WW4yV3ZWcGJZMUtlaWo0bHZ5UHpYcU13czhaVWpKTFRwTXZ3ZWl1a0VZVXB5V1hUczJnV0RiTExUb1UxS0ZlT19YMFVwR1pucDZrekR5QkxOZ19iaEU2UUJ2NUJSM3VqMXZYU191YlUtRTVvZnlKSm9wdTRXTFczV2V1RFpjb1ZTZ9IBkgFBVV95cUxOX3hSR2NvQVR1Qmo4QjZId0s1UF9wbU5wV0haUVhFdFNUMEFPUnpWQzBuV3BhN1JsZV9Ea1h0U3RMMTlUeXBTTmtMVG4ybjdCVWVSNXJrMEtVTkQwV1BfNUg4UFNzV1djZlhVZDVZQnFnRXp0c0tJUTIwTmUtVVRoYjV5c0ZtQUpoeHlqZ1RLdXZ4QQ?oc=5",
+     "title": "Brazil: Flavio Bolsonaro flees to US amid corruption probes"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Israel's election deadlock is a sign of the country's deep divisions",
+   "summary": "",
+   "scope": "world",
+   "category": "政治",
+   "importance": 6,
+   "owners": 6,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NVm5md1hYV0RJeDBmaHdrU0lnV0hPLVV2Z09VWWFXSzFIQnpvcDFON0NTbzdLODBsQnJLRmJDWWxpTW5aY3VsNU5MRUhyVFFCZFlZS3Y5LWdmZ00?oc=5",
+     "title": "Israel's election deadlock is a sign of the country's deep divisions"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV195V053Xzk0NjBOR2hydFBDYWw4QkNsVDNIekZsTkViakRHNGEybTd1M2otSF9jZmtmTWNFX0daSVA5bDRmV1JlSWNhRmdLdDR2SWRPQnJ1REhmY3hncHc2UzAzQ0wtOU1vTDdBN3B2VXlSRlR5cUJWLWhybUVuQVJPYmd0RWlYOUlzOWxsQmROQUdrV1phUUVsNDRsdFhqeGwxOWpHNTNWWUVlYWc0c2pn?oc=5",
+     "title": "Election polls in New Zealand continue to show no clear outcome"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNng4MnVNRnlIRFlsX19qMzVkeU5oSG1wWnlzcGQwUDVxQ1JBLXlyZWgwTUtiMGx0S25QaXp0R3poTFJmZ2hMR1k2cmk3U3RHU19BSWt5dTYtTUxlZm9ONzhMU3lLbWF3RWNDMFFwNXNnVTdFaDhtbURrYkRnbkJuRU9vR0c1QkkwbWdYOEdYNll5Si1yVGhoVDgxZEE0azluRi15ZWdZQ1BENDZGOG5mQWtjYXQ?oc=5",
+     "title": "The Latest: As votes are counted, no clear winner emerges in Israel’s election"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRGpjenNHcEpwR01Gc0IteXdnT1NTakJ6NGhuNWZIZ09fWm5wSlNUaTJ3SGlpRGtEZkxmRXAwUEJlbW1Edm9PbGtyd2hFbjdMNHZKdEtxNFpnSG1YYTc1U1RRakVQR25rdlJ5dXVUU2ZXR2dqN3gyLVF5VGZzQk9VcVRoNXZIYlROekNfRmhjS0djaEtDTWdCZlRNLXp2ODJId2hySDVGcThhaFRJaUtvX01R0gG3AUFVX3lxTE82Umhtc2t5QnhjMXVtSGd5Y2pvNW9KSk40X2dxUUlBQzVaM2Z2azBFYkZ5OGMyY2NwVFZxZ1pubEVqVGJwZ0ZydFpseFVfSU1BM29HN2VpNF9rd09MTW9vTndpZWYtVTZxNVhSb1hiVVBrdk5xOWIteExoWERvZXotd3I2QWtfS3h2OGRtSnpYcUQ4cjlsVERFZXduNUNsU1lwOXlVUkgwc2w4SXkwWWF1QUVJYjRhaw?oc=5",
+     "title": "Why Arab parties may not be the ‘kingmakers’ in this Israeli election"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVjdRbk4td1JMN044N1NtNFNDS3JDaHh3NTY3NmFHZXZtcWVvOFlDWXl0QU5EaUxiUVNVV3VEYjdMVjhaUlVjOS1lalgzVFJSdUwxazNyUHg2VkRQbk5SbnJWbHdpLXBTaE5fVlRNTWhfTUFyWFB3bmJuWWoxVXRHek1TSHhiOE9rc25kVVdobEN2dTJqQkh6MjlpTjNnT2ZXSFZR?oc=5",
+     "title": "Commentary: Israel's indecisive election reveals deep fault lines"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOajhYbFV2TFNJZG5sSVp4eE9UTGxMOTJzSVFEODUwbXVfZmJmLTRQU1h1bnNJcDBDckRlSGY1WWdTX3JNOXNfY2J1QzBHV05FWTJJbW9HT1lsTFdFNTR4SDJmNmtLMkRFd0lYeUxNN3d3eC1WNnRiMmw4czZORUpFcVVVLUFWdGppVnFoRXpR?oc=5",
+     "title": "Early Israeli election results point to deadlock"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+   "summary": "",
+   "scope": "world",
+   "category": "政治",
+   "importance": 6,
+   "owners": 6,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jdEVOa2FHN3dCa08ySFZ3SHBXR2Ricm1fUEdBMVEzcHlrT2RpMzhBWEg2VE5MVzNFcFF4c3EyMUg5QlRlR3QxYVJVcjZIWEtPU1FSbFltQUlydzQ?oc=5",
+     "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUowdTlPaUFzb0tCdUQ3UzdYalJsS2ZEYWNvMUVtUzdKams0b051VWNIcXNPdG5wYlFzaWZIZVJfcVFTb192M3ozWk1kcW8wY1NNd1FSMzAzQ2FGTm9Mb0tfU21BenhMSXg5bFYxcXZqRlkzdHdESlZYVFlnLW82eUNZeER2SFU5ZXNzdExzLWxBYmtRTDRiMVFQQk1BYjB5dUdGQUEwb0pWYlA3VWluaA?oc=5",
+     "title": "Israel's election gives survivor Netanyahu a path to keep power"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkhkVlMyeHNjUXZ4YXlWMVNFVXZMWkwzRW9qQUlxWkhVZHJiTlhRLTFIbjJzOUVDOE1QQ09acFBOM0xPOUstY1NMVXV5RlYzaVl5cVhvVE9MZ3lpQk44RFhfSjR2eEVFYm1RekhzVzBFMVI0TWxjM2Znbi1rSkhxVndVenhQdWpJdGgtNG1LQTh2dUdWbmQ4SEwwWmtvMEVEcGh2SUljSkpBYWloNnVmcWhiOTVzTFl5dEE?oc=5",
+     "title": "Netanyahu and top rival face postelection choices that could redefine Israeli politics"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYVh6c2V2RU9MRU5Sd1lzeDFfaW4teXpVb1lhQjFDNElXS2lyRkdua0dmZk9KaWR6TE4zdmltT2RJSXVabHd6bkpWYVBIVGo1emp1X3Q1Y0hZcGZJVFJySVFHVk80aDJfM3dPWHFXZXM4VFBKemdfSjA0MUtDQ25xX3ZYNy1oNGUwVjBWNEFCODdMSWw0T3JkdnFuT0FsRjhMcjllZFhxSkd4TWvSAbABQVVfeXFMTmJQNGtMdkU3bW1TLUl2ZG5oZUNXVmxfZlZjYkgwbUEtbDQ1V3RERG1UdUtfQTExaUkxaVE2Sk96Nlh3QUNmeThrNGNqOHBtTWNJelNyUkJ6Ylk3anBDU0JSQ2dFaDBacHlyYjlPUXNsUy0zcVNNVTVyalFucjYzcmpxd1JkcTR2TG9YZjE2eU1nNjdXRzdYaXg5WkRNcTdNcGdqdkNoMUFOLTN6QXJzOEk?oc=5",
+     "title": "Netanyahu outlines achievements, future plans as Likud leads Israeli polls"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd1FtQU9WZVFHUHZ1VXZwLTNqQUdUZmRHZ3BSYndoU3prdGNXN0IyUWdSM04tX1pOWnk2UTg1SWwzWEN2M0hFNXhzTUtkdkhpb2xxN1gyMHU1cEZROGxnR2VIOGtnZ01zOEp1Nm9RT01lRURNMWFfVkE4SmViNUNXOUljLTRhaTJka2VEaHVYSGVGM1FqM1h6dXZB?oc=5",
+     "title": "Netanyahu bloc leads after half of Israeli votes counted but no majority"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRHZQV0hnZUVxbE5FeGMweFZBbndJNlhNYi1vVW5LRXloOXpBSWF5NnVvUTYyS2t3N2kyQWtkRkJ3NlZxbVRVM3pqV2NYWTV2eTdkQW9KQ0pWQmFlWUhoMmZEcTV2SFIxMklyeW5adkcyWjdmbThGYm1rZW1zRXNEOWdMdlZQQmhic3E1SUdDRVZ3TXByVy1wanAzY3FjaTQ?oc=5",
+     "title": "A bitter night in Israel for all who craved a fresh start. Netanyahu survives for now – and we are more divided than ever"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Cruise ship residents left stranded in Cambodia after fuel prices soar",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbzdBbE13QVJwTmV1alVfU1l6bnc2aHJoUVlSYS12Nld5WldDMTgxbDUtanFrQjVybE1vOVp4RkFjNGlobUNDMjdic05MZ2c5ZDM0OGlYTU02TWZ4akVfLXFZOGtram1BRE1lRUtyOXIwZ01CU2NZM3ZueUFZOWpVYVJqRnktVjFWekZOaEt5ZkZwV25MVnVBanROdDFWcHlGR1ZJd283NDZKV3FuRmJCa3k2M01yX1B6dUxn?oc=5",
+     "title": "Cruise ship residents left stranded in Cambodia after fuel prices soar"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kUXhfQlRHTTRJWDZoWGNKUWw4Z1VUdUJEMy1YNGIyOGpWRlRSSkx4b1lZODRtSXNBTXdRSWJOeWpsdEFyMXhHRDJYUGVrOXF5RXVsbEhxOGo2ZFE?oc=5",
+     "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb3J0MEVjUDYzWV9pcnBYVTBRcFd3SHZZVVF5d29naldtQjRmRGhlOGZkemtiUEdCWU0zUXFNR3FvLS05Mjc2SFRHSXU5SlZpSnRTenZOcFYxV3lyVFBXRmlKZHNxX0lOMXZkRUJHYXNHZGFxMVgzN3kySVRJU2ctb19hYUZYRElpQ1JYY2hmTkhyeFFJVy1GWVZZc08tUERFb3RhR0wwdGM3YnNxWTMzalJISUdJRTRiN3YtczZrRQ?oc=5",
+     "title": "Cruise ship residents left stranded in Cambodia after fuel prices soar"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbWJTRGJHSENId1FpYmxrV2YxVDdvZzJzSkVaMWxLbGI5c2gtUGVBbHlQazFzLThzQUVZRklyYmxFSmlYbmc4aXNDbDFGUGtQc0ZObGVFdklhZ2VOckxtMzM1SWpyQVROY0p4eE5nb3UxS003TXh2UWdxaGZuRWVFLVRnUVRIWG5yQkRhMnRuZ0FhRnc?oc=5",
+     "title": "Two hundred 'cruise for life' passengers stranded in Cambodia"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObzBvcUQzYmdUU1ZuVXBucTU5UW5mTGpETndmQjVVVC1tQjctckxKRml6WmhyLUYxZDlCM2VzMlprcFF0enViTTlqbExpc0lzeEdfZmp4U2xLemJEUDZkQl8zZjJWdDVHYW1YMXptNDE5VTlJNnJMSUNQdEZIejFURzl2UXZtTlF0cWdNcEVKelBZS0RabWUzbktMc3V4VUFQaTFDbg?oc=5",
+     "title": "Passengers stranded in Cambodia after cruise halted due to high fuel costs"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "HKT inaugurates Innovation & Technology Centre and AI Exchange in the Loop",
+   "summary": "",
+   "scope": "world",
+   "category": "政治",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "星洲日报",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43VzFuX2wxWXJ2aGR3SG45RUpIb2h2MG5Rb3htRk5LU1V4NVQwRWRrVlBKMUZCWGZFeG0wb21BZ2JhbTR0d0FQR3Zhck1xNFY5TlRzaXlxNVlGblRvSXJkMlNqcHQxNnQwOFE?oc=5",
+     "title": "HKT inaugurates Innovation & Technology Centre and AI Exchange in the Loop"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54NjRiZVhvdmRael9vNzlGbmtpT29Ydmc0di1Ba1J0QldpZWpCdmUxR0E4ZnY1S1JvTkVwQVp2OHZpWV9iakQxRGxrcWx0UUtRSVBCQy1ibjI4SHI2?oc=5",
+     "title": "Technology Advancement Must Go Hand In Hand With Faith, Morals And Culture - PM Anwar"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPalU1amdTWXlzWlhyYjl4VjduN2ViWFpKdHB4R2wtMDRXWWNkMlNkRktRcEJ3bFd2MkRiQURMd0N5Ull6dG9zaTRKMUF3VUdiNWk0bG1NTTJMbjJKOUlRSU1VWkhLTmozenlfYkloODZteVhPU1Y4UGRIcU81eno2djVPc3BXQmgzU1lKNnJudjdOYUgzbDJxN2ZqUkdEdWRNYTlBYW05UHJ2NUY0bXBZ?oc=5",
+     "title": "Dropbox plans 9% workforce cut, technology chief to exit"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNekxzbWFQcDNPQ0E1OXg0TVp1N19LOXFySWxETDh5VmtDNzJjZGw1WkYwQzZwS0FZT3RZWXQtUG1EbVRMN0dNdk9sQ2R1bHNTY3ZramF6QTR3WFU5LTJRVm4zMjJjdlRfRGxXcjctc1N5U2VERkVXcFZrR3JYYjJsQnNHdnctRFk2bWdiUlZMY1NqM214Y1hwVE9fZFV3dTJfN1E?oc=5",
+     "title": "Dropbox plans 9% workforce cut, technology chief to exit"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "[UPDATED]: Customs foils bid to transit RM49.5mil AI chips through Malaysia, with potential weapons applications",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOEtQVUhRNy1xcHh1czZPRmQwWW1sR2Rkd2RBMUo5dTNTeTBaODNqLXRfekJhcGlURGt5YmdfWVVybnFBQmZHNVk3UlpUN2I0aFk1ako3YXpyMnd4LXZGNGp4WG0xVWdIelkzTTEyWkdaTVM3MnBZSm0wcDlFbmd5RkZDVnk1SHJScjFkVmVNSW5LZXRxQmRSM0RxLVNnUFN4aDJnMUE2Y2V1YjQySG90elg5cEMyeFNyYnRZ?oc=5",
+     "title": "[UPDATED]: Customs foils bid to transit RM49.5mil AI chips through Malaysia, with potential weapons applications"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVU14ajJqOUhlTEt4cEJzR0o0Ry1kVGc4bmRmTW9zSWVYb1pjZ042X2ZlLVBVZ1l3dV95WDFjUTFodnF6eTF6OVAtX0hCdG1jZzA3ZkNmb09jNDhFd1JUcnc5QkJrN3poemVSVDQ1OGxBdkJEZkFmSmgzWnZGT2Z5ZGdHaWF1ZlFEbXl6M0VRQklfU3hydktmMnRFSUNuZGFwdjJrS05qUF9rUlVxXzNfeU9ZN2hKeHgwV1c2aHV3?oc=5",
+     "title": "AI chips worth $12.1 million seized at Malaysia airport, customs authority says"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbTNpQXVCYkdWTzZ2Q0VQYVVKb1BSV0hRZWttLXhtNUhDY0JoNGJrZlJnUmJZSUt2NmQwU3JqUEJ0bnJxRk9Qdi1iSkx3dENILXZrWFlzTER3OEpxbWdaMklxbmp4QUlZSmJFTUVrSktYV2twbkQzVFFWV25WbGUtZnZiYnZxSjNpaVhzYkprbDdhTFVHcXdvNHl0WUw2cHMzSUVINkkwUTl1Zw?oc=5",
+     "title": "Malaysia seizes servers with advanced AI chips suspected of violating export controls"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcmUyQlNvRjVjRUtDUE42T1FPYWFKV2dvd0IxNFFkbUkwcjAtRnJKUzdTSks2OGNaMENLY0ZybU02bnNMZWtsbF9wNDAwXzRPSTZpUXF2MVo5ZTNwdU5UM2NQTUxobVhyejEyTnlTbzViX2N6Umw4ZGNUZlUzMUNuM3J0R1FvU0lNSVNaSTJDMk9VYzFqbXB1X0hLYmtSU1RpSzBYZ21n?oc=5",
+     "title": "AI chips worth US$12.1 million seized at Malaysia airport, customs authority says"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "China Appreciates Mbappe's Apology For Offensive Remarks - Foreign Ministry",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94VHhyLURmYXExSFFiMGczMXlqTUFrblFFdENRRUtJNUV4Tk1FUnJCbGVDOGY5dUI3TVdCRWZaS09uNjctRWxnbE9mSERBckMzbE9oUGFxNUNuUTRuTlJ0LWE2THA?oc=5",
+     "title": "China Appreciates Mbappe's Apology For Offensive Remarks - Foreign Ministry"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYndKWEVTQXdYMEhHNEM1UnVNb2xtdnRfUklGbDdEWUxJNjF0dVhDV1JOanNfS0tPOF9wazg4SExIVk5zWERBa19aRWpGX0REZEZ3WUZ0MFpqZU1lS0JQUzAtUzhYdVhXTUJFUFV0eUdjR05NUDlFc21KS3VyNEJYWjR6djNMbm1Sa0FDNUhBMWpFS0JXcWcyQkZlbUl2UTRYN1A3UHY1bU9RZU5OMVVPbndxZUFrck0?oc=5",
+     "title": "Real Madrid apologise to Chinese people after Mbappe's Mao 'dictator' comment"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdWRESkpBczVDSzFPMm4xM01SRHBGSW9QMHBlRGNBMWJUUmE4am85MmtIbVdZQlZydzFhRmpwb1Vma1NJY1ZBa3dsVzlBamtWbTN2SlZ1UEc3cDg1dC1TWXp4d2NTbHdJMFVRMzFLTmRlR1hXVFZWVEZjdkx3VjY3aVMtSnNJVE4zYW1hdV9KVWZFa1NrRW1LUi00RlBSOFF3YWV5VkI0b2dvUmRyZ19RYlVJeWg3Z9IBuwFBVV95cUxOeS1YVUctdS15eF9UanBCREU2WkRrV193V2VCdjlvMU1TZ2doempqUm9BRU90OVp6TDhkQ0RsWU9NRnpUSll3RVdQYzVJamMwZ3ZldlJMRFdRMnlSOFZ4LV9nWndmQVhsTGozUFhqbms5dUZmczVaMWdfX1hncmxLdHpLUlV3TlotdWhqQjdSaTdodU9tVVo3bXVFVHFqWmFQR1h0bV80M2R3d0xYODNDWUVYU2Q1RWtQNDJn?oc=5",
+     "title": "Real Madrid apologise to Chinese people for Mbappe’s Mao ‘dictator’ remark"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNGpzd2hSWGtlM2d0WTdsdFh3X2t1dUk0YWZWYk5hVGpDc29CeFEzUTY1ZDNMbDgxWkFCSVlBV1diVmhJZXRwcUhNNThnV2NINllENGR4TktjR1dfdGN6SURON2YtUGZ0WlJjNXhNNm9TbWl1UkxURlNJNmlfZXIxTjIzWHFDNFBTdzJvbXNTbw?oc=5",
+     "title": "Real Madrid apologise to China over Mbappe comments"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "China warns global celebrities as Mbappe backlash spreads",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNUtkZ1N3U3FtallVQlFIa2dxamhkOVRZRnBnMnRZcFh3WnptYUE1TUgtRXRGa3pVMmNmNzJpa1hTR2RGaTRtZWFmcVlLZFZueVE2SUhKUEFrQjJMNURTeUY5YTAtby1vMjFZdlhCTUdyZVV4Nk5oMlVUOFhBVDRoT2FGdXdvUWcyRUluRVhDczVqTFBRcGtWZ3NKd25ueE1xdHBEWG5YWVA4aVRkQzh2V2dqaHg1cTdLUFE4Wg?oc=5",
+     "title": "China warns global celebrities as Mbappe backlash spreads"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93UUtKcXJQdU9qLVBqUFExcE1PWlhQdFMwNmp4ZVE3TnVSdnVGUF9iTzdmdzJ2dnVNQ3pndW14NUw4RFpXaURNdXpEbVRJTURzVHNCV2MweWtjSUU?oc=5",
+     "title": "Hello Kitty maker ends collab with Japanese spy drama after backlash in China"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMDg3cTNiUk9CeVZCb19ObGtKVnI2NG1nbk9lTUV1cFRZc2FmM21ucnc4a1lxVFllWEtGZkR6RHI3SHJDMFJzRS0xSzlPYzJLUzB1NmdOdVQ2YVRRbDZ5UGFETzNFUkhkaHV1Qm9wOTY4SmJtN2NZQnpsbGlReE1GYlNzNUFnengwcWYyZXZBUnQzNzQyM3ZmMmprcnZYTknSAaQBQVVfeXFMTmpwZTFzamF2ZTdycXR0M0YyV2ZxS3ZCUldoSUJ5dTk5WGlQU2MyUWxRdkZhc0tuZUtDUzlONjQwRXlZUUlnaC1OZzFwUGYwcFk3bUl3cktoNkMtUEtaTlBsUlpZcUtxUmswZGpHVHNWTU83b01yd1pHUHJqc2ZTSlJvSklfR3JHcEZYdncwd2JGZzJNeVNGR1U0OThCd01fWnJtNTk?oc=5",
+     "title": "Mbappe faces backlash in China for meme fiasco"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Putin seeks to expand ties with African countries at Russia-Africa summit",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ1pvcjY2M21FUVRNbWtjYkYyTkt1OTlGdGZXTTBEX25UUWd3Znh6dmZmc0NmNWZ2VVVvbG52YmkwaV92SHdKNXRqbmhOZzc3MEExalFwb2p5eDFIeEcyZ0dFT3BZbXZkXzM4dmNKQnBVdTduc282Yk11WC1rbE9rS0xUSzFFWjNSUHdwLU44TQ?oc=5",
+     "title": "Putin seeks to expand ties with African countries at Russia-Africa summit"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRmdDcWdzOG93SDFZclRidFg4X19QdHEyaVVLTDRpZ1lGTGVpbXN1ZDRKcnU2YVk3WkpCSEU0N0hZaEw0VWZHZnpuMUpONGdrRGNRLVhteGd3UnhoN2dNeUw3SGlhSWt5MXhoUjJDV2RMYnZkWkkzWmUtMnlScVhpTXlHMU5fQmw0YWVqdXlmVnViZ0FiZFhfb3BqdlVlallueDUzOEV2Z3FrNkVCc1hZTks1WC11Zw?oc=5",
+     "title": "Carey and Inglis counterpunch to put Australia on top in South Africa"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZVh3eVA3Z3UtUXlMZ3pveVduQk9pbmJoRk9udDFkUzE5MjVBS3d4dDl2MHJKS3d4U3BmbndtTHNlSVh3czBaQUUzXzVsMEwzU1FiZUgzcWRGNTMxbGNsS0pTQ0dENl9ZSVJCTnV4LWM1U1BTUTU2Z2pNT3lLUnZhUkQ3WVNpS1lH0gGIAUFVX3lxTE9kRjdvd1VFcWQ4NjEtZUc0V2F2X3VzT3JrR2tSbXdnWGhrNEVBcHNKSjBqT05QUnJhXzB0Q2JSQkVtNXluUjFGd2M4Wi1JU2wyZFJOOHlLZUpfaWhlUmxQSUxlMnNmdkdFSU1nYkdCLTlCcVNOSVZZMFpZUlVoSkpTQTlYeHJvUnA?oc=5",
+     "title": "Russia in Africa: What does Putin hope to achieve?"
+    }
+   ],
+   "new": true
+  }
+ ]
+}

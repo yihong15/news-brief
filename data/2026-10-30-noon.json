@@ -1,0 +1,599 @@
+{
+ "name": "2026-10-30-noon",
+ "kind": "daily",
+ "slot": "noon",
+ "time": "2026-10-30T12:17:35.058897+08:00",
+ "items": [
+  {
+   "title": "SeABank announces Sustainable Finance Framework",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "星洲日报",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9obGo0TkpsNFhUd2VzcWhob21DLUloQzlsd19wQ1h2MW1ScGxkb0ZxNTBieUdIVVRfTG1OZmZHbWU5ZVhGV05kWUdiaXZ3aWFrNjkxYUE0WFFiU0xFNXVOYUR0aV85WENiTVE?oc=5",
+     "title": "SeABank announces Sustainable Finance Framework"
+    },
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQTc1Q2V1bjZFY3E0bmZLMklSUVF2S0hCbENPY2Fxc2E0Y19VSEVqdnFfUjZfWF82WklmTkVueUNrRENPUkJqVzNFSmk4SzVGcXFHSEVwNnUzOFIzcDdpajVBeHdDeGRyeG9QQVV5d0ZPemZ3Mm91MzRScnhPdEl4LXRpSEN5SmdteW9Lei1fd2dJS2FEUWVCMndDRkN5em8yaFhFNFB3?oc=5",
+     "title": "WATCH: Perikatan announces candidates for Melaka polls"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KbzFwVjlPa1Nab29RZHFmck9nSXZ0U1p3elVzeGlXTzhGU2g4OVV3UEMwd0lUNWh3VmFZeFFrX2s1b2FPbDFpemdVYk5Zd050VGFrbnNsU0h6djRVdFBwM29n?oc=5",
+     "title": "PN announces 5 candidates for Melaka polls, 1 more to come"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlS2tMSUNScXEtV0V5WTFISWRzRmV6bW4xOGt0NUNFdjhtNjBLMjY1QV9Kbkxsck9iakxmS0hZdnQ3UGIzeHZEQTBacU5YYWt3NlA2TU50ZS1mNk5wTjl6cWR1Z0VfMlIz?oc=5",
+     "title": "PN Delays Announcement Of One Melaka State Seat Candidate"
+    },
+    {
+     "source": "大马交易所",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTUIzdlNVLUM5VnpMMU0xNlZvTzZhTU1KejdoUWNPUUhjeXZtMlNNOThSZDY1cVZGYXpfUVl0VHJ5MlBFWHVFSGFzT1FBTk9yd1ZSYjhNMUEyZzFpVjhUaV9SUi1XRmtySGRDUWVQbW5vb2I3T2pTcUFnWFg2bVdPWC1ORldQb28?oc=5",
+     "title": "Company Announcements"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Bursa Malaysia Key Index Firmer At Midday, Tracking Regional Gains",
+   "summary": "",
+   "scope": "my",
+   "category": "经济",
+   "importance": 5,
+   "owners": 5,
+   "work": true,
+   "links": [
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxVWNxUFl2TWVWaTJpeUxzbFVkM1JhYXZvLWVpYVdmLVp4cHRhRmFucEs1QlNRU2xJdUNLSEJnak5QeDFsNzNTRGJXV19DNGhQZ3hwUDgtRmNlb01aYVh5N2Vxbw?oc=5",
+     "title": "Bursa Malaysia Key Index Firmer At Midday, Tracking Regional Gains"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41TjhITWl3QXFIZ1VzbnBuTHFteVRJTFBGZF9hbnJxaW1aTFhkSTlrRk5wS2dJYTA5X0pnRDVWZklDemluM0k1M0J1QnNmWjhBSWpqeWxCT1h0cjhNcHRVMTRFaVlMakZXbVJ3NGFTQUw4Nk9wTmNVN3dGeXk?oc=5",
+     "title": "Bursa Malaysia ditutup rendah"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBNREo4d2tOMk4xQlZLWlIxekJjRk92aGtQTk5NNUZLSlJFMGJrY0ZodENSVFVtb1lSU0xjQS1qOXFCTWFjXzdvVTh2ejM?oc=5",
+     "title": "Bursa Malaysia perluas peranan lahirkan lebih banyak juara serantau"
+    },
+    {
+     "source": "国家银行",
+     "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxNdmlWRTBpMktobVg4ZVVwM0h4cnJjRVlhMWR0dEZfd1JsaGF3SFVDZ29LUzl5eGtoZVZJS3VYaEQ1T2ZKTDgtd1E3SG1JU183UktzdWdmdHg5a2pQS1Y4bWJEQnBucXdpczd0bzlTSXd0SjNnWkF2LVNVVXdmTWh4VnJ5YnYxdS1UdFNDd0dwNHpseGlEVGozR0pjQllHYzRHeHZLcHNUbUFSYTU2Yk5xVU5JWTFjdEtuMWF3eEdpZU1rb0YzYVZHcjNsblM2ajQ3N0VIaGtMOVhRUkF1OFB0QkpFc3dDTnJVQ2s4Tm8tUldHR09CeEw4LUU5TWM0TU9CT1MyX1ZJXzBHRURUQTBEMTRWRmhTVFhqcHZ6bGpGeUNORWJ4NWh5SEViVFZES3o0RUh5clNLdG9Hd1llLXpZSzJtTHZ5WTZNeTJLTjdpVWVmSzVFcm1NMHJtV2hlaFBsOWVmazVldlVvTlpNb1c4UmFRUnlKQ1VlSC13Z2ZncXZWZ1pCQmNfZGpRSGxTRjBYdGpHS1hYTFAwWmVMdFE?oc=5",
+     "title": "- Bank Negara Malaysia"
+    },
+    {
+     "source": "大马交易所",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcXdkN0R2THktVFM0ckRfX0FsYXVWT2FSSm1qdFNIOHROYmJsVE1rYkJKSEQ3bEg0RWo5bmhnWU5BV1g0T3VjaVQ5RW9TemJSdnpzcEdfVW9CZHdYUGZOQnM1dV9lRC1SZ0hFZEFYd3lmanI4NGgyMFQ4UmhmT2VKRlFNNWNrREhfR29wU21iZjQtM2lSZ2lINkZOMHBnWEpUQmNISUxueUtWbm5SV2ppUllwY0VueHNCajlJ?oc=5",
+     "title": "prospectus - Bursa Malaysia"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "PRN Melaka: PN hanya umum 5 calon termasuk ADUN Bemban, DUN Kota Laksamana menyusul",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTWh2RU10UkNBcjFJeFNpRi1SV0VKdzBxSm5pUmo2QktVaTdWeGxrZFNNTUJyV1V2TW4zNlFfUG9hSVlRNFpnWG5VNll2TnNldTZlVktrWEF5cUowY0JhWXNEMTJhNnhOLVVRNHBUQk1ESTZrYmtIbXhIMHQ2UnVoVHN2dWFIM3k5cjhhRWtuNDk2bjlYVGI1UUdJRzhhcGJQckFjc3ZCVjF6TmNrVEY4N0E2YkFpWXRSa0tNaDdB0gHDAUFVX3lxTE5lZEdnenMwRHdOdmFaSkM3aDJxd0UxcEhFSTl1aDkwM0hxQmFNNmZ6ekdIXzlnVS02cFp2WGgzT3dkcnRBTzlUaUE5WWhDX3d0OEFEQWxYOU9Ca3ZYZ0hKZUhJMXMxNHN1d1RueEhLY1ZVQ25CZE1aaERqMkR3LWxjNWo0RERMT1U3TnNCN2JKRWt2NjhCRmEybzB6dDVtNVNuUmdpVnRJMEJzSTRCcHFXUzd3cllSbFpMb0p4ZDF4TldMbw?oc=5",
+     "title": "PRN Melaka: PN hanya umum 5 calon termasuk ADUN Bemban, DUN Kota Laksamana menyusul"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JMHdMVjJaREtKaXZRaWtvZjNnMndQWmljZnJHUDl4SXJNSGJBOTlRRlJ4aHByMGQ1NVNXRjJyMFhpa1o1M0ZZMUx6MlNQb0pfRTVjWU1DMFVvZFVBS0tadWhR?oc=5",
+     "title": "PRN Melaka: MCA dapat 1 lagi kerusi, cabar kubu kuat DAP"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdjFrbXc2ZjFVOE80MzdVYm5RZzUxQ1lIVmgzVV9LeTdmV0twOHlnanByZTJPVm44YVc2SWpLcnBwdTBkY2pBNjRtVXJXcGZka0M2Y1d6RzZHQjFBTGMxWlUwbU1nYUZGM29yNGhfUFQxRk4xbWNPUWxRc05YRnRMZ3ZrWno1ZmVEd0VDbEktMW1nLUZZSmZyc1JtYXUzc05GdzZ2cFQ1ODBZaXRfbDl6T19R?oc=5",
+     "title": "PRN Melaka: 189 borang penamaan calon dibeli, 45 sudah bayar deposit - SPR"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdFZlSlNSdE41NWZvOXZwSDF0bXJ3SWtJQlh0OHd2blJLNGhTWE9Vd3pZalctNG0wbEtPaERvZTJHTTd0UFhfb0lnT0JvWENXOV81ZDBqUW1CUTlKd1F2dHRUcUxFd3J4SEZuTHdrbnZDS1NVTVJnWDM0NEVvb00yeV9ZVGJ1a3d1TFlqQ2RWMnk5NElGaEhpSDFjZVZmM2JZZjEwM25vbw?oc=5",
+     "title": "PRN Melaka: 189 borang penamaan calon dibeli, 45 bayar deposit"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Melaka polls: MCA to contest third seat in Bandar Hilir",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ3FfVzZMaGxIcjd0OEtxNmVjN0JxTlB2UWd6UG5TcXk1emRlemFHNlUtODNlSjhicy05Wlc0UXFvX0Jna05rVzk2OVFQOXFCQWhMd0p4WGpsRkxmT19RQWFmNlh1eG5yUEpqc1RpTFdvOEVrbE1SbTk2Y1pnVEVvQW1nNUNWM2t2ODk0UTJUcjBXOVk1VkNYOUFJT042R0J0a3JLa0lUbw?oc=5",
+     "title": "Melaka polls: MCA to contest third seat in Bandar Hilir"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONnNSNXBZMzUxeTVCZTlCQ2NxMlFlNkE5eTBmbDZHQkFIT0dmd2ZtZmlXZndicVhOczN1OUtwSWR4Y01fdVAwdFlmMTVJcC0wbDBnMkRJR1U0Q3F0djFFZXVTODNuQXdLUHhmeGpFUGFzRmdSYlE4MFg0b3lhSTdFU2pCLWZFU2c2bnJfUGZSSVJ4M2RzTDI1SUN3cEhUenZZSFdyRHlmcVd0a2U5cGFxMDlLSDc5b1FfTk1GT1N3?oc=5",
+     "title": "Malacca polls: MCA gets third seat after BN-PN talks, picks Bandar Hilir candidate"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyaXd0Nl8tUVZxYXB0U0JMX1lnbHgzTDdFYVZvNjJIZkJWNFpLVVVQR21UeUpIRFBGOFJfc1B3QVFuVU5oZlFOc0JGaVFpWmZXWG01Nzgwb0VRTUw5ZTl4eF9B?oc=5",
+     "title": "MCA gets one more seat to contest in Melaka polls"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUbDlXMWRPc2hWOTNKZUdwVElXMlZFcE1qTktYbFJCVkxHYk1RUnp4X2hsRHFnU1Y3ZXR1b1VkTHhFSW1reENnY0JVa0Z1SmZp?oc=5",
+     "title": "MCA gets to contest one more seat in Melaka polls"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "6 Ahli Parlimen BERSATU meterai CSA dengan kerajaan, sokong Belanjawan 2027 - Berita Harian (BHarian Online)",
+   "summary": "",
+   "scope": "my",
+   "category": "经济",
+   "importance": 3,
+   "owners": 3,
+   "work": true,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zMU1YWjFLNTZMblJZa2NERTd3c0lKb0lFcUxqcGdyMGt6d0JvRnV0aUtwMklSMnhEWE5qTlZLZlYzQms2c3Fhd0M3VUpWMkVXU2JKMVZn?oc=5",
+     "title": "6 Ahli Parlimen BERSATU meterai CSA dengan kerajaan, sokong Belanjawan 2027 - Berita Harian (BHarian Online)"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pa3pneG5RV1Nfb0FWaGtSZzJVRWItRnE2RU1waklDcmtJYlNqaGRIc2F5bXNLOTVURHZLb3JyVzRkNDFLeVRIWTNobmU0VXhQN0RtYkNXNkVDaTB3YlhlU2FR?oc=5",
+     "title": "Kerajaan meterai MoU dengan 6 Ahli Parlimen Bersatu, Syed Saddiq"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPemlpOGd2ZUxKY2VqV184QjZmM2JwMl8xVTF2VW1pSzVneFMtaWFuVDY1T01sSmR4NkhXRzhFMjAycW1FTmFZLUlwLVZzZUtVRW94bTc4SWI1dFdtLTFnUGd6RGRGeWM4Y0xyTXhoMndscUlkOXR2UG1ucm95cW0zZmttenVLdWxTRFJmUlJwcVRhM1k0ekVZQjdjTDlad1ZkRDBqMjRDNXVCbktrT2JhQzlBTQ?oc=5",
+     "title": "Kerajaan setuju tambah kuota 35 peratus kerusi Parlimen Sabah, Sarawak"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Prosecutor seeks death for Yoon",
+   "summary": "",
+   "scope": "my",
+   "category": "司法",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ09xNWhES2lRQmtpSGR5bFdBNmhseFNmWmNpTVlHM1NOcGdmTTI4NmlXdHRzb3padFB3UXlxSzFzeFJCMmdLb3UxYnBQNmV1d21udUJmaTAyRHRhUXdMelY1Nk8zQ2VwdzVWYk5XaDlIUTFJUTlYMEZfeGpjY3BIVWZiRWlvTGJGdUliXzdRR21WTGNrWndOamh3?oc=5",
+     "title": "Prosecutor seeks death for Yoon"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zTTE3QUZjODc3WWNYRUpPakhDdmxTYjB2a29XSW1scW5mY1hnZGFyY2dKdTVaRF9WcWRlYlZxNGZ4eFJGM0J1ZTJPS2h0QmVy?oc=5",
+     "title": "Court of Appeal gives green light for lawyer Rosli Dahlan to challenge Public Prosecutor's move to seize his ASNB accounts"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTVIwWk9Ed2Z0LThNTTZEOFYwcWgwWHc4dUpQMHctNkU1X0hkODcwUVlWOXFsTk5Bc2YtZDA3R2d3SDdoUmRqYkprMi1FbktncHZGRDQxWkY3WG9vRDlZc2x2UHBia0xKQTc1UTQyR2lFaFp3dC1lQWwxVnVONzVEd3VLanJIczliNXd2Y1lrRHNpeFVfd1pnQXROTWJtUFZSaUFkcEtwSmJWZmxIQl80VVFNY2plNVHSAbwBQVVfeXFMT2VaeDVFTDh1djA5ZGZsaUtzMm9wY2xUOHpLWXBCMEROalBOSG0xdHQ0T3YxS1J0U3VMbUZrMjdOaVpuTkt4d25IeER3NnVQN3M2cExRUzFRUjVULTFIQ0x2dGdLV3ZvclVyQTFXR1lNZUlDSXg2alA4M0VNb2NTVmZuSlVnQmNjMkg3ZFM2RjFISXdrRkR4OWNSdF8tSEwyYWJhVUZULUdIRG9oNmZ3RnFEcUpUa2xGTndCbG0?oc=5",
+     "title": "South Korean prosecutors press for death sentence in Yoon martial law case"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Bersatu signed CSA to support Budget 2027, receive allocation",
+   "summary": "",
+   "scope": "my",
+   "category": "经济",
+   "importance": 3,
+   "owners": 3,
+   "work": true,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLUlsQ0IzcmI0VjYtajRiTWJsaE9YdVhOMDFvdEU5ckdxUTl2WU55SUdxWFhKRVl6elZhelE5TEhnZmZtTVJpZGZXRXhVSjI5R01hWWxaZGlKUkdKN0NWekJoNGZJWUJxb2FkdDRkaVkwR1hIR253ZjNVM3BoVWZBeFk1b2FycHpfZk43T2J4cGVDR0hTbXQ0Q0ZpVXUzNDFwT1VVZnlGcXdTRndtd3Vv?oc=5",
+     "title": "Bersatu signed CSA to support Budget 2027, receive allocation"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVVljZE9SeVFaNzNwbkZhcWFVM3V4TGYzSFF3R3BaQ1ZxbDRCSnRWNkFIekNpM0RBa2tzZ24ybFp4eHRiRDFYcnJQOS0xOUFIbmluWGdXYl9OZENGMW9MeE5vYy1WajRIaDBaR1IyTFUtd2JiYk56VXN5VzMtNHpqRWEwU3dSem5FNm1tQVByUEgtZUFBYXplSG90aHY2eWxG?oc=5",
+     "title": "Budget 2027 breezes through Dewan Rakyat after CSA signing"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nNmd2dkhTdGxyci13N3JpTFV6czhvVEtERVZjS3hrSzRDNkpGMERvdG5IVHNTWUxyM3R6U2JyMENnRTE4MUFEcHBjR0E4LUNN?oc=5",
+     "title": "Big Caring Group supports proposal on expanding SARA cashless aid to retail pharmacies in Budget 2027"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Top News Headlines In Indonesia, Laos, Philippines, Singapore, Thailand & Vietnam : Oct 30, 2026",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QMEFNNHNYM2lnVzZUWGdEV2NpRU4wT0tmd1VKM0JKVWtOcDFFcUstdUJSZVk1RUotU3kwUm03b0hQS2NtNml2TUI3dHgtOUx1R0ZtazR5ODBLQV9JSWV5ZzdB?oc=5",
+     "title": "Top News Headlines In Indonesia, Laos, Philippines, Singapore, Thailand & Vietnam : Oct 30, 2026"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbnlKOEZPQ1NwdVNzY3FNUW1BVkpGQnREN1p0dHZHb2x1VnJnbUlxdlhUSVVFRFlMOUZTUEltXzFROXh0RzBHTjRzUVl4NUMtdDVPSjExYk9uRkNvbjFDYS0yTnpvbHZCUGtCSWlLTklXckNjOGY3NFgwN1ozOGtjaWFreExjMlM0QWhqbEtpeHVuLVJOR0hsZjlJS3lpLUU?oc=5",
+     "title": "Indonesia siasat kapal kargo bawa rokok ke Malaysia"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CSmRycDRGakppMjFveEFYUTJ5dllkaExZU1o2d3ppeXFxb2dqZThUaEhtWVZTbG10ZDloT0tvN01QUHcwQXpHZHZhQW1kMng4?oc=5",
+     "title": "Indonesia rain set to ease toxic haze in Singapore, Malaysia"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Patrick Stewart, Star Trek And X-men Star, Dies At 86",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 8,
+   "owners": 8,
+   "work": false,
+   "links": [
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80a0NWQzdTWXFUUktZMTRteTJ3X0UtYW42am9jYXBLT081eF81aHBZNnJWZHpWMXRZVlRZZl9LaGxXVDFmd2QzaUpsWVcxZm9NaFgwLWNRREV6Vjl4Ui0xUE9n?oc=5",
+     "title": "Patrick Stewart, Star Trek And X-men Star, Dies At 86"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aanUyZE5mNlRvVjhuM3NyV1pXei1QSVByX2N3Z3kwRXlmYUJrNTl3d04yT3BYX2ZQeXpfU2NscnJOQjVBUWtOeTdQWjQ5YzlGVkJKRWJqWGJjRXM?oc=5",
+     "title": "Star Trek actor Sir Patrick Stewart dies aged 86"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWhaZUxRSlZQeF9wYnU2b0k0U2FuYUUyY0RWX3hpZmJTdFVHdk5SeUk4MlpnTXozUjVGdHllRnNXOTdDMUppd2hnbmdOMUVwWThMUGRUaGRuZjVLUTR2eld0aGQwOUt3aXVlYmtLM0xNbHFWUVdRWXVDbFdVekM1T3Q3MURNX2M0cWl0Vi1QNTVUU3o0N1BfZnVnQ2RwRDA1?oc=5",
+     "title": "Patrick Stewart, Shakespearean actor turned 'Star Trek' and 'X-Men' star, dies at 86"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS3cxRGJjSXBXVU1QdWZQa0tFZnJiR1pvRW1WLXZJSmRBZlpsV180RVNPdEZBUzJFazlsS1lfZ1VNM212VzFCTEo2ajlMcm9TLU8tVktRTnYzazJpWWxmcV9TS01xWW1jdTh6ZGVQRGZuYV8zUnJ6V2R6WnhoYjdrcnFhYmxWS1E?oc=5",
+     "title": "Patrick Stewart, legendary actor of ‘Star Trek’ and ‘X-Men’ fame, dies at 86"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTWhNaTVBb3lwcmFudmExWE11RDBacG1RSmNkUk51OWpHNVJTQzRhVFJwX2FOcXBTZEhWVHdmMTBSeDVNdkJKWmp0V2JLdElaNUtZZlhmVVc5X3BnR1Izb1hZYmJxYUM5NzNVSnhhQndCM0ZSN013a1poOEFKdUFQRzVJS05TM2puRG54SUdYNWlaMnlSWl9TWEpDb3JLTU1YYjF0VzlhNWZXR19fdURlb0VEby3SAboBQVVfeXFMTjRKak5oYkliNjMya21BS3Q4VXUyMkdPd0xtZ1J2YkNzVFZwdTZkV3JMT1RqR0FzcUZhZmEwVDVYX3VfTTZqZVdTMXNZSF9PQVYxMFVlVlg4UFZQbEJOa3dGOTNzWkpwZEtHRU13TmdxdmktMUs4VkYxT0lpZXVySVN3emlvOHd3dG1Ld1BUeFBVODFVdWh1cXVDeE5JXzhUUEE2RF9KeHB5U05JaUNCUFJRWm1RVVNPLUhB?oc=5",
+     "title": "Patrick Stewart, ‘Star Trek’ Captain Picard and ‘X-Men’ actor, dies at 86"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcldmZk9rUG42SnQ3WFN5LXBSVlRTeklCRWdTVENwYzVJbS13TmpQbnFDU1I2bS1tZWd4TF9CdlhIdHJRbk44OVRVdnhrQW9RNEhTTEd0SWRQT1BVX1JHaHN2bUp4NWN4R3RXeWl0bXlCZUxSRTJQVThXQzF3dW9nckJkek1uZ3hVQnlwZGpITV8tLUNXeWFsUHVROWNidmhOQlhDc2FWUQ?oc=5",
+     "title": "Star Trek, X-Men star Patrick Stewart dead at 86"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xZ0N1RE1zdEZBVlhJbWpBUnRkLVk5NXlxX2puZGQ4NzR0TEdTVWV0LU5QcmpmZl9vRkhINmlXVXlFR2JFZ1gtWUVhM2F4YVhlZUJ5RkpuaV82Ym9NNDVPemtUZFBtQzdfalB6WmR0UVpuT2k4U1Nn?oc=5",
+     "title": "Patrick Stewart, Star Trek actor and acclaimed thespian, dies aged 86"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQajB0RG4taWtmT0w4eWRZbWJxSGNjSm1vZ1RPd2N4ZlJjcVV4cXZCaVVXSFVkTUs2aDdYMDktMlhOQzNqQXkwaTYzQi04cjFDOTZNcGlieHloOUZ0TDd1UWF0bXdOamdFU21lYjV6enZ0VF9ZODB6T01FVEVtUlo0Z3J1bUxUbG5HeU4zU3o4UkZKeHhKN0lBaHRxY1R4dHYzNnlWU2F3?oc=5",
+     "title": "'Star Trek' star Patrick Stewart dies age 86 - DW.com"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Ukraine says at least 13 killed in Russian attack on train station",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 6,
+   "owners": 6,
+   "work": false,
+   "links": [
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ1A1UUttS3Zwb2V0SU4xTElRZGphcGZyQUlmcEtzSXQzbzlxTnJqN0Z6S3VDOUd0dno2TjZEQXo1dEtXMF9JYURlY0laTVhETGVrY2ttTmtlS0hGa285VjRiaHNWVXJnNERhSi0yMl8yMmZBV1Zmd2lGVVZpbGNrQ04xT3pUUndUNmE3cjFLblFXTVBnZzN3bHRqSmVUVzNOanIwVEw5R2czYVBMS0NOR0ZCcG5zZVBzTzBEdERicFFNQTlS?oc=5",
+     "title": "Ukraine says at least 13 killed in Russian attack on train station"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwNy1ZTkhRcTV2Y181WFVZblhrTDJGTnNQanRHNGJORUkwS09mSDNsOVV3d0NYUkw5TGdkYi1sRzhnalpDRWRNSldzNER5WUVFVVNVUDRwRFVHWE0?oc=5",
+     "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTzRwZjRhSTRCWExya3Z3cXViLVE1MVRNT0hLOGlQUFBidEM4eVdBM0VkRWdKVU9pa1VDdTduV2F1X3dSMldRcVJ5RDY0UVItSFhTWWVYbzBraHZOZU12WU0xUmZCR1paTW9wRmV1bVdLTTZVX0tmUDdSbE16ZGtDNk1HWExsbEx6TG9QNkVGR0hBRDlscU1NaEVtRy1OaEI1RjRkaGxzSjhJMTVhOXpxcGl1TS1wWExHZ3c0QkFJMU1YLWhn?oc=5",
+     "title": "Ukraine pauses strikes on Russian refineries after pressure from Trump, WSJ reports"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON0dvUmlSSHZXZjNsam5PN082YVZHUXF5ZHRhMkF6eHh2b0JlbzhhWFFJM0JzZGFiLU1TTkRDYk5IbE5RRE90NTlXMGx1bm9Pa0drTG02TF9Bd002Sm1IV2tXNk1aSzZPNmwxRmRyVnJBYUp2WEZtZDRCaVVWV2ptVm5zYXBDS3lsakZsdnpEZzNhRVFTWDFSUVdKUEd2dHJZMXlvdWFmYS1jZGRH0gGyAUFVX3lxTE9VQVVwWmZIZnRtQ1NDUGRjOEVzMVpfQXYtYkZvdThDbjB5T3RBa3hBUjgxUFMxNm9zNzFZZU5vd0VtN3dlbzlSeEU5UFp5WFRoQjd1ZzVGX0NjZ0pNSURsaktyYkxvRGc4eUdPRmhZWmdTdlZER1N4WGpua2FwdDQwNE5lNjlpelhXWjV4Z1R0R1FtNlc3Yk5YdDJMaGdfYWZXaElIMkpxZ3RRQTdJbUdINlE?oc=5",
+     "title": "At least 14 people killed in Russian attack on Dnipro train station"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRmxnV3NQSHhpbkZ6cDVFZXRxa2FSb25HOWRFT0YyU2xZX2c0M01fc2loUGdLbzV1cUN1S0Z1V1doUTl6dFlvMzc5R0h3QTdUNS1ZMVdfd01FNWtaeU1OTnlUeEk1T3ljZ0dnRXlsMGd1NXRYdnJkTU5vR0gxZU5xbjV6T2FRcVhHZ0szMWN6UU8za2hXSHljbG9FMFRpTEpFbHdPZktWMG9IR2d3dXhsQg?oc=5",
+     "title": "'Horrific' Russian drone strike kills 14 at Ukraine train station: Kyiv"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOU5fcnlfcDQ3Y3IwZ2UxMWNoVXJqZjBRU1pEd05BVnVxNjF0V3BSbmpFallYSUtRazRCbGpkQWhsTURZdGZyTHpNOFNpREZpMjFENnFpY3VXY1ZtX0t5YUljUWJ4aVdkdjhWT05XVWVwU0Q1Wjc1YkZjWW5PNjdNLUNNdWFnWWpVTmlTZVppWFplVFBnQUx1aXJLVGVOLVJjeGI1d0JvOVJaZ9IBqgFBVV95cUxPYVZ2ZHRtTE1QMUNNWlFod0xjaWxHaktacl9CYWJvZjhobXdWWmZqcmUyTnVGRmlmSjF2RGljRkx6RExDZlVtWmpqUlE1OUNZYXUxYTZkWUc0OHJtaWw3WTJQN3BqOTJ6UnpXZDBieUJ6Q1VodmVoTEQ5dlNxUlNFaUdRdm1sZzh3d0kzeGJhMjlNRlozeDFkQnYxOW5QN0JJY244U3NVNjZUQQ?oc=5",
+     "title": "Ukraine: 13 killed in Russian drone strike on crowded Dnipro train station"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Israel piles pressure on Arab parties as Netanyahu seeks government",
+   "summary": "",
+   "scope": "world",
+   "category": "政治",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYWtjV3MydDVOV2xBbWdjN0RNUXBOZVRuWnFNVWtwSFJCdG1zZDU1eVpJbFJUdWh5aS0yS2JvT0g0MlpIR0tPOVJWdEJwTHZNcmVyM21DbkdtMEk1TS1MMFBoOWR5RndzWm42UUpxU0syWG9DMERGdllFcFJpMGh1TGhkQnFLQmpINGk1bmJLaHBVMlpnUUl5VzNXQmJXal9FTUdTY2sxdGJGX3hzcmVYenBxZ1NLUWotSm81M2VUSDFFV0NjNzZXWmNaOA?oc=5",
+     "title": "Israel piles pressure on Arab parties as Netanyahu seeks government"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sT29xaTR0Y1ZvbTY4WDBUbno3THNGdnJYcVZ4azNCZWZmMmsyX1pWSkxQemFNbmx1UDBzeTVNV21nNHpUdElRM3M5RVNmNlRGT3UyWHN4M2dPMWM?oc=5",
+     "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdTdkdmZXbFBHWno1WERBemlBX0tpX0lLaDlVUExXWGh6ZjlWSzBZYWYwc3RZTG1vb0ptREw5Nk8tcDFLVGJ0UmU0MzBEVW9hRnFHRWZiOU5SakNDQjEwYUp0aVFZcjc2clhraFNSZ09iLW5Md3V6MkpaSXZBcnoxdUJOVVZBLTJoQThnc0RvZkVEdFZ6WEJlakNwQXlFak5peWhfQ2h6dFdoV2traHgtZU1FN253Z0l0LU9V?oc=5",
+     "title": "Netanyahu, at risk of losing power, steps up attacks on Israel's Arab parties"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSXZIakRIUU5rQjhOOWVXcTJkMmliUDlhYkdpbmx2TEtoZ0FBOW1yV01ram9RSmJTUmhzQ25ldkM4R1VVcjh0UElrMmd6WTUzZURSYVpBOVlPZTlXRUo1b09jUDNQRlo2enBZd3A3cVh1QTVFdVdFbjJIOVdSRWJkV05uX0RZcTRTVW5jSmRDQ2VSTUxGUmhFX0ZFRjFsSFVCX1BkZzNSeUlLT1NuVUtpbkduU2tET2xoTnBQdmxzb3dxUQ?oc=5",
+     "title": "Netanyahu accused of smearing Arab voters to hold on to power"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbmFRNG4wNjNkdXZVcjBieTA4NTVhYmk2amtEM2dMTjl0UnhRU2lmWXRJQnJIMGxJMnFvRk53bzQyU2YzcmRMMXlRUDBVcUV6M1FaS09WbFJfVkdmT3VkSWxKbzR0UXZCa09vYURCVVc3X0p0cktBenBHUmw0OWgzRmZ2NGgtc1psQWVXTVFySUxMTWE5UzNld05SSHVsSmpMcGhmMW5yYk04d3RjazJ3YXVzQmRENlZVeXhIei1jZjVRTWgzWUFwU0o4eHhlYjVDN1hBX2Q3a0RyaWwtRm9BZXJpNkNwWnZTOVZ6ZTd30gHuAUFVX3lxTFB2NGxNV0h1bDJQbnc5b0xXQTRzclJ3Y09FdzdoOC1EWGViTmNFLXZOQTlkVjVVZmVzVmNsTU12cHVLVjhFUGhwWUhtMGFmWlZQS3VlMzM2OE8xcVRLWThsLS1Xbm82ZmItY3JkRGlUR25BMXlOa2gzeVlmNmE2TFltWjc0MDZFNElIT0JjYlVFM1JZd1ktbGxWVHNQeTFsbHp2MTBTRDVuNnVEU0lFY29oNy1tN0Vzd0tTSENZUTBQb25VSUhmbkp3VnJoU3VXN1BNQlVnM20zSWpGdnlfTE5rXzZWM283eEVnQ2xtb3c?oc=5",
+     "title": "What would a new Israeli government mean for Israel's Arab neighbors?"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Binance says crypto worth $6.3bn impacted in suspected hack",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ocUpaWWozVHpsR0I5N0xtb0dNdlFJUWRiWWJYN2xoY2NOS3E0MzJxdFpMS29xU20yd3Mtc0c2dmtfU1FTa3BBZF8zY3BvYndzRnBnY3NXSEl3d0U?oc=5",
+     "title": "Binance says crypto worth $6.3bn impacted in suspected hack"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT3g4aktSMUNOUXJpZ0NMa2hicVFaR28zZjd6NWF5Qkp5U1RfbURlMWRoc2oxa2wzb24yNUowQWNSSmhsanVLWUFfdUJYalF6b2l5eHFTSzctV0VPQlE0UEpBZm9BdkpJSFo5OTdXWDJINE1JWXVILUhvYk1JVlpKVzFvTGJTYzJGSlQ4VXB2ZnRnNHFORmRDTmdtOG1kam9wNTh3TWYyX1VFVmp4bzMxQ096eUdCTzNIRkVHNDZZelNjWkhpVWlV?oc=5",
+     "title": "Binance's possible hack triggers $3 billion freeze in crypto assets"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWmNFOVU3dkJheHFpZnlQZ0d2RVd2dDZFdjBlVldUczQteU5yUUlIeldzeVR6d2lJem9aWkh6RV94Uko1cXpZS2RhV2FGR2E2djNHZGJaNG5BOTFvSnZkLWp5c2tSanlNalhnaTJ6RFlxVWNNMHo1NnpzNGVQWHdJZkw0ZkxkWUNQdnRnZGU1Y1JCQ3NuRGc?oc=5",
+     "title": "Binance flags ‘potential security issue,’ says crypto firms froze more than $2.5 billion"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV216Qnk2UDczWWhHSjJjNGNZTUZDRERpd3lWaTBrTWpTZ0lRUDZpbzdqdndCS0dOUk50YVk0dU9RVWo3QlZrWmxQY1hnMVJuVnNrUlRXbTVoNl9TX0ZOdW1paTBNVk1HUVB1SFNXakFrb29wRUpOLUJkRi11eDR1MkpKdGQzQkFIbGw0bzE1OA?oc=5",
+     "title": "Crypto platform Binance confirms major hack, more than US$2.5 billion frozen"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWN2c3ZkZWFYdzZaTS0tZTFQTDJVQVZTazhTakl5LXRZalQ5WjRUVkZXWGxXR2VCcEJGV3E4N3JkNjlPOTRBZUJKMHY3TC1tRElPTHItaEprTDFHMDlOYlcwblB0cVlCZkJFSVoxLW9aVWZRclRQRFVCWkpBRnA3RHRFRQ?oc=5",
+     "title": "Crypto firms freeze more than $3bn in funds as Binance investigates potential hack"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Heavy rain causes Kulai road to collapse",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQenJ5TWhXeUlVVHZIejVwT0lMdWxsdnZiOVdOd1psX2xPb3g1dUJmMkY4MDBmS1o3bzRSUVNoREpWTHowT29mMUJVSFNyNzFXWVdZa2FDQWxOY2VyRVVCeXY4OUVEcTQ5TWFUVjdkYndrR1dCSFRydU9PU0RPMDJWdFRKS29UMEdTakF5dFlqTTVwaDN3RkhhS2Fham9ZUEVDQjZaYUZ6NkdhbFVQR3BtQ1JlRTZMeVF3NDI3dWhKLWo1WE16X0p3?oc=5",
+     "title": "Heavy rain causes Kulai road to collapse"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jMFZPTUtYd29waWVwbktzelNGcjFqblphUlVRXzJNSDNDLXo1eUROT1RLXzlzNThDZnpBd3VlWkl5OVVqdWl5VUdzNjRGT0laQUh0RGxBelp1V1E?oc=5",
+     "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU0pHWVhjblZXaTJXc2w5eDMzRl9YTDhfeF9oYnlPbnZwUkF3ejlQRENoREhkNGlaelVCN2hKRm5YTTRTRkZoRXFzQkpEcUVqdXR2SWdCUGp5U0ozdjRHMk16Y203X1AyZC1fMEZ6eHp6eUJOWk50UEdPQXNzQlpLZDZZNlJVcEJIclhGWXFHTTRlMnEyQjZtdno4aXlfY2piRkE1akxR0gGrAUFVX3lxTE16REJzd0RoSF9mbUdEc2dmMi1EZUJyX0oxaGdZUV9kdUlGcFByRWpKNm4zRUpMU1YzYUpuZU1GNmFfMG1LQ0FCMFlDVlBtR0U4QUw5ckd4SGRpaUIycWFTX2FEQjFRbUtuYjNfTFp6LW5tY3lrZzRBTGVONktfT1hZdWMxdjZJYVNOT08zcXowT3lWTzNaYm5uUzMzRlprR28zWGNXOGFIMVc3QQ?oc=5",
+     "title": "Deadly rock collapse at famous Turkiye tourist site"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONjZRaEJ1aEFmU3RmOExoN2k0clJxX1JrMmswcDRNYjV4T3c4dWE0M2xyWmxjNWY2aHI0akd3cnBjcU4tR2cwRnVNUzFNc3R0ZlBOTEE0Rk5SeVJRZC1zbTFrRUVTV043dnR1VUc2ZzEtQmFQNFpQYWpFdTlhWUthLVlFZXBmanRYZjdYM2ZqZDI5Y3E2SG1fLQ?oc=5",
+     "title": "Three dead in rock spire collapse at Türkiye's touristic Cappadocia"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Nasdaq falls as Alphabet set for record loss amid AI spending woes",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MR2JqZmVQc2RoWUt1dGozVHhDWjdFdmd4UmR2X05VUGNWX3U1Z3lSNncta01mcHZLVHhDUDFNSGN2V0xUblJPXzBWMEQwbHgx?oc=5",
+     "title": "Nasdaq falls as Alphabet set for record loss amid AI spending woes"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tUjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA?oc=5",
+     "title": "Wall Street ends lower as Alphabet revenue miss revives AI capex jitters"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSWE2NlZVNmVDNUoyd0IzVGhKeDFtWFV0VEYwdU0xeWNGdk1mdGdCZFI1OTM2aE5fbTh1Rk55S3lubUdIMkc1UVY3d2xsUm9IOHZJdFNFSmlKSkVZdFNOTERLbzlTN2VjSEUxZnZleElyQ1Z5WHRQNl9KY25xZjVhQ0s3YWtyTDNUQWFQQWlB?oc=5",
+     "title": "A historic drop for Alphabet’s stock drags the US market lower"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWTFOMFVqdmQzSXdUaHNTMFdqeHVySGNnQnZseVZDT0JROVZJUXNWdjRDMGc4YW1jRlg0M0FFdWNZNzFnZTZFTFNWWVY3ZVFhd0JTSXF3WktUTG5HZDlYS1FVNXdXbzRDT3ZCWmdyTlhmQzBWQmJfLTFFQjV3Ymd0RzBuODQ4Q0RkREJSU2xUdlVKMVVKeFdJVkctWjQ4aXE5anVUZUstSVh2MHhYQ3hrbGdaamNkcTdq?oc=5",
+     "title": "Asian shares fall as Alphabet earnings miss drags Wall St futures lower"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Spanish train crash death toll rises to 69 in grim search for victims",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYm9UODU2NnZwekhXd0lSNnVsalJxQmNPbllDOEJBdllTdUwyTFFwY2NIb0F5YXBfWWgzVmxLUUNIV2JnTXgyY2tZNEZGUy1pVTRxT2ozdGFJMXFSck40ZFhKNC1LRXBMQ0ZXd2NHbWg0bk1FT1IwM3oyNHVMbTZJTnB0SjBaeTFwLW1ncFVzUElyWFpVeG5BQ0E4b3g5Sk5wY1BiME5FUGVHN0ZPNWpZQ3lRWGVwUQ?oc=5",
+     "title": "Spanish train crash death toll rises to 69 in grim search for victims"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM3cyY0JOZk1wOFIweEQxeWhnbFdfOFZmNDdwX2d4YkhLZUwwUUFMWnNyRWR5d1BEU3FFQ3RyT3ZlVVhrQmpQLTFoalZJVm91VlgzUXJiSW9ZQUcwd2w2bk9Hc2NoUElRTEloZU9tbjY3WHBhdzV0VDkwbUhqM21FU1NQVWlId3EzZTlmR1Z0dFo5aGptc0Q2ZGVvQ2U2N2p4d0xtcllUNDFSeUE1SldfNjFR0gG3AUFVX3lxTFBVZ1lKT21hQmZnUjJHZlRfYzVEaFI0ZTVxRHRDLWlxcUFXUy1tUUNhYmdKWFEyOXRUbUVzM0NqS2lLUFY3eFVqbEtvQXJxajUzNjJIQkVPWk5oTFgwdVc1YkVyY01MUURSRWhvYS1aRjI2dzgzT0l4WkUtSzVSdm91Vm90U25XZUZJbHA5R2QtTThQcjdKY0pQMDhmNDlHQklWb3Ntdm9ZSGdLenFfa3ZlcjNxT0k0TQ?oc=5",
+     "title": "‘I held this woman in my arms. She died’: Spain mourns train crash victims"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZEcxSmMxR0cxZjVYbEpQeEVPWEQ2QWJJcEYwdjJ2VUxydk94aEdsWTVzb2dzQzVzelE2b0JGY3BacXB5YWk5UlliNEd1Y0hsajQ5LUk1aG0tZUxINnJtVFB5UDctNDN1c2JQYmd2bmVMRU1xVWJkc0p1UVVWQzEzOE44dG1NSTJMOE9xT3FuRQ?oc=5",
+     "title": "Spain begins mourning period as search continues for train crash victims"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNnFjOTdibkQxVHVraUI0WlZ1dHdHdUtmRi1ST19aaDBOVDZlSllEU19CSFF1NXhXQUYwejhPVWRtRl9ua1BVd2R3SzV3WE1ydDVRWG5CNjAwT0djYTcyZ1VCVGliZWZwVGxzVmd4VVpSS3RxZ3M1cXQtZ3V1XzlxU2xYU29LbjYtM29qWkFRU1paN3RacTE2RjFRYjBJajEtOGt5RDdGWUNxbTRaMDBOd1ZxMVnSAbQBQVVfeXFMTTJrLThLaVpsWEpYd0NQeDRQTktJWGJMUHluNUVmalNWY1B0Z09XbWhpb245RWdpUGcyNG1kd3UxSzU3MlpIRlVpaEFBN19iMjk3VkVrZWJCM0Z5dnROWjVDZDhkdFM0cUkzYjBqSUV5ZnhqY095NjBYYmFuY09JTXNzN2xxVGNEdkhiSWVlSDBnZ1Vvc2dYNFZ6LWQ2TXdSemZpWGZmdkxSVV9Yc3FpcEJUc0Mt?oc=5",
+     "title": "Spain train crash: PM Sanchez calls for investigation as 3 days of mourning begins"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Malaysia Youth Parliament Elections Set For Nov 1-2",
+   "summary": "",
+   "scope": "world",
+   "category": "政治",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uUW1YWDJXNWVSS0JfbHFZcDVCRmpobGRWMjlTWVE1Ym9LRFQtQmlfUHN1SjBaUGtOV1BSNmpRSWpnUTJpQ2tvUldWdFZJelR0SEYyTENaT0otTUtZNnoydWdSak1UTEE?oc=5",
+     "title": "Malaysia Youth Parliament Elections Set For Nov 1-2"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQenB4VWVKOE16QkEtX1I0aXRqV1pyZWZfOHJnTmUtM3FiWmlsektVX0JfYURyQnR1RWRCd2l6UlNhbnY2azd4SURTdG5OTFJncDRYMWtwaEhZNmowRW1sRnpwMExqMHRqaXEzUzh2VXl1MGUxQ1o4a28wckQyWUNTSzhYeUwtUVdRRG9YTlVLOA?oc=5",
+     "title": "No government should fear having opposition in parliament, says former SM Jayakumar"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWExlbU10d2tzdlROdXV4RUV3cmV4OTk5dDh2Tm9ldWZvaXVqNlhRLTJBdTh4RkJwWGxsczczZV90em96Tl9BSG9uSkVNTUV3bDc2ZjJBZ0pSYjZZZHlhYjB5SGk3NWp0dmtUa19GN0NxU3poTzVjRUNUaTh5U1JwSnBPRDdiMFB3TXdMNi15REJVUkRtbjhDNjMyaU83cjRodW4zNTlR?oc=5",
+     "title": "Female Lib Dem MP accuses Nigel Farage of shoving her in parliament"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Wang Fuk Court: Hong Kong leader John Lee apologises for deadly high-rise fire at Tai Po",
+   "summary": "",
+   "scope": "world",
+   "category": "司法",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByYkM4MkxUZmwxYVY1d0E4YTVOWEFiZDVjaExTYl9ndjg2Z1dRWkRGa3pyd2Q2cFd3Z25kRFlXLWVwU1hxX0kyanR5S2Y0SDVlWjRyUEJMZHpWV0E?oc=5",
+     "title": "Wang Fuk Court: Hong Kong leader John Lee apologises for deadly high-rise fire at Tai Po"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMG5CSk5rbFRVazFYVEpXdWU2cTE2R2h4OFZaZUI5VU81Y3JFQzVPenJybnhDeUlNWGNuSl9MdVlSbmU4bXRYaVB1aTZyLWliQTBCaE5ka0F2elN1XzllVVZRSGFXUnJOdXlqTkRFVUhGSWNfTGJ5N0VpdUpQQlBqQXZUU3BJY0dMYTd3Yk9YN1UxZ1lmV1hoejNn?oc=5",
+     "title": "Hong Kong leader apologises for deadly Tai Po fire, pledges reform"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX0l4eXpuOHU1ei04WHBBWXVyQ2NDaGxFS0xjSWNZXzF6U2pGOGtrM0Q2WHpBTFZ5Y1ZtVWhuSTZMZkRpd2FGcUpEdnBsVlpvMzAxY2JXVld3Z0hjM3ZKc1pPVURyTXBmaUk1MFQyZ05SOTdwWS1Oc2x2bVB3RlQ2bS14dVdGWFQ5NHVxMUZ5bXZ6WmlRSFFkNUVjbVNVSllucVpvdXBR?oc=5",
+     "title": "Hong Kong teen jailed for 8 years for acid attack on Singaporean tourist"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44SzJwQ0N3SEQxUmZkNS1WRE5jU1pNekZpanVwZkk3dWY4RHpzU1RvUThKU1dYQmtJYlFjbkFRVkZtZ0hHTW90LUhCcGxLSGhrR20yTTN2OEpEekU?oc=5",
+     "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPblFZUFd0QWlTQ1ItUmJ6cXJKck9UdTE5X2JXMWJxUHY5Qk9MTWt2eGV1NGtaSFlwV2FyMTk0cmZoMWtBOGtqcmFidm56TGhBYjl5U3J0NnNWZ3hhb1ZJQUM2YU9OVkZ3R1FFWmR0OVRpUE1VOG5OYklNcllPWGRTNWRUWW0xSVBpcEVfYXhkUm10VVhZT082NTBXWTBNbFlsZ3VsdA?oc=5",
+     "title": "China's Communist Party confirms expulsion of 33 officials"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMnhlVUFQNHZ4NmM0a1NrZmNRQ2lQa3pDMmNMQXBPeFBiSWx0eVFRcW5HX2w0MEZHUTViVlFEZVV2SW9UT1IwTnQ3aTBPbUZadnVOeXRhdXBRX2NUTU1QSHlCV0NIb0hCLWhRSlZwb2pwalZiOUZhSTQ0SG51MWZZNW5ZQ2o3WVpKWVcwZ040V3RVRERxcUFFTVRn?oc=5",
+     "title": "China adopts measures to tighten discipline in Communist Party"
+    }
+   ],
+   "new": true
+  }
+ ]
+}

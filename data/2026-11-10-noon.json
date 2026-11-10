@@ -1,0 +1,564 @@
+{
+ "name": "2026-11-10-noon",
+ "kind": "daily",
+ "slot": "noon",
+ "time": "2026-11-10T12:24:41.240988+08:00",
+ "items": [
+  {
+   "title": "Najib's lawyers: Why is A-G 'moving goalposts' over house arrest issue? [WATCH]",
+   "summary": "",
+   "scope": "my",
+   "category": "司法",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOempnVEt2Q3RiUWJXeWNsbTVhMnhUbExZYll3N1p2ZzV1RTdaalliYnc2cGZJemgxVlFQakstNXNEZWEtQVJ2am5OSmJtSDhiMEdadkZpczdZUElIdzZpMDFjLW5WUHotcDlHWG5OSEFROVFJYk1iUGhJVWRxYkMyNXY0Rm1zWWxKYlpWYU0tVU44UVpTakRVWEYzMG5PcnhHdDBHN3hGUVVna3lUWWhBSklJT0dRN203VVHSAb8BQVVfeXFMTmZyU2ttMFF1bmloY0kzN2RjenczWVpSTTlYcEZGZkhXLTlHSHVYMGljbnduY05ndWRLOW5jeDc2ZUVKaGVVMVdBRVVQWXlWbVVRQVEtSUoxV0ptbDhob01QWjJ1VlFUUmxEeDVULXU1LTd1MHdrdWxvS3RsOERONFNuN3Z3RTJ2Wkt1M1JhdGR6RUJaWWwySUY0S05fU21NOEhBNnBqbFViVkNHU2xxUG92TUwyUHdZbzVLa2M2RTg?oc=5",
+     "title": "Najib's lawyers: Why is A-G 'moving goalposts' over house arrest issue? [WATCH]"
+    },
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQXZudWJaTnZrdWRQU01XYmRLdXZBNmtLclV3YkllWG1ES2ZQNURFWVJJYWZReFNJQlU2aTJwcnA2c0xpbXhscm9kUGpDY2hUTkRxT2xpcGhTUllGV3F3UjRKOXdqa1puSXJGcVBZaXZqVWxpb0laRnFEZWJYMFBjdElvQXNmV3RFSnJZQ0dUMk1YT0tGMi05N3JDNHBGZ3h6R2tlejR1dlhRSkhVQ2RTSGh3OE5KTkJhUmNucDJkb3JMU2hBd0YxZ21FcWd0Z0Z1eGVhNVlCblh0Y3Fm?oc=5",
+     "title": "Najib house arrest could raise wrongful detention issue, to be brought to courts, says Saifuddin"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoVVU5V1I5OURMQ2RnR1lQbjFERFRSZVNDSFdNRjJNOERfYW92WVVNVzBZVThyMU9SMnNWZXZYRldHMmwyUW81aGZLYVhNQmlWX3NjSjFVUVJyT2tUZFJsN193?oc=5",
+     "title": "AGC accused of changing its tune over Najib’s house arrest"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM25CaXhydmgxbW5YbzZRV0x3MTNfcnQ2NFlDazR5YWFwMjlSOHB1aDVyX1JBNXVIRFRUbTBTa0QzRE43QlhfWGsxVzRLS1BHU3B3OWpCbUptT3ZwLUpvMXBSamYxSFBTMHpxOW9pV0IyQ0lmM2Z0NldLRXZrYkg2djhMZE9aNWVJOFJWNklDdFpVLWJaTHZWa2VXVFoxS2I3VVd1MdIBqgFBVV95cUxPcVI1dmNtMFZhRVdZZ3FVbVdmZTJKOWttR1kxNmI4QkR2TG90Z19NMF95cS13aTNHV0gwVVpDVWtfTjlPSmRyRXNnQ2gwdmpVcW04Y1F3bjRvN3I1RHR2a0poenNOc1VmcFVoOFpNZmFpV1VzaGhMMnJQT01aRV9tRDBmbEdLYU9qUEVVVHhobEN6clNaMGtTTS16ZFMwUkg5UWVmT1hjNWt6UQ?oc=5",
+     "title": "Will Najib Razak be transferred to house arrest?"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Insiden kepala air Sungai Pertak: 8 mangsa dibawa arus, 9 lagi terkandas",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZy02LURDUlVhcW50Q0t0RDN5S21mV08wdUJXODNZTk5WUnQ3Q0xDcW8tTEJ4OWdvOTZ5MUgxMlZBeXdsanVxOURrVHJoQTRuS2JuVW1xSThUZGNPSWZCR1o3R3I0UzhIWHNkVmFMd2ZsaFRud3VFckVZWTZ2d0YyclQxSkgwLVFjWWJsN2NjbXozY3lCamRXNHV5MFdna3VXZ0tMeWFPVUxYV2laVnZvQ0F1aHZmYjFsQUVj0gHAAUFVX3lxTE95SGtmVjE0SUFZdGMwbjdCOTlZeG1tOS1LN0NBQjFESmtqUG1ybkNEeEtKSXNnY0VYbENYZURJYVN0TWRKeUtVQmNfcURmRnhsaU9ZWFdrN2VaUVBTd3doUnFCT2JiRjdnR280WWg3LTQzLUhudWFMVS01Z3QtT2tkYndFUzAzeGlVSnlMMmxvUXNCOHk4ODhuTGdHelphNzdmbWpucDI3YVNGMGhJLUdlaEFMVFNnZkNuOWxraE9xMw?oc=5",
+     "title": "Insiden kepala air Sungai Pertak: 8 mangsa dibawa arus, 9 lagi terkandas"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSzNQcmtuenMxUVdsdmQxT2pTcHFySnI0WHZUQzN4eWNRbUQzSGlvSEtfejdLYTMxTnp2eWYxMTR1MVFuTEJ4N0NuOEZyZWd0bmYweUhIdGZMLXhTcmhabjUyZlo0NkZCQ2Zkbm1PdmQyeDVONHJUZG5nZUx4bHgzaEkwVEYtUHU2bVZCdUtxalFZN211c1ZRd052cWRtT0pQNWR5UDdSZWEtRlU1VFVyTlprb01iaTV4ZVNDUGk0bzN4UQ?oc=5",
+     "title": "Insiden kepala air Sungai Pertak: Lapan mangsa dibawa arus, sembilan lagi terkandas"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbk5mUTVfaDY2TEJnbUNaTjJwN0FjOXB6XzhGY3AyaHZMSVRVMm1FanMxX0RLaGJLWHFKWklxWTFpQURTZFZYVVlMS3FsVnh4QVBZMHFycHpEejVWdXFkOG94dFVZZzZOSmRUOGdFc3ZFYmFSOVBUZlpLNFR4Ti1aOE1ncVNxXzRsWEEwMGc4SVNDSGhOWTVIaWdieVNJek5Vc1hGbjFB?oc=5",
+     "title": "Anggota pemisah penggal kepala mangsa maut ditembak di Yala"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "PN tetap ambil tindakan terhadap BERSATU selepas PRN Melaka - Takiyuddin",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeG9BUGxKVC1ycEpRNjA4WHBRZG1GMDJwX1lQVnczcWpxNXFyRU9Cb1phNU5QSlJBOGJVOWZyN3hiLWhjUjlHOFJaSmpIdjdYZExTWFhzRW9WSU5vQmRzaFc3cEtoSGdXMm1fRl9zNGNjTkZEOGhsenJ5Qnc4SGlSZGkxamdlbzNlY2hEVm9Qa0JaWUsxM0NqNlU2YWRKbDhoR0NyaTF5cFZMUFRtaWRxMWdCTTRxdk5Md1HSAb8BQVVfeXFMTzVVbWFjYlNCdkhNQWtnUmhNV3dVc1FjTjNpYkpNQWMzUUpodXpsN3FUMWQxbkIwN2pzbzhIR0hGOHNFZDAybDdpOEx5MlVvQkhocVpHQTI4ajQzMlNFbmxRbDBUclhUTUVxM2FCeDZXY3BJdTRUb3RxMkl2ZWVlR0FUMTNJUExZb1NJaUYtbGJYb2JZS2liRFNuTDdTZkxlM3hJVlVkX2U3YlpnTExZNjZpRVBqWmdhb0Q1Mm5GWm8?oc=5",
+     "title": "PN tetap ambil tindakan terhadap BERSATU selepas PRN Melaka - Takiyuddin"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1QlJENGtTSlRCWGpHSTlORlhPQlg5WlZMNHAyRHlmRDZJeFFzcDZGNlZoTU8yMUtDT2ZNcVVDcEVZT09sUU5VY1lHak11SzJPSHJkTzFjemE3X25wN3puUm5R?oc=5",
+     "title": "KDN berhati-hati kemungkinan ‘tahanan salah’ terhadap Najib"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWTRWYkg4TFgtZ0R3MDYxMUM0RHNIeUNvOEs3VnF0VVdnZnFUTnJ5ZFg2UGMxdjBvQlJ2MWgyOGpKbmpZbEZ6Qjc2ekpDcmpsZXVLeWdqOU8zLUxZMlNpdmpXbnNveEp3R2EzRjlXOTE3Z0NIYXRTZHJ0a01oM0RSM2NpRkQ?oc=5",
+     "title": "Israel dakwa misi terhadap Iran belum selesai"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "'AGC ada merit, tak persoal prerogatif Agong' - Ramkarpal",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZm5qQnhlOWxCcHdxMDFUZVBNbElTUUQteFl3dHZVWGZ0clRCRDVyWU1rYWcteXpILXY5ejN6M2tfUkZ2Mlo5R2RCbFB0NS1RLXJ6WkoweUt6dWtjSGgxQ0h1Ykl6RERZR09LRk8xUjg0TFZEV0VORUFidFZqTDRyTzFycDhZZFhqNVFLU1J1bmtFRnNTSFQtZGdzNFk4Wm5SN09ocUk4dW4xWXhoUTBmUNIBtgFBVV95cUxNQS1SdExycDNfZkZSU2toT005MGUyakxpWGVZSnZXelIxUk10SHNfbkFVMnQyMmxBTkRmcUtBZkpHOEJYU3Y4ZWtwbXlJX2tjMndNRDNyVFNxanFSZFZLMVVKMTVfY3FkY2xxMURYeXd5TlJPV1N4c0M5cmhsV3dlN2NPdS16OFo3OU05czlEdEtTczk1VEdnVnlyblRjQ0hSU3JNSG0wREl2UEtCaUo5cFlHSG1odw?oc=5",
+     "title": "'AGC ada merit, tak persoal prerogatif Agong' - Ramkarpal"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fSE91UlZaaDlRWXMtMHRHWFNyN1NBNGVTSjZKM2w2c244T3NkZWltOTM1LUc5dHE2dlRXNVRmY1djWllXY2R4dTFfaHVfR3ltZ2NiR19jSU1ZZ2dYcklVMEtR?oc=5",
+     "title": "Perintah pelepasan Najib AGC bukan persoal pengampunan Agong, kata Ramkarpal"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRXNGV1lHdldRdE5BMTQ0eDJKOEJDT1gtLTJvNVJ3d2t6dVIxd2k4ZXd6WTVickhYVmJ2Qkt3SFhtMm9SWDNuN0U4SFhKaF9vUGlSN3UyRWlFS1JHeGw4M25MUE5tazBVWnZwWXQ3eUxYM1Q5d2t3X05KLV82bndUQkdNVGhqNWltWkdwNFh5WUhIVHJnd1lIYlRaLV81SjVxcjdrV0toTE9YeHZUbWZpandhU0d6MGxwZllmWDRKbC1iYnB5WHc?oc=5",
+     "title": "Penelitian perintah pelepasan Najib penting untuk pastikan autoriti Jabatan Penjara"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Indian capital chokes with pollution after Diwali fireworks [WATCH]",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMVZuNFBmRHpqMFlvWFg1dzQySHNlVVYydzEwS2VKaXp1STdYMVZZeDF1UnBNcnpyTVFuOEg1OWQ4NEZOV3AxZjlzYnpScnFOb1pZRUNLbmJQSi1HTXVDODJlLWhfdnEzTG9FWnJJbkdrRkZUejZ4VS0tZlAxOTcxWGpIYUhxUXBGNGkzVnBBMWx1dVZLNGNWUnQ3bko4VkZOTzg1ZlJaeHRxQUxBdDZlVlJ1bWQwQdIBtgFBVV95cUxQMVZuNFBmRHpqMFlvWFg1dzQySHNlVVYydzEwS2VKaXp1STdYMVZZeDF1UnBNcnpyTVFuOEg1OWQ4NEZOV3AxZjlzYnpScnFOb1pZRUNLbmJQSi1HTXVDODJlLWhfdnEzTG9FWnJJbkdrRkZUejZ4VS0tZlAxOTcxWGpIYUhxUXBGNGkzVnBBMWx1dVZLNGNWUnQ3bko4VkZOTzg1ZlJaeHRxQUxBdDZlVlJ1bWQwQQ?oc=5",
+     "title": "Indian capital chokes with pollution after Diwali fireworks [WATCH]"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdUlaWVNhamgwb2JkS2dvYWtnS280Z1F2UWtzRk9za28tN3VtUkl2Y0g1a2x2U2ZLU09jN0V6QVdBU000NHhMdjdtdWxCLVpaUVU1MllMZHpKU0dscURGM3ZFVEczR2U4dXUyelVfZW5JNkJMNFhtQ1lFU2hzX0Nxa0Z4T2V0Q1pTdU5yU2IwWloweG1SOFVTenZPdUNNMFMxYnQ0LW1nVHpGT0dNUGJJS0ZCSXdkOHphbzNR?oc=5",
+     "title": "Indian capital chokes with pollution after Diwali fireworks"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd1RoZzYtanI3OGY1WmFGckthSVVYN18ydFkxd05YVUhINHFKbGltZEJKaG5PRXY5b3ZSWUtXdDRLQXhJSmNoZ0FPQnRvUWlLMm0tVjI4YzFpR3F2T0gyRnhGNE82X01TZVFlSjlTQWZWbzNOcUF4MS1BcGZvNXZoV21SaWYyRk13bmNBUWMwUENvSDNFMHJJcVln?oc=5",
+     "title": "Indian capital New Delhi chokes with pollution after Deepavali fireworks"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Crude futures settle lower",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd3plOG1nNS1SNGc3S2xLRzZTei05dzh2TUhUMzhmcmtpVklPQ04ySnFYUzhxR0dtbmlIc0taSTZHRTR6Z0xXT3NaSkMtWlBGOGdteC1wQzZUaTM4OFh5WW5EZDBXeTNIbTdMVTZsOXM4QjJYV2h4Y2V6YWZzdzgwQQ?oc=5",
+     "title": "Crude futures settle lower"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rVkxQcUlWaG5Dd0hfc2I2cVdvNVFNRFBBdnNnRUU2WXhMTXNRSVp2cjZEUEZJZmxIRVBzYjRrOUtaTGpWSUdVT1BpeDg0Z0JnR3g4SE5FWUtGd3BUZzVUaEhEYw?oc=5",
+     "title": "KLCI Futures Lower In Early Trade"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vbFZDRm1jdjZ1Zmo3M1I1SzhxRGZoejFsdjNpV3drblNQSEFUdXdRMl9iMWdhOTItQUgwNFNDME5ZR1IyMWNpSDVTNmdRaEFC?oc=5",
+     "title": "Wall St futures rise after rough week, but Nvidia unsettles investors"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Top News Headlines In Indonesia, Philippines, Singapore & Thailand : Nov 10, 2026",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EUkNNbUFOV3lHVzJjakxJV280VUpUWUtZbTVsN0VNSjBpLUFCWGU1YVhuZ0VveHpEZnBJazVsRFVyWGZRZzY2ZGJJMUszb0JxNlR4cnF2YjFLZDBjZ3JxaW5R?oc=5",
+     "title": "Top News Headlines In Indonesia, Philippines, Singapore & Thailand : Nov 10, 2026"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsaU8tNEZ4b2Nva3BYaDhvQU5CY2FjLUNYWDd2LVNydU01c3ZJVVVQY3RYdzR4SjFkSXBLSFV5aS1mZjFjazFsejFfdy1vVkNXdVV6ZEpKcDlMMVdfQ1ExNG02WXd5ZmViaC1yV1UwMGFab1E?oc=5",
+     "title": "Tumpuan Selasa – 10 November 2026"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zQVZOOU9ZWTZkM3ZBTXNCN0lob2dZSUFyaHY2OGZFMHVLREt5OXh4Y3RhWmdSUjNFa0c0T3p4SzVIU0FDSUJVSnhSbF9qZm1H?oc=5",
+     "title": "YOUR DAY AHEAD: Nov 10, 2026"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Has the Bursa Malaysia Quality 50 Index passed its first real test?",
+   "summary": "",
+   "scope": "my",
+   "category": "经济",
+   "importance": 3,
+   "owners": 3,
+   "work": true,
+   "links": [
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55TUlLMFFyeUl2SDd0TzZQWldaUGt2cDIxNWFlOVc5ZGRuX0VsR2J3RjNudmthLXFQNE1STTVzRk1vUXZpTTVoTGlzWHdoRXBC?oc=5",
+     "title": "Has the Bursa Malaysia Quality 50 Index passed its first real test?"
+    },
+    {
+     "source": "国家银行",
+     "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOdHBnUkQwX2hjdDBhZEpac1EyNGdNajRSX3Z6MGlGV2twNEdjcnU4MmpfeGhpTG1zVFNCQk1XQXlUQkNWRGZOelBRWm9PMDcxNWloRlNzV2hsYTY0bmRKc1JoWk84YkJVTVVxa3hQZ2hJTlZILUNTc3pteWhMMlpEM3JKc1dqR0trSXNWQnBSa0VMZXJxOElubHlCaThzSE9XMVZmWkJaMWYwVmhVdUdIeFRLR2xDZjhGTGQ2c0J4ZFg1MURxS01XbDhkd0J4R3d6Q0pSMGJVVHNsYXpTbHNDSHBDellhTTl4ajc1ZDNfMWtvbEZfVktVR0Jac2lmemk4bFBMendnQ2dGOFdJUlpXTEg3UUcxaEE4WnI1NmdScUtCdVBvSmg3djBTcENfMEZKc0dMNWtycHhLOUdSczhPY09xOThZalFkcElRcS1lY3drWDNSMDZvZzlvVWtYR01FNnRhOU4yZ2FFUQ?oc=5",
+     "title": "- Bank Negara Malaysia"
+    },
+    {
+     "source": "大马交易所",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcXdkN0R2THktVFM0ckRfX0FsYXVWT2FSSm1qdFNIOHROYmJsVE1rYkJKSEQ3bEg0RWo5bmhnWU5BV1g0T3VjaVQ5RW9TemJSdnpzcEdfVW9CZHdYUGZOQnM1dV9lRC1SZ0hFZEFYd3lmanI4NGgyMFQ4UmhmT2VKRlFNNWNrREhfR29wU21iZjQtM2lSZ2lINkZOMHBnWEpUQmNISUxueUtWbm5SV2ppUllwY0VueHNCajlJ?oc=5",
+     "title": "prospectus - Bursa Malaysia"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Who is Alice Huang, the Singapore-based Chinese exec accused of spying on Nvidia CEO?",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 6,
+   "owners": 6,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNa19lbmZyU1A2ZWNHamt2TzJLbWxJSEJmdG13RjRPWHZBelBpRHlZU3JmMWczMmRGWTBvcTlVbk95SVNQLW5oQUhPZ2s4ZFludVFnV2hudlRrbGxZTGphUTNJLWtLMk1FQ1hPRmpiZWs4N1VQamQ5TDlma21PX1FDUk5COGV4SGY0QUpLRGo2V0wzQmR4R0VDbklEZndDMGVQa3lJZWlJODBYXzlDV21RSFJuTE5JZDlfOV9HVzhONTRRMU9DbVk5M09ndFBrdDMxazZQUXBzMWV0TVlSX3BR?oc=5",
+     "title": "Who is Alice Huang, the Singapore-based Chinese exec accused of spying on Nvidia CEO?"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VYUxyVHdHSk13YlNwc0JfajNMejBiRVAwYzJPbGl1cG9fZUlsUFZOSHNhWVJodHBFYTR3dFBraWlUbVd2cTl5Vl81cjhlS21RR1hoM0x4dWI4bk0?oc=5",
+     "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc3pwXzVncjFkZFl3THF5NjBkQmFOMmpMc3RvR2ZmNmw4WnRtTHBhNkQzWlR0eE1yWW84ZnI5ZzlWSWlBRU41RkZUR2hJakpsS29VVHdhS3ZGR2NYdmg0UEtXblA3ajN1dFY2ZEJ1eGQtTG9kRDU4Sl9lcFhIMGpfUFNWYWNSUFJ0UE1SemM0ODhZRF9UUUVQZF9rdjZEMEFKQmh0MEZXdHFMRlhtSlBV?oc=5",
+     "title": "Nvidia, CEO Huang sued over disclosures related to suspected Chinese spy"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUXBYc0VDSWxjUUFNR1drSnAxUFFKMEhMTG9FY09oOVVaQ0lSN1BKU3Fib3hpd2ZPWXNpM1RlQ1dGYmRhRmloZUE0SFA2c0Q3aXRBbjlodW9uUWVhX3dCQzNuLVFlekJJTUk3SzlBLWwxY0V4dk5ocnFleDZRb19qZm9Beng?oc=5",
+     "title": "Who is Alice Huang, Chinese exec accused of spying on Nvidia CEO?"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYWphZ29PZGtSWlZIVHJxZlhzQTVQWkxEaElkZmxwWlY1MXBzOVlYelNfUUVlNHFXM1k5RHI2WFdCUVh0RFJMWHgzZEMwWXdDWXZjd3VlU3RvUVdObDA2Y2lsbUFySUJmdFJYZlo5NkRRd2YwWU5mLWswUFlDX3pNbEl6b1JSbms3cHd2eVVnSlg4dw?oc=5",
+     "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZmxyWWlidXZ1cW5XTjY4OUhVd19IMElmM3hVVzFkM054VmI4c21kMFpxRE9fTGRqNV80aXEteEZhM2NjR05HYXhfZGhmaXpwSEM3alI5U1E2Q21BTDdfRVNyQWpRRGROa2dBdkQtb3NXQ203aTNyQTUxQnBoNHdRbGR6V2tZdlFtRWE2QmotZkowZw?oc=5",
+     "title": "Why Nvidia CEO's affair with alleged Chinese spy matters"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "How is Malaysia linked to Nvidia spy affair scandal?",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 6,
+   "owners": 6,
+   "work": false,
+   "links": [
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ0w4RmhMNkVBVThVajRfbHpYZ3V0cDdoNWhHdmpjT2Q4WlNORG9BWEgzeFRmNWJXTG1UUVlza1p3bk82YTNnYk9aODV4WDF4Mlh2cmpfSDFNQVR3SEVOWTlPRlRBclFyTmdRLXVMX0VGS1BJTW9tSXJkN1g3bVpUalF4TWFQQVZjRHNORnk2aWRKeDRkRGJB?oc=5",
+     "title": "How is Malaysia linked to Nvidia spy affair scandal?"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUzg0SWNIOFJSV3ZySXd6Ml9OWmdJS3ZlbDRMVWFOUVhRa1g5bE91N0VRTkJTQlVpbjhiWXJnSEt0ZlVmM3NVUVFyNk9nV2FVNG9jdXNWUFB5bnpESTd6M1Z4eGJPWGJHZUNYcEdPUDRqaVdXQlRaSjk4NEpHZVRxbkgtYnNTSERpUjJvczFDU0x3WE1CZFB6RG0zRm00SEc3RkRzMGlGend0WjdSenc?oc=5",
+     "title": "What we know about Nvidia's probe into CEO Jensen Huang"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeXdpaDhrWVBiWm9zYjdnNTlEczJPX1g2YzExNUhpVml5WGZldkgtdXhnRWZ5QTVPWkFBLTAydEJ1MVhvNXBQZ0otcmlYNFZMRVY2bC1xb0VfVEFiZG5kUjN0VG1tU2duOWpZUHlfSTJpZEp2cDFqYnFCUGVaWTF5cDVvLVNNVFlqQ3ZSWmNPSXNMZlE?oc=5",
+     "title": "Internal probe into CEO Jensen Huang and 'foreign intelligence' weighs on high-flying Nvidia shares"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVUVYbkdlNjd1NzFzZDJ1SkQ5Q0Q2VHZramo4eFB6cEthRENWdkVzZTdlaTU2MXpQaS1oYU9UM0JtZE9BLU5qcnBvODh4eEx6QWxPYWc4Z2RRUkQwcnZxUVJwM09sWklIX0NNWEpCSGZtQmVsY2kxeHNtZDJQM21ZcXFZalVWNXgtZi1jQ1BOcjV6TDVaWTBCS2hBQldTc21TcW1jVERwczJZNWxj0gGyAUFVX3lxTFBCTzBvdG1Gck1vd2lFSVI3Nml0RmpBSVhuRFNfQ1I2RmFuRXhDRGJ6N3o3S3JUZXM2SjFwei1Sc3o5Mkh5dURXMkRDMzJmdDhuWnVwZld3c0FVSGE1XzZNb3RhcGwyLVVhcWRyeHVZNnV1RmJRLTBwY21CUG04TTNSYU1tbXFKd203UU9iY3AxZkcxSzZCUW04WDFWbFdseUFHTkNWaFlydEVUbkNQS2tXTkE?oc=5",
+     "title": "Why is Nvidia’s Jensen Huang at the centre of a US-China spy scandal?"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSEdXeF8yVEFFcWYyYVIzZXlDR3dXT0FOQ19FQUs3ckx1ZGctUGwwNWhNaHkzTW0zWGlEbVRYWUM5a2lxZlRnMWF4Nk1uTWJMZEx6S21jNWhNVTcyZ1pxTkZqSG5nUDFvNHkySTdhc1Q3aHRmenFMaGUwZEhJOFl0U084TkQ4aG16ZGtaUzVfdFF4UVRmVkU3TWxiNl9ldw?oc=5",
+     "title": "From affair allegations to Nvidia probe: How the Jensen Huang controversy unfolded"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSWw2Tk1PakxDWFRfOHE4VFpZeXpmWDlMUmJwYkFLYTRYbjl2S21KSzBPbkdFaEcwOXBpZGtvRG9qZU1LbkN2VVNvM2cyYXpqTXo4S24tcDFHblNfMjYzZUJnNVFJMGZvb2d3eFRtLVE0dWZ1emppektUUmcxaTZHemc2b25NTzRlVGlzYV9MWVdaQjdjQnBYTzdVa3Y?oc=5",
+     "title": "Why is Nvidia’s Jensen Huang at the centre of a US-China row?"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Further Military Action Against Iran 'doesn't Seem To Be A Very Necessary Thing' -- Trump",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ENEk5cG96Y25iNmg2WGN0am5YZ2w1WVo2emowS2JLVzZ1VXVCcmVDbjZHckVMdENBNjZ3T1RVR0FTaW16c3Y4OTdYMnhuQzRYbXFYRnBOSlg2V3lJYnpnSURR?oc=5",
+     "title": "Further Military Action Against Iran 'doesn't Seem To Be A Very Necessary Thing' -- Trump"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZVGlrZGdkVXQyRXBjbUdDMVliNVZPR2l1eFFud2tLMnRGSlRmbmYtbnBpVGFfX1FqRkh0WGpMbHlfT1U3WjVkR21hNnJmRFdTcndqS2F1OE5EYXM?oc=5",
+     "title": "Trump says Iran war is 'effectively over' militarily with further strikes unlikely"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTmtxNXdZTTY4U3h6bUNvMm5NZDBiWXNMMVJoalRMSzZ5OG4yR3ZkWkdaVU82SUFNYTlPcWhjZGZGUlVWczRwMnM1RjJLZGxtZUI3T0ZaTm1xS3RpZ0Z0V0lBQW5LRW9Ja3hoUXhuekl1UnNzWVE1QXA3MVk2Z2ppQVpwQ2pzSTdPbThuLUIzeko5UDIyQ21leGpreE9PdWEtN000NVQ2clduSTJQRC1wM2pwYmxWNjdmbGRLQTFFcjdjZw?oc=5",
+     "title": "Trump says US military action against Iran not necessary 'at this point'"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOelU0dnZ5Y2ROMkdrZXlYYURIcnJocXdKbWx1eTlPcENLMk1vX3ctTC1ycGlfQ0dlemFiX2pHRzRvSkd4NTZ3aEdxU3h5OW5ZeUo3cU50YTVPODlxb2lZMVBwRFU4bXlmYlJiTmdHSHcxUUdQMFptNG43Y1hsanUzbTJHMHc5eTlVeVlz?oc=5",
+     "title": "Trump after meeting with Qatari PM says he believes war with Iran is militarily 'effectively over'"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk10al9Za09KSVdSOEJFak01MEtXS0I0bHg2Q2wzSmUzSDlEVlpObU41Mjg0aUZhQU5zR1NIbzdTMHJLV1FDbEk5WExHLUF0aUlHVU9CSlpEMXozNVFzSm5PTm4zekxYVmR6YlZLYUtHVUEzREp3UEIzSW1NTksyMWJXZTFiWTRvNW5oSGtQOVY3ZW1uOHdNYXJuWUtnWmhkVTRQWEsxRdIBrAFBVV95cUxOeDVLZnJwdDZ1b2dWamRIanBpZXUtQXE1dVhQeXVmY0haLVRFUDFwa2Zicl9FQTEyUXhFaE40dldBQmR1amhrSkFqd2U3Z1d4RXhSZ1VFTGpmeHpMNERLc2syWFZYLVk3aGtvQk5WZFRYWlRLODE3NEs4UGF4amM2ZEVFSmZJcElHaEpQSlJ2Z2ZsTFh4TUhhb3BqblV2ZHBHaTRPWXNpcDJMeTdG?oc=5",
+     "title": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "France accuses Iran of supermarket fridge hacking",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzeFI0SDNQMm9ieHFIWGNtSFV6cEliY0dwOUhXNE9NODFkSTZKUktramxLV0ZHS1BaN3RZX1pTWEtsNmZxSVlBQTNfN2I0Rlk4NTlCdnRnUElYbUE?oc=5",
+     "title": "France accuses Iran of supermarket fridge hacking"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTHhRQkw0WlVabXZ0ZE0xRTRidjcwWHI4ZElyYXE3MU1yUVNDTTdqV1pFRmhPSVBYcDVvcWlMbGE2aEFMUnR5bWk2UjRUenNEQklXSHFHcjFkaDNsN3JscUdvc0x0VG9INzRpdmdNeXAwcUtYa3c0NWs1Q1o5SFFiX2tIZkJubmJUdXVZRTZuWC1MVUwtTm5RSl9Xd9IBoAFBVV95cUxPTm5Cc29NMl9XME5Bci0tdGVXRkZ2MzVxTW50VHE0LXBIVGFxOTIwNnMyZ0psU3hiUjg0V01UeFd0bzF5NUxKRExiV0Vfdl9jcHdxZWc4ekxwc2ttRy1jMTdELVg3VGNhRnBDV1d4SGpQYWt3dlJzM3hoTmgtYjVmU0o5LXRadWdLWEJXVHh4NUxpRjM1WmRJRTNYU2pPbVhH?oc=5",
+     "title": "France accuses Iran of cyberattack on supermarket fridges"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUVY3ZXFyWXRkRmhuU05Jdy1rNmdXc2RibFRILXVxZzBfR0tjYXl3Wk9KTXJxbkdMNmtZSGQ5dUxrV09SY3ctWTRUY0pTblVzeG5qMTlqZGpZWHQ2WVFHRFlYd1FrckZMaUhRUnVXdFliZ1doLXBGNFJOMlRLOEI1T0RRMEV4UHpiZVpWbFV6eVRkLVE?oc=5",
+     "title": "France says Iran behind 'unprecedented' cyberattacks on fridges"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVWlQTHZobVhFeEl5THdwQ2FRUV9fTGl3LVlqWjl1emJ1TkdIbm5hMmN6NVpOZmN0Nld5OUd5dGNDSThvYkx4V2NhMC1mTTdwb3FNR2piSGlNMkp2VzBqaUFZNU1FN3pkYlUyRjk3SGwzekRYYmgxRDZpZV9OR2lsNG9zb3Z1WG5oV0xPN1FfLVRRQl9qX3BNNXVrUDZIemtfOEFnaXZpUkY5NDlGMUR0S3JvUEtRQi1UUkVUU1dFMnFUVnVKZFE?oc=5",
+     "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaEtiLW42aDZBTWQtbFdSNVpTbl9SNENPQWEyN2w1Wm9UZC14cnFudkwtU2N6aW1DWWlpei1NTWU0VVdSTW5XZkFnV211anZucWdLU05aM0piZGszcm9EZktPSUFHU1pHQm1XNTg2NjN6akw2UFJkc1Z3WkUzMUtKRVIta05jamxXUWpwdFY0bm5MLWRmT0HSAZYBQVVfeXFMUFNYWjF0Sm8zQ1I2aG1FVFZFVXQzdDlOaFk4bjlkUnBSVG9fUXlDNk5MeXpIcGotVWpUMG9jWnJSNlB2bEdXMkhOMlJCdnY0MnlpXzZEUGtSTm5MSHQ5cjRraGt5ODg3bE5GVlVuakNMRGpPS2swdzFHcDA5cE8xQ1dlbjF3Z1hUOE9oQ0FhQldoV0RvOXRR?oc=5",
+     "title": "French officials blame Iran for supermarket fridge hacking"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "#SHOWBIZ: Disgraced comedian Brand faces sentencing for rape",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDVJa2xoaEYzaGpJTjFBbmJXc19IWnpLQmxFRVpwVlJwVEFmdk4yXzJGdENvT200TmZ0c0dlYlBsZzRDNUh6SXRuMkJ0Mm9DcUxpekdsOWZuYUNyeFE0Z2Y3WmNueW5ESjl2M1V4RmFMeHpCWExFeW82N1VlLVgwY1lNMmpoYndwYlZyWUxYYW8xb3pJOVJwZk96RTZwRzRhT01QcnlVN3RzWF9jWFdr0gG0AUFVX3lxTE9WNHN0N3lrSzdub0d0R1JuRWxORVFYLXUwS1VVZV8wdDdLNlplVnhldFJ3SnNXMFdxTDY3OGQ1QTRHZllFdFlFelFZTmhEcHk4eU9tNzU5cU9PeWlKR0pqZURUdUtYRU5VdXVCZTN3elA4OUlFVHA3RVdZcG1Fd0QyRi16WHZRQXdkSm12SVotUG15YVhXUUVGbWVUaUZKNFpQdkQ5RWJQdFhOX2Y3b0NkZHdfeA?oc=5",
+     "title": "#SHOWBIZ: Disgraced comedian Brand faces sentencing for rape"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbmk4dlVnT1E1bFJGb01tRkZvLVFXSkt0bTRsY2t4RzMzRDVGb2RzLUJTblJPQ1EwZFhlSUZXOTR3VlF2UTU0V29tVjd5dWwtOFZpUGNxSE1uRW5JNF94a0RmRV9SRWgyZ3dCaDNJZmR2M05ZRHMzam9EVkF0OUJ3bnloSGdkNVZZU3QyODdKei14dU9nalBDSmwxOFpCNUJHUDFTbnFLTVp2UTJfaGlPQ1htNGxvbjRB?oc=5",
+     "title": "UK's Russell Brand sentenced to 10-and-a-half years in jail for rape, sexual assault"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmRIcmRBM1RpSHlHWmtxcXdqcHpkMnI1YWtDalZXMGxwTlRJZDh3QVc4OFNRd09oNDU2cEp2TktXSTduSTk1dWxUU1hjVkNGeDZDYm9LdzNtb1lqQTRTSGxkbFpVYTlIb19DWl9YRjYtZjZ5V2V4QTRON3ZfaTVWa1R4OExCS2x5QkdBaFBLS1JrQnNqNXg5SFZiSzlaUDNTZ3NVOUQzOVJqYzY4aHFGUg?oc=5",
+     "title": "UK comedian Russell Brand jailed for 10 years for rape, assault"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQamd5Y2dBdS1ZcHZiZ0xOV0VPdFlKdFlrVE93cHU5eVRxQURkY2FTOGRkUkx0VmNrdjRuS1Q2VE4zckpxaUREYmJTNFFWdGUtUUxEcmhHeG9xOWhXVWh1R1pHUXNNYlRVd2tHSmNGRmF4bE9qSlh0T19WWWp6NVJCTy15aVpvbHRfMkdOR0xPekF5Zw?oc=5",
+     "title": "Russell Brand sentenced to more than 10 years in prison for rape and sexual assault"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "16 Killed, 13 Injured In Steel Plant Explosion In Western TÜrkiye - President Erdogan",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PQS0tbHJWTlZHTHhSSzhvXzJrbV92SmlDT3VNNVRHSjZsM1J4bjIzSEZfMXJSRm5KRzVjUHZXVERwREVadzA4QjdsaTZnRGJkdllpUTlZNkFyVUh0QUNSdENR?oc=5",
+     "title": "16 Killed, 13 Injured In Steel Plant Explosion In Western TÜrkiye - President Erdogan"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yT1JYRkQ2TmVPbXNfNmtvU2N4MmpqQThFYk56am9IUjZqeDZGSXp4eVFEQ3JVb1N4NnJPSERGUU9ydzlqbndjUWZRN2NzN2JIblFKUENDMWhlOUU?oc=5",
+     "title": "Turkey steel factory blast kills at least 17 people"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSFJ6cWlWT1R0aFp0dy1UbkxJS2RXTllwTEowcFU2VGxkVl8wQ3BBTVI0dXh3blExMmRoQnpvTDNnYlU2ZkpQUlJOWm1CWVl0ejI3dmlTaDlidmJjRGxaZjN2RVRlZWJfdEJuSjh2MUtxcTdzVV9yT2w5ZDVnWEtnQW1YUWNGNnpFRUttVWltdlBhTmQ2ZTVXOWF6RjdOaGF4XzFZ?oc=5",
+     "title": "Explosion at steel plant in western Turkey leaves 16 dead and 13 injured"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdllYVko1MDE0VXZIREVwMDNpNlI2WWtFNWFtcDlSMkRZUXZtbl90WE01Q01kQVA3MTJHTDY3X1Jwb3ljdlE3N1ZwZEpnVm1mVkVIM01iMm9jdEN1OWpfVFBUaEtpQW9uVmZOUkNmY2JkZnVpcGFnci1KNzNWWDZjRndtZnMwX2ZG0gGIAUFVX3lxTE5iYXJHZFp6UU1qUlFqeDlINTBZTGdEUTZMME0zTGZwc2E0MmFJY1N2c3lJUHhEWG9BSFVVNHYyLXFCRHczcTBtSWZmREVRSXJMNExYaFpMWlQ2ekZBZC01S1FkOEpMNUJJakhJZGxZWUdzNzQxazhHT2ZIa2d4QmNrdWhrZzhGNUk?oc=5",
+     "title": "Turkey: Workers killed in Izmir steel plant blast"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Pentagon chief Hegseth expected to face House impeachment vote this week",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMWxSRW95b2hyeC00X2Q5VmF0alVielFMcVhtMVFhdFBfRUNmQlAyM3IwUkthb3JDYldrNmhuX1dVXzRRS21LMWNxX2Q2VHN3WGdOSHRyVkVBSVc1UHpIYmVFYjRvUFlIS292a3VPMkljcW5HWVBYVkdpX1ZKSE1qRWs2T21JRm9pcjZVMzRSR0FVZk1fMUs5QlhCTnBFVXpUczJIbW1n?oc=5",
+     "title": "Pentagon chief Hegseth expected to face House impeachment vote this week"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYmF0MkxXQ0dSd1BNaWNuTFRCeXBNQ3l4VVVaY3hGU25BV3JadkpTWW9hUUJ2ZHFHMFFxV2dyUk1YYmZFVS1FODNVaGlhTnZHTXpOczN1V3UyZ1JRdC0wb18zWWN4T0hNWDJENFJVaHQzUTZXUlRJMFZya1RaRUFySVFZNmU5WTdaV3hsX1RhaUFoei1XbHRuSGNveWVpM1BkLVpBZWI2UzZZTVJZcHZaR2ZMNA?oc=5",
+     "title": "Pentagon chief Hegseth expected to face House impeachment vote this week"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS0ZDZHczOGZ5WVRzd0U3WDhILUVLRktPcTBKaXBhY09pNDVRMW9kdTdreDMxSlJlbVdnVzVHVG5PbVB3aV82a1Y4bFlreGhaQUE5bEJUWjZETENJQWJzQVlpN2pQME5YZlhQOGpiWkJBNUhRSkRTUV9XeThWZERaRzFsNHYwZjF5VVg4RzJRQQ?oc=5",
+     "title": "Republican Thomas Massie moves to force vote to impeach Pete Hegseth"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmtPTzFTZ3FpdVdIZjFwZGg5U05Ld0czaGp4bE1rV3V4aWkxVmpWc3VkVkgtbmFRbDdVWHlncnNjQXlaalJkbWo0NkpHS19makpIRGJBZUpqaHRhQzZvRDNCOXdxMWdaWFdVbUFHaGsyMEpVOUNfLUpBQ1c3ZG5iRTBFWF80Uy1PQ09wNGFxTFg0YzcxM0JRYk1ISG5RLWJfc1HSAaIBQVVfeXFMUGo0VU1Zb0JMenRRemhyWGxuMXNITXBtazRCUG92S1BjVm4yUnRJUjloTlR2bUpHQ3pRS3hLZmIzcF9mbVEwYjNjSGFJS19vdEFFMWEtRzh1ejZvQzdtZ3VseV9BQ1BCVnlBTUlQRnk5REZ5Y2xDMzg4UlBZbFRMRVl6ekFzX1lFMnFqMVZHLVVRMF9Uenk3NmF0VFF2R3FublNB?oc=5",
+     "title": "US: Hegseth faces impeachment push from Massie over Iran war"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Houthi media: Death toll from Saudi attack in Yemen rises to 44",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUhXeVJwdGs0ci1mVXM4YmtCNjdDMmJuM1lBU2NFLWU5MDFlczcwYmduejB3QmtTOXhoLVNaUXVlWVpEOXlmT2xDOV85MW04THNISTRyQ2tKUS1tSENmUEoyLWVSQTN5YS1vOGhPTUNDWkVsUjJ6d3hJVklRb0ZVaXROaWl0ZlJSSUk4UXhNYlFkcjgwLXZVTG1NeUlyWklMZS1QdNIBqgFBVV95cUxNMXp1VDlkdElpQk9mZldXUE1WYTZoRlVwTGNOQWt1UXRfcXljQVpPUzRZd0JVdnZKUENuR1dfdWJsYnhEQWJ6V281OFhBa2h4RWFFMi1pSGNyNGNlWFhXeU1SaEVwMGhCdXI2c29wZlAteVFnazBMM05XNG9ueGt0WXRYV2Etd0Y0aFUwWDBQVVNOUnZqQzRfSWU1M3NENVpUaHNJX0gzbVFzZw?oc=5",
+     "title": "Houthi media: Death toll from Saudi attack in Yemen rises to 44"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeEtKMGZOdkpGT0I4d1dsaUtDQjlLSlhyV1o4M0Rqcm5KZHV4ZHhXeEdnTUwwV0x5eU1Ldmo1cFk0RG16SnFCMlZ0SkNlQzBmdkxPU2pmdmNqWmYwNEcwWGVVeEVNQVhqTnduTnZYNnVqZ3padlFRRkpGNGpYWHRRYVJsX0h3SXN6OFVaTWI2TGFfUVV2LVpLUGtydXppb0VFaDBNZy1YZ2pXWS1XSUxOTng3ZVpkZ18xd1E?oc=5",
+     "title": "Saudi East-West oil pipeline hit in Medina region, state media reports"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLUtUMTUxcHlqWWZsSmNOdkxic1NGY0VKejdJOHVMZWhRZzVWODZDOE1lcC1MQXFlYmZzQnZIQlUwWF9OdDg3UFZFQnBjYnhfZTQ1bVFiVWFGSkFGU3lNYmZQeEJhbGhwRDRHdGVXY3M5V1EtdVFCcUV2dlFiRDRLWG5SYmc2aHhVcGRsQnNYR2dFOVVvNUd0Zm9CY3JzemvSAaQBQVVfeXFMUFdBQWFtVTZqWlVBTXNERjlNVDBZZjI5bldxYU1sanBhNkluVk4tdHYza181cWNnODNhZnREWmpXS2RsdmROdi1UWmgxbk5FNWt0RFZTaXp6Ry0xdXVJZ2tYLUZVNkFCU1dhWmtXQ1AtUHk3X1F2Q1JMNjk4aEM2YmdWVEFUVy1ZTDkzd0FDYjVUWXpzV3A5RGstLUVIUUVfaktTMk8?oc=5",
+     "title": "Saudi Arabia reports new attack on key East-West pipeline"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Trump Says He Had ‘Excellent’ Talks With Qatar’s Prime Minister On Iran",
+   "summary": "",
+   "scope": "world",
+   "category": "政治",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQczVlaThpNVBIX1cydWFFWkxzX0E1RXNkWS1WZ3FCYnRJUzZUNjFTOUtNMjJKV2ZOaWZIb1dKMHEyM1lXWXlBalh3aFRqR3lfU0xOUUVwYW4zWFZnT2dKLUVR?oc=5",
+     "title": "Trump Says He Had ‘Excellent’ Talks With Qatar’s Prime Minister On Iran"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ2o4T2dDT1ZqQmlqM0JxZEViaHZzWjRPeGtRd2N5MEZweXhTWXV1b0RybWgxNzZrMUJmOXFDMGMtTGE1RzJCMHBNdkctTVZpWXhBUUcxYUhnOTRqOEpQZUpPWjdsZHgtTWc4cWYxYnRtZEgzb191X2tlOUVVYXh4SFpnejMxYXRidEhFalZMeDlSSlhmUm5IR0Nyd2hybHhWVjVrcXA1ODVaYWo1ODhFSEhNMFZxdmdaN3VLTEc0dE1MZ21pVGxFMFh0TQ?oc=5",
+     "title": "Trump tells Reuters that Qatar, Saudi Arabia want peaceful Iran deal, US ready for strikes if needed"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSWFBLUp1V25GM2xpZnc5MGIwRENuVG1yT3oyUVVEeU9SWDN0N0NvVWNuakdBYUZGMmg2SzZJZ0NyM09XU2F6cHN4UzBsUzhuajYzTGcxdHZoSWN2bDY1UFh2UkFmbW0wY1hqTkliaTlaMXZ0WUo3VXBPQTRQTnZ0TkNnQm1pdmpxX19Tamp4bUV2WHpLY1lYTklndw?oc=5",
+     "title": "Trump says Qatar, Saudi prefer peace in Iran conflict"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "El Niño pushes world towards record heat as COP31 opens",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjaFk2SnlacjFiZnBjLVN6Zk54Vnk4cjJuYlg1aDJmTU1ZVlZsbk5FZlZqMEUweU55U0x4Sm4wYTFQTWRxNTFRc2lTMm1KSnhHY3U3VUNZU3pEVGc?oc=5",
+     "title": "El Niño pushes world towards record heat as COP31 opens"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORElKbW80Vi1DS2Y3bDEtZDMxVW5EMkthWHBBZ0ZDRUtGVmt5eVRCdHJENkpqVGx6YmxSLW9UcnQzMFlQU1VsMWxaYTV2c094RXRpeVJ5Q0ZZejZfS2JJd0hBcUk2R2xZSkQyUWZUUzZiTjQ1Z0tzQzhDV2xWUm9ma1F3dm8xMlpuX1h2VHF3UUpkdG9rUUlj?oc=5",
+     "title": "COP31 opens with leaders under pressure to tackle climate crisis"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWHlDT25Fak5xdFc5UjVlWHhtcHFVREktOEJGM09NXzlNUUhaMUloX25NMFpTM0s1WWdzTGF2NWY2NXZ6Z2dROW5RakhMbHozX2ROM2JvWnQzZVJld1pIN1ROeEtxVG5kSm5oUVprbGxzZTNxZjVGaFllZHUzYVVjUFVieUZCcDVWLXhTY9IBjAFBVV95cUxQdlhwbG1Qd1REanRKeGgxVFJUZG5NeDBQZExLeTRIOEFOdF80ZUsteFRkRjE5OEhhQzlMV2c4TktJanRXa1YyREFFbzJ0VUdELTJXWVJFMEdJemZjcTdlUkRMekstSTZSVGJqNkdyQjNsNjJkWkxadXRpVHJLM0VqZmdOY2VKYmNSMll0TQ?oc=5",
+     "title": "Turkey pushes for transition at COP31 as coal burns"
+    }
+   ],
+   "new": true
+  }
+ ]
+}

@@ -1,0 +1,589 @@
+{
+ "name": "2026-11-11-evening",
+ "kind": "daily",
+ "slot": "evening",
+ "time": "2026-11-11T18:22:02.104793+08:00",
+ "items": [
+  {
+   "title": "Najib returns home to begin serving house arrest",
+   "summary": "",
+   "scope": "my",
+   "category": "司法",
+   "importance": 10,
+   "owners": 10,
+   "work": false,
+   "links": [
+    {
+     "source": "星洲日报",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RdlplUVhqZHlBVnNleTdGQnp2bUhLZUhKQjZjWERQMUEzUXBaVzJ1MGpNTFh3ZmFKUmxXZmlkck9yTmx3QVJ2R3dGb1VDS2Y3c28yOW52cUE5cTRiWlVQc3BnLUlNcFNKaWZ3dU5xRG9Hdw?oc=5",
+     "title": "Najib returns home to begin serving house arrest"
+    },
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdFY0NzJZNjdjVmRBQjZiNXJmd0FxWXlxeWhZVWJQYlB6WFg0X1VQMlRaVlh6dmZVRFJ6cm5WN0V5REQ5OGp0NUM2bUtzRVg4M1NCV3REQXNSRDNmOWFJZHB1Vk9BWkhzNVdhT2FGYnAya0ZoMFNjb2c3enhQN0JFMGJJRjVWazIybkRvNnpuQldIQTR6MHRMenpPeDh6a2phSlFKQ1dka0xBYzltU3pXMURNWWvSAboBQVVfeXFMTW9rZlBWc1E4LU9DMzhCNEVTcFF6OWwxMVN2XzNaa2RGWGcybTVHeTZwSklBV2FHb2ZFSzZrVnV1bUpxSjZ6dEIxd0w5RERVTDFvam1SZDllQ2NjeEN2RTJJZ2IxY0c1RVVESUY2OTBIcmZZSFg4dmNkRUZrUkNRS3R4c3RoZ052NGFQZFJrSjRmX2IwRXlSRXpjYTJWekJmNlRYY01qQ1hFSXhNOTBnWHdiU3JMSG1KTFFn?oc=5",
+     "title": "Saifuddin to explain Najib's house arrest terms in parliament tomorrow"
+    },
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMTVFQjJ5eDlBN0s0aGxQQkJ2dXVvMnE2WVJjaUhDSThtZk16TWZ1dDdIVVZUa0cwREUwTVpoMlpXVWxFUEp3OGtYeXVQOEF2YjZkY082YUU0aUprSFR5Z1d5ejh4a1lOeHFwVUJwUTl5b0oxZVBqVzJ5LWFneElwWWhUYUtVSTFuNFdJcW15M0Itcl9udjBDdmxpeU10QUpN?oc=5",
+     "title": "Najib arrives home to begin house arrest sentence"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaW9Ya0Jib210aVNGRzRLdG94V1RNS0o0YVJQeTFRa0l1TlhsLUZNWTJQZnY5dm0wNFUxcERGR21SeFdCX1lweDFqQVdVVjV6Yl91X1cwZEo3RE5PM3BOLVRLeEtESHdVMVExc2VMTF9WYzhNRnFwNWp1SHdwd1hKaS1VdU9LcW5T?oc=5",
+     "title": "Najib arrives home to begin house arrest"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82NzJRRHZGQ3FtWUZjM1Yzd2EyVXgzQ05iSTZfeE92eHhuNFEyaWFueExPVGlIQks0VGpvaHJhcEczNWhHcUFrUHM5QzViZGFZanRZNGxJdmxLTnYxQVZhcDNR?oc=5",
+     "title": "House arrest for Najib as court issues fresh order"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94a0ZXWS1UdjlxTF95ZGpUYTBjdzdpdVNOcXFjZEZvTlEybGR4M2NWN2VST1AzQ1lmajE4QTJEY0g2dEVOYjRGdTVpU09HXzNh?oc=5",
+     "title": "Najib arrives home at Langgak Duta to begin house arrest"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TN2UtS2hMaWdFSnBGTV9LY2prZ2NRbHBqbzU4WW9vMU9yMzFYVXZkOWtoQWNoNmFtU1UzWERkYjAtV3dHSGtOTlpfRkFyX1hvbkNVUGM5b1dXZ0U?oc=5",
+     "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX1RRNHRObWZjbWdOVkFXT3pkX2xLTENwQkpienRzMUJlUHlTVXNhTi1HV1lQdE9sWFhFZlhfaV82VjBOQktFVld5TURmN0Y3S3EzV0JrQXNVQjV0V2h0ZkFUUlE2di1ZSkhOMkZGM1duelNSbTdtajFscjVMUEtOMnJoWXdBdF93QmFOZmExRi1XSzA1YmViNHhGaDlESEx0dE5ZTkw4d0l2cGJEZDF1Mkp30gG3AUFVX3lxTE5QSFJtLVhrR1U1XzVHeFJmbWN6RTQwa213LWtZX2JOT3RreU83ZDZic3haaXJIaVBCOVVtRFZpS2JnUFJ5V2R2NVJRVE45STc4NzRKTDhnUGdieWl3Z1ZyUDc2cDJ3TGdldW0yMXk1S0R1NVozNDRvMVEzekswSlF3bDdkcmRWVUE3MXExQXlHSXpYdVA4elphaUVSX2czT2Y0cmtDSWJtOHVHWURHalpVWmRNejM3SQ?oc=5",
+     "title": "Malaysia’s Najib moved from prison to house arrest after royal clemency"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVnI2Y1hCaXFYZjNfTnhHdjJ6dFI1dmpiSk0xR2dXd0xZMzhibm5uNkQzS2tWbmVZRDFFOG40cGtHaDJOZUpoR2NEYXpuaENHVEx3WTl1TmlpNVdqdFN5UWc5WHFJVmdyWm54YTlkRWR0RU5IZmxlZXVJdElrTVdKTDlJd0JVQmFLOXlrdzQ2YTBzQ3EyRTJPdnVJY2trUQ?oc=5",
+     "title": "Najib's house arrest poor optics for Anwar, but his unity government stays intact for now"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DZnF4WGJTMGwwMDlUckg4OFdESmZoWGtqLXlOYWpzcmpzMnZuYzkyUWxnZUsxb0hDVUZ6VFB1dndwazFuUHBsLWktV3JvTWxhRzV3YjZQM18zb1FnTTE1T0R4WUNGVDhEZmdKSFJkLUgzVlJP0gF0QVVfeXFMTUJWa040MmgxWXQ4UU1jcUt2dFZ6Q1hoaGVLQ3RPRjMxRXZid0hUbWxoRE43WEdlZ1NNdkVtRUNhQlBQcHhpNXJaQXE3ZVBNZFFYZ3RuN3M3TlZxNjZfbmJETlFzcG5sWmxrRnRYSE82MnhrcjA?oc=5",
+     "title": "Malaysia's Najib begins house arrest after leaving jail, but another possible prison sentence looms"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Bursa Malaysia ditutup rendah",
+   "summary": "",
+   "scope": "my",
+   "category": "经济",
+   "importance": 4,
+   "owners": 4,
+   "work": true,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT3p6VUtKc0VnTnlIU1BrM3UwTVlMUnJEWEZzYXcwa05kb3h3Q0MxaGtGeXE1bzJQcTRNY3Z2YnZEc3E2Ul83VTJrclRHcmtHNVJJY29YUVJsT205RXVMbEY0QXdhWnlCcktWVzc5NTFENUI5MzB4QUZxbUZ5MU1EU1NmaVRIX1c2SmFSS2pPM1TSAZYBQVVfeXFMUDJ2ZmJOd29hdHhuUlIySVh4Z0RWTm5SMnBxRFZoUHZVQU50eGthVlJwM2ZfY2ZCRnVQaEZNdXp1OTgtQWVCVGc3dVhMVjZqT3p6UnVzcHFZZGY0RWJ5TlpJOGg4S2pVU0lGbjl6dXJNcVB3SVdYa0xwLTFlTlAzSHVqZWxFVlhvcjByeWNyZ1U3TXFpaEFR?oc=5",
+     "title": "Bursa Malaysia ditutup rendah"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9fN0VpY2Z3aENvNkdVNTZBUUdzeFFtOHhBQmxYNGhWNHlCTWY5ZVRESDM5N2pwbjVJZ3EzY0xhdXd2VTg?oc=5",
+     "title": "Malaysiakini"
+    },
+    {
+     "source": "国家银行",
+     "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNVngwNkg1ODR3SGd4MnVNZjVZMzJsWUVfUk4wS25YTUZXbnRwMmZ2b3J5M0s0TzFlTS15NnptMFh6WXptMnJ1YmtrUDN2Z1lnbDRuOEtxVmxZWTU2MGxDbWlrZENkLVhRY3lJeU93WlFnaXdIb0VjZEV5UHZvYTZHQVE5dEFIOS10NXlhMl91aF9JOE9BTUU1aFZ3NHZMU0hqbHk2MFdOLTdLeldKTDBwbXVoRzlWUE5LMGppM1p6ZmU2X3BMRjE4cUlscVQzdGxYWkpqc04zVDNvTUdJVzY5MGVGdVA2d2RFSEZMbmlzZDV1Q2x3M1F0VjZ2b1RTV3dpSHdxQ29KcXBKLUNJU0h2M1Ztdm44aVktR3JFZkdaZWt0dlhWcGFrcGJYYmFYdjdrQlJvYnRDbDkwSGNjYW1wV2NXdVFPNDA4anlBZk5UMUZXa0N3SGVseXZMUXNaejh4aTdYRjNuRlJGZw?oc=5",
+     "title": "- Bank Negara Malaysia"
+    },
+    {
+     "source": "大马交易所",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcXdkN0R2THktVFM0ckRfX0FsYXVWT2FSSm1qdFNIOHROYmJsVE1rYkJKSEQ3bEg0RWo5bmhnWU5BV1g0T3VjaVQ5RW9TemJSdnpzcEdfVW9CZHdYUGZOQnM1dV9lRC1SZ0hFZEFYd3lmanI4NGgyMFQ4UmhmT2VKRlFNNWNrREhfR29wU21iZjQtM2lSZ2lINkZOMHBnWEpUQmNISUxueUtWbm5SV2ppUllwY0VueHNCajlJ?oc=5",
+     "title": "prospectus - Bursa Malaysia"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Microsoft presses Trump to scuttle ban on Chinese data centre tech",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc2hxbk1oRmZvSGpvSWUxUGhhd29jUkNDNlNDSjE4cnExc09vZF9FUm9pb0dnQkRSOWZWOURRUHh2YmFYRGdDNHBCa1dXTlFFWDNIaXN3aWVsdzMzSm5fZm9kSnlQZ2RsckkyV29nczJMQ2QycVlDOXZwQWhUVVpqMmZnRzlSRkgxZUliQ1dlblVsY3JZa2EtQkpCMVBaRlNNeXIyOEdFRnZheFRvUk9ya0ZZdHZpRXllUS13RVJfTkVXYlc2RXlRUjA0cUbSAb8BQVVfeXFMT1VmR3k2ckFIVEJwSFNOWFIzUzJ3dE1IVkNsY3pLTFJWb0FJbDRoZ2FDR1RFcXlvTVFMNVR0N0lkb3BwbGpsVmtoanItUVpkMW5XajdsRktQUU1ybUVDYmRTWVE3UmlfSlJTcDFrWUVINnA3eXpWYVR5LTYtVkNVb3JiQlBfaG1LdjNuVGVRWC1UdTFXTjBiVE1RNHlyb1pwa2M5c0RFNDAyMkZYUGoxSTZCeEcxNHF4cTdXTlUyYlk?oc=5",
+     "title": "Microsoft presses Trump to scuttle ban on Chinese data centre tech"
+    },
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNEFlOWxYTG9zazVQVUYyemFhUzJiaUh6SkVQUkNfMFR1bEY3WnlrVkctM1hxMGduMmt2VjJJV2NjYVVvS0V4RGszM2RvU3pkYVhDNGN2emVxVEI5aWd0ZERRUUJSR2ZRN0oyUkV3Y3pPYk5OU3UxcDhPSlJod0pzT1FJaGt4ckZJTU1PbFV5N09Rb3FIVkVHcmF6b3BwR1Z6YmpHdE90Ymd0bWZBRFBKYmZNQWJTTHVaYWRmdw?oc=5",
+     "title": "Microsoft tops Nvidia's market cap for first time since June 2025"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVSEZyZVdHNGR0OUV4WGplSTIyaXV1b1U2RG5Xd3RqNGloUWxHMHIwRDFuelotbHNJQk5wUHNVX05MWHpseWFaeEFZWWp5cHB0?oc=5",
+     "title": "Microsoft said to press Trump to scuttle expected ban on Chinese data centre technology"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYVBfNG04eWF0OFp6WHJFRFh3YjdHTHlhdU9xTkZiU3h1Qk9OdXpmM0FaZS1vcXJkdFdHRmE2a0ROLWRWYzNWUXhtcGpmVjREYjBJUC1nYzVSZkxPaHA5dVNNSlhpZzVlX2FOVElnZWNPZ0VuVS1sWEQ5cVNQYXYtT3MtUGppSTIzQ25YX0Q1UnFDbzZxc1RITGRRT1ZNeUFKQTZxWlJxc0E5Z0JjdVVEaXIxbmlqdGRZYzVsLWtRWTBuUlJsb3BTZVAwN1RYWlk?oc=5",
+     "title": "EXCLUSIVE: Microsoft presses Trump to scuttle ban on Chinese data center tech"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Najib dah sampai di kediamannya di Langgak Duta",
+   "summary": "",
+   "scope": "my",
+   "category": "司法",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM09obDFzbWtseks3b3lndUNjdFpsVHdRYTUzUjhrRmxpTGxzYl8zZ0ZHWEFpRnd6YzE2TWdvbjE4aEFYSy03RXBIQ0V5azRrTnVqMXc0b3d1Um1rVVFGeU5ibi1ENjZ4R1dwRW44YllRSkh0WlNtZW9mT1hwbWdTbms1cDFYVzRLZ2VPQm1WS0piNVF2b2puX0hTZTZDbk5Kbzl0dmQ2eXprUdIBrwFBVV95cUxQRS1tOEd4cjVSbE1kaGM0RkYwSi1SaFFzYXA3RFpLUXV6QlRGU0pWMS02cmpCWUJHX0NjT2ZTVTlpWVJ3NExxWUNHTGFVcndFcGxUeURSNlZZeGZYRHFJWlIwX0M2VHYxX0tUZnMtSE5ObHIyVm9hM1FZYnlQcDhYVlVXRG8xYUNnV3prN0syeVdWb0JyY0FqUGI2TTdtRk00STZXVXlmNkJ5bjBpNVdN?oc=5",
+     "title": "Najib dah sampai di kediamannya di Langgak Duta"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nNWViU2dCbGVxczBsaTlWZFdyOEo3WHZxY2RUVnlHWk02SHljMnFzM3hxa3VrT3BXUlVWSjRvelpoTFc4aGJ2QkdlT2RuZnlJX0x3NlhWXzZqTjJhWnBkYWl3?oc=5",
+     "title": "Najib tiba di Langgak Duta untuk jalani tahanan rumah"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObjNMUmhxZkZ3amtVZWV3bzZHbTZiOE9TNUt4VlV0RFBXeWVkY0VWcVJxVmtGSHMzakhuRFdsZEVVbkY5SndNOXlyeXFCNDcyR2l5Z1lCRHlDczU1ZlhEa3c3YXg5azRGSEZUWnhjR3ZEXzloalhfWEdvcEVRUmI2NmRNcjhWd0w5VC1LMDdFNV8yaEUxS1psU0ZkYVNrTnFNclprMkYtQzRrVDZPT2oxVDlRRmlQXzdicXRwZElodnZOSHFleGgzNEJlam9Bc1hC?oc=5",
+     "title": "Tahanan rumah Najib: AGC bertindak berasas ikut undang-undang dengan perintah baharu mahkamah"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Anwar tak perlu tunduk kepada tekanan desak bubar Parlimen - Loke",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaDNBWmhhOThEMVlVVmdOclE3RmpyTVliek1MNVU2bWZqZUNoRUJJcTliUE90T0N3LUN1MTJESkJGSU56aUlOWl81cGk1TWVNQk96bDRWUHJqMGxRUVlxUENuR3JQV2tnUmh6cXFZQUJKOXJLUGQzRGRtSDliUkVHS0JVOGVOSi1Fa3k2YkY1SEVCVDljMHhUd2g0MzZTQkV4d00xb0x3bXZLY2NydHJDdF9TLWZYZTdlcnZPYnRQMNIBxAFBVV95cUxPMkZFQVQ1cmNCX1BZSXVvYU9oX0ZrLWlCT0o0c3Y1NnpucmFsc0FnVkQ5ZGVoaGJwZld0c0luSWJXalhJUGkwVnczbEFkSkVRd3VrQ1Zzal92V2dfTnVnSGpreGtQU3VOZlhPYnNhZ21mdU5fb2czYjdxY0dISThuNVdKRVhsakVWRlpMMnBtcGhHRmZfV0tnMGVSbG9GSEdjdXI5NDBjSjRNSkZaendSeENGaGVoYjVlQkNwTHlVb0Zyck9P?oc=5",
+     "title": "Anwar tak perlu tunduk kepada tekanan desak bubar Parlimen - Loke"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNk1GLUVqdnUzUnFGb1BpOGM4OGx1dUZVR01la0xnWUtmNjg5RHpiUHUzbXM3bG9CeURFT216Mmd4UXZfOXY4dUVMT1B1WFdXQlJ4QVh5c1k2dWNGa280OVpfcDdrX1ZQMDFLdzVWWjNvQ1hMdTdxU1JZTzF5SV9WVUVKQTNaOUNXVm5EWGpPNkJpeVFpeEF6Qlc1ZGM3ckg2SHU2QlJPaFg3T0phbmJKem1VZ2pEN1Nw?oc=5",
+     "title": "Gesaan bubar Parlimen lebih awal tidak wajar, hak prerogatif PM - Mohamad Sabu"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOckFrWG1DQWxybWZpY2NHaUhsQzFySG44M1pCUVdOd2kxX29ZUzBBeHRtOHVtQUVXTHR1bnhIRkFTUGhENVVFUnVLUC1ZVUFVRXpHbmR5RWxpVVRsVTZWMDZzMXgybmZXQTUzeFpKcjdVSHIxQzRsYjR6QXNUVE9yT1JYWnozSWJvLVl2MkRKM1IxZDkySDY1SA?oc=5",
+     "title": "Anthony Loke cabar Ahli Parlimen BN letak jawatan"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Tighter scrutiny expected on Malaysia as Nvidia scandal spills over",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUDl0aGl4WHlPVmMxc1Q2SzRRbUw1T29Nbkk2VlNBNEVFSEJEOWUxalJCNjljbm8zeWI2dHV0emdiRHRPSjY3Z3NBcjg5RlFqcE91YWtwVGtzZDllUm5mMlpPN0FweTh0ekY3QlA2dnU3S2twSV95Zk51amJUOGQ5clJzLXBEd1FQb3M5UWpTZV9XMWstQWI2R0kwTXFwcWtZVUphM2lKWURnMWlTNUhzWFA0cmI1anBB0gG-AUFVX3lxTE85ODBfX1J6UHVVaWtXRHJFQlJGUG5sTERHb0VDR083dUllckU4cHdOV0poVkpsR2tLbUNBSmJqbUVIM2dmV1pTUU9uNUhOUEFFWFh1VEFtVUxLRWtKM0pBQklzQnRXY2ZSUHFZRm56ajFveDFmT1FMbnB4d3VYaWN5ajBJaEdCczdUTlJETzhfM1BKLUtyX01OWkQxaTNrMEotRmdmUG9pQWR2akdsM3RVWUhiQkxqYzI4NUJsekE?oc=5",
+     "title": "Tighter scrutiny expected on Malaysia as Nvidia scandal spills over"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jenpLU0VSQmU2ZXpyR25aMm5EUzM5R1ZNQlFsd2NxLUNYRkhHXzVNZVE0Q01YQVNkV3JfblU1THJ1TFVfUHFZM0Z4N180djBX?oc=5",
+     "title": "YTL Power shares under selling pressure amid Nvidia scrutiny"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
+     "title": "Nvidia faces deepening scrutiny over China chip ties, CEO affair"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Palm oil stocks hit record high on output surge",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ1JKNEh6NTk2b3VKTU9sblZBWUFkSzNJSzhiLXRBZU51OGNBOHBkblVZcV8zYU1HYUNQRkthejlKbldCLWVzNFVJTW9TV1AyZUYwLWdPTkl5cTliZHlsMjM0Y1VBWVF4WGkyay0yTUkzeVhkeHFxYnZQdjBfLU94Qy1LZFBkN3hoX051SXR3ZzlyMEdmMlVpdndRVVlSemFhNmpkc2t2bEdULVdY?oc=5",
+     "title": "Palm oil stocks hit record high on output surge"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HWG43RWVTU2VFbEV5N0JNTHpFVG5Ob1hNckh6NjhxZzU1cE5VYTdBR2JaNXptcUQ2VTc5NjB6dkU4dzVXQjNRTU9sMDZRWFZt?oc=5",
+     "title": "Malaysia's October palm oil stocks hit new high as output rises"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYlI4cExzX3Fsb05fRlR3WXl6TS1YbkN0TlNueVhva045eHFyTEx5bmtlQk81OTlrZjI3LVhhQy1rRmFvRGFjeGt5cXhJVFg1V1JPa0RRV29BOUlZOEp4bVlzdHB4QlBvejFKVHVvM2t2LXhpT01GOUVnc0hhWG9idDBJRTR3SGI3UzFqZXpzb3hJbEtMLXF3T3AwdktCdXlfeE9FZkNuRWg2X0tMLTdNaTRRMkM3cUdoemljMWlsam0wdWJF?oc=5",
+     "title": "Foreign investors pull out $50 billion from Asian equities in October on AI, cash burn woes"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Announcement",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sUGNDVC1ER01ZNlZoRXdLYTNuN3B4ZnVGYzZvZ0MzS2g5NVhnNFltSEhidDU5ZGFMQVJ4OFBSNXdxeXg3aHJKVmFicDZmWXpPdGpueTkwcw?oc=5",
+     "title": "Announcement"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbnlfTnY3c2hkTnpaYVpsT3ZSMmUxMFA4eFoyM0FLaFhXaGgtaFZmTVJGMnpBRVdKN1laNVREV2l5YnJrSm9qUjdtX0VFXzdmVXFOS1E1MmxOdklOMXg5NS1VUm9uUzg4Rm1xMUk1QmNfTWcxSmc0N1kyRU11RkhramRWcy1qMk9QTTlXX29ocmNvbFAtX0xkMkpEU0g2bVdCODZfYW5R?oc=5",
+     "title": "The 16th Shanghai Biennale Announces Its Title: LOUDER"
+    },
+    {
+     "source": "大马交易所",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV1UxZVdIaFVfS2pDZGlHVzk2RzF0OWNUTk93elR2V1gwcElyZkdYMmp2T1o4NnZ2Y2FJYUozdm1BTzZwWkx2bHhrdXhSbmNBZ0NHUU5zb0YyV1NEY3VpTm1FcllUcWpwQjZQRnA1a1VUOERQMVpWLUMwREZEa21tNXFOTnI0MVE?oc=5",
+     "title": "Company Announcements"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "1st LD Writethru: White House opposes effort to impeach Hegseth",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 6,
+   "owners": 6,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNekwyZVEwZmlIOTdHRkVtcERvbTZzRTZrX1JMWklPS1g5MDV0UTVEeU85OW5hcTlwcFV0cEw2MDFWQlJGckl2bW1aQm9QUXdJX3QybFJ2VnpRRG50S01LVjRMdDYyU0hDOFdLbTU3MTRTVWhzQ2pmT0pkcW84TlZTYlFVekdtN015bV9pb0RFa0hxaFJndGk5RHVSNFE3WmNvbkVMZEpiQmxRV2VsQ0hiRw?oc=5",
+     "title": "1st LD Writethru: White House opposes effort to impeach Hegseth"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObVFtR2hnZ2luVDdXU010VVB4UVpubVBIbUtJc0ZkQVkzLUkzaWxMRDJKaVVoTVNUbzRyRGQ4ZFh1dUZIUFhRVDRTVVNyZ3FWQkRIMm5UTVJOY2J0MDJ4bEFZNkh2MjdUZzRnRkVYbXBKSktfNElhWU42SEVRMktOd0JHYTQyU2N4ZUF2eWZicDRpVHBCTHRYUWFYOVRMT3lrVWNuQldMQkV0MVVGYXc?oc=5",
+     "title": "US House blocks bid to impeach Defense Secretary Hegseth"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUNXMkxGenZWcWlHclR5OG1zTlBOY1FCaktDemppTUVxd1R6aVdEU0t1Yld1U1h2empESzVJWXJxa0VYREVJenNGbVg4cmdKY3RkYkdwbmdsZGJiWmF2Y280dDYzbjJkcnRWbEp5MjJ3YzlUUEcySW5PcEYydzI4OHJoNWhKSHZvTlhMd3NRMll3VEwxTkpJOWhyUnFQV3dneTVV?oc=5",
+     "title": "Pete Hegseth impeachment effort blocked by House Republicans"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXFrRWpaektIQVgzR3Fob0dQNVZBTHlpOXFkRGxWREFtaDZDRVk3VnBHRUNfVV9WQ29EQUJxQ3RMbjk2OUpPN3Y0aFNRQldQQWU0c21lMVdGdGZqRDYzd2hGdEZmczhmV3AwMWdraXB2elRhdzM3aXhMc0RvZEhOV3hNdGZZck9DX0E0dl8yNElFemh1R04tOGdobk1sazlJRm9ORERrU0RiaGvSAbABQVVfeXFMTjc4eFo3R25jLW5qNE9CQmVCc2ZpQ3E5Y2NzMURUbkFMRWdmRXQ3SGRWT0pSY3FuZktKSFd6NG1IcFBmYURBaU9aOUdsODc0VnFoVkFsN0hlQjNpcWdYUkVXdFAwSG52NVlTem9PSVJsdDJEYmowcVJfd0RDMUNidkxlZ0NjZmhpS2xJeXUzNmI3b1pmcFlyclMyWGVjSmpKRURBNWhVZGRFUXk0QUFmNF8?oc=5",
+     "title": "Hegseth impeachment: What is he accused of, and could he be removed?"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ2V3Yzd0M3hFNkhXMk5kRDhCbWFwcjc5eE9scERYaFp1TWlyVjA3cUo4X3gxZkpPcmpZSzAwYWRPZzAtQ0VnRUxOUzBvOEUxRHdEMVFwaEY4OG9NZGFQNmFnMkxSSEdWOHVSNW9GbVl3Y1NSRlpJSUV5eEx1WDNwNUpHSlVHUQ?oc=5",
+     "title": "Hegseth calls Republican’s bid to impeach him a ‘stunt’ by critics of Trump"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX2JEemhDSFdPcXZDdzVlaXVCU1Bkb19JTFFnOVhCb0M5NHZFLWl4QU8tOHR3MUk0WHVLZ3FlaUVVN0tSNUZ3WGFUMTVkN2xCSjlSaG1FYnFGVmtaaG9Mal9vMzJNOERYRFhGZkFXeXdZZGNXbmhOalhvYlhKNFFoVnpDS1MwX0hDYzJuay1jdmpiWUNUdlVCdjBScWZWU0xfTTFJ0gGjAUFVX3lxTE1jNzZHc2xXcDJ0WHFHN0VpMDFfOXNXWnZfTXhpamk3cExNYk9IaTE0M0twUjRQU0dYRmNGNTVEOUxmb3pFMTZYemxkZWhSeHcwZlpTd0xwLVY3OENvdE1KTzFvQWx0YWF5cW5tWEFycnRka1RKeUxVM2lvQThIV29XMDAyZDRub3NHbUlJeEpoMmNtUjFESVVvYUUydm1LU1B0UDg?oc=5",
+     "title": "US House Republicans derail push to impeach Pentagon chief Pete Hegseth"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Nam News Network (NNN) - New Round Of Russia-US-Ukraine Trilateral Talks Begins In Abu Dhabi",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 6,
+   "owners": 6,
+   "work": false,
+   "links": [
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50LTduZGRLbUptVk9vSkNiVXNNQjhEaFhIX2t3VDRfbmtfWXNnUHNLQjhQYlREVlUwdlg3eFE0SHBCTVZlN0VhVEo3M3RQNXhhWnBKdWt0aVZvbHZRQnc?oc=5",
+     "title": "Nam News Network (NNN) - New Round Of Russia-US-Ukraine Trilateral Talks Begins In Abu Dhabi"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWFsNkFITi02Z1V3NGtpMndYU1JJZ1RKOUNYWW9tbWJvcHRpdDAwNGJzQlg1bURIS2pzMXA0UWRNRF9WY25QM1ppRTR0T1lqRzNRSTlzanQyeUY2WC1uOFJWQ3Mwd3pyMVFQcl8zTkZZeERfSTJQQ0g4WXFlWmpvdlI5RzNFeDNnVUUtdnZsVURBN2JPMmpYSEJUa2pXOWM?oc=5",
+     "title": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGhONWNmUnBCZjBHMWNrSU5JYjRDbVZ2UVZkcjFaNWVfZEJJS2dSQVd4NTdITjhZaHdUbHFQbDQ1VmhHVXVVLTd4UENvTXNxZUhBZTVsUTExYmJTaktacjUwQ0lpcUY3UU0yMGVSanVodTJYLVJjeERfVUxfTjlhSy12YkRnQ2Qwclp5RnJrRU5BY25wV1NZYlpKaHdZWHF4VnJfajc2ZV9qOXBmMmFCMEtmQdIBuAFBVV95cUxOZWZVY2FpTk0xWS1GSEkwUThabWJYMmQyeVBqWWlLUzh2ZFJOTzhoWEFXRHh1WmxQbE5BaHQyeTEycnlUUFJselphQ2dWVFJMcUdxblYzZ1JOd1VZdmQ2NFRESzRJUVRUWmlLeFZBalVhcHMweXNncnFQcFRLUDhOd2pkLVVMMWdwUDQyZDRiSUtaUWxCQW93TkdJZUdZX1Q1RUlaZzRHRW82OGNNS0EzejVvcTMxeGpL?oc=5",
+     "title": "First day of Russia-Ukraine talks in Abu Dhabi ‘constructive’: Zelenskyy"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUklxZGtGd0R5THZzUFJPSUJ0NU1YTzF3WDB2ZlZQV0VOWUNuRDVUQ1Vlb1FESGpaalFRQ3RZdGY0T1lOX1htZWVCa1Rvam8ybTBOTy1wMDZ5dXNKbVdnZkItVmdzQ3MzbmtoNGZTU2h4Q2VpR0JrZHJZNkJSR094Y1dSN2l3aWNua2hrb0pjVUZ3WTA0Y3hrbWtVdnE?oc=5",
+     "title": "US attempts new peace push at first Russia-Ukraine talks in nine months"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWjZYdEdGclo5TVdOVXhmMWc5c2ZlWmZwN1VsVFlQS1FCQ1ZsZVVhSC1NYWFvQ2cwUEVOWHVFREUzYUJUbFhSUG83U0tYRXlaTzFpOXhsekhwNHJBbHh0WVR5MERnbzRkUnlZWmFUM2hyWWZvZktCLWZpUUs4MnVObmNVdVFlV2gwQ29PV1RibElJdklnM1E?oc=5",
+     "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFFFNGNPMEZ3M2VBX0owQ0ZnMXZXTU5qVTVOYW93a1Z4cVBvc2cwMTJPOF9UOGxFeExEamlKSzhFOGV6ZnkybHVEZXZCd2F5bjZ1VEs3WmhNVGcwN09jYnZNcENuYV9lVEsxVTlnU0JBNVBkTi1YNjNOZ1dRX1hoVS1DMklTak16YUNJOHpPYzhPTzJQVmVOZ1Qwb0nSAZwBQVVfeXFMUGFWcFhzaVlUZk5EV0hNTlZ1aFp3NHVHOHZVT1hSalYtajVybDlYVzI0OUJuR2tDcEhuOHcxWUVoQWJoWXRmNldUSGZ2a3BYVi1QdkxQcGpKSVQ3eWF1NHQ5S1d3eEVJb0pjUFhjNk12RXFqVzVmd0ZIeVFRcnZYNEhmRjUyRktfUUxrQ2RPZDllR0FZdWxiYlBObVd0?oc=5",
+     "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "US Army member arrested in UK for suspected 'espionage' for Russia",
+   "summary": "",
+   "scope": "world",
+   "category": "社会",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT0hNNGY0T0RDZVBLMGZlOW5iREJOMXN2VEt6VGV4aEo4Y2JoejZOa3VJMXJicWRvaUtnNE9pTG5iMzNfbGlpQjZPRVc0SW9zV0xiYjJJLU4wTW9OY25oUE5uMkkwRkxtd2NlOUZrVnJlVUVPX1ozcDdmVlNwbEh2WWxqSmNvRWZvTDF4X25jWURpUzFHUFAxWkNvUUtYbnhuLWdKZFIxMWxLS2tfWUY4?oc=5",
+     "title": "US Army member arrested in UK for suspected 'espionage' for Russia"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUE1BdG9yN2hIRmJMbEFZdlEzZi1fUWpETU5WYU44WjJJZEJBTWYxNFF6X1pkSmVQUU1KbnRLWlJuMk9JTjZEd2VScHdHZGMxQTQ0bDgxclBIdmZqWVVPWFlzTjFBM3lUR0lWN04tZ0FfTlY1UTR5eHgya3VRVVQwTy0xZ1h4ZXNpWWI0ZXQ4V0V0WEN3OHlETTE0Zw?oc=5",
+     "title": "US soldier assigned to NATO unit arrested in Britain on suspicion of espionage linked to Russia"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFJ3UmJ5R2NmWUU0cGhuQWtib1NwY3Q1TnhrT0ZoZGg1cjVabk0xdFFoRmw5LXNua3VUdXQ4Z2RqVU9FTlh2a0VYemlYenRjbFp4VWEwMl9vR1hEcTBXck1UUTUyLWJlUENVS1Y1WDR2aHNaeTlnNVlWX0FGUzF6cTJ1Zm9VTHhZVTV6TDlQRFBOdjZIcEdvWGRMbVREdzTSAaQBQVVfeXFMTkJOdnZNNmg0LU9SaDgwVE5DRnpsblZzZW5PbzNfbUZXb1ptUHoya1JWYmlLcUdxaElPa1BKQjUtaVYxU0NheHp1UEVGcHgwTm1EUHZLcG1XcnhZb3cwbTdCZExTYXpVazN0YTJtN3hnT2JTYmJvejBjR1NiNzRSTWMwSk9IVlBKTy1ES0dNRUpOVVNfQUZsUnZvUWZFZFpXWEVCREg?oc=5",
+     "title": "US soldier arrested in UK on suspicion of spying for Russia"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY1ExOXdXemtDdFROdTFGR3ZSMzFRU3R1VWNuelc3bmJvclVtV3E3Tk9DNHk5eUxBOEVzY0hjMkFkQWZtSHJLTEkxNXdtNnNlUFMwOGUtWVA2Y01oVzVtNEdDcmRwWTZOUDlSRVVSdWhoOXBnb0JiVG9waXBET1ZzRHdiTEY5QVhWV3pKWFN5cG5yRlNLV2lzdEdBM3BKOGx5U1JRSFl3T1h6VzFTbzJqZnpmcHQ0Ml91R0Zr?oc=5",
+     "title": "UK counter-terrorism police arrest senior US soldier with alleged links to Russia"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOakFXaVNPbmg2bTJZd1lNdkpDUExPbHBMR002azd5bEVPWFZCYTRpbm1zQTkyeFQzeG5sajJHVXBxRTlpT243cHA0TWxaVjNRbkJDdUNRWXhZT0NOV0FvNHE5ZklUSl9pVXZ1ak1STm5MSC1NQURKU2wtTGJkQ0xhenBNRmnSAYQBQVVfeXFMUEJkcG5sNWEtTVpGb09iX01wRHRZLS15WWVVQmZlOWJIZldtU1FjeXJwWlBiN3NXeXRySzVEMWNHRGtGVENwdG5UOGpVV3dibHdIRDU2S1doNDdITUNzbjRHZ1laOGlNei0zVzdCTlVyU3VySWZ1WXNLdHQ4Qlg3azhKTEs4?oc=5",
+     "title": "US soldier arrested in UK on Russian espionage allegations"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Nvidia CEO's affair with alleged spy aided US$7.5 bil in China chip shipments, Information reports",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SbmFEUnJyWU5kZ3h3cWFubWprMms3OVpmU3BGamtZTkI5SUhUeFUxTFBjMW1mb0dIX0FUMzZTdFRvWlBTdGNPUTNGbUNOc3pO?oc=5",
+     "title": "Nvidia CEO's affair with alleged spy aided US$7.5 bil in China chip shipments, Information reports"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBa1J1TENBeUdudmN2cld5UzNqaHJXaU5obmVaVTdMbzFvS19tR1FzUmNoSHJ5VFVJM1RPZ3RsM29yVGxGM2c4UHJfUkNUTnJuTFBtXzF6WWE0Wmc?oc=5",
+     "title": "Jensen Huang: Nvidia hires major US law firm to investigate alleged Chinese spy affair"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOHhUdHFXb3pRd05pMHh1LWcxVldiZEQ4ZWhnaDdPMnFuTk9DUU9iWENpZ2ZaUUZ1cnZNNDU1cDJtNTRVeG5wMVpDdFlmQU9SRWJnYmhWZzVMQjlvdi12c1Y5NlRDZWZhVFF3MUFpaGlpOWtzbVA5ZEx0NV82T3Uxeng4bzlEX3F4bTllU25GVDdkWGZGNjhUaXZCRzdVam5ZUTZVYVhFQlY?oc=5",
+     "title": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTlhHY2R4ZzBQdVUyczNDeTlLVGdseERCOFhoR2RKZUtldkpPSXNnblhocmo0UWtXZ0NNNmNfM0ZuUk1VZElqMWFhSHNDODg4UVZFbVhCR0RPMzVtVlliQUh5X1RWN0ZiUFZhUDM4ZzFxUlVPNjhmdmtTTlNaTlAwS09CUE1HVmpMeXpXbDRsOTBHdTRWN1HSAZYBQVVfeXFMTlRNeG9NZ0k5XzBlWnJLMEI3STcyVGNzWXhfanVmeXpsYW5LZEJXX1hveHBXdGlNM0NGSGJ4ZDFVWFhPaEo5V21mR1ZXOFo1WllCVmducDRHNlotWHp4R1cwNW51VE5LSmZNTEs1d3ZYMGwzVHRfbVNsSUZxWkpXejJxaVpKSXY4UUdoVVlkemJWYm1IUVVR?oc=5",
+     "title": "Nvidia and Jensen Huang face shareholder lawsuit over alleged relationship with suspected Chinese spy"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uNzN4LUppZUZ6dm50N19qYTlZeEtLLXlhbFpTdm9RN0t6OEM0eUNCU2hLQTFpXzRKcnM4UU1DRFhlNFFzOHNnUFdfaWtRaWFfZjV2eVRub0JkV00?oc=5",
+     "title": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdFBtNFgzdGlrTkdEMGI2UG5DQTVXYldQSmN4ZjQwWWRUakVmMjU1b3ZGczZFZGNiSmh2aHZaS091VXoxck5tS0xrbnRoTVBXLVBvemw4UGZJTW84NzB5YjE1TW1JS3BOX0p3YnpmWS1IMGhibThxcGRETHZWaWJkam9jMVdGejlDZkdTc09uZ1d0UWdfcjBPN2tDaGtuNDFCV2RJZ1cwNEhlMDlJaXZURkE3c1hxd0HSAbwBQVVfeXFMT2pfUm5tRmlDeFhNZGwxdGxTU2RJaS1qQW9zZmFQeFFkLVpxbUdpOHYyUWdmMFpRcE90c0E1RnhVeWV5bk5GcHB5R3JGMm01YXpNeHRZZXFzR1JCOXRVcUd6MU9lbktVV3BEYVZLcUo2VFRSN1BkMHV5Q0hIVHFhZ0tJeERENVdScktGU3JKYUZoZktuOVpEMWx0RnEzN2N3ZjVJVWEzeG5ndjFhLWhuTGlOcncyM3dQRHp4c0Y?oc=5",
+     "title": "UK children’s author David Walliams accused of grooming minors"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNDV3T1BOUDhBRlpqd3k5ZEx3bC15X0VaOW1Ha3VsQzNrOW1ZUE1MOG1qN3NwT09UMWxjcGxhUzhVYXFfRVRVa19ZT3VpSGdNYXhNbTNhRXg1bzdaV01iVVBzOWt3dDZBYm1rQk5xdkJ5aE5GUWVKQ2E4cXlOWkhLZXNWWDdSQWdaa3hLdDhyUDR5azNLMVhFSzd3?oc=5",
+     "title": "UK children's author David Walliams accused of sex assault, grooming teens"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYkg3Sm1yZGdqV01JYkMxaXVNYVpMNmJFSkU1MnJiLXhNby16V0JETUhrN0kxWTF0ZkhrN19PaGZ5WFk4TzN1X3huTXhSZmxTNWlhQWREb3QtQlJvUjNFQk1HWVlSNlEzWnJvWkxfMjdPc01GeHliU18wNkZmTXNxZ21QU01UUWFKdzVyYU90V0oyTmlweURZNkdYTWlWUEZwQk5UOGhTUWU?oc=5",
+     "title": "What are the key legal issues surrounding the David Walliams case?"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Hamilton lawat Rafah, tinjau usaha bantuan kemanusiaan ke Gaza",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMXF3bmpOV2o1VVZsa1U0eXd4VlVEbjVhbGs4cHJIbXBKQ0FzRjZmVTJTWThsWnVaRTV5cU1LMl9aSWdBdGtkWThQdW16QTZIMWtlUEhKSTdjZXBBZEtudFVtcTcydW1aVDQ1WERwamZDa3gxWk5qVnNJNG9VRS1wbmEza2dJV2RpVk1hU1NmdmdlekJBR1JCTWV2OTdxSGYyUHlORzA1XzhzeUl6YkQ0UXBtOFFFQXPSAbwBQVVfeXFMT2Y2LUpUWFhTejgtejJkeHZOWFh5R0tHWUtCZzlpR3JBdzZQM0tVaGE5Ukx5Q2ktVk9KRUNOZV96aTVxeGJST3dodlc1UWRqOWQ0eTlsS0szcDZkZWtnNHpyWU1JZjFxU2xFdVhPbEN4QmpoaWQ4bTMwZUQ4a0ZITkc4bG5vVWxGM0Z6ZDF5ekNfOV9ET0tDWnpuQUhfT3ZIVGlsUlpLRG1aQkx6bTF1Y1ZFYVNOckZGUkh5SjM?oc=5",
+     "title": "Hamilton lawat Rafah, tinjau usaha bantuan kemanusiaan ke Gaza"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVkU4V2o1U3lxN0F5ZldsYlpvQW5QbTF1ODZ1U1M5LTZtOC0tT1JWcmNpakdKa0gtMzJscktJNGFoU0l3UWZvdm1odWptUVBYV3YtZVE2OVJhRFZtVjJLeVhNOUYzR3BsWHZCVmkwTGg3bzdpNkMxNHY5Nk1wQW5GaFVKMHpwMmxBd0pZZnJlR3ZGMXF5Z01XVg?oc=5",
+     "title": "Lewis Hamilton arrives in Egypt to visit Gaza humanitarian aid facilities"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR2xQLWNBSndyQXczYVZXaHBmU2lNNkgxTTVYMWFxMXpSdk5YaWNreENocmRFVnZ3aEw1MUpfQzlUSzdENmdtTWVVS0Q3LVdoQmpMX1hwWlJNYmo5S3UzamdsQ1oxbkVsNEdnNmhXOUVINDk5NmVid0Y5ZlNvb1BYcmRFbktnckVydWs2RDhJNTHSAZYBQVVfeXFMUGo0b29QeURIamUya29PWHZNYkpicWZBc2hWSE1ISDQxS2hjWXZZWkR0UXVtUDJNbUpKZ2RvcDNtNXVWS1NZTXFQei1IVU9aM25CZU1ZOFdVVnhFWlhiU2dxZ0daWjVoZnRmRTdqNXdqcDFKMmE5Q2p1ZWRGYzFWNGM2YlpsN2dIXy1mM1VEdURINHRxTjFR?oc=5",
+     "title": "F1 champion Lewis Hamilton visits Gaza border"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "SEA games website built to withstand cyber warfare, says Minister",
+   "summary": "",
+   "scope": "world",
+   "category": "政治",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc095d1dFcnI3VmlVbUVyc3F6N2hmM3JnNGljQ1FtV3FQVVZ0SWM4czhwQnpDM2U2R1FVa1JQbzlyQVA1RHJyekFldVBWOHJ2XzhaSVdMcldFTXdSSlNSVDRadzRaRk9iUmlyaGpjVDFZZV9ORC1QT0g3cUtzMXZOUEY3ZTZlNWx1Y3UyUDhTazNWSVc3dXN3MWZmUzZNd1NlSG1CTUdPa3YtNTBQdmZzajNFdWvSAboBQVVfeXFMTmI5aFNwQVpSOHNXYmJTTkc2NjJuWnVHSWFIamNiOTdqQmdYNzlheWpXR2lWZ0Z0WE9xYkZwSnhpN3A4WHc0NTZUU0RNM0t5OU5MbklSX2ZFUDhrejdJRjlTeHMydGE5RjlQWThQcUFvdGNndTVrMV9wajhMbTVTY3NUY2VaTTR6dGtsX0M1S0l6QWFnTVlodi1UUXhlV0RfR28wTndENk1SUXZRUTFjRWowWWVBMi1TdXR3?oc=5",
+     "title": "SEA games website built to withstand cyber warfare, says Minister"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU1g4bkg3aWltVnpoMlRzcGs2YzJVY1lYVzd0VGwxRklfR1RCZDRwdUhwVVYxdmV6a05LYXJyNGdpMmVFeHZmX1FKeXJ3VEdJaUlMTnEyZ2lzY2I2MGoxMWgxci1DSGJZZ0pLeDYxQUx5Qi1pTWxyeUZ5T3dvdU5odnAtb2E0bmhxR3BickZ0QnFLTFJvZEFMZmdtRFA4ZGJWMF9aNDczWmx5NG5XWDI3NTk5Rlppa01zYmNPRC0zS3dFWmdWVkRVSw?oc=5",
+     "title": "Polish gunman visited websites about Norwegian mass killer Breivik, minister says"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNalJWLWlYOWZsMWp2WXVoN3Jpc0Z4akV0VFFtWDl0TXBGa2lCVVRrZkhFckJQek1YdXY4am1PWWx1ZHVqeTRfVVNDNXM2dzFDT1Z3SDZ0LWk0WVl0Q09EN0tQSnNkU3FvZUhTcDB6WVdHLWxVZEVlcENjLVBZcW0yMkk2MHLSAYQBQVVfeXFMUHh5SUFTOWtGYU81OHhFWXhDNE1mYVpYV0lBZmFFNXJuSzNaQlVGbFoya1prSEJUaUIyc1VqRDlxWjNCVG5MaXhCSVNmYUx0YW5OQlMtWDRWV05xOWl6bERWc09CWlRRVmx6NnUtTl92VXliNGotZGhvMExZakphU0hBWXFl?oc=5",
+     "title": "Poland: Krakow shooting suspect 'fascinated' by Norwegian mass murder Breivik, says justice minister"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Moonshot rents Nvidia’s top AI chips in China, documents show",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR1hiUjBhTFlTQnlkQmtSWXlLUVNDaTVEdWtzUkJqNVhPajNhMXZJUEs4QXZ3RlBFMmpha245ekpxb01MVkFPbVVGZ0VkRjlYR1E3Qnl5bjdMM2xWNXlkM0haTnNqSE9ZaDJuMXdsczdxdjlKMlBobHNuNkFlM19VcVdaRi0zQ0ZBa2k2MjMzX0lqQ0tOcnBuNDNnSlVvQWNuZ0lxUVVaYjVfVDZWTktySVp4aGx5TGd2WFJLUA?oc=5",
+     "title": "Moonshot rents Nvidia’s top AI chips in China, documents show"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli?oc=5",
+     "title": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQzNzRzNMbFdRYllVV3d2QUlfMnFRSmtoTXRXR3N3Tl9Ba3ZIZDRWVVFxUjhtZzl0QzNqQ19ZN1R5dDJZbzdWUWxkV3E2cmU3aGo0aDJnN0FYSENCRjgwejJlbjBabjVpbTVraVEwUDR5NTN6N1RsUDNHT3U1TkhMSTVtVGN3MjN2YXQ0RV9rZmdmLVVoQ2JUU3pGYU9yV0NLRVBnZ1htVUI2bjhTd2c2MVo3bTTSAboBQVVfeXFMT0FRdDZJNzZxQ2kyMnhLc1Z5N1hJUEo2RkFvU2FseElhZDk5aWhtVE9JREhCUFdaeHgwaUN2U3laZC1tMjJxTV9MdXV1QUY4U1JoamhQREc3YWo2V0t5NzJaelp6cUs4YXpvUjRKcFh6NXdkVEozOXRuNGlxelhYVFMxSkxsdUZIeUtBZ2tRYUtLWnQwN1VWNGZ5aGpfYmRKU2NoVmxiN0dXV0ZSR0xGZkJXNXlQTkMxcG93?oc=5",
+     "title": "Chinese university buys Nvidia AI H200 chips despite US ban, records show"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Nine seriously injured in South Korea bus crash involving 32 vehicles",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNWdPSTFkNUxPVmRjYTFnOG1nSlluWGNQZE5nSGVKVjFydk9aSUdnQVA5cWlQajJ5M2VEdHdqSnV1eGJWRExlOE1OWHVQb0RVeVFCT0J3YU16QzNyTDBVckhmVjdndkdLQkwtQlJIMVRPN0FlNkFSMTZvaVN1amxQS0tfRm1lazJiRlRwbkZHcDlOSEJlcTlOandscl9GdlV3Qm1iUUhRNjhQU09EdU94RmZxMjdKUTV3MlFFSXBYNDNwLUpPOHlF?oc=5",
+     "title": "Nine seriously injured in South Korea bus crash involving 32 vehicles"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORGkzeWN2cW4wek5oeHNhV3hfcTVxdTRXZWdUeDZyQzdDWUk0S2F5OFZfckVTZDRLenRtU1N5NzNHYkx0dmd6VzJLYi12TEdNUWh0N2RQN205SGh4bndNQ1VVLVBDaFMxYXhKd3p0OUotUzBtcGNUX2NDU1lQLWJDOUlKX2tTcWtYOW5Uc3JlNEZyTGlqMkgzTzE0VTNBQWVCNkRnLWF4N1I1R3FnNjZRUFZrcFFUQWVVcDY3TkdxMXpvQmZES3V3aHZXOA?oc=5",
+     "title": "Nine seriously injured in South Korea bus crash involving 32 vehicles"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSTNWMWh1VzJnQ1kwV0tRNTZSNzVjWTBYMGJLblpBOWtKa1hXZGxCQjBDY1lYXzBqWWlZNXJLMHRvbmRfWVBXUmVDS0NydTRyd0pHbzctNlRjTVp4YzJOaVoyZTFiNk1iU21Vd2lNQkJWbndpX00xbXNfSUgwbVgycWd5QzVBUQ?oc=5",
+     "title": "Nine seriously injured in South Korea bus crash involving 32 vehicles"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Wall St falls as hot inflation data fuels rate-hike jitters",
+   "summary": "",
+   "scope": "world",
+   "category": "经济",
+   "importance": 3,
+   "owners": 3,
+   "work": true,
+   "links": [
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92a0Z6alU4NTJ4RXBzeTBmU21Uemlab2g3YXZSOHNNVVVMbm94NzcwMXljNTJjQ1FrN2MxdGZoMU5lblF0N3R4SmdncE03Mk9B?oc=5",
+     "title": "Wall St falls as hot inflation data fuels rate-hike jitters"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEE5eGJXT1lYRVFJMUpWb2VCTENjZ2hBNWk0QWl5QVZBNmJ4TFBodVUtRVRzV0JubVE0NFJYRFlmYkpuc0tlbTBValFhV0ppcGdYNEZERXV4ZnhLZUJKTF9fUzZEeHM3cDRwdmlMdUVIUWlERHprb3lKakQ1S1gzSmI5LVZYWWx2cTBjVC1sVEc1OG8tOS0ta0k5VQ?oc=5",
+     "title": "Wall St ends lower as hot inflation data, Fed comments heighten rate worries"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa25KYnV0YmpVV3hxYXM3WHU3YWR0aDlydW9XTDFvcm5mMldHaUNsc2lTdWYwU3M0UWROeEppbTBEdGJ0WU1TclZndU9xbW9PNWkwczBqZm9lQndRcWg2bkk0cjNtR0FnWkx3NFlvS21VZXo2dmQwemxoWnVPMG9NekpSNXFEZ3BaNGRaNVI3b3hfUVJxQURXNTdWdVJaUF9naWJkTWljWnhEUk0?oc=5",
+     "title": "Inflation runs hotter than expected as higher prices extend beyond the gas station"
+    }
+   ],
+   "new": false
+  }
+ ]
+}

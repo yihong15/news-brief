@@ -1,0 +1,550 @@
+{
+ "name": "2026-11-15-evening",
+ "kind": "daily",
+ "slot": "evening",
+ "time": "2026-11-15T18:10:12.322382+08:00",
+ "items": [
+  {
+   "title": "[LANGSUNG/TERKINI] Keputusan PRN Melaka: BN-PN menang dua pertiga, 22 daripada 28 kerusi",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMWV2dk5pTEJvNTdQenhYRnYyeDJ5YzZLdUhGR29DYjlqYnRDTGg5MW5SOUNWSlZfbER4T2VRMFdaamQ3N3I1TGFCZkhINTB1clZ2d044OERpQWs5QW40aEg2cXBZUnlyZGRKQnR4QzBpZlZiVS0zeEpyb0FkMm12Y2xiakNIcFM0bjMyMXhQdFhqZWRpUzQ2THBXdFpSNnJiS2UyZGdTdGdZaFZnb3FfdWhuUENrR0VOUHlMUzlEbjHSAcYBQVVfeXFMUGJNazV4VndNMndCU0ltQkdXMVllQm05UERCTlNTWVBPOVlvWkNlZWZSYTVkSnVaN1M1UU5PSnVnazN1czZiR3VDQWJIa09rN2pDUDRiVVRYYzZsdDFOem15cnBoSko1TUVDYmlQYXdQWVdhZWhCVm05Vm8yRkNaeVVNOVcwLURSUkR2RXZGb1B2NlliNTNobGVJQW9BUGhBQW4zQzZtalhMVEpEYjN1UmdkMFdnakRtSkd6ZU5HWU42Rm5wWlRn?oc=5",
+     "title": "[LANGSUNG/TERKINI] Keputusan PRN Melaka: BN-PN menang dua pertiga, 22 daripada 28 kerusi"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XUlVqai1aZnM1SmpSZTR6b3MyeG1wVDdzU252NnFPNE1VaUctTGdrZG0zNjhVTFlLSVRkSEFXb0JleDVaeHBMQ2tnNGozNFBjdVlwTGtlalhrV09sMk44N2Fn?oc=5",
+     "title": "BN-PN sapu 24 kerusi, ‘gelombang biru’ landa Melaka"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdGdnZVhiN0JnaTRmeklQUldUVk9sR3RlQ3NSRUZPSjBhWEotY1ZEY212TlZ4ZDJhX054VGFoX3F6UVpyS1FFY0xnc0xldERNblhjNzJMVUdGR2FSeXZhRzR4UEp6RV92bzN2QTRJc1RMNzAtU0F0ZU5Xd0JoX19oVlFNLVZjZlpwZkItUzMxNzZfSzFHdmZzd3BGd21ZajdQbXlpcjA5V1lPY0txRWJ3?oc=5",
+     "title": "[TERKINI] PRN Melaka: Kemenangan permulaan tanggungjawab lebih besar - BN"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ3pWQ0U3UVBjbnRBUUVBZVBMN0J1bXNYSkR0a1NnY1EyQ0h4YVAtTTM0ZkxRWDVxU3FMWEl2dEh2UG9NaHB3VmQ3cDdkN1lNWEZfdUxWMFNtRmk3TGhHdTZFLXpVNGlqeW9LVTZnZzJpdXJ2QVRERmJwejRPU240dVZCalJubVUta2RxcDlUOGRFbzB3MmNveFln?oc=5",
+     "title": "SPR sahkan BN, PN menang 24 kerusi, PH empat"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Melaka umum cuti khas esok sempena kemenangan BN-PN",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQTY1QU9YYWxQZEltekM5d0w1T29nQXE4NU4ydzdVLUw5TnVRdXlRcG92S1FOWWRXYWxMOWxJMUtnT3g1MFVWcUQ3STAxaXN0VDQ1WXMzX3BlcjZOVnNHcFRZVDNvcG5ENTd3V1FLM2E3Sm85QTkzX1RLbjBBU1FLTGhHaTZVN1Q5VE1aYWlmcXpNUEJMNl9tejN4WEt6c0dHa2J5VEdNb0t6eEpwMVBYY2dMSk5TdHhwbXIzVE1CdDFVZ9IBtAFBVV95cUxQTFFpTDJmSzBObkJKaUJoSjZlQ0VoRHJQdG94VzItOXNtaEZjTlVBNkoweWRBdlptYXN6S2J1SXZQMW85S2R3RFl0MDRfOGpoNVFMdUlXVzNoS3JJOEx1WjRPYTBlS09IclFlRHYyaFRSYUNHU2tqQ050bl9VV3dZTVhCQjN2N0RPNm52RHVGajJRSjZRUzVLLXJLaFJnUVktRWpVVFYxY3psMEJ4cHpHN191RjY?oc=5",
+     "title": "Melaka umum cuti khas esok sempena kemenangan BN-PN"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85M25ESU1uUmM1U3I3b05Kc0ZKWUlrRWpUdDc0N0JTWTNOTnpfdHp6ZXd0aDdHZV93UF9uc1EwcGxfdEh0dEN6b2M4Rm0xUW91VHQzUGJaTnRaWnhnTlFiLWVB?oc=5",
+     "title": "Rauf umum Melaka cuti khas esok selepas menang besar"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOFkzRjl5Sk1JYVViUGVVeVF1dEVzbXZ0ajJtaGpJRDVIRnFQQUl4T3FqYzNQTG1COWI5UDFkeFNEbDNTYlBXNGhCb1FRY05TY0l1UF9mLW02NXNhdlpLT3RCUmZBZWFEam81R3RPS09QTU1CcnZfVWdMUUhsaHBXbmhjcERBSTk2aDlfX2JGREZBYVU5eE5HbA?oc=5",
+     "title": "Ab Rauf umum Isnin cuti khas tanda penghargaan kepada rakyat"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTFN3WUZGQXh3cml6UU5uS0tyMEJuOTdFUzlDY19FOVZJWHhKX0dkazk5X3NaamRIYkVid2xxcS1QT2RDUGlKOUdLYU9Vdmk3SEN4UFg3ZWxOLXFfZE1DZDdBNFZ0cE5ENXVnRE1MNFh5VHdBckxEV1J5UGFDYThzY3lR?oc=5",
+     "title": "Ab Rauf umum 16 November cuti khas"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Melaka declares special holiday tomorrow after state election",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWJvWDJHX1c4blJibUlRWmZOMlI4ZFRHYWtXQWpiSFgzUm1CSG1iRTZvMTNTUUNxNGpfZ1pHTGZFdzNEcUQ5Y0VERllYcVljeGF6RGFLU3RyZF9RcF9iSFhJQUhkV3o2cjVoSjRMcV9UZnZ0clVvUjUtYVR4NFIyaUQ2TEZvLWJ2UjJLVjRRNElVNDljN1VkaFNWczZwOEhxbDN6MWE1WTRNWkowVFpzMjlyX3LSAboBQVVfeXFMTzcyOEtRZTVkN2NjcWZtckhRTnVLSmUxV3BFVm9jZXVSVlhJWDVvVEZPTGJKWmJZaUw2TWVBX2xya3YwMDZPLXN4SE1KZUl0ZTZHR28tRXFnRFVQOURrQm1HY1NlbEdXQ2ZDWW9LWjR2azh2cEZFRFRqNTlPZHRhMDI5d3FvZXVDU0xRTnM0RGJMa09WS1h2eU9aT0JiRElrejc0VUR0MTk5MndZVWFCSFRNdDRxdTZiUDl3?oc=5",
+     "title": "Melaka declares special holiday tomorrow after state election"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SaV9jWG80a0tzd0JNY3pPOE10eW1oLXV4T1RpU3hsdWFCazhKZ3A5Vm55VG9DRVV2UUxZMUlqdTBjWDJOR0RNN1d2djVGLU5rRzhycGd5Zk5jUmNNNDNTdy1n?oc=5",
+     "title": "Rauf declares public holiday in Melaka tomorrow after landslide election win"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlckJPSmJaR0xBMVZueDA5TDFRWF9mNGYxbzBQYUtfanEtbmFuUG10ek1oVk9LRFhXOWs1N0tOZ3dOMTZSWXl0VG8yQ0NHTFN4?oc=5",
+     "title": "BN-PN declare unofficial victory in Melaka"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSXNpVlFKemliOGs0TzBoS1ZuejZ5OGctektKMUFicXM4SW8yVXBHOEVxX2lCcVdGOFJnMklOcXl1ZmZ6LW9ZNHNPUVpmdzVNX0x6Y1Jfb2tjbV9RVkZsOXptT25pRVBRaEFrVGpGY0kxWHpTQ2UyaVJKSWNzQmc2a25Nc3h5UEVLWW9uR2l5aEtfamZv?oc=5",
+     "title": "BN-PN alliance scores landslide victory in Melaka polls, dealing another setback to PM Anwar"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Macron to make first Malaysia visit since 2017, elevate ties to strategic partnership",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWk9sZ3hFN2hUV0ZDZlJhS3dwVWxvSTlfdks5Ql9NemUtUXFQYUpGa2gxSXhBR1lHSjlTZ3V5UTdDbVpKVlVWdXoyNzE1ZXpMampvS0JkaVBGUENHdDlyTFB3X00yZkRFM09mekdYRDRBdklFQVhEWlQ1eHZrNElaeEFEWmtEMGlzRWJPZDdvSzJHbTlzd2wwWTdSbTB5amRvX2c4bFROLWhCTWZLdXlkYtIBtgFBVV95cUxQRHA4U2xIOWZWYy1QZUlXS2ZNUHFGOHNGQUFNT0dNVVY1WjBOOWJ5Z0RVeUVMZnhFSXlkNGZfRnNfOUY5SWxhN3NOenNOUjIzLUhNQUVuYlFVcFNrVDZucDE3YnJyeTRZRlFBbUx5ZV9oWWFCRWNfZ25LUTJMWUFId1M2OENiTnlOY2dSMWY1ZHlVV3hjY19WVjNEbUt5OGNqZF9mOXdzUlRNMzI3M0t3emlBRFpmdw?oc=5",
+     "title": "Macron to make first Malaysia visit since 2017, elevate ties to strategic partnership"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oU0dlQ2x0REZETnIxNlUxc0cxZlJUNFEwdjEzeDBXQzBwelhqWWdobXhDelhaX05XZXhhN3dHRVp4MUtwd0Z4YmxWSUQtSlJ5Y0JIMkprZm1KM1VLYmdvWHVB?oc=5",
+     "title": "Zahid names PN as ‘new strategic partner’"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nOG53VkVwcVpBb1ZYTVZ4T0VkNzdEZUNOOE42eDVXazlSeUh6QVk0Q0JkU2VkMHRteUN0ZEJ4NXUxNkJDNDNaNnZyYkhLdFV1Mkx3SFd4WXFXZlpfWVE?oc=5",
+     "title": "Macron To Make First Visit To Malaysia Since 2017, Elevate Bilateral Ties To Strategic Partnership"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsUVJMTURpYlQ5ZHFHOHJQS1FBTW1GMnV0NTdBbGE3VWlSeVJrbUVvVF9zZXplR012U241SGprMmFpU0JzdTdPbl8tLTlQNGJ5?oc=5",
+     "title": "Macron to make first visit to Malaysia, boost bilateral ties to strategic partnership"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "BN-PN sweep 24 seats to secure Melaka victory",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTjRHdDJPcV9FRWFEYXVCRFpjR2FfRDFEaUxuMFdsbmFRanVaUS1iOUZPZGVtZC1HekdvS1ZkNGdNaUhFZ19QZU9kS0dBclgzaURGNVNITTEyLWtvT3FRRmRDZ2FoUkVVUm9OV0MzNXdpQzRTdlU4dnk5em8zcmYxZnZKelduX0xYcjZZeHRzeFFEdXVRMi1RcNIBngFBVV95cUxNOXdPd2Q0MkIyT3VaOVRONEU5d25Vc0V1M2JvX0dscnFpOW9fQWE5YjBlUURXeHZYWEo4anJ1bDBKanhmQXhLbWpkSEFnOUNfbERiZkUxM0s2MmEwSUQyTG9rdjR6VjZmZTFXQjFnQV9CV21aVGxDNlQzNWMtZ2UzUEZ6SDFVOW5XVnVuVDRVSWFRdU1oWUI5WnNsOGRPQQ?oc=5",
+     "title": "BN-PN sweep 24 seats to secure Melaka victory"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5STVgxdFFaODlaZG5YUjJtdkRtYjRKMGJWZmwwRGNDZG9VQXZneERzbFJJZjkzczBJQzZCVlBHTElMQnBEMjAycnhSUVIwQTdvcEpSN3lKX0RPOGc2aXVoWTZR?oc=5",
+     "title": "BN-PN ride blue wave to 24 seat sweep"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LYS1tTXBlRmtlZHRJQXBvUUFVTFZ3cU8xSURjVGFRVUNMaTVCYW1weHF3Z0ZIOXgyRzNjRGRYU1lqcC04eWFtazJ4d0NZWVYx?oc=5",
+     "title": "Zahid confident blue wave will continue as BN-PN sweeps Melaka"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Malaysia urged to strengthen child protection amid alarming reports of abuse",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZTY4dDdWZWE4N1JDM0x2dlVYU1RIWmFsT1JCYVdZWXNGa08tU21LcDhmY2lHRTFIYVFKQkhDZEVxcUlqQVFIRHNLYWJLamRmMHM0aUlxLWlzTzNKQWlURGNERWpZTktFSWlEeWFZcTFXUDFKUlFoamdJa2ZtckM0R2JtbXZTaDVOZmlKaEZKcVVmNWZNVDdJVnV2VF92eDcyaTNVd0NORVpRRktaVVBnbmZXU0lnWkVTaTJzcGx2QdIBvwFBVV95cUxOZTY4dDdWZWE4N1JDM0x2dlVYU1RIWmFsT1JCYVdZWXNGa08tU21LcDhmY2lHRTFIYVFKQkhDZEVxcUlqQVFIRHNLYWJLamRmMHM0aUlxLWlzTzNKQWlURGNERWpZTktFSWlEeWFZcTFXUDFKUlFoamdJa2ZtckM0R2JtbXZTaDVOZmlKaEZKcVVmNWZNVDdJVnV2VF92eDcyaTNVd0NORVpRRktaVVBnbmZXU0lnWkVTaTJzcGx2QQ?oc=5",
+     "title": "Malaysia urged to strengthen child protection amid alarming reports of abuse"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GRFpWV0JNcVZFWHJxRU1rOVZPbWtWUVdBaEdMeHNJcF9DUVVSeWhBYmgxYV9rMk1WUVYyOWd5Z2tlaTlfVnk3U0c4MUlsUXY0?oc=5",
+     "title": "Fiscal reforms strengthen Malaysia’s financial position, lower debt ratio, says Treasury secgen"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkJSOWJZTDJuazNiRTBrR0JzYm9mekllOUxGZTJXLVNLQ3BGODB1UzNkOHpFeXVBQ1JpYXh5cE53SVMweFlxaDh4LXhjZmpIWkJnQTNmakhWZl9OcjNXaHN6SEs4U2NNWWN4SnhUblZEOXBBOHM5dnJIN2FFN2tXSm9CMXhaSWU2X09sOFVWalhOQdIBkgFBVV95cUxONmdHRkowQkRTclFBR1A0d21YY1FXeUk1c0VybUFGUHBHdTNrTG4yZm5WeW9tQXFrZkZnUFRGSy00ZC1uTFVBR1lidDZHaTFHNUVOLWhrbi0xbUZ2NHNyNVRMaU5JWlBIUzM3aXZzbU5zR25iV1dWMTdNSUp3NnpGaFJUS2VrRHZkcXFNNWVYRjBjUQ?oc=5",
+     "title": "Iran's president: Time to end war in 'position of strength'"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "SpaceX pulls off first-ever spaceship 'catch'",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 8,
+   "owners": 8,
+   "work": false,
+   "links": [
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ZQjZYY1dhX2tUbkx1WFFMbEZFVVNtOHprYU1UN2tkdk9oa3Z4SVpndnN4M0dOSWM5Q3JQbUtXOVUwMS1Gak93SWJhTFBOUXhl?oc=5",
+     "title": "SpaceX pulls off first-ever spaceship 'catch'"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96bkRNcUFpSjBEOFlZSE13Q1Etbl9ubWJkMnNlZlR5cEJmMUxVcnpKWmI2SG5FRkFBdnltV3RuRFdEcXhIUkZjTG5xUHdab0NPWGItaTI0NXY?oc=5",
+     "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ25xZHF6NVM2ekhIVmRFejZfdVZ4MVRwMTQ1QjBFeFFQQkN2LTh6eHRVeDF2QzhxMmlzdFg2M1drVm9Sc0lCeWJBZDhwUjV1Vm91TzF4ZzgxczY4RlppNGc0WVJxU0t4dFV3OHIyNWJoREpaWGNweGVoY25XNzBzQWUxUk13RDJkSDZzZXVtVVRKU09admlYMmt0RGFyV3ljbHl3elp5TV9NMmo0ZEVMUENvQTFSTkh0ZHF6U2c2LVpWdE05YlJ4Xw?oc=5",
+     "title": "SpaceX's Starship nears end of 15th test flight and return-landing attempt"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOERhUktkSjNrXzRTU1BmN20xXzk4WE9HT2V1ek5MeHZGYW1KU2tOMzdLbm8xc2J1NXBSWi03S0Rudld0amJUdHkwWVQ1YnZfRVhhMGhaV0FzSWJMR2Nfc3FWVXlZWUtieWRPaUlwSTUzUTBKZ3d4bF9VYThwR0RvQmlaQzJsTmowems1aHJSUGFpTEpsbjRn?oc=5",
+     "title": "SpaceX’s Starship returns from orbit and is captured by launch pad arms in a dramatic first"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ3pDcjZESTJxUDB0bndxZWtKSUhKa3praWV6SFFuT2htZEhlWmJuZGVkME9obTRWUTc4cW5xLXpzQUw5bldDazlSMXljLXh0Y1J3LWNhTHBkSXg1bjlqQlhTZ0MzcTFDUXc2cE9FUGRjT0Y2VUZ0ZVJLOXB4R3ZWemRMNHQ4Y29feTFXMnY2RmFqQ3B5WnRVRnlfMXhXTjNQdjEyaC1B0gGrAUFVX3lxTE0yRktOVWpBQ3lJdExfOUs2Rl9hM0htdV82MWlsMUkyWS15eVd1WDN5RFhfd2J2U0Y0NlVFXzZ6c21vaWNNVTV2cERDVFhqY01lUWpTOURDT1hCVnlQdE43clZNZXR4NWVubmlCRHpZOURSbzRoSHFkQnRDbkl6YmlfNDhwUW5nWFpYY0pRYUY2c0R0anY4cU1qM1FkazNqUlB1N19aSFZEZ3puZw?oc=5",
+     "title": "SpaceX’s Starship captured by launchpad arms in dramatic first"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTGhiU1VkdFZPNzE3d0JKWF9pUGNyVGdpSnh4VlJjNGFjMnpfQkhneUJ5eGN3NEpycDFta0toMHFHbkZQdmt3RTMxUTFNTk42RG41SVNKc2g0VGd1QWROdDJHcDNwdW1kc0pnSGxrLXRxdXB3cS15aXlMQ1EwRVNzeTZfV0xkSjFnX1huNUw2Z2NfSTFpMUFERmlib2s2ZVhVTXFfYVBEMEJWOWNSMk40Q1dpU3JFdw?oc=5",
+     "title": "SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTWNvcDREbHZiSXNEQkpxS1dFb3NzcldSd1BDdDY1aTdBSWtDaXZOSWc0WU01XzJwQU5EWU5iVGVfeGVXUW8zYm0zaVJSeHgxN0FUXzBJOWFLR2pmTElZdnJFbVdqZDktSk5ySmZzQzEtclhobmYwenUxanhjSU5vampR?oc=5",
+     "title": "SpaceX’s Starship returns to launch pad from orbit in victory for company"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVG5kQzFndkNIZlhDbmNHS05ZU3FRbjBFbHVOSzkzaDgtQzN5Yl9CWXZpNHpyM0xBZHV3SFdBMGpqZVlCQjhsVjU4T3VhMG1Eakd5T0p2MEotbWt6eng3TVV3bmFhUjlldmpWY1owOUxNa20tRER3N0ZpaGRPbmVBU09odDBPMDjSAYcBQVVfeXFMTWZZR0JnSHpMdGpsNzhDR3dlM1UyZHZHenVLODBlWFpHelN3dWZ4ZFc3QjI0cjhMdzBSNzRCdkhkZVNOVjlCUHV4TjM4dHlodTlLWFRUTEp0VTBDN0hXWjhxMTc0dloxakNFZnRZMzBESFhSN0lERFBZMGFSdVFZallsRUVzRjlF?oc=5",
+     "title": "SpaceX carries out first-ever spaceship capture"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Aina Abdul finishes fourth at inaugural Eurovision Asia 2026",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 7,
+   "owners": 7,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaVpxSHVOZkhkdWF0eEc4X3RraWZYTnFJTzZEUWlITVNYWmVlczBSY081MXhJX0l0NTZ2UDRSMWtqTzk1eWRWTmtVMnBXRmVOVFVEV0N6c3NQTDJnVWJzd0VDQkdOV042ZHR1bTU4RG9jMW9NMHlqQk1CdzE4VjY0VjlZc2lWN0hCUGM3THVPNDBfc0lSbDUtbWRJY1hxT1JrVktKbWxpN01BWEFZTjVodzVKdU5WR2pQYVd6OEVaQQ?oc=5",
+     "title": "Aina Abdul finishes fourth at inaugural Eurovision Asia 2026"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05SnJwSEpiVWxsMnVtU05DZnVoWll3OXhpOTRWMjhWR0hvTGV3LU1sNDZ2UFdGNXRGTVRBbkI3NVNmUWtGU1pEeDgtenoyeXVRZ2pOa09mZkZQSmw2V1FnakJ3?oc=5",
+     "title": "Aina Abdul: Eurovision Asia Among Best Career Journeys"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZlRpMHlEOFVQMlh5SjVaYW5GRENXOVNqa2dKaGFycDJOMllPSmRqajA3cjJFWUNCRnVKa0R4QUtqUE5ySlphVkZkWkpxY1F4al83R003UUNYSWhGMy1VVlBlaFZpb2lpcXk2T0Rnc1c5VFpUaGNLMFMyS2JfQXF4SkxBN09OUkpmRGxDc1UzR2lFQVdZTFRqTmQtem0?oc=5",
+     "title": "Aina Abdul raih kedudukan keempat di Eurovision Asia"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43QVJMaUtRUERXTjlJcFlnZlRtVlh5OE16NnRacW5uVHpVT0RIRDVsOUhPRlVWNHFDdnpxd25TcklMV00xanJIUFBYeVIwWVRneGxKS3Fzekx3TVE?oc=5",
+     "title": "Eurovision Asia: Philippines wins continent's first song contest"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNazR4YU1JbWJHRWVIV0ZoSnJfSkVwX1duaGI3enFoS1BhSFFTdmdqUlJId1FpTHhGdUdHRVMtcktLMHJEUXZnNUhMeWI1R21Zc0JadUlJdkZSSGN6Y0M0d0M1a3YyS1duZjJVWVpFTVlYaGc4VXNfNlpGUzhadGhkOUF0TXR4NXZvVEl3cTNtUTBCMnky?oc=5",
+     "title": "Filipino singer Carmelle wins inaugural Eurovision Asia Song Contest in Bangkok"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGxPa25kU01IWi1TUnptaktldGpsVWZPb2hjQ3ljVklsOVYxWEk5WXRwZ3VSNFFDYkh4TEVoeHdmbjFvT0kySjQwX3JUM3BNT1JKME9BT0hIbU5UQVhDNDFTQzVDbVhyNFE0aFpHakJPTG0yTFRXT2JCNzZOOW9yaEZuZ3hBVjdnZmpLLW9IVXdOZ05wVHcxRnZfUE1KT3dIc0E4X1BrY2N2a2dnaFBUag?oc=5",
+     "title": "Philippines’ Carmelle wins first Eurovision contest in Asia"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONndnRWdNZllKTDQ3Mk0xbVdhQmR2OEJkR0kwR0pjWjFRUTdjdC10c3BLYzR1UUpQY08xMnBLaHpyWGlvRzUwVDF2blVaZnVtVnZwMnhSSTFiRnQwcnhCY3RJcTU0NUJKb0dUZk5lOXJienozZlRrXzlXUWpyUmVKYnpsY1I2RDAxc29iWg?oc=5",
+     "title": "Philippines wins first Eurovision Song Contest Asia"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "US proposed ceding Ukrainian territory in exchange for joining Nato: Zelenskyy",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 6,
+   "owners": 6,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWE16amVJdndqNEQwZmY0SkM0MEhtSkNvc2NNdHBQMUxkaUo3THEtekJEbjJlZldMZmJqSlZwWWFJTlFWanU0LU5SdlhzRWRsSlB4eGtycEZsY2Q1NUNkSXV4TU0xTHh5Nnl3VmhyUWgtRkJjSTJPWVppd04wUTNnTFo4Wjd3MmVVd3N6WVlZaEh5Smx3em9FVEpPam9EVGVQQlIyenN2RHI1UXFpQ20yMlR5Wm92aUhuZklsdThR0gHDAUFVX3lxTE5iSi1OMFo5SGJwNzZBbU9BOGVkbGszNUVuaGEwNkoyeTE0ZjREeWRKRWF3aEo2eGVXUThxSFFPWXJ6UWc1eVNVUk93LXdDRUdDSU5mMi03c012QXRTN0xmblpmdy15MGdmRElYYXB0OVpPTUpWVEcwSV9BRXF5ZUNiUjA3Z2F1SHJYNUlFWWk2aVVCelBkSVNscXZFM0tqZ3VvTUMxMFBvREpnRjRBNXYxMHNkS3B4NnA2Y2Rhc29IN0pOOA?oc=5",
+     "title": "US proposed ceding Ukrainian territory in exchange for joining Nato: Zelenskyy"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Sc2FZdms0a2VhSnZ3bHhCakcwcnl4SWhTWi1HaDJUdmZXdzVKTmtocFp0aFRYQk9VYllVZ1Uzdkp5OV9Ic2l5NmtUUXU4WVBaNFpMdDVselhoS2c?oc=5",
+     "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUy1QYS1aemtYbV8xczk0cmRVeHl2ZGNLTlFwVE1SUUZ3OHctZGRnZlpTMi1DRTFkbWlXMWRaVGliVk8xU1N1MGZ6dVdNTTJHd1BMaTVnT2JQaTAwdm1QWWh4aElDM1JlMVJvcjJNQ2pIUWlHd09qUXNuc2Q1Qnd6ZVJGTlIta3dkaHlMcWRYZC1KX0tneTJKVkNSaVdZQXlFX2Y2Z0Vwa1VmNGRzZjZYVDRRdDBNLTNF?oc=5",
+     "title": "US floated idea of Ukraine ceding Donbas for NATO membership, Zelenskiy says"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd0JvYnZkZmNUci00NUxXR1FpTHRhRXZLLUI1WGt3THNVbWVEd3NSUEEwVERrSEpfWGp0dUtoWE1FaW5aZUEwQVNoc1dfRUpFYTV1VkRVR0lGSHRfSVBqaXRBdHRKbHIyZkQ2c3JEVmRJaWFiMmpRUEc5dk5GMGpXZnJYcEtVXzR2VzViU2x3X2JJUnJxYlozZg?oc=5",
+     "title": "US suggested Kyiv cede land for NATO, Zelenskyy says"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMXlzLUQtSFlMUmxtemZJTk13emUzT2stSmpjb1M1UC1oUS0wRFhtOVVSOUJ2TE5NNTVzVmQtc2VIN25GZ3k5dTJNTmJidDRoUnFaVHZtdFljXzB5aFY4R2pvbk1kN05Kb2hrYjdNM2w0bG1lOFdPUjUtbzU2MHdEemI1aFFYTWtNd3k3RzFscThLREFGenJvR3BBdngySWczdlZuc19KR1JSaGk3RG15ZEJB?oc=5",
+     "title": "Zelenskyy accuses SpaceX of lying about Starshield – and says US floated Donbas-for-Nato deal | Ukraine"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ18wRnh5dElHdEFBakZMZHBmUG0yVGlacjVEckswemNSWmVLN2tRVndscG84SnlzTWlqb3VvcXdSZ0lUbkJWYU90TGlJblFFOVE4Vk50c2xVaHBDSkZhbmZWX1JoQUJyUEI2QmQ0cGdKUW0zeGVEa0dXbkFCb1NfYmNYOS1uc25pRXhXa0dtRTJhOVc1bG9z0gGXAUFVX3lxTE9ybDdSR08wdldkTzdYUlhvTWkyTEpnMEFHM2VobUl6Z3NfVW11V0dZOGRjWWtSRjRMczRiaHBoRUFOM095d3pIOXhrOWd5eEZEa202UU5HSFZ0LXFIZE04Wk9oamNSNUVRTkFuOHIzSEdFTXNFUTdrYVBTVF9YeUJYWG43d0hXajV0WjRRa1k1OFNiTnBTOG8?oc=5",
+     "title": "Ukraine's Zelenskyy ready to put NATO security deal to referendum"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Italy fines Meta $887 million over Android users' data access",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 6,
+   "owners": 6,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdVpVc1h0Vndrbmg0cFh1N3pXbUtpQnhJa01sM213N0J4X3lKRVd6eWZnbW9Wek13ZkZYNDRXUWRadWI4VVdRdS0tWkNYZ1FmUHMtbzV2ZVQ1SXd0cENfMlZMcDZVV3hJbTNxT0s3NzZKX2I0Yy1PSkt4WTU5cE1kMEY4WkJwTXVXTzU0Nkh2RG41VlFva3lNaXdUdWdiR3VsMkJFcFhTRmwzM0szVmV4TDJHYzAxUQ?oc=5",
+     "title": "Italy fines Meta $887 million over Android users' data access"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6U3dzRXhNdWFETHc0NlAwOXhkQ3Fzdmo1QVhMTThSeVNDM1BxR1dEejJmZzVpZjRRNHU5YnY2WTVkc1V0a2ZENTJTRTFUcWVqYmNoLTREX1E4QUE?oc=5",
+     "title": "Italy fines Meta €805m over accessing users' photos"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVFmcHRvNGEzVXRKbU5Kc0JhSDV4R2o0bnpXSUJMZnRMc1E2ckNCRzBaWDhzY2xObHVtNmtiWmdoX3g4NlVsYkc1bzFDbVB0T016LWczNHJ6bGx2ZXlQeDZPUGNjeXJPaWZ3Wm5DdU9za21PMXFlZVVDckh5Q1I0QnROcElOTnA2bGMzczBMbFJweW1ISkkwWUgzNXJpTU95N0NR?oc=5",
+     "title": "Italy fines Meta $887 million over Android users' data access"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObEw4dVNJd0JvWUNDdVpCbjVDOUh3ckRCSkVITlZnaDlPaV84bVBoazV2cXYwMTVHMG5lNVB4bVVUX0lrT1plUllBZFU0ckZNTkx0cWhjWlFqM280SHpYRXo2M3hHdDFPbkNqaDRaUlh5SkpHZnpSZUZFM3lGbWdiT0JEa3hZR204b2JxMHA1MFFGdGNyU3JxS2FXN0stTWdHdVF6eXUwc09EM2pYV2ZF?oc=5",
+     "title": "Italy fines Meta US$887 million over Android users' data access"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTW9mbXFBUUVjX2R6d19QWTBrWlFiSE96OFVjeGx1elljZGJnYkdLbnhlRy11d1BObUpPN0Vvam40bTBieFJwdGNhY0NrWE5iMG1FT3E3SnFQU0FiMm13ZmZzX0xYQXA5aG1od3FHanp1U2pWVnY1eTZ3VFR0WmYyc0VVNFVXVGIwdkFJVWdwNl85dEpIS1dFWmR4NXNfOU1tc2pZRlFtTElMV25lMU9hYWV0Njh3RUtuaGc?oc=5",
+     "title": "Italy fines Meta $887m for accessing Android users’ photos and videos"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeEI3d0dzZnNKWndEN3RYdHNtVFpKWlp6V2Vjby1lQ01RQ1hKbS1RbnlBdldRT1Z3V2d3dTFsWURlM1hkclFsWUdHZGlQeVV4QjRMZVljNWc4bG1Kc3ZxQ0RZTGNEYkdwOVBodEtpaUhsWDdROVlNSlB6dUE3dlAyUGRqX0lhWi01Vi10VlR4Znp5Y2RDYlFHZkdOZ9IBmwFBVV95cUxNcVFWZF9ZT21CVWJDdndaZmNKN1FxUV9kV0Ewc0VnQWg2TURBUGVLYjRGeHZPUXVzMVdWM1E1Y1dzbWxpVWRPTlh6UURnT2pBQTNzUy11cTh6aGltSVIxaU53eWp4a0dfalVuSGUxM0lqQTlNUzJPbE4tNnlFZzZLMlp3QUJzNWZPVVZJckZYb0RpVlkyaXpwd2pXRQ?oc=5",
+     "title": "Italy slaps Meta with €805mn fine over access to Android photos"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "At the Supreme Court, Trump aims to cut the power of judges again",
+   "summary": "",
+   "scope": "world",
+   "category": "司法",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUmhHa3owTmhha0ZlZ19oSTM3WmlLODRoNmFfbGp2REVHdnI4TU1VeWl4RHRHTVB0QUY2VTlvOVdwMjFhRTh2ZHY2WW1HRm5iNFB0cVFDSklTR241M2QxUWpMampxNmdySFFJeGJfOXlhWU5jeVdZVEFMRnk3VTAwVXh3VEtaVHJONnR3RXA4VEFjRWdpNEd4bjUwSlpadUZNNXJLMHIyd0g4NjlsNmRfUWwwMA?oc=5",
+     "title": "At the Supreme Court, Trump aims to cut the power of judges again"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ2VIZWp1ZnhpQ09VVEdDSjhteU9qNzdxWEYtZ1d2aEs3cjZ4SUtEUVlxanBWTHlMX1JTbGdMd3A5UkZrMHFVc1ppTUVka1RTTEctN0toYkFualFicnFDNVBaSjhESmd4dlBVMDdCNERsNThVc0duRkJTc3BNdzFyVS1iczc4LXM1UzlXczlvdGlocWZjWTdMczlYak1GS1N6OWc?oc=5",
+     "title": "At the Supreme Court, Trump aims to cut the power of judges again"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSWFjODE3SE95MjcyaDJrR2tkNFlTX3VjMWE0aEUxN21aQUotWDdsdWlTd3pCRDdGMHRmejk0Q1M2UzJUdXE3MkRTQnlNRU95QkJYMmk4UThqSHI3djNtdGxnRmlpeTRwelFyeEpZUVVMZG0taUQzREdMQzlFS25wT1dnUXg4QTVtVlY3Sk5KTHpUN1E0OHdkTU42ZGNWTkZkbEJ3bXo5TG5YLWtIakc2RWRB?oc=5",
+     "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTU1hZmdOTzU0Z2o1bHlDb01wcDNMU3h1R1B4RGpiRm9PamRydUF4cjd3dkV6ZmE1WVp1MU1WZXU0N1JnUVlqbjFYUjE3RWFuRm02Q1hYSEtkWUw2OF9EcFhYUWk4Rk5janRtaDNTWXJOYVFqTnc0UHJMNThxQzV3NjFHV1dxdWJNOV96eE9zbDJmS0dWNmFkaG1PRklTVGZ1c05LNGVpaWlMaGFFVGs1aA?oc=5",
+     "title": "US judge blocks Trump’s plan to renovate historic DC golf course"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "World",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYlQ4aVZ1anhPR3gyVjNJVXdNcUNBeFAtdDZIN09lQTRRQWx2UjAtd2k0cHNQWFBzSW1qeENxaWJ5Y0xsRnU0UXlqdTBuYnMzbzZLZzdmVElaMXQ5UzhWcmJCUk90Zm9xdmNPZkVsSXFnS2ZxRUFwR2tFR2dZR0U3d1lR?oc=5",
+     "title": "World"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84X1czd3dza3VFdWROSG5FcTh2YUdNTk9YU1otOXpacEVNQ09ELVh6TE5OaDdndnd0emFnNjk3UWc4ZUpwRk9ZZHVDMGcwbnE4Ny1IVE8yeGJjTlk?oc=5",
+     "title": "How to shake hands and make eye contact - the lessons preparing pupils for the world of work"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcjRIRFZXd1Q3ZVJoRE0tNV9jMDZ4M3lONXF6b2N4UzVzdjdja2M3dW54SnpPc0tpcTZ2T2RudGNybUxnYVJfX3ZtbUVXSVdXcWZZTWtJZHlkb2xtOGJYM2U4dy1EUTFLWmg5RjlXV0NMMk00b3Q5MVhQRl9nT2tTWG0tdTlBYzlIdHlfYjdkYzZuTmM?oc=5",
+     "title": "World leaders are coming to Shenzhen. What is China’s APEC message?"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR2h4aGNocE5HaTJqS18wa25CNEQ2QUZLT0hCUHo2dXktVTNWMlpQRzhOUGtMZmRfUXUtVXp3emtCalllcUpuSFJnNTR4TlV0YWlVVnBlTmVIVHNUOUJsME4tdXRTM2dKcW55NlNLc3doVnYyZVB6eVltVzdjczVscEtydko3Z040VU5iX2Zaa1BNV1N5NkdXVkw4QQ?oc=5",
+     "title": "World leaders head to Asia for back-to-back diplomatic summits"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "US air travel disruptions to persist until late on Sunday, FAA head says",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVXZEZWRocXp0dXdaSC1HaHpfRDdJdlU2WG9IbndjZnN0M0JBd05qbDlrdmtkOFpnalRoejZsWktJSlRkZERUZ29WbVBCWkw1WjlzbVpqODV3anFPLXNJNlJJNWlraGdLWmIyMWpsM2NrVTdqNWFmaFFDNkQ5M1BRWkJNN2xYSTRwMmVkZ1J6NjE5dVcwd0N2QjFGVEFrTWZzLUJQVWQ4TWFQcVI1d01FZk5ndW9qVjVsbGNrMHE2UlVIUUh2RklVeV9jMEw5WkFsSGc?oc=5",
+     "title": "US air travel disruptions to persist until late on Sunday, FAA head says"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzlDRHBLSTNHTHRtbnpudnNXdXZpYnpEQ1hhLVNrU3ZRM0xRNm9NcUx2NjRIVFVOQVJKWXZGZzZCZ0hTcEdjd1ppTkFIelBlc282aU05SS1YYU45WTNwRUx1RzBCX3hwNW9Ed20wQ1JmQ3hHVmFSUktDSjM1eklkYTFPN3FkWUR0V1pUSjRIMHk3MjJjX0VrSm8zaFJ6a2paSnRwNzVrQlZpZw?oc=5",
+     "title": "US air travel should normalize Sunday after ground stop triggers mass cancellations, FAA says"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcVJrVkZSRXFaWEhiYnVQcnJ0VUZpSWhUVjBVLWl3a1NIU0kzZWFuR0t6TDhuTUpTV184NWhXUllUOTFCZnZyanVzY0RrdERoRDcyeGpQekFXaUJwcWY4OVlsVEs3LVRKWEc5ck1SeTFNVS1CU1QzMzNPeWY1V0p5bnJBWXBlMTlqZ25yYWg5VzRTdzZFY04wcUN4d2hJaU9sUnc?oc=5",
+     "title": "US air travel disruptions to persist until late on Sunday, FAA head says"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQanpsckRBbHo2TkhyVTc1VmlLRDZFSkE4d05OZF8zS0lNd3RBVExDUXNZdGpuSG5tTUxGVWJuRWVSdUFaRi1VOTBhLTFLOG9xLTBraGM0VUtBYThsXzFoX0d0dEpoNURpWVJuTFVVel90aXZKbDhjZVBXTF9XMDdBSnlKbEdxUQ?oc=5",
+     "title": "What to know about the rare nationwide ground stop issued by the FAA"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Bahrain's interior ministry issues alerts of potential threats",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUWhhRzRTWU9OVk0wR0tuMVVxZk9WbHNRYlZJQjg4RmxMRUR1T1E0Z3hpRkhhaXVlSnRCUlczT1Nsd081dTlsY1BscWt4VWo0bU5JSXIzejFTbmlXbFR5RkJycFoyY1VHRjdndlRCc2JkYVMxOWRQNEVfVmFSYWFxTmJGQWRjeVZSRHZ4bS1VTzViY0NyQ3Z3dHIxb3FUX283UXpMbXNDYzJYX2FPQ3RaS0dnRQ?oc=5",
+     "title": "Bahrain's interior ministry issues alerts of potential threats"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2FyaWZZTTd4ZWFoWFdoTnFNVmpjakdwQUVnZ0UtMEY5MFc1dEFBeGd4UmczdGh1ektRTHBjRGxBOVlVQy1XV3NOdV9MbWotQkNVa1NBdmJaUloya1VhR2FEUTN3QkgwZ1JRN00wME5tc243TmZHU20zdlpaUHR2Q2lyby0tUkJsR0w5N1lXclI4ZWI5RTdfbjB2d1hxMXVjOVp4MlJPOF9IcjIxSE1JWWx3?oc=5",
+     "title": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOckdYbVhsNVU1V01CdmEtb3Jnb3Z1dnEwZHVWNlpPRHgyM3hQOFdUMHpiOGNSWlFDNWxEZlgtZFNjOFZOMnpLWGtSa25pLWNMeDkyYW5Hdy1IeTZpdzdISnI5ajZSdlBiQ0VDWkZhM2tybzVEWjExNGtISW54eXFXRGxzdTBlcHBzUTdRY0NkeEU?oc=5",
+     "title": "Bahrain issues first threat alerts since September as Iran says it attacked US base"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPdFl3VW15cHpkQlFFZ0lKX1hheWFjLTZzdzNHODFPX1I2R1dyRkxpMkx4alhwQzBYdGZMMUpsU0xka2VfVEExYlROSjZQd0dzZVVQMjJJMDZ5SVE?oc=5",
+     "title": "Israel kills Hamas commander in strike on Gaza camp, officials say"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYUhZd1pxN2d0N3pmR2RCbjhCQk9teURKLThfYzR0bC1rVWJpVGUwNkpJelBNeVNLY3hxS1B0c0p2bTk5VmhCeFVGUWpHSFVNdHFKZjcydUdYNDEyMThuQ3hTRmFNSTQ0Z05ZSWRSd1A3QnM3eTRjWkNJbkN2Z2E5M1FQaUdrdUtaYzVNcWtVMC1LOU1yUkpoUk82d0ZQejM5cDR3YXVqcE5xMlJkTVU2dGduMDdsUWp2UG5ERFZUZw?oc=5",
+     "title": "Senior Hamas commander killed in Israeli strike in Gaza"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZGRDYU1KRW02Nl9yaDh2ZUR3ejY2MVFfNl9wZ3lGZktTNzV3UE05aDExVjMwaWM1bHh0YU5XNDhqcmd0T2d3dkdCZmYyS3hIYXN4eExib1FrVkwyVlZuRHhQVENHQ3lQMXdCMDhJMjI5X1BvdktZejJwTUFKU2YwZVJiTDhiM004bWQ1ZEgyaFZsTjdhYWEtc05wb3RvNXBwdVE1T05tSVZtcVIyT3lxTw?oc=5",
+     "title": "Israeli military says it struck senior member of Hamas military wing"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42UEI2dkxFV01OSy1NQkZLQmhkc01KaWFqcEwySVJNYUZOeDNSdko2T0JodkN1RU9LdFBMeGJ2SWhhZXdxMHVxNy1idnhqZ3FIODhKMlFlYUVCYWs?oc=5",
+     "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHV6OEE3TG9DMmR2b2N2OEpUX2IxMlZLTHUyc3FwaTRZbDZ1RWtPaUl3Q2N6c1JOYl9FQ1k4OGxFeTM1czMzV3R2TE5ueXdQdThyZXhWTHJPUEJVLXh4aVhRVGI5Ri1VcEhMREJWbGdtdVcxNjlBYjRsVHhkYktoU2JERjBmRUctUTkzdm9JcTZLdEpwSFM2TXV5WU5LbV9hZlhNMS1ZdXY4QQ?oc=5",
+     "title": "A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5",
+     "title": "Trump, Xi and Putin plan unprecedented joint meeting on APEC sidelines, White House and Kremlin say"
+    }
+   ],
+   "new": false
+  }
+ ]
+}

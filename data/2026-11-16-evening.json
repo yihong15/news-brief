@@ -1,0 +1,662 @@
+{
+ "name": "2026-11-16-evening",
+ "kind": "daily",
+ "slot": "evening",
+ "time": "2026-11-16T18:51:38.929724+08:00",
+ "items": [
+  {
+   "title": "Prabowo apologises for haze which affected Malaysia, Singapore [WATCH]",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 7,
+   "owners": 7,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWGdVZ21JMURUYnpHRjdHM2NhUUM4bnVqNm5GVUlhSDQ0QjdNYXRzVmRYVk5LY2xHX09HR2VZV2dtMTVQXzFSNThMZ1J4TkdWS3RyRk5MS3RqeUgzNjJiN0lnc1Z5MEVfdmdRbk5XdUZTMDRVWDNkYllJbTdHV1dYODhPOUszcXJmaGRzTlNOYjNDODJfc1pBSy1jSXhYTUN3aEFYSVA4YW5LUUxERFVhRlB6MHc4d9IBuwFBVV95cUxQVGcwRXVLdm5WdVQ5ZDByTERxNG5iV1c2QUR6blVEbldsMDJ6YVJMNWNzbGRjaHU2cjJZM056V1poNHJvLUFrM0RmaDNUZVE4OXZqT01IaWZya3pfNHYxemVQMm9OVTFhNlBhSEdFRHdDcUw3TlY4V3gzWEI0U1pSaldEMkVnUWlDTFlBbTA2RUloaDg5Nkdfb2l1bjd0RG5wd0xfdURvYlhTNXE0cGdOcTVnWlZlbGhSaHV3?oc=5",
+     "title": "Prabowo apologises for haze which affected Malaysia, Singapore [WATCH]"
+    },
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSUtPdzZhZkZQUUNGU1BkTnFubzl5eEVfc2tjM0owOWxFTm9wTjhzTkJ4SzJudklvaVRmbGtlRXBlc09oM2RSNnpjZHkyd3ZfanN0Rk9ILUJIX0k3d2F0clpTYTFxR2phYkI1N2tKRUJ6QXdsZGtsZGo3enpYYUQyVzdablNScktxTTFBbFRITGhhQ085Q2tnWnZBWjlhelc4NnJwM1dKdUx6YUlnbjV4dmVMRVFGSVBnRVE?oc=5",
+     "title": "Prabowo apologises to Malaysia and Singapore over transboundary haze"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMnB4cWZlNGtCZUh1ZUlmSzk1RFVZaXREN05CQU9aa0NIeFhOa0NpeUZWNzJmaXktbmF2WTY5Y1AwNjBsZ0owbk90Nk1SV2lwb1F3cGNWbmctV3lDT1Mxa0lfcDZIMTU1SDFHX3hNZlBhZGJoWGRWVnBIbUFNZF9wTnRNSU53RTZnajVvbFhhLThyY1FKX1Z5Ry1FMHRPbVF0STNDc0x1SDNFODNXTExNV1pB?oc=5",
+     "title": "Prabowo: Prolonged haze not our fault, but we apologise to M'sia, Singapore"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcFFHWW13RlExNjJ2alp2Y0hxaGk4ZU83YXZ6WmxTbkcxbFFwb1NRajRKb3lIMk9Ic0pQSnJYdFFsQmU1NGt6bnBOOGhUWWhDbFBQd1FtMGN0MXl2bGVYU3BGX3FvZ3VYRzZxXzZFSkRMRXNBYWd0aWlsaWJJYzkyallTUXZkRS1RZVhOZmoxRjU?oc=5",
+     "title": "Prabowo mohon maaf kepada Malaysia, Singapura"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcHo5U295dTNfU3R0MVRNU1FYbkVCc3FtbXgxV2hwOHF0dnptUExXdjFqU0NQR3lldzh3UTlubXpORUNvU3NSdml5T0t2a0M3LUs2ZXBWcGtWM2RRNUNNYVV0c1hScjU0STVyZkg4ZnJ4Skg3ZWhiWF9XWjNQUTZ6SnlPcDg5UmpBdHBuYnEzWjBNV1Q0cm1HaGRSaEpuRXVhZTdFcFNoX0ItcU9MSGdwNmxKU3J6TUUzTnJCbUVVMVNRcEc4czRDTV93?oc=5",
+     "title": "Indonesia president conveys apology to Singapore, Malaysia over wildfire haze"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdkJWYlp6ZFBNS1l0Tl9IYlRpVkVVWFVzcGp4UnRNMEFjSG5IMkFtX0xNUDM1YWxwaFJFT09hWjh6QUpYMHZpVW90aDBnOGxjcURYOEtEd25pN002ZjJIaFhtWjN0clc0MzFKal9IRWw1ZHlzeDg5OXY0bjFCR25vYVhyOHBKM2haZ3NmYmh3V0wwNVlLRVRmNEVLU0dKWm9nY2Jvak9GLUpVT2dyYnpyQkdiSdIBuAFBVV95cUxNSUhfV1k2N0FfRHZWOFRHTjhLQ0I4dFlLY19KR1d3bzZLODNCYmN6N2g1aUFqanFxdEdVZ01pa0RtS3lSWlQ2ZDJsSG0xZ1BIakM5SzVtV1dVTHZaMVJDUTdnWjlKNVBxSnAzT3hDamtQV1B4VzZQZ3pmQ0xmRHRQeE5sY1ZHSm11d0RpeUJZTFVEQUdybEN4UGFBZnFteFlEZk1zdkpFanVqX0htalM5VzliYTVwZlQ1?oc=5",
+     "title": "Indonesian president apologises to Singapore, Malaysia for wildfire haze"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdGFzMmx4aHEzR2JEelBSQ242RHg4NDV6bnBYYzRDSzJkcWxLSzB4cWd4ZFI5Qlo5b3lWbERWeFdHWVBZcFF6SGdIcXJiSnFZVFRVdkRJNXNSSGpwd2lXSUhpZXpmeHFsUHN6TjhxdGZVUEZOSl8zT1dkWkI1QzRrNw?oc=5",
+     "title": "Indonesia President Prabowo apologises to Singapore, Malaysia over transboundary haze"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Bessent says Nvidia must 'go outside the company' to find new CEO",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORTFCOVBVUlRXekQ0cU1CaXl2U25DMU9lMkJSVmszakVDQkI0SUxWZDVyNHJ3ekk2YXpmYXRrQXBjUW94ZzBzOW16VUYyNjh0Vy1YRTBIY3dzcl95ZHd4SERpdjBvUENEZ1ZaZ3hSSzA3eEJTYko4TzR2MnVIQ0tJdHhoMGpuS3pORjhWOUFpS1UwcDVnYjBMUzBWUTVOUnp1Y0ZPMXBxY2xQQ2NqZ2JLY3kzS1B5ZVMtUS04a01XVQ?oc=5",
+     "title": "Bessent says Nvidia must 'go outside the company' to find new CEO"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqbDhfWVZwX2NOOENTY3NXMmVZRUlQSDJPSGJrdnhvNkFfZnBRZzd1RTlLUkdtbjlGaTJ0YW9UZTMxbU9BV19wZEVZSmxYNFZZYVVMNw?oc=5",
+     "title": "Former Nvidia CEO Jensen Huang Discusses Potential Comeback With Allies: Report"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wcUZ2OEhrUnc1eDAxUFB4TU9GSEdtcFZRNFQ5QUxYU2RJT2tPN3hkbVVxckNjeU5seDJEMXRReDdadWRTWkw2NGRIRnRQa1Ix?oc=5",
+     "title": "Jensen Huang discussing comeback as Nvidia CEO with allies, FT reports"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMjJiT3lpV1Ezamlva2NQWFNtWlB6VnRkdXhSOVBselpmQUk5Y2x0RGUyajctclFfY19VMW0wc1Z1VFBhZkdUM2QyUHE3ZC15MUUxVkk4VkJJM25jTFhlM2RaTkFZaGF0UXNUTlp3aFBfckxCaURVUWZMNVBIQ0hZU2FxWThpQldRUjM2RERqalRRNFhGaWJlZFkzWFZkRnFDRzBHamc3ZDZFLWtVdGFuZDEwUQ?oc=5",
+     "title": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcjN2X285c2doN0JocE5yV2w3cHZGNFA5WnBLQml5ak1oeVRNX3cyX01MeXF2NURhSVhUZUZpRVE4ZzhrR1dfUkZCcWozbVl3UHFBcWhxRW9uNGVLeS1EUE1Ea1VrS3VhTFR4cVE4aEppVmtHeWZLVXVtaENmOVJGb2F1cjVyZWppNE00?oc=5",
+     "title": "Jensen Huang discusses comeback as Nvidia CEO with allies: Report"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Berita popular hari ini",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORjQ5Q1pEcmREX1FHeEpaaUtRdS1PUlNNbUJpTldVUm9VSDhsc1U5UFluTzdkZjRVTEYxazQzaG95UlZjeC1YcEQ1SzQ0bDdBOWJJRVdhUnBCdGlkZUh1QVdRWGtybi0xZGVJdm1fNExDUk4tVUxlY0ExOHlIVW5mYXpSVTlCMGh1NDZQdlBQd9IBjwFBVV95cUxORjQ5Q1pEcmREX1FHeEpaaUtRdS1PUlNNbUJpTldVUm9VSDhsc1U5UFluTzdkZjRVTEYxazQzaG95UlZjeC1YcEQ1SzQ0bDdBOWJJRVdhUnBCdGlkZUh1QVdRWGtybi0xZGVJdm1fNExDUk4tVUxlY0ExOHlIVW5mYXpSVTlCMGh1NDZQdlBQdw?oc=5",
+     "title": "Berita popular hari ini"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS00wWjhXQ2dJcm9TWmZCaUdZUE9HeGg3LU5ickZPSW9vblBZNXlYOVpSLXBqUHA1SDNOSFgzSWROVnprd2RZNjluX1IxUklpaXVPV1ZEMXB4UWtXaGswaWczRUU5R0p4THhvRXlFTndyU250VmJJdzVvWGFUMGMtYmg2bWNKRUlaQnc?oc=5",
+     "title": "[16 Nov 2026] Niaga Top 5: 5 Berita Tumpuan Hari Ini"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX1FVMlJHM0hoZ1hORHgtNUc0MTd0cTRLVENTZjhLYm1vVmF3aDJQN0VGSHBVVHgxRllrTzZDRGtEbnNZemEzZnBQSkg1WkhuS0R4OTd1anRlZkc5WEVMb2VwOUlyWTEyMzZIYVhCTExkREZwaENvYk9ZU25obGVrbk9lWHM4c19sVi1tTzR4Zw?oc=5",
+     "title": "Penipuan dalam talian, isu Rohingya tumpuan Dewan Rakyat hari ini"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Anwar hadiri APEC di China, perkukuh kerjasama ekonomi, pelaburan dua hala",
+   "summary": "",
+   "scope": "my",
+   "category": "经济",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR09KbDNIRHBrYkh5cjFOaTJ4N3VPa0J5cGVNQ1NvOEhyNU52QldmTC1rMV84dEdhWEpDY3pVRlVjbUk4a3Nta1dZZnVSeE04UVN6X3l4WG5vV3ZHMUI3MWFWaXlqalpOYXpwYkFBVHBuNmYwVFhobEE3RDgtaGhkUWUyM01pQXRqaWVFUHRNdDhDUmM5MnJBQlBKSDJpM3N3VmtOUGlzb1AxZDVDNWFpNkNfRGVnLTRIVk1xbGItbS1mVkE0d0htOHVR0gHKAUFVX3lxTE9HT0psM0hEcGtiSHlyMU5pMng3dU9rQnlwZU1DU284SHI1TnZCV2ZMLWsxXzh0R2FYSkNjelVGVWNtSThrc21rV1lmdVJ4TThRU3pfeXhYbm9XdkcxQjcxYVZpeWpqWk5henBiQUFUcG42ZjBUWGhsQTdEOC1oaGRRZTIzTWlBdGppZUVQdE10OENSYzkyckFCUEpIMmkzc3dWa05QaXNvUDFkNUM1YWk2Q19EZWctNEhWTXFsYi1tLWZWQTR3SG04dVE?oc=5",
+     "title": "Anwar hadiri APEC di China, perkukuh kerjasama ekonomi, pelaburan dua hala"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPckMxMjBXUDBJcWlIVVR2dGhTWUtLRlZkRXFzSklxZ2NLYmJrYXl1ZENCOGhlakRmaXJhckFtNjlKR0ZHd1lFa2pyUlVVT0RtLXpuMkdNblFwbXBzb05WWWw0dG42OGpGdmdncUNSamlyMUlRdXVOOERENF9EUDNocFduRmQxRnRwWGRvdHQydVJkV1hDYk1PWDVROURMczJPZEtqY2xpNTNqMEZDVUJsdTBCS3dSMW5hSEs2cElPVQ?oc=5",
+     "title": "APEC utamakan kerjasama pelbagai hala menjelang pertemuan pemimpin AS, China dan Rusia"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQWVQeUJ0dzkySUpxVFptdDAzWWl5T1NMZE5BN1RaV2NVc19fa1RoWE8taFBMWVl5b25pUGZzS2x2RWtEOFBVTFR6OVFRM2pzNWhVTVhpbzI2TFl4NEFESGFYY1NVYndaTmpPZ0VTUTQ5SEdNd3MtMC1qS1hZa3BJT24zM3daa1pqOWQzM2FXMHRab1J3TEFOSjNqeG1lbDFfNzNzRHZzTXFYeTRfM2hxak92dERVUFpuUGo2U05HcnhpOU1RWDZTellzVFkyX3M1anBmOA?oc=5",
+     "title": "CheckPointSpot perkukuh kerjasama teknologi perlumbaan dengan Royal Klang Marathon hingga 2028"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Missing 74-year-old windsurfing doctor found dead on rocks near Straits Quay",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdjRjeklmSjhhdk9OZmlKaktIdlh1ZTNsMHQ5LU9sN0FMdUdweFlkWXpKT1VVUDdjWjVRVXVPSzdlYXRaMGJiUzRYX1JvNGZYMnN1RGc1Ty1KR1Nvd002SmtYM3VxeEVPVEN6bjlCblhPRFRsUHF0MHN3Q19hWjJNU1FBbGJtMnV0MWl6MDZUOHJqN1duOUJkUzl1Y0VaMktSU2lzMWM5VmFnczR6SHhJdkt2U25uVFlEQWpoZjln0gHDAUFVX3lxTE05LVNJZ0xUeE9CbnNoejlvalFoaG1kVmJJOV92TDlxWUtjLUpRZ1Nvd2hGc0VzTndrbHZnbUUtQVg1a3JmT084NXMycEJTTGtOdFZVLTBweUpua1JnRVpNUVNYZVFyX3A1TjlsczA3bzc2V2xOSl9KQXpxSUl1VlFjejFxQXFpNUt2SFhQa1JtN1hXM3pDeXZ2YUhwckRiOGY2dzhrcXI5Y3Nva3hlR3QyV2xiTklSU1NCVm96ZTZoS1pOOA?oc=5",
+     "title": "Missing 74-year-old windsurfing doctor found dead on rocks near Straits Quay"
+    },
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX3ZiYnRkV2FCUEpoeWJXeC1OeDQ2akNiSTJjbTF1S0wtY25JMm9xM0lJb2I1VUxtb2M3alFGLVE1Q1ZZSnU3R3g4TTU0YzBncWN4ZkJJRWhPM3hyWUE0eTg1UWZBVF94d0RreHFZVlVuQ2ZCaWN0eXFkVmRhNVVBdFpYOUE5YkJHWUstME1Wa1JIbGtDalFHZmhUWktIRHhxakFXRmx4RGdlYVF0UlE?oc=5",
+     "title": "Septuagenarian goes missing while windsurfing off Tg Bungah"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90d0Z4MDh0T0c0R2pvT1RKenZOckpBQnZtOU9zLVlWVHZJZ0xITUhQU1NzNUlHRWJWNEpQcHNROEp0RjBSS1JISEJHQlJhYjJiS2V6U0NYLWVNU3VaSFdsLWw3LVFEdw?oc=5",
+     "title": "Search Underway For Elderly Windsurfer Missing Off Tanjung Bungah"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "'I'm ready to defend it': Mas Ermieyati leaves parliamentary seat decision to PN",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ0lCUlJvRVZ6SXFUaHM5Yk5INmlsTjVHSWFjUlRLSDFrakVST0VHX0dzVGFNUzJrdXpFeWgyWlg1ZVQxN2ZfajdOWXJ4ZmxrWHNWNXk4UU9zUmpMVDVRX2FmNjJQSkdLNEpTNVRXeVpKem1CUXZQb0RnRVNIYlJISUFwaHY0b2VqMzNJUlFvRDViQmZPSHA2M2NhazFvcG1ITWRYa3Y4azBJSVNXaUV2WGhGenUxaDY4aXM2RTFR0gHDAUFVX3lxTFBvVDBtRWdCcVFVakhjeVBJZ3V1c1lkTHBBWHZkU2VHZ01PVVV4dG9zRG51cU5ITVRSTFQ3TEg1UHItSmZTTGdJVnFONjRHNnBXRTNudllsV2xENnZXRTRGYk4tdXBrQ29qb3JESXE4d250U0VJVDdmZ1hsMHB1X1d6djlPU3A1TkgxVU56YjBrNkptRGNDRllpbEpmT01jY3NST2FnbWt6bHV4MHVkcUZrQXNhUkk5YzN0WEs4dVhRT3Q3RQ?oc=5",
+     "title": "'I'm ready to defend it': Mas Ermieyati leaves parliamentary seat decision to PN"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQTBEM1V2RWtkQ3ROWU9KTUxsSXNHQnBkQlplVllDbVoxWGN5M2RkT3VIazE3TzBHWVdoQVJQMVR6QjNqWFRSYTBwY0pBZEZUZHkyeTdPSUsyNHh5RmpNR3lmY0oybWVqTjhLY1JMWmxhTzBZSy1kV3NUWEw1U1RQMXdZekJkVnUyMVJXcXJIX2xQMXhMQ2N3OXEyX0xkcVZtSWF2MDJKZXh0MnMxaHFLeU91VVpraXdSVmt4STFQMnA5Snhq?oc=5",
+     "title": "After BN's Malacca state seats sweep, Mas Ermieyati looks to defend Masjid Tanah for PN"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Lb1pBZHlacFVDU2hPbFBuNEtfUGM0Z0xuczY1WEJnVTAwR0tqOVhqMkFaR0w4NkIwWmJyM2lILVZzSWVkaDNqb3E1d05mVVRfQkFFN2lpWFNDa09iZ3lmR19R?oc=5",
+     "title": "Just sack me, suspended Mas Ermieyati tells Bersatu"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Asean keeps Myanmar restrictions but opens the path to political return",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONHJpdERFT1pkejRSYXk3LU9BMFJYSjdpSkRhdTRjT3U1WVpFZGlBX0dia3hjUnVOVjdpcFUzTHdvakdRX1RRWDdKYW9rS3NxbmJQbDdYT2lWdEFMempTS1VfbkF2MGF1Nlk3ZDl4bi1LQmpaTUF2d1BDcFd0cGdvanJ4VlByU1RZQTZyLW5GSkdaU0YtUjFlOHhTQWZEU2p1VXUzRUtieHVJSTJPMWFrelJEeUNTTGVKR3JHWWFtdk93ckhiZWZNZGZ1czFNUnM?oc=5",
+     "title": "Asean keeps Myanmar restrictions but opens the path to political return"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xUk0yNGNPaDlDZi1JTnRzZ2dVUVBjeUlqZ1JuXzI4VHF4RUE5ME9tdTh5Sk1ISE00ajI3Nl9HY1FicjRqNU4tR2p0aURUNktGT1Rla1NWTDd2aFBCa1E?oc=5",
+     "title": "Nam News Network (NNN) - ASEAN Keeps Myanmar Representation Restrictions, Sets Conditions For Gradual Return"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPdEtreTFaRHdQTk1VS2syTElRb0ppXzNTUmJkVng4UGlyN0hMNDFUQVJfVVVSZU1OV3NYaWVVWTBOT2E4VXNZcnQtMHdVclh1amZjaWEyLURmWDdic0tjWkdMOUxaUDBiZWNiVmJFSkZFbUtYWFlEY1JQZDEydFlxNS1yQzZtNS13WEZpQjdlaWJ4UElVeFdBTTk5eVg4UE1kSVRfTHdvZGxxV1JQLWpOUjY1TU5LS0dvN19sb0RnVUR2V2pjU01XRmwzUktabzhvT0hwYkRvY00wM3J5YWJ6WjhDTjN4Vk90eGxVMWFwV2ZKdkZGbFEyZzJGVzRZWFVQem5IVGFmSDM4UHFT0gGMAkFVX3lxTE1FM3FkSmRUQVhOUDFDbTRKbmFZeGk3dDlSNi11SHNCRjc1djI2NnFMalloc1V1TlBNWjVQLXlQN2VqU2Nhd1FHTUFXS0xmSlpZcS1RdDZNeERoY3VIUWo0cXNzaTNEOTlWZGlYQ2dkdDVNZ1JvbFJGVkdwOFNFMUNRMktQdF93bGVuQnpJUzBsUGpYRGxJZ2VfYlN5U3hGdzFkMV9ua1ZxNDBYeC1ISUNUcGVNNG1jelFzaldGQnVkcUZFUGxtWHJDWmRPQ2V5QS1CNUxRR3R1QlY5NjFUOTNBUjctaldGcnExeFNoNTZEUnp3U0h3ZUxJN3ZBa25XOWFTdWlSb21nQjBRNks?oc=5",
+     "title": "ASEAN agrees to engage Myanmar in stages, with a return to high-level talks tied to peace progress"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Asean+ News",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcm41NXNmMkFidnZ2ZVh6ZFVDZlNydzczaEIwUTJIY3BSckw5NEtxeHFtNWRWRU9CUlU0eFF6UG9VWkFCWTJIU05JM0pQNWZMVVZYX0tuZEhQR1B6Si1vNFpPOWxxTGNvc2pJc2RndWJQQ2dUOHgtUFBvbF9fNk9oMGlkQThEUTNCZGl1OHZhQlNudDNsZ1E?oc=5",
+     "title": "Asean+ News"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vdGtQcXFCSG5sMllDbmFLSkVKcWI5WDdJdjF6bjBacmdzY21mcDhhbmxVWGxIYlc0S0tJV0x2WFB5Z01iLVdVcjFQelpGQnM5aHNEV1pJSkVwVnpLVVE?oc=5",
+     "title": "Nam News Network (NNN) - No AI, Just Ink: Sending Love Home From Manila"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdmpoeGQ0UHVsR0VNa0dVeDJnaTdFdDNIdElJd0JIYXdFbUdWWEE0SmxxV1habWdtbUtwQ0xUYWJmQ0VKR1YyY0M2NmYzdWN2ZmpoMVN3TEVNYjktZU1kVlpYaUVKdUFpOElqcVJsQVYxZWJNQ2szUXl2QkI4bHFodF9CblBvMzMyS2QxNDR3dE9ISmNySHc?oc=5",
+     "title": "- AP News"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Ahli Parlimen bantah timbalan speaker berbahas sambil jadi pengerusi",
+   "summary": "",
+   "scope": "my",
+   "category": "经济",
+   "importance": 3,
+   "owners": 3,
+   "work": true,
+   "links": [
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrTHMtYVhPWVp5elhhSkxvb0JfZmdVWnoyUF9XT0RWRnJaRXJCNmFvZ05fcHc3cHBjRUFEZ1RscjN0R2RtVngybmN1VnpRTF9EZ0JXaFdOOWUwbUVqTHFjTjlR?oc=5",
+     "title": "Ahli Parlimen bantah timbalan speaker berbahas sambil jadi pengerusi"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONXJDUEhOR3dNTVdxaUZLY3E2VUVrcmRRMHk1Z3I2YmZlMkdUQlhqdVQzdDFOYVJVSFF3MlRMQWZ1MWVKRDZ1c1Z2QjJ2Tjl6RkxGSWYtZHlRampiRU9zNTZHYTVjamxUM2ZwWDh4ZEtXMmtCNldlS0VwMWgxYlEtdHg2bFNZTDItQUZBYzA1ZGhiMnAzVWp2Xw?oc=5",
+     "title": "Pantun Timbalan Menteri mengundang kekecohan di Dewan Rakyat"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdWl0ajBXRmdrWU5Kb3hWQ1dicF9tTjdPdWJ6NHNMZkYybDk5anNpOFI0dDl6MFlieUJKU040UXAzbEJZdklVQ292c3Rrc2gtcEZaSUlJOU83NDF0MU0xWFNBNzdkUnlMTW91OHBaMWZUOGtLVXpQTVNvUFo0SnVNb3ltZnpQNTBEUEJoRzl0Y0NfMFZfLVljTk4zYzdtNV8xYmdUZEJGdUxQakNQ?oc=5",
+     "title": "Dewan Rakyat kecoh Timbalan Yang Dipertua turun bahas belanjawan"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Melaka defeat no reason for PH to despair, says Loke",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5eVZvM2d6Tm1EZG11UEFJbWZ3Q0h2TUFDUXpNTldfNlJqOXAwMHZxLU9PNDV4bTZ0Z3RRZng2VHRtSzhvb3hhWWZsdlMwWlFQNlJYbTFoRVN3VXNMbk5DNHZR?oc=5",
+     "title": "Melaka defeat no reason for PH to despair, says Loke"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYjBxamdTaGV2cVlrOTBaTVlGQkhoRzBYLXpTUkN1d1JHVUsyN3pVX2MzcnhSM3FXczNTRTBxVVJpOE8zS09tZE5CaDkyenVjQVZ4anJVcGxQLWswSTJURThfLUtraHlDUGR2Mm0zc0VDLTlENVlMdG1lSmxoTkU0MHcxVHNEN2ZmOGlPVVZVa0NxZkdjMWhpZjR1SERKcUlmOGxUb0ZxQzNpdzFKdlFvQmROOGt5Um9HN3Y4S2E2NXhsSTA?oc=5",
+     "title": "Melaka Memilih: DAP pertahan empat kerusi di Melaka bukti keyakinan rakyat berbilang kaum - Teo"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EX1N1dzdRU1NDMkd4dHMwWV9kcGw3d1Q2WnVUZy1vTUkyTGVGa01tT1BVVU9ILVEzRmVTWFdNb2UtT3NoVUdJYzFiSFI?oc=5",
+     "title": "PH bedah siasat kalah di Melaka"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "BN tak mahu tergesa gesa adakan PRN di Pahang, Perak, kata Zahid",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nQ1pjQUNzTkVyTEpsZy11VkVvVGdUaHY2TGdfSWotNEpQYnZFSS1Hd0xnYmF2OXRWSmQ5aE5SWUE2ZktpVWFySjh5MGFTb0l0VjBsYTJQVHBRUk9qdzN2SlJR?oc=5",
+     "title": "BN tak mahu tergesa gesa adakan PRN di Pahang, Perak, kata Zahid"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTDE5TDZYOGVrdFJGMlJOREwyTzNETnRXcXhoX1N2M3ZVWkxTQ0hnV0gzRGZ3Z2xuNHFsdWhQRHJCVW5kbE5qeXBaYVpCOVRlZHYtcjVOR2VqZnYtWTlaSVBPaHhaMC1WRjNDVHhVSjlSdW1xcS1YNzJCdWlhSXQ5NWpxUXJQbEc5ejROMURB?oc=5",
+     "title": "BN tidak mahu tergesa-gesa adakan PRN di negeri lain"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZlloOXRKMnVwX0UydTI3ckhway1yUlE5TTZjUk5hQVpCX0EtcjgtYjNOZ2M5SXhXMDV5M1pTY1RGSmdNYWM0S1RVTkxybTN0eFA3am1uV1hMUFBCZVZURUNZeVNHSmZSdUNSVEtCYVhIMkZSLWNHTFJjUko2d0dUcTFtb0pLeDREM25CQUhJZkRDOUYyeml4SWZUM2J1MnZCN29WbHBMZ1cySUtEUVB3b1lLTU4?oc=5",
+     "title": "Perak mahu tandingi Selangor, Pulau Pinang sebagai negeri perindustrian"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Dr M says Pejuang’s formation vindicated by political developments",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2RnQ1TDF4QWV5ZzRpYjVNMGxpSmNwWjNJbVRqRmxWMHp6MndDNFdvbExJdVFZZUpuc0w0NjhQVGtIUFB6bkEzNmttNGdkV0FoRXRjdk5CY0c4NjNSc21Gd2Jn?oc=5",
+     "title": "Dr M says Pejuang’s formation vindicated by political developments"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2SkpZLVZoZnJXUVU5b3VRc2J1djlRV2lhaDJoX1Bpa01VajRLd2szYmctRk5hUnVBRFRpdDNabl9jbS15U3JxbENUbFlZdlBUQWJiR2RZcFp0dnVoazY0?oc=5",
+     "title": "Rukun Tetangga Must Transform Into Drivers Of Community Development"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tcHZNVWNrVndBY0F2OVJsM2N3WUM5SER0YUZQX0RjOUJ3TFNnUzFnMi1hZ0dJamdLOFBlUExQWjY0bm9DSWx6RkpZQWszR0E3?oc=5",
+     "title": "Anwar: Agreement for Asian Development Bank office in Malaysia being finalised"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lOUVQZFp1akk1cEpBcHBndHRjTEhzbGx1TzlHZGx0Wkt4LTk1dlNPVGZ1RjNqWkJ5by1FSG1HdnJGTjZBU0JGeGp3ZF91R2trSUFpeU1kUmdQc1E?oc=5",
+     "title": "South Korea's top scorer in tax accountancy exam admits cheating"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeGR5c2pLSXM1M0MtQ3dKbnhUeU5KYlZHN2xRWm5vTXhlS1o4TE55NzZxOWhRRGpmbVFmWTMwYW9DYXVXUHEzLWZXa0JJTUxuaEFyZ0dadG8xYXhmbFhFNHVVb3UyUkJFQnZJZDZwZm53QXQwTVY1MkNpMF9VTGJyTUQwcFRIUGVRRWl0WGtqbEpiWDJVc05URExfNlB5MGc1QmFjLTBQenFrdkRKXzUxcTVoU3dtMmJtQVlNUnVZU2VqdUZFa19jeklJQno?oc=5",
+     "title": "South Korea to inspect glasses worn by exam candidates after AI cheating scandal"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTGplSkhGeTJ3YnFIQkF5S21vemk1MFNZaGx1SmpvWmtVajFhdGw5REpGSGVJSWJ0a1pzTjEzWnV2WDRDVHNQbzdNc0tpODVfYThGXzNNZmxYbVAyMm5QYWJudkVmMUJKUnhfSHMtQ3d1dVFuZnRhcllkUkJvbHJLR2p1ODBlMjdmWmhIUExJNU5lOE13N0piMjZPeXhYQUtRUWNadUdxVFo?oc=5",
+     "title": "AI cheating fears spook South Korea ahead of high-stakes college entrance exam"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX1FacVM5MVNlOEVnODZjdE9TWC16TFdNc0d2YWhTMDF3aElRY3c1U3NjWExMWmY0b25vQ2pFcFdid05xUlhHRGdyZzM3X0JncnR3MWR5NElIX1dpbm9PVmZmUmdqSDZ1bGVILU5VVm1BNDI4YkM3VXhESHEyeTBmZkkzdnVHbFFHMFlrTHR1RG4wOGNqTzI5U3o0Yw?oc=5",
+     "title": "South Korea to inspect glasses worn by exam candidates after AI cheating scandal"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOTJZbzJTbkZObVJJNzkyOExaejBHV2s4X2VON2x1Y0tvb3F2UFJJYU1URnRHdENVSEstSi1ScEw0OVEwTlRfTUFONEdTYl9YYlpNa2RUQXU2VTl2R1RWM0F4MXJ4aUFlNWk0TTJtOTh0ZWNyNGZfNVNuRF9fcnpiYmlkNDhLcUJSNF9wcUF3Y2RQdWZ4YUdnc1RMMHo?oc=5",
+     "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Hundreds of thousands of Czechs rally against government media funding plan",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV0pRaS1YQ3ZuYW42YldaYWdvWTBoN19GMFBGaXJBbGtSLWNtc3ZRRGoydDRzM3EyV0pPNjhEODV5Q3dRSXVtaTNwVzlBa2huUGR1SHNBUER4Z2RQaFlORENfUkdRMHFvcVRCWngxUTJiTnVXZGVRQzc1Tm9SQjNIQk5YYkFHZFdHbUtwa3czQ1YxVTA3QWdMd1BYNHY0cVpqZ1c2LXc4ODNrWFpRbVhUX2RpUkV6NTdJWVFDeW9idW9xUQ?oc=5",
+     "title": "Hundreds of thousands of Czechs rally against government media funding plan"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWotSHY0d2pGeVpPN3VPNk4wbzJ6a3VZSVBFSWRpdm0yRG1DZ1IyUlhfOVVzeWxmWjVzeWlEYnZ3TzIyWkY2ejNKOFRLY010dWdGSVJiYkhaUXl6OWRDcDMzRXRGaDl1UW1mN0kxRmY2eFRONHVZSk51cEhGVXNlX2IxSEUwQ2FOVGQ3d014TURKMlBlUWp3?oc=5",
+     "title": "Czechs gather in big numbers to reject government's plan to overhaul funding of public media"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNUx2a2g0S0I2N1NTZThfZUhqeEtXdG1IeVRJZVNseWlBSzQteEtHNjVEajMxYWktLW9yM21hSGF2YlhnNjBUWVRScDBoY0F1WXJSYU5GSzl2YkNKNEhDeWlpNFNocmI1WjY2Ylg3emtlMnVfTm0zOC1RXzBPeG1QRFpUODd0XzUxbUpGYjlXRU41RDlLemtLTDN6ZTFRUzZIMWZGeHJBcTliQdIBrwFBVV95cUxNLTBuaVd3T3F6Vko3YmM2OXRaOV8zYlpYdzVJY25CTW9PclZKZjNJVzZJeFQwanl5UFhLUjZUeDVNNVcxbHVUbGRaMFNTMEY4T0hJYnRSSUFGc3JOVXNlR004YTJRRHhyeDlsTU1zWEwxaFpIcHQ5N0YzaDhtTWNuc1hLV0hlS0RBcldvOTh4V2hHMU1kbHVMX0x6WmJqWEVtenR3WWtvR2J3OWZwdEFV?oc=5",
+     "title": "Czechs rally against gov’t threat to media independence"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUzl6NDB3Rmowcy1HT0xEM0lwUDAzdDlsTENvVGlGS2ZUVl9OZzMyVjJoZDZDdDdBYmgydk5yanpQWFc4VDdzTjFGR1A0cElxcDhsZHVfYVdCUVNiVEpjZ3NVdVVnOUFrUHF2WFdENXFGa3VfM3hPbGk5YTJOeTNKVG5RZlRLbWR2cVE?oc=5",
+     "title": "Hundreds of thousands of Czechs protest in Prague over media freedom | Czechia"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVk5OOTNFWU85QUtWSjJpb0dhZDBfeHlMSGFwUFZ4VXMyQjVtRzVCV2x3NFFyTGxjQnl3YTlXQ3ZiTk0xTXRYUklYbWM4TDI3SHpUSk5Xc2VMcjZjc1pwWFBBSk9sLWp2cjl2aWMxb3dteGtEbDFJRndZckFmYmh5U0N3RjJMam1qMm5PRkFZd9IBjwFBVV95cUxQSDMtaVB4clZucnFzMFhlMUFuNTFyd1pCUS1DdVlaNG5SOU5EajdENGp5Wk42SlJsWDVGdlQ4UjhiZTdVQWlLWXJ1dFI0Yi1yNk1qU2JHNEVOajFaaUJVR0I3eTNpVTVzUnJENlY4X3BVbnkxUFVmdFhTOUpnc1BiYnIxZ2tpQ2thTEpCbS1CSQ?oc=5",
+     "title": "Czechia: Thousands protest against public media reform"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Amazon loses 40 satellites in failed rocket launch",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZF9PM0d5NkNydGh6QzU4QjJSa2xIMEdrVUxBVldLb0l0UHVPN2stZzZxRzByOUFXbG1vWWdmYkVORHlBcjFDdmFDYjdrSlMtZTJsQUlyT3VSOC12QlV2cWxCTXp6dXQ1SVk1MVNpTGUyYlVRLTlSYnV1dWFaelZuWVFVcW1VOHBHbHRQLTRGMGQtMEc2Z1pabXJKbjgyYk3SAaQBQVVfeXFMTkFfdjdmd1RkenR0YTFURGJrdGhCa3VfSExyZVVwVWxkN2RrZk95eXM5b0xDQWgxSHR5SU51dGg0S1MzX3hYWHdXTjNnc21KbzNWdllDWlVYV3d6N3IzRkhvNW1kUXlfdXZJd0FxMHhhSzJySXNDNUQ2cXNvREN2YTJudU9WUVhmaG5IVXMtVENYSTFhLW1sc0hKYmYyaHFkXzhnRm0?oc=5",
+     "title": "Amazon loses 40 satellites in failed rocket launch"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRENJR2FvRjB1WmJfWk56alNqNHBwRHExSk0tdU91LV9wSUMzVm9PZEtRdHc0Y1JaMW44OVBJc3puTENpMXNBY3VmSVNjSTZIazlYRGh4aUxVaW9GdXNBamZla29sRzJnajdMdU1yQU9xekdPcUwyRXdaRzF4TXhiZXV6RDZIN21yVS15bGpNVUJFZUpnWU1ZTFJqbm94OXhjamR3SXFRV3F0YWZWSnA5ei1Gd2o4UW1PSnlrTnFtMENUb2V1VjVDc09XSFJNN0JaWXc?oc=5",
+     "title": "Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQjVKcFh3Yl82SE1HaGUzdDBzQUhwZ0J3eW5fbXphOU4yc3d3eGtXekxHQjJaM2t3b0pZQ2hZZWhSOUNRQkYzdHpzakZWU2g5ZnRZWFMxbmMwZ0NlSC05cHlKcHNsblBxak5pX3RrQUlCLXo1NDNQY281N2ZlZUVGNHVmSjUtbFQtWXE1T3hDNS1yUTJrWDV2dHZYRzVwVktwa2Ridmo2XzlXMmlVbmFHUzhpdUxEQllMWm42RUJmWlA1cFpSMm5n?oc=5",
+     "title": "Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOVlRWlFpaTl6ak10T1hkQ3FDbkVEWjFyeXJmWGg5OWZkWE1FcmQ1WE9lSkx4bUFmY2Q5clhfVEhGSnZJdm9mRGQ2UGJEeFNyVmFONjF0VWZqdnI5a2pQcVdEcGwzbVU1R2M1WHVmdS1Ld0NlMU5GZUJZcEowbFQzM1pkc2xFdlhhNjJWSTJUQnJjOHY0S1lSNTNEWFRKellMN0hoVEVVNkVJOTRQMjlfMjV3bDFQX2oweGo0TdIBvAFBVV95cUxPdWZET0RjZ2FhLUNCLXFFcmdnR2dfMHdpYURfQzZWVnBGcW8ySmRwYmxKeGdmZzJNSk13S3ozdTdBYzBKT3VpbkNISDVXakhMNk5WYWI3RzZfWXhSeXFjc1ZFVUFDRHdpWDJJODdDaHZSZzRCOEZfdmYxNEdyaGVicHB5cVM4b3BneXFGVFRIMktRdHk5UUtTV0gxbElFSDB2Snh3WlZJaGdWZU1hdEltVTUtWEFIczBIWTg0NQ?oc=5",
+     "title": "Amazon loses 40 Leo satellites as Boeing-Lockheed rocket fails"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Nam News Network (NNN) - ASEAN-China Talks On South China Sea Code Of Conduct To Extend Into 2027",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3eC1zWkxmaW5CaElxSWFoTGxCSGY5QTA2OHZqblBrSjJlZDdaTXA2bEt5Xzh6dG9pUDJQZzFaOVRMWV9BckJsRGp6WkxTbE4zU2ZCQ041UTlTRHN5V0E?oc=5",
+     "title": "Nam News Network (NNN) - ASEAN-China Talks On South China Sea Code Of Conduct To Extend Into 2027"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb1RJdXlfUmlvM01RTEVHbEIzRzA0eTYxLWVtMGdlOEhXT1hyRHl0ejhBMjBvSGFVU25SUTNsMXJXV3ZhRkRldDJOd3VMTWdqSTdpQ0FXcHl4aGtUbzNQWWdnSlpQWkM3d1d1VldFeE4wNmMwZUhrVEdyQnlTdTBTNDM1a3oxRVZCS0pTRnpSLXRMbFVOM1VrUWY2bWFZQU41VDV5cg?oc=5",
+     "title": "ASEAN, China fail to conclude South China Sea code of conduct"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUWZCU29ZQjF2ZG04X08tMWUwUDhhYy1YTVVaTkY3N1NtV2JJR0FXWmRRMElLQmI4VmpWMUd4T0drVXVFTm04UWZoek5CRUk2WDF6dnptOGxqdjdPbGdONndjc2JLWFlnM2xRTUZLZkxfVU1rVDdMaTZ6MUExNWVXSUsxcmhDNTNPMDRXTEQxNV9FTS1aMlQ4bjI0aGZpV3dMenfSAacBQVVfeXFMTkVJZl9VVnFOeUFoSWxlSC00czhOcHdsZ3RmZXhvNm1lRXR2UURDSkE0ckZGRlRRODRLeFdNZ3IyZGxzQk5yNnJObUYzQTZ4SkluT284WHlyMWZ6QjNjZW5YYm9NQ3NiLTVGb2ZkMzY1UG0yUUpLRVFHLVJqSUdkblgtUjNGMGRnTVo5ZmpXa3dhWGRmcGFoSVpBRjNxTDViNmRycElmX3M?oc=5",
+     "title": "ASEAN, China fall short of agreeing on South China Sea code"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcFMtQ1lNSkJZX1ZReER2aEw0dnUyY01WZWIzemRXTUVISFZWVW92a2E2NTNNQmFKNW8waGQ3OFVSdjMyOU5LSnhXUVBjZFJjVmZiT3RqdWk1ZVlDZnNEVl9pWlh1NU5BbFE3cnFwa2dPMTRjejJDd1ZMMWVGMlludG9YQ1Y4VmRPd0NDVV9xN2h3NVZLU1E?oc=5",
+     "title": "ASEAN, China reach provisional agreement on 80% of South China Sea code, says Philippines"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Trump's tariffs cast shadow over Apec talks",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": true,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON2pWMkpZblhPN1hhdlJRakFpUnFsczVsMFFuM1lHRnY5NWhKV2NhaGh6WVdtYjlvSDJySGQtT2NvS3Q2ejhjLVlCeUVvN3ViazZVUlY3RjgzQm5jY2tkT3hDdTRfTC1DX0diVTZ5TmN5QUxBMVBPd09xU3FDTGpycjA5UHctaUhjaTd1SlRWQ0xyTlBRQURiRFBGVEtVenBZZHdrSTdRMFJwNVZX?oc=5",
+     "title": "Trump's tariffs cast shadow over Apec talks"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQmgzajlTc2t4SmdLb1g1X3o1VWhhMlFTWnJ3Sk5sOW9JcDBUU0ZYU0tkX0s4M28za1ZVRGw0S1FlZEJVNXhVRGhwTjI5Um9HRzJxb0lRWk8yeE9pb3ZuQXk3a3F4WU1wNDRHcTQ5SV9jRnpHOHlOOGZBWUliVU16bThPM0R5OElKQk5hXzNGR2pZc3BFYTcxa2IxcVVoLWhNaTJobDR1RHhZa3B1dHotX0hId1NPajBKSjBRa3BZSHUtN2RrV084?oc=5",
+     "title": "Trump's minerals push has yet to loosen China's grip ahead of Xi talks"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTR5N1M3UjBmMW5oTkdUWERHYUFPWFFNU3lHeEVyUlo0VE1KLU5hVXIxMGkxSE5ySlZjdjJWcEZhd1JrYnhvWDFNTFUybU5IRWY1SE55RHU2ZWdOQnY2ejBPLWpscTFCb2dUNDc4SE9iUHFmTUlpMzdsWWNTYlh3emhsTlM3SXljbWxEZVNNWXJwUE9TQjFYVE1GMzRXZw?oc=5",
+     "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "#brexit",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVVmR6OW56QXA5QWVUNFpyWndVTWJ4cTl0STloLTMyeF9PY3dfUXF0THdaUkNPMjRZQnlRcUt5VE9rRzlvM3J5RnpueTJ2WjN4ZTRiOHZNWHgxWEh6b1ZWWnEyNXVhUQ?oc=5",
+     "title": "#brexit"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrSUlIdlNVcEtLSjdXZDRnLUZHUWJFOWVacENrT2xWM3RpQURRanRjUzZ5SE0yR2h6aGhxZ3dxSGpPQ3Q2dzB0Z3J6WmFRTGNlOHJwQTJBUElTRHc?oc=5",
+     "title": "UK has lost more than it gained from Brexit, Burnham expected to say"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX2NWLUdET0s3S01EWUtnT0RzaUVsdUUwWFZjZnZ1RGxqTGNZRVRQZWRlUHVpOGdvYnd5N0J4UFNheDY4ajVkQVBNcE1Jak53NzQtUHNTWGVueHNaU3FlYkZtSzRqcGRjdVJueHlPVWJYSFdnbElJb0VTSXBGX2FaZFlqNlZyY28yakY1eU9JeDZJMDN6S2JTTHdibmhGc1E2RkFIOVRSNXM?oc=5",
+     "title": "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Trump administration warns air travellers of another messy day",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSUFJZXpsWnBVeDhqRXdHdzI0bDhVODRyMld5anllNjVrRE1oY0hfdmRIVEgyWF9mc0syZnNLTW05YzZpazJjODNWdXIyTkRaWnoxYXVGTVNSR194VzBHc184OEx1ejRMUEF4WTNUdDNHbEhRcDdSR1YtRk5XdnZEMmdvMU9FZFZMckMyNWFkaTVtWTJYU3hhLUZodFRmXzkzR1p5Y1lpVmx1c0NveEs0Q20zRkNsRHNkM0JJSGdWN0d2blk?oc=5",
+     "title": "Trump administration warns air travellers of another messy day"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbzFERGNkd2ZLODdReVZtV3pnNVdJT3RyNDdpbUZQRXZHUEgzbVYtZTBwelhfV1hRbVVfOGsxeDJURWd2bEJubFlFUjFXZC1HM2Z4U3l2TXVhTXR3OTFPZ2xUaDhOVlBDWF93dDE0V2lsOEI3bGFGWXlmbnVldjNCQkJKQlFNbDVfaWR6cGpJdktZWlJXcEdNQkZnWWsxSlZGX19tQTIxYW5NVWQxb2NQclEza1JHaHBma3lmaFNzQWRtQld0UkRwT01IZEY0eUk?oc=5",
+     "title": "Trump administration to name Nvidia, other AI firms as US 'national champions', WSJ reports"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUjU5a3ljR1FocjlKQnRVS21kY1kwR3R4bEZvdUc4VExhbnc2NjZrU0ZfRS1iMkoxcGthaUV4a19MTlNsR2JFMlFqZDN0Y1JiejlNWUFUWjAyWTl3RFNXX0ZvbkNmX0l1elhVZndMd3pQSlQtbk1RYzBMT2tmOTJuaTlwUm5FQmdRODFJQTk4OWV5MlpScVhhc1BEWWotS1E?oc=5",
+     "title": "Trump administration asks for billions to overhaul FAA. Democrats question how money was spent"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "3 men sentenced to death over Jordan church attack",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaEx4U2JBeHY3TU9BelZGc3dEbElfd1pjMlNjVUJsVUIwejBJWmFVUlJwV2RLQUp4cTZCMkJNWkd2Z18yZ1F6NUVVT3ZlQVlBY1NxUktGMEZHWDkyazVDZm5UVFh5bUNrOVdhZE1ybTBVNjBGTFM3aEc2YU5KVnN2MjhqVnZ5RGdtc25oZmJSMThxTS1kNERLbWUyWU1hdUx2U0gzNWllMTIyb0pYNG9Z?oc=5",
+     "title": "3 men sentenced to death over Jordan church attack"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TMmxDN1dmRnZTb2g3VEcxSC1RM0RPZHVqNjBRTWtiQThqT2tBQW5McW41aEQzc3NVTUpHYm11WEJWN2tBRnB5azhZdWRaanpEVml4U2cwRDJJNVk?oc=5",
+     "title": "Three men sentenced to death in Jordan over church mass shooting"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaFBWWG9mbXFqcE9KaUVUWXAyVmI4Z3BYS1Q1b0k5N2ZxYVhhZ3BYZVQwc1F2bWMxc1NKTmJOSGlVdGJ2QURDaUNmRGRlNVR5OE5KUHQzdFRzUHlYc1RXWE5jT3FqeEFXd0Ztb09MeTczYUcyRUdjZXlZckpvSVp0ak80TFZJa0EzQmh6amVKbkxRaTBzUFNZLVBVa1VMd1J6c1lscE9KTmplZm5nMHF4bXVEYU4tYW9r?oc=5",
+     "title": "Jordan blocks Telegram app over national security concerns"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Intel sued by shareholders following 29% stock plunge",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wT0RmYjVXVmJiREQtVlMxazBrV3JIR3l5NmFUMUQtS0ItWDVMTXNNTUt3N3BjYmFoVFIzZE84cFcwOE10RE02MmFqQ2JwdGdt?oc=5",
+     "title": "Intel sued by shareholders following 29% stock plunge"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52Rm9pc2ZLV1dEOUtOdFRQZTJYQW9ZREtpLWRzVWFfUVV1Q0QwZnIxcU1BeGZoNjRCNGxLWXRHUWdfR1lOM1lXZDc0QzZlX0U5TG02Z250Z3VlWjQ?oc=5",
+     "title": "Investors sue chip giant Intel after 29% stock plunge"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUHB2RXZCbUwzeDlxQl9pSlRsWi1UUFZ4TkNWb1JEOXlqZDJHUjFVU0pway1BWmw5dHRuclY1MGNPbERVQThaOUZQTDR3MTFqLTBJakxoYVBRNzVJZlFNOEhXakxrM0JzRllCbm8yYU9PbkJ0TEwyaWdiYU9EWng3cm11SjlhSGljbHg4WXV1NEV1bHBudWZPYmVtU0pBZw?oc=5",
+     "title": "Intel sued by shareholders following 29% stock plunge"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJV1pWdW9NZ0tRcjE1U21pVTVyUnpvSGVqZ2RqZ2VpSlNER3Q0WGcta0piOEp3NmZURS1DT3BEd0ZPM3p1Q2pBM3B0ZkttNVRLc0hCaGlqSXlwRUU?oc=5",
+     "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFF3czVab0VWVUpGMVNfVjZlcU12U0g5Q2FJcU56LXZpZ1RFSGNtRjBWSTdyZGxsNWp4WWpCX0NPdzBVZkMtZGdYQzJKTXVoTlkwenctczZDbDNUakhPNHNDYjFSa2djcTVmMEExZjRHaFZPemNBVlBBaHkybFpFcndDcWJPcl9sSFZCek1hV04wTUJTQ21CVEVHeXNOMlJKNXVGZzlFaw?oc=5",
+     "title": "Megaspeed says Alice Huang left in 2025 as company conducts internal probe over Nvidia fallout"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPREhZYWFSLVhWVk53XzZ4WjJpc2FENFVuQ3BLbG9mTWZXdHpvZHBvWVA1emVHVVVISEJneXUzb2gwNUZBQTMtWmlwVUlMY09xRkEtOGR6djRwV2pSVmZ0V29MVlgyWEVXeGdUNWk0SnhOYnM4cjhPdHFiRldKSnV4XzY3VGpIeHdWWDNJa01tRUVFSnozeDhjZlJCN0lVVEt0MVZDVlpkTm1wTTI1WnRDZEEwTHPSAboBQVVfeXFMUFBDYnM2Tzlyem5feVNfSTgzeHlBZVJoTHEydGVVMnR3c0N1N2FKVFI0ZW55bnJYaGlEMGFXX20tUnZ3dXA2TEpPclR5ZjdRSi1pQ0RsQXJ0US1pZERQUzZnTnR1LUU5UW9xMnl5NHZkOWtFb2FrWDlNVERJUFlYVVRoLTl2TzkxcXlhY19OdzhaTmlvNUVqM1hNLUozYm45cGtjOWR6cDdDb21Ld0tEWUF2d1Y2NWlQa0NB?oc=5",
+     "title": "Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025"
+    }
+   ],
+   "new": false
+  }
+ ]
+}

@@ -1,0 +1,604 @@
+{
+ "name": "2026-11-17-evening",
+ "kind": "daily",
+ "slot": "evening",
+ "time": "2026-11-17T18:28:14.130049+08:00",
+ "items": [
+  {
+   "title": "Bursa Malaysia suram diselubungi kebimbangan terhadap Nvidia",
+   "summary": "",
+   "scope": "my",
+   "category": "经济",
+   "importance": 5,
+   "owners": 5,
+   "work": true,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc0xBczVQTHd1cDlXcmpvMUtieDZvd0VwNENxRUhxbXJBaXhiOXlSU2Z0ZFdFZzJkVDBIOW1HdXZLTlAzOGwzcmlTb1NfckhaYVZXX1lUQ3M1eUZ1aG1iWnNIeG1oN3htUGMtcTJoclU5cnhTd0dIX2ItQkZUS0owUGRMaEZORnFVWFZvWjFVTGpMUEgxV0FpaTBsN0Z1LURVQXBMd0dNSmNOYk5PRGV3bXNrTnNqVzNjUW1KVmY5a9IBvwFBVV95cUxOc0xBczVQTHd1cDlXcmpvMUtieDZvd0VwNENxRUhxbXJBaXhiOXlSU2Z0ZFdFZzJkVDBIOW1HdXZLTlAzOGwzcmlTb1NfckhaYVZXX1lUQ3M1eUZ1aG1iWnNIeG1oN3htUGMtcTJoclU5cnhTd0dIX2ItQkZUS0owUGRMaEZORnFVWFZvWjFVTGpMUEgxV0FpaTBsN0Z1LURVQXBMd0dNSmNOYk5PRGV3bXNrTnNqVzNjUW1KVmY5aw?oc=5",
+     "title": "Bursa Malaysia suram diselubungi kebimbangan terhadap Nvidia"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9fN0VpY2Z3aENvNkdVNTZBUUdzeFFtOHhBQmxYNGhWNHlCTWY5ZVRESDM5N2pwbjVJZ3EzY0xhdXd2VTg?oc=5",
+     "title": "Malaysiakini"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52bXM5Ykg5ZU00Z2h0WmR1aV9CRmtXSFFmR1pyV28tLXBrTEdSblhRLXhhdFVOUlotV3RFbjRESXFpOFB3UmV1dEhvZXl3WGtvSUd6SUhIQXdPTmNVTUY4cWJVZw?oc=5",
+     "title": "Construction Sector Leads Foreign Inflows On Bursa Malaysia"
+    },
+    {
+     "source": "国家银行",
+     "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOMzI2R1ZyT2V3TGNwLVhzdVVxNmFQTEdySFkyX1hxNVUwV2dBbGFTbFdrQTJyTDFkRFZtN0hYSjg0UzhmMjZoNmhEUHJvVmlMT1Z3dXlQdldEeWFtcmNMcHlKSjVNb3BIeHBCR2FXOGlnRHBxN1RpUjJCclYzREhhSG9sQWk1Q0E2aS1jVW10M051a2hZRFdkcnhrdWswZ2ZWR1R6SlVmRjdZdTFWT0NjQjFxd2l4dVNlUWE0ejY0V2ZaVmlocVJkcGdVYTkteFlwQlN6cWxhdmhRUUh5a1A3TUhhc0dtQ09HRVliNGxTNjV0RzNTWVdqZHBSTVFTUnB0bnNXWVYxcDhNbEgzOUktSExyT2tDOEw3Mklrdmdkd0xvQ1pYdlZkMlJxaTViTG82MzA3WEExUHk0RGY3T3JzeXc4MklyU2hUWHhVMGtwaU9JRXQ2dkNnTUpCSE9FUnpKbFRzaHdWU0FTdw?oc=5",
+     "title": "- Bank Negara Malaysia"
+    },
+    {
+     "source": "大马交易所",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTlZscFVYMkJHQ2VrYm5LcUdPbnd2d0w2UzEtY01idHVzYjRyeHlqeWJ3VWNva1dSQmlUR2RTVVkzNjJLeVR5ZWk3akEzNnhidVMxSEtmQXdFWk9aRmo5dF95VFJ3ZTJMY21KS3VzdUphR2VpNjBiMHExdl9hZy01c3UwY1B6Z1czamdURVBaOF9xd28?oc=5",
+     "title": "FCPO - Bursa Malaysia"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "'Beliau tak ada maklum kepada UMNO negeri...' - Jalaluddin ulas Ismail Lasim letak jawatan MB Negeri Sembilan",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeWlqWWRtUXdBdUxHblVCWE9pMlBkbjk3cUlLYm9ablFzb2QyeXI3bTRsQ2p4R0NnTi1HbDIydUs1bUJWQ3YtS3BDNmNTUUFUdml4bGVTT2V1T1ljUzdiTXdwMWtNUS1JWnl0SG52dmZ2Y3ZlZmRNWUhqYTNFTVNfRlZLOUNhLXJvYzB2bVZ3SDJKVllJa2VJbFdYQlpfaVFDTzE2TnlOWmVqT0VNM1dSZVZ3LVNkUG5DcUV3UERjRURLcGR50gHEAUFVX3lxTE95aWpZZG1Rd0F1TEduVUJYT2kyUGRuOTdxSUtib1puUXNvZDJ5cjdtNGxDanhHQ2dOLUdsMjJ1SzVtQlZDdi1LcEM2Y1NRQVR2aXhsZVNPZXVPWWNTN2JNd3Axa01RLUlaeXRIbnZ2ZnZjdmVmZE1ZSGphM0VNU19GVks5Q2Etcm9jMHZtVndIMkpWWUlrZUlsV1hCWl9pUUNPMTZOeU5aZWpPRU0zV1JlVnctU2RQbkNxRXdQRGNFREtwZHk?oc=5",
+     "title": "'Beliau tak ada maklum kepada UMNO negeri...' - Jalaluddin ulas Ismail Lasim letak jawatan MB Negeri Sembilan"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15VUU4SGNNakRrWXdnX0ozc0hnYXI2Zk9VUTA5bXB2c3dqaGZ1VmlZeVhIYzBRVmFkdW55MU1TdHFWOExFeTR2aHBTYko4UU5CWWdPbjhvdlV4S2tJSnNjYlhWWFp4T3hNNEs3V3A4Y0FCaXVWcmc?oc=5",
+     "title": "Negeri Sembilan MB resigns"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nbXBhVGY3QndTSW0xVWZiaURzTEI4aHZ1WUdGcUpjMnVpYkI2S25pVS1kdTRxMURQWU1XX0NtdHNFdE1MRnBnWmU4U3dZb285Yjl2Q3ZrNUpYLW1uSVJVZ2FR?oc=5",
+     "title": "Ismail letak jawatan MB N Sembilan"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSkhJUFRaNDNodEdiUkZZeUtBR29ya1kxLXVMTXlUV25zbEhsUGlhSHhJRzlRLXRUdlNLT19aVURQV28zRHl1dXdMRldvQ3FFUTNrNnFaVFU4NlpMRzFjb0dIeTlSYXRNNHNOeVdWRW5lZExPS0UxTXdvd0ZGTk83WjFMay10aUxfd0JjeEJsQTQ1S2hROERHOFA4T3FPVFQ0YkNydVotcWpySG51c19xYg?oc=5",
+     "title": "Peletakan jawatan Ismail diharap tamatkan kemelut politik - UMNO Negeri Sembilan"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNU54YTMxdHEyTnNCeEFjcy0wcTBZSEtNUXJMcXVQOGh5SE5vNVN4cWFueGc1c2phbGRLWjc5cUxVRldjbTVqcGR3RU04d2o3ZFpSSGJWOHM1cGEtWmJQUUk3X0prdVQzWm1QU21rS3hRaUVzSGZhNUpPQUlrX2JhWXlYblZHc3FCVXM5cGtHbnJNQ1E?oc=5",
+     "title": "Ismail Lasim letak jawatan MB Negeri Sembilan"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "FAM perluas NFDP ke seluruh negara",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOUFRaTRHbHBoNks3Mkc2ZHROUDlhN2lhams3aDlYOGMzVzVxNlJHZUp5dmtjWkRFZ0tOV3d0bG5XOWczUngwQWtvVE5UWWZEV0p6OWFrV3NpN0tidjRDYnBBM05LSG5Wa1RPR0podVRnVHJKWFRlUVR3d0FacEwwQ3k1RnhmeFBuUU53LVJ5MzJxUdIBlwFBVV95cUxNNmVxSFhRYVNpU21IdGpfRkJHMU02OUhweldqWWcyWWJqSVBJc1dqbV9QLUNRd0ZfNVM3R3pZM2dsamZMN19QWWZITkpFTmZrY0xWNENyYkpzekw4SEdMWVZiLWhHa20wRXdRbFBySzVGako4cHB4WDBiTDMyU2ZPZV9YaVg5T0JyUEctREVzdjNwNm9hUTNB?oc=5",
+     "title": "FAM perluas NFDP ke seluruh negara"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jLUlkUGV0bXFuVzg3SVZPaTRqZ2FMS0luWVROMnJ4c1NQTFRXZVh5bmxDeTNZZUsxS09kbzZ5Zkx1bUpwZXh6aUhnMFBJd3pQVVFEWmVHUlJRanlBVU5kdU53?oc=5",
+     "title": "Kerajaan disaran perluas diskaun tambang ECRL kepada B40"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYjZQZVNYaFI5ZzFPRlItcy1pWW8wc2ZHNGw4Q2JWQWRsQV9DVDNmeG90ZXdVNHJrNEpNN0F3U2N2VnZ2QTFUcU5xelpkbksyc3pKNWgxU19mMHlMOWx5MWZWZC1EV1RDRW5FeU1NTVdBTFBQRFduNldnbTZyenpldXRMalBrX3d1Q3g0dg?oc=5",
+     "title": "SARA 2027 diperluas kepada barangan basah dan segar"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeTZHWDI3czNuV2lMLTNlM2RPOEx6TmQxcGl1M3JkU1cxVzJwUXdtYnBNSWN5YWtQNHBoWEo2SnZEWEZ1ZDJOeG0tM3BRUFMycGNYeEhneTRWN25BRnVvR19pWkhqeTZwZExZR20xYlpOd1FaMy1MNkc3R3hVRFJwQUtLRWUxQ1pFRmdpazVKVXRPOFNNNFFNdk9R?oc=5",
+     "title": "Pan Borneo: Kerajaan terbuka siasatan PAC diperluas"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Zetrix offers RM100mil upfront, 6-month instalments to settle RTD arrears",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcGkxQTJlTWZRakhvSzBYUGJta01zR2plajEyd0REVG5PTVRveTR4VkpHWkM5RGxqZ2hwYmNGYi1BYmdZM0tXNVU4SFVTcnVMNmt0czhKTFEtUkhITTBpNHJlaVdKWjBTMEo1OEJWTmQxYmZLcXFTV3lXdi1SNjhDY3AteUd3dWVtbUpscTN3OVl0Q25sY0FhbVVSbFo1alFMSEt0WjY4SDFBSWpfbTN4bW5lN2RwRDIzY21uSdIBwgFBVV95cUxQblo5UnBBR2VoMkJsRGQxd3MzSVFueTR3Rkh6N1dXWUtUMmVwdG1jNXRwdjdfeWlzRlhHaU5iQnYwbGdMaV9ra0VuWTAtaTBmbDRGZzJXaFBGZ0hza3NOTXBIVTBxdkk3MHpHWE5IUEpGdU1uU1FsT2ZlSG0zZXdsV3RtR3I1cU13dXA5YmxzSThiU3p5azV2b19raWxRRXFEaHRNZmVvZG5telJuZWx1MFBIWmlhOG9EXzUzemloZzFPdw?oc=5",
+     "title": "Zetrix offers RM100mil upfront, 6-month instalments to settle RTD arrears"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZGdUMmE0VDd3amJQbXRpR2RfeGp0aXNlTEk3SzJLQjhOSndVU214THNfdHlBOS1zY2JRU2lnRXp6SWdVY1VZQzlaeW81VjJ5U2J5RENjbWRZX2NrVzV2ZEdOLWR4TXZXYjFDZ25OLWdKVHhKOUJ1WG10UjB5bWp3bkdMSExZRDNYSkpieUFaWnUzV3Njc0FKcjIyOUZNU0JxZGJFM0tvRTltSklxZWk4WkwyT2U0cE14?oc=5",
+     "title": "Zetrix proposes RM100m upfront payment to settle RTD arrears - deputy minister"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ySU9qSjJ2STM1OGphSWQ1ci1pMXNkR3ZsX3pXYVMzcXdvTGdOeVUtdVhuYll1dF9UVzJpVnRjZnFDd3Z5N0RVaXNGbHRWZm1teFZJZ3Z0YmF5WjVWNDlaNkdB?oc=5",
+     "title": "Zetrix offers to repay JPJ RM100mil upfront, remaining arrears in 6 months"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wV3U5YlR1SzJZQmJCZnpaNHFpc3F4MTdubXFZQllsRnhQZ18wQVFlOFh4WWZOcExHV0hsY3lEMmsycjJ5TzJxeUZEM0pyX1Y2?oc=5",
+     "title": "Deputy minister: Zetrix AI offering RM100m upfront, six-month plan to settle JPJ arrears and regain collection role"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Negri MB Ismail Lasim resigns",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPY1c5c2F5OTdad1NxdzNmbnRFR0l3VUxGdS16SVQ1cmgyY1FRMUJEX1Zra05sUzhVcElTbTVOSHpUeUFoVXZRdFZmM2wzTTZEMW1Bd3U2Y0kxeHZnaEtCa0Z0czdjMmJCWHFmT0RIaVhDR1ppWXRwMWg2RXNKWFYta1Z5M0dEUQ?oc=5",
+     "title": "Negri MB Ismail Lasim resigns"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb3ZRbDlQN29pMjJoQktlWDRnVEJGb2xyaHFrYzVRYS1ZbERTMGRZVXlUNVVfaExCMWt5RWUyaEIwWXFVT28yVWYyU19neGZ6ODJVVGZPWGU3a0RpM2tCWU9kTnVUNUtnVlYyajUtZkZPUGMxaDdOb0hOV3djN1BRc2w4WWR1NHVHb3JFUTdnNWREdnRMWWtZWHpSS2VVb1k0?oc=5",
+     "title": "Ismail hasn't resigned, claims source close to N Sembilan MB"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iZHMzVmRCN1hOSUtic0hfcHg3X0pjTk9qcXJUZHM3OFpkdmpTVXBtSG9pZHNrOUE2NDlZaE8xUURENmItX2U3V2tnV0x4b0lKRnNoaGJLbGdiOERRSlQ3R25n?oc=5",
+     "title": "Ismail’s resignation proper, but accountability must follow"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTLWFMOEl6UG9CdU9JcDVTbVpwbDJhaVFFcDZ5a3RlM2hrZzdyWjdZdWdDSzlwelNOUEduc09wd3hsbGNLTG0zekROQzdxaFJMaTJDa0Uwa2V3akt3SVE?oc=5",
+     "title": "Ismail Lasim's Resignation: Media Await Developments At Key Locations"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Malaysia hargai ketegasan, pendirian Perancis berhubung isu Palestin - PM Anwar",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPblQ2RjNPZUVLTU1FRlA1dVZDRFBvNWxIMEtMLUFDMDJndmVVZkt2YkEtYzhGNW8yVFZSR3dQLXlEa3FoeXhhUUh4dHB4R2F4WVQzUUFodVlsZUZnZFZUY0I3M25ZanhPWl8tS3Vjdlk2bUFacnEySE9QUmN4MGtfMnc4enk4SEZHTjRqNzJpZXl3ZVpWNE1fQkM5bkRuUkNFWHhBWjU3Z2VwaXdVWkRuR0tTQ2tlOFRUQ3h2NDBMR0Nqby1B0gHKAUFVX3lxTFAwOTVzaEVJZVRTdjRGTVFreVZXMzl1TEpfOXE1X2VIYVktdkRlcEdpSUlOY3liSHd4ZTJiaXNuekxvZGpTeDVvYktvY05wUzM3ZzlyWXFCa3M4b1VPNm5RS0xPRU11Q2tveHVDV2pLTGl6WERvbGx0b3FKYnMtNXAycV9udjJMSmhZdjJFaUd2MHU0RGpORVNoeEtCcmJmc2Jaal9fSVZkcGFBYjVEZHFZczYyOHNIMjVYQ3o0S3JPbjFFLWp6dzBSOXc?oc=5",
+     "title": "Malaysia hargai ketegasan, pendirian Perancis berhubung isu Palestin - PM Anwar"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTmEtRnlQWWc5NWFkcEpNdWVaaUpIQl9Ib3NyVDd5RmNDdmhSNjRZWkE2ZHBaUnZKUTR4S1JPSFc1WEtEWWhPczJmZGFxQ0ppbi1vZGhWR3R4YjhwdEFHTHpZM3c5bWwzU08xSDRCMjJ4dEdlUnFRUk10TGl2aHZaOFE2VWc1UUtu?oc=5",
+     "title": "Perancis sedia bantu Malaysia dalam nuklear awam"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS2dwYy0yZl9QOVdRZGp6MjFkTXhSVFltd1dPdlotbG1jVjRXZTY4YjVEN1V5a0gtcnlJNk1sSmxsV083bHlSYTJjTTNobVFiNmxaTnNyZ1FVMXV2TWxIcWJFa3lKOTR1dmZoellGTWVCQVFneS14SndNenkwQ0NBMk84VTM5d2xDdUVkQlRndDRMM1ptRkNLeHNXdmV0Y3p3WmV2cUpFLVlRX1REY09pMFVOQTljdXZ1ZlE?oc=5",
+     "title": "Malaysia hargai ketegasan, pendirian Perancis berhubung isu Palestin – PM Anwar"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Anwar: Malaysia appreciates France's firm stance on Palestine",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYW9XOVFOcVZRV1VZam11dzM0NjRSRU44aU9IUXNOUFBxTV9NdmtwQldZLXFETTU4X3VaRExBWENWemR2QU9FT2N2akU3YWhucjR5ZmZKTXkwS1RwR2NvS1VSZGw4dkZ5eWFIYnduTE1UbFRlQTZuTXVIZ1hKUG13ZGpwakVRU2otc08xMnI0cjlESV82Q1dqbkNZcldfOUFGTDJoX1plbXdkUWfSAbABQVVfeXFMTmRyQmNVdmNpZk16bnhHME16OVpwdDl4TWx4Y2pCQklfTTNOWEg4VGYtOVdLSjhISktIaEJOd3RhQVJ6Mk5XaEhHbGhqbC04d2sxWjBFTEhrNmtWSGF5Zmg3cVFqeHFlbmx6bmZicEwtZjZxS2VEX0JLdl9SOHVyVWZvMTNzdlAzWHZCeU9lNXVzX3h5bUlHb1JvSEs3WUFvSEV6NGVpb25Uck9MeVlYMXQ?oc=5",
+     "title": "Anwar: Malaysia appreciates France's firm stance on Palestine"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTUZ1clZDenpaN0V1ZW9LQVl4X2hnNGYydVpRVkdoYkxINzd6SEFSUF85WlktTkprcXZIcTBBWHB0c1FvTGVUbEk5RUhtTHY4SWUxNGU5c2R3bVB2Y1NIc0MtRHdzMkZsWUpzUEs2R3l1UGJlai1tMXEwdk9CbnZ5alBOU0tEZk9Jb1c0SGd4M3pCTHJsX081dERLcDVUblY5a1BleHpWVE9WVTRlaVQ3T3Zyem1QOENGOUFVYlBR?oc=5",
+     "title": "Anwar lauds France for standing firm on Palestine, takes aim at selective justice"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONWdqRUV0dktXTWl4eExSa3FsakVZaFZKR3pxbFVRSi1WcHZObFU1MnVaRDFzUlJEakVod2Y1SDFWMEJKNE5zWHpfZDEtbHFLXzhUVkpBRnh3MWtqbmlyUzI4c3JkQkpvQ1dxV3VaRVlDR2lMbnNBSnhNMnlWRlRYZDRBQWtzQzF2dmlaXzNBUlU2SWp2cUdhajFuRnZJX25ZWE9xSDN2QlY3d0t2bThtWg?oc=5",
+     "title": "Beckham firm sues after fragrance found for sale in discount store"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Chetok assembly appointed deputy exco member, replacing Bersatu's Bahari",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOemJFeEt3dWZKS04xMmpCVXNkbmgtajNtTG1UZjFveXF5clo2QVVNMy1QTTJ2RVR6QWRia0lobzVXU0RBREZEVHVIU1lXQno5M3FZVTlQdHFUZC1rU1ItQzZUR2R3WTZydnFRWFB6cDd6akZLNWhIM1Y0a0FpaUpjTXAybnJkX1VDQzZ3NkNLX0lfeWpaMmdRMXUzSzlaZHdCSVp0cjFBeHNtd01qLTc2NHZiQkszVEXSAbwBQVVfeXFMUEh1OUZKZEI2M3lyUUdic29PRzdwMmg1YWF4a09oaEtsLVJ6LVgxSmlWRER5MmNKYnRCV1BBeTNoQnFyOFQ2Z2I1dldTOXFnWlRrRjBLVHJtREVxSHNuLWFmQjRGeHlycmk2UDMtbzdWTGRoek5MTlBSU3Y3UDRjS0MtdmUxX2hQZDNtdHJPd0Rnc1FCcWF0M2ZtTGxXZld2cmVkbWFFdVN1RGg1WlM1dDBDbFBQU01jX3RtX0E?oc=5",
+     "title": "Chetok assembly appointed deputy exco member, replacing Bersatu's Bahari"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU2c2TXl4TzdZNUZ6LVNBQWotc1hZdmNvRVZOWnhVeUJUWmRMY2JqNjJobS1uREdNOTF6R0JkWkJzd0VSS1JNRWJVdHJDWFg5LXpVSi1Jb1g4UmYxWEhZT1ozTi1oTVBkcFk3Skc0dXg3elZkNzd4YU1zX21kajVnVVB5eWhVcFYxOHk0d0JxWVcyUQ?oc=5",
+     "title": "Another Bersatu rep dropped as exco in Kelantan"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12ZlJDcmdyT3d5c3F0ZGZpUDVob01LZC03M3VHMW5keEJENTJDUVNBN0VsanZVTk1HeElsbUptU3JvM0x3TDB2b3YwLWlGUVdYMkIzUER1OTEwdVRRR1RkZUtR?oc=5",
+     "title": "Exco Bersatu kekal buat masa ini, kata MB Terengganu"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Trump backs Huang comeback while Nvidia board seeks new CEO",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 6,
+   "owners": 6,
+   "work": false,
+   "links": [
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNWldpcXlDX2ktaTlfak8wcGZlQU1wVzVaVmNZVWR2V1RBYUZYUUxvM3BTZFVRNEwwTXZNaWs2U0J0Q3lSMDR0aVlEQjA5M2Fi?oc=5",
+     "title": "Trump backs Huang comeback while Nvidia board seeks new CEO"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaNjZSeXBveGFTaEJEM1lROVBGeWI3TEpuWWcyblp2RGZxeXAtVVZhdWRyUlZISHNFNTgtUEZNUWt0TWVIY3B1T3pZR0hjQmNDUXV0NFdlUHUzMEU?oc=5",
+     "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWnJmVHNCR2NpOGp0dlZibjRKMHA2S0hJM21UQTlDUmpTdXJwekFtbWxwdGVEZDVSRm0tUjZyWHQ3dGZVSmdBQkdCMHgwS0E1MU1MczV4c0p1cjRZT2I0dFpvWEZQU3VDSXNPZ1hKZHhQenJ6RVNpbFhIUm5KeVFSdHgxNGx5U2dHd0hsanhrMW1vWEUybU9maXg0cUJNUlpzcnp6NG9LS25kcjllZ3REY0o3Z3R1blU?oc=5",
+     "title": "Nvidia rules out Huang comeback as campaign for his return grows"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUG5xR2UxLXNkQkhHXzNPQVliSkVQYnJSaDhia2VYdjZPeFBtU1VHN0ZHeVpuRE5Vd0hTNmpsYWtjaVh1ZFRvX2Fnd3JDQWhEQVJxNFY2RjVrLU5IcWhuSVZrZ3lFNDMzeWVwUTBYclE1RDFnUTdkR3NGUjFuaTFPd1hybm9DYzBSR1U2bDU4a19iWTA2YWc0eEdUazBGbXZ1VTc3WFAtSkEyZw?oc=5",
+     "title": "Trump backs campaign to reinstate Nvidia CEO despite allegations he had an affair with a Chinese spy"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS0RyTzgzM2JDdDRzc0JPcWZoQUp0Z2VDTmVPclh6alRja0ozblJyOXdOVGpEd3o4QThCWUhGaTJiMmF1Z3ctQ3lJbHJiamFhSUNZaEc3MmJIaG1wbnBKY3RmOVhFbHNJT3VJcG1NWmpmdzlXSzBIRU5xLXhxbUZidzFBcnJTRjlhcEVBZUpUNWlfS3E4MDNnUUYzNHVwakRNaHl2WlhJYmZzYjVVYWxBSUVKSUl0QdIBuwFBVV95cUxNZGxNdWtWWVFWQ180TlhNZy1IdXpxbVZ4QlBGR1hEOGZ3NDhwUHdkckhDNmFOWUppUlNPS0NHOC1mUTZMUGhjcGhYMnVFbUlyT2w4RldqUDYzM2QxVjQtV19Zb2pWMHFlYjVwZUhHOHE4UGlyZ2d5VUE4dnZvdzAtSXN0UlhncVRnckJUbUJtQVlxdUtwd1JtSGpsQk42Q2hJOC1Ra1Rpb2xfeVdHakp1bjEtXzVKdk50aU84?oc=5",
+     "title": "Why Silicon Valley is backing Nvidia ex-CEO Jensen Huang after his ouster"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSVBNamYyM3YycFJ1Sm52dGVvRVJLLWd4RUJyM3NPbjhacVFMY09NSXBsTUZlTVJiWHA4dmxEN29UOWJOSzhhb3JHTC1kT3F6aXRTd0MtaTA2WGxVajNkb1FqRndfYmVLMVBjRFlBU1ZGWTNUcUNDOWRYam82RHcxazAxeWMwZGRnWHFDN1hELW95THBLaTYyWE44a0gtY21GMmFxdW9jT2hIWmVCZ1NyRGhsMDFrd2M?oc=5",
+     "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 6,
+   "owners": 6,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSRU00UVItWVBVOXhnT1ozc2E0NXk5V3VNTlN4eERVeGVRRlJKc3dHLUMxbTRISm5RbEhoeEJUdEhCbldiU0txRExramJVWF9OcVdIV3dBOEo3czA?oc=5",
+     "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTl9Eb1E5UVQ3M3dxTUZvVFZiRndFUElsU3RMZ2ZGR0poZlV6X3JHdklhNUswWEE4RGZkbXZkWmpwS3I3ZTgyY1Vrc2tXOXZnYl9kSlJsT1BuR3pWZmkyYlRENWgyWHVSU0Y5dkhVdlFrNXMxMnNJTTVMRTF6aUJpQkdXUnV1NnE5aW43QVFlYmFfdjlxTVBUY0Rfam1tSFBRMl8weFVMSWw0RFBTekdncV8weE5CcXlwcHhMWDh3QQ?oc=5",
+     "title": "Russia says Ukraine struck its bridge to Crimea for second day in biggest drone attack of war"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUXpCaVl5U1lEam5kVm5CWUVHUURUV19EcDVHMUZ3ckRXVTBBQUVodVJJeWMwNmxTbTlEZC10T0ZkMEZUZ1JaakFtY0szajhqSkh1UmRLRHFCWHFsdlJ6TFFMNk9pMGNaRzFlSzh5dU1iNXZzbUdJWERveEx6NGE3YVdSWndvWVo2eDNDMTRoZnFyb0l3eGQ5Y3dZQUlMbjN6VFBDZUZCQnFhSEU?oc=5",
+     "title": "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVzBfcTd0dGtoRnJmelJGSUhydE9IdTBfejEwYVhrdFB3OG1qMkV2VEVPXzJXQkdZR3h6LVNfM1JEMWxBTTFPV2JPb01Vc1BFV2lQbThfTmVfUS1ReWNYZ2I2WTF5LWhGRm8zOTYtTXhoUmlrcjVxTkJHbjZ3TXdLQjE0VnhONnUtUnNjdGlESmR5dDgtNHBJa1h6RXFCYjdQMFNCcjJXTkpkZV9HbHNHVXBlWdIBuAFBVV95cUxOYTA4MG44OTJSdkxmODdjLTJ2SnhtQXRoNzZodTdDRC1lRUtXeGFTNzl3dGQ1UFpkTWQxRUxkQVY1d24tNXhMdGUydlpCWkZpdnRpTnpOSXVrbHBjSDRmZ3drUF93Rm0zRzJDRFhpWW5XaG8tNlNwc0FGSHBTVERvVjNyZS1FV016MkRJdW1VSHUyWXlEcHRsMnNabm9nRml1ejJ1czhMb2Rlbm5nQ2cwbHNzSmZHa0xB?oc=5",
+     "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZnpDT3A5XzM5SjRRMVJLODg1UkRubkgxUGtUX19XNmVQVUFIek12d1RweGpzUGRScGFhRTFfZzN0SlZQQUZUZUJnQlI5cUI3OTRnWVVvZTg0RHpVNzhJUzRwbGFtX1RHeWs2b1hueUt5OTlfaXNkUUdCM0wyenFCU3dzREhmLVpCdzk5VjViVkF1bEVZZTdGZ3pZeFJFMFhfdmdVeFNzWQ?oc=5",
+     "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSmZDQ1dNVFQzTEtBSVlmMmNCdzBuaGNjVzlfbGlud0FGMTE4S0VETF9FVm1vc2xsSWtKanVZU0wycVhPeVZSU242STBWLWNzTVV2N1dFQW1HQ2UzdVJtbVVIcDhrVHJuOExISHA3cTFoVGplbU5FMkN2d1E2dzNPakxfUHd4QWdqZVJsWnBWZF85TDhYNUhTeQ?oc=5",
+     "title": "Ukraine updates: Key bridges in Kyiv, Crimea hit in strikes"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Trump set to arrive in Manila as 49th Asean Summit draws to a close",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUmwwVlcwb29aa0ozc19DZWdyV2VtM1NSOXVXZ21wb01jMDBUSjJzVVJ1ZE5qQ1RSM3pFOEZjT2J0bXNMQ2s1bWE0eUxCcE9PZFhZX0RMbzBrQ29INWlXYkpMVFFkVldNb3A0RGhjV3o4NUZSR2xZYTR6czNuZ01FVEtITDhadFlpMXBoUTJLcF9rWFAtYmZNSG9nSmpNbU1fd1pydUgtNERmRHBvUFhESGdWbk9fY0Fs?oc=5",
+     "title": "Trump set to arrive in Manila as 49th Asean Summit draws to a close"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0l1bEVvMnNwMHJqM01iVWVDR2JJQmRvaU51TmJQdGRLVnVKUENDTWlLTW5wVEdSVG5uTFEtYktLMUlDWjU4ZXJ3U0ROcjZtMEZNVlZCZFBiMTNGTldnMVBEX09UMkhLS0pQSlVqMmlXMTllMGdxZ3BsU2xrM1lvU0JDWHdSYzh3QjJhRVFUc3N2YW5xLUpXOGNWdG10cTM5R3BYNWtjLTNFN01oaGo2UzVvRQ?oc=5",
+     "title": "Trump to kick off Asia trip with Quad talks in Manila ahead of China visit"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV044N1hSXzZKQ05DZlI2ekZLanJibWVBaXFsTHVnZU5ic05WN3FFZjFnTnNHOElLVWFBZEltVmVVZEJXZmY5TVNPWi16cGQyUDJwaEF1TWpNLXlkX3NZaWlScUtFb1NzQ3IwNzlDNl95aTY1VGJOOUlCTWI3YjdMc0NmSmlpOWpVc3RWMFQ5R0ZyWUNwT0Q1QUFlLW9sV1NUdGdhLTVheXNQSmQzOXpB0gG0AUFVX3lxTE1RSHRnNTJYS2Uwalh3VHVRNE9PajhadnAtdUpDcEF1cE15ZGVNZ0V4LXJOTW5DTE5XQVV5SmVxQ2VhVkNyOGYwdEhOV2VSUVlmWWF2QVZ3NXAwUmZqeXVEZC0zdnk1cFdlZ3VMUlZzZUxRaVFkR0w2d1FzcEN2cVlpNlM0VF9TdzFOZzZVT3BfUFBXS1YyZEY3VXZ4MXhOUnJmV1dGTGNadW5EZjkycnpGUTA0cA?oc=5",
+     "title": "US President Trump arrives in Manila ahead of ASEAN summit"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQlVmVTJIQkVtZkd1S2J4RHhETFF3b2FER2UxMkNWbjlMS1AwZUFzOVNsbzdseXVHdmFaY2ZrVUc3MkpOeW14ODZfWVZhZDRjSkdwVkRzcHNxSjF3VGZsNXlnZE5UclUwM1VtSEJQTkhhN3Y0ZnJQWnBYSXZDYXoycjBCOWJBVkFjUGRZcDVuNVRoNFIwbWtjVTJHMnFOZw?oc=5",
+     "title": "Trump arrives in Manila for Quad talks ahead of China visit"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMFlnMDdSMmpyMmxMdnhyZDR4LW45cmNhbFRCWlAzZnBZcHNGbXdfTHMtVG9mUF9zRlBuMFVkUEhMREZzZF9HUTBzazNhekgyV1R5bDgzM0ZVNTFRTkNMM1Vjbi04ODRORDVidDhab0ZsekI0T2VJaXQzN0pXMWVSSjBydW5BaEthOWZHbUUxMUo?oc=5",
+     "title": "India news: Modi to attend ASEAN, Quad meet in Manila"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "US chip curbs raise risks for Malaysia's IC design industry, data centre demand holds up — Kenanga",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PR0pKQTZ1dGgxNmx4U3JUQUtkMzNHM3IydzNmT3ZZQXFXYmFhYWVVaFhEZmt5bHpHcnQyLXExeDNTRjZUUnB0ZUg5RHNVdHVV?oc=5",
+     "title": "US chip curbs raise risks for Malaysia's IC design industry, data centre demand holds up — Kenanga"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRzR5X05qSEx5T0JaQUhWZlJsLUtmbkxuSDFFTDVrenhlRWtZSF9sVmlvaHA5NnVBTm9rSFhOaVFXU0YtdTRtNEoxNl9pLVZLRFZXQVoxR0VVdkF2eUNNUVRJcHEzWTRobUFRSUU5OFdIM1dTbFZoZ1c2VzBmeHVESGdjclBhdEhSQnc5ZHdQZERRU2RlbGU5eEFUQ2RleU9ROFIwOV94MUhoMVZZVmp5TldpSW4wTUNlbUNCelVTVGNWaUhZ?oc=5",
+     "title": "US AI chip curbs threaten Southeast Asia data centre boom, shares slump"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONGJmTGhQa3FRRDZtX3BqVk9SNlc1aHZ1QXZiUXdHMmlmZmdyUjFKS0hrREM1OFRrVDVjUGpSWnZfVTEtdlozVHVDc0h5Rld1cGVKQTFGYzVZOGJMdDNheWdEcFRhakxCVW1xcnQ3VHBzS2lRdWNPTGdtUkNxNVRnT1JUVzVKNzRXUlNuLUtBOVk2REZnZjMySER5NmhfNTliRjZsZ3B5TElrN0JU?oc=5",
+     "title": "Trump administration moves to block China from indirect access to American AI technology"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUEx1S1c4QkxOY3U5TFhOV2xQcW5pMG9pY0FGNm9nVkxCY3hhVVd6VW14UTI2bGdyU2Y2aXFTVjJvdHJmcEtHMkhDd2dvQWp1VlJnbFozSFlIMjJBMENpSTlQdERmOEt4WktXeGtCSWozdlZfcEVkSnNKcDFEbHFCN1gtbE1TaGNpN2xidng0ZkNseVYtd3hxMGlfYjk4ODk0MVE0cWg5SVN2c0JCWUNncjFnZXJKQdIBuwFBVV95cUxQdDZieG1BWHRKak9yWTlDVGpMdHVVMU5EejR1bkRZa2RvajY4aEkzRDJsZ0pMeWxVTTRzbk1LU3NZWEk0Ym9WUktJNFkzeElBTk5qcm5WS0k0MzBNV3JVTEw2SzJSTUJaVUxKOHE4R1FpU20zRDFjQWUxTTZkdUNqTlhISnVsU2VzUC1JeTlNSjBCTHhadXVWYXFRaVBfR3JaZzhqOXpCTjJ4cGV6enRrOUM5WGNaMThRX3J3?oc=5",
+     "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdDNZa0JRNDQ2VFhzTWpTN1FkNGpsNGFhWWVWSDJ1YUlpZFNkMVh3Znc3QnQ3UzBXYzRISXNHa1A1cURhUVAzQzQ0N3JLYkFVX1BhOGJ1U2dVVFRLQ21YV0c3TmVVVWJ3cHFIdkpSWGhUOEtjY3hmbllsczNNZUh2MjFaTF9DdXBzb25Wa2c1RFZ2X0liYnJtMw?oc=5",
+     "title": "US to curb China's access to AI chips as Trump heads to Asia"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Robert Pattinson: How the Twilight star became 007",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFVGxLa0pGaFhSNVpNWFRHSzJ0b08wWXZkV3NrUHJtY1BZdFc3RVF4dFhnOHhEWDZueGdRNFUzRW1YQ0p3UkxIOG9zOG9QREJKYzdYaFg1STNFWkU?oc=5",
+     "title": "Robert Pattinson: How the Twilight star became 007"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObllicENrQVpJdklkNVZHUnZ5cURLZ1gwU1N3WXZJRG5QNE9MTXJ0RU1VdEFQSWNadnFZRGxKT0pJcWMyWUhFYk5aRVFSbS16SjBrbVY4Y3c4VjZqdVJLQWtPM0M1aGZIUkFXaXE3QU9jUm1qdmV4TzBZQkFRLTBTQTJoODRVemdMeFhsMEJJeWFlODNvdnVfLWhmZFp4QQ?oc=5",
+     "title": "British actor Robert Pattinson named as new James Bond"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3WVdwdnRSYW5oWmtlN1hsVXVZUV91UVR3bi02WEdFYXV0cHAyckFqNGhhRjVmWjZaWlNQYW5VM185akwyZjgzQmFhZzZWVlFoY3FUcXNmbmNObmNOQWlxUGVmc19kNXJmZmlqcW84V280ajE1d0RZWVFPczlKVXM?oc=5",
+     "title": "Robert Pattinson is named the seventh James Bond, taking over from Daniel Craig"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMXg4TXpzUnpLQXN2Rld3UDBUMV96eml4ZTJtR0l6UnlUem1ick1uOC1feW1rSDRpd0ljM3Zya0d5VDRIeERzYnhlZEh4WHlhcW45RHhJWENsbk1DaUp1YmNvdjhMQ1UxTkQ5Njg2VGFadVRtNGhVVTZqU004UndJdzlVRlRXU1AtLVdJSzd0aGZjQ1AtNkRkNm5TS3ZkdEEw?oc=5",
+     "title": "British actor Robert Pattinson named as new James Bond"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWTV5aF85dWhoWS1PZ0p6SDRiYzZueEdsb3FSc0hZTWp5U1NjNFI0SFVMd0RkZnBZeFFSbW95Tm1mcDR4TWNkTzktYzNRcmpVaHI1YXN0MUpGUVdyLUF0TkQ0QnFYdm9kdE1Gc0NNOEJmdDVnUlFBSGZJOXplOEd4R1NuQmxTZmRaRjhYWGdRUWRZeE5xV1BWS1UtSFdqU3ZtOWxTVTlqam8zZFNicVRN?oc=5",
+     "title": "New James Bond announced ... and the name’s Pattinson, Robert Pattinson"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Anwar to attend Apec meeting in Shenzhen, hold high-level talks with Xi",
+   "summary": "",
+   "scope": "world",
+   "category": "政治",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTzhHUEtDVnVSNnlDWUlaX1hpTktsVEM1QWs4OHk0Nk5UX1pnLTEtdEY2LThrcXpwLXVwRFI0bWUzdWhCRGZudjdEQ1kySkhFalNhR19VUVJSektmZGlfTmd5WEp0d1hhX082NmJITWI5VlFhUkJORTNqbDZoOTk1R3RlSzVYY1lyelBndFBIU1loNU9RcUV1akhKMWdaWGtLLXA4WkpNRE1Zc0QtR3BF0gG0AUFVX3lxTFBjY3EzeHRYMGlGSG9fZDI4enlscnptTGVZSFI4WGJFNlBpZkpoY2xPSGNvLUVpbERzUTM3bVQyMW9EaEhMQk14d3BtLXphU0xWRVVXY2RrcmsyUnh4Wklxdi1VYXNVWEF0WHBxRHBrX2EzbW50dkhuTm4zdWl3LXg3NTlxVDV0YzBWemRBY0lRcnk1NnBSc3dFX0lBZERpZXRGWkQ1X3NqN3lZVnNERnB2U2l5bw?oc=5",
+     "title": "Anwar to attend Apec meeting in Shenzhen, hold high-level talks with Xi"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcGw5a2lMb1B2bEtyYWotSkJYcWhXNHN2R3lwQlNuSUxfSHB5VzJ4Y25wNjZvcnVMLWhlN01rNnM3LXo2OHVScndJZm5VRWhjVFNrNnJZZDRhdEpoSThDelpzbDJlMTB0QXZ2al9FLWFkS3JTU1FfaFpBVkp1X2lrMU93bU5FbzlIQl9qbzFQLXE?oc=5",
+     "title": "Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcVlFMXRoRWRhX0NUVS1IajhPNlA0SExkTnFndkI1UjNrTUJTQk00VUxDVzhqclpvdFFjaWNZNTRWVUtsRHA3QTBhaFphZU43OUk4azNYeHJiNnFNSmtIcHB2bjFQZVplOWo4X0NJQ3VmVjViRDRQbzVCem9SQzl6dkp2TnFaQzJlUjVzWlB5WFExdEQzTXFjRU9WeC1IN1VsOW9XckdB0gGrAUFVX3lxTE5GSmEyYllFc0p0VFhrNjJFY0RSeTJsdnA1akpPNDRfSHRvdElmUENWa0ozSWlrTmtxTzBTSnFMZ2NrOVo2Tl9SSDRxSzdNSkI2Skl2bFJZaGJYYjd2RFRnMUswTnNoQVlnZmVmakFmU28xSDk2MkZFNjVoWmFuSHpJMFAzRGtkV1UxakpUeFo2Mkh2YXptbXd5NzNLNVptR050NFBhOVVNMFppbw?oc=5",
+     "title": "Trump departs for ASEAN on summit with Xi and Putin"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTy1ibmxFekFmZENCOXZEaXozQklrNmxIdHFQZ2xTbzZKUG41Q05GRzVwZ3lRT0RMZlh6UUxGQ1dLTy1lTWNBN3BVVGRyTy1ISzhLekNQNVhvSnl3cUJzcWhlMkY5MS1SNUlQYzk0V0tRd01jY3cxdHFDT3JaMW5HZU5IT25jaE9iTENLRVB0Q1ZodWpvaGJ2ZEF3bw?oc=5",
+     "title": "Horns and drones banned as Shenzhen hushes for Trump and APEC"
+    }
+   ],
+   "new": false
+  },
+  {
+   "title": "Trump tidak tolak kemungkinan bertemu Kim Jong Un di China minggu ini",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdXpIenFDRFQ0THJUeEVHNUZ1M2pWNk5KcVBXODdkYWhmazdqLUVYc2xqWldfVkRBTG5xaXR3TWR1aDdKcmtyODNCMHdsUEQxWmQtRXp5bjM4NGxkM05NYk9qaFFvNHdpX3dLbm8xNDFCQUpqTndFbTdoTTF5UER0MGtqaDRBOVBVQU5oa19Qa2xWcDBCU2VzRzVmaUMxcFBzenRZSw?oc=5",
+     "title": "Trump tidak tolak kemungkinan bertemu Kim Jong Un di China minggu ini"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWVIwQmdMSUg3WG5LNS1oa0VlMjFNU1dTTG1oT3B6ZllCeHRUS2lDeXpneDduNVYxUHY2dk8yZzBJWEp5dlFpaUNLS0FjaVhHa1hzVE9EN3ByTWkwS3BDSFVqN3hQSkc3ajA2aHJheGVna2JqUVgtYkJOZnhfdVQtTlpYZ2l0czBEWVdCdTAzRF9SLUJKNkUteWFKLWxZVUxsa0JSUVJhX3lkUW43ekN1MVh3UWpocE0?oc=5",
+     "title": "North Korea's Kim inspects Samjiyon tourism zone amid speculation over China trip"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTdyYjZiU2FUT29va0JWQlcycTJCX2JOYVA5QXZWelZGZDQ3T2ZYSFBsUEp1LVpSTi1SbmRWa1ZUa3RSMjhRZXMtenZZNTdUdWdVWU1JSEROdFc5Sy1JdnlxYW9JUWhQeU9WNW81Q253RF96SDBNNVJfSHlMUnFwdy1HbnBJU3daTkxhQ1M5bnZPQVk0OTJBRUNTZTVTUTAzUTY0bnducWR2NnhxOUx3T0l30gG3AUFVX3lxTFA2UEhFSThNVTVlY05YZVN1SEFGSG5pa01fU1hzVFZWQ0VXQ0FwWHlGSlJncGt0NGRyTFlaNUtST0VjdC1jR1d6YVIwdU9QN3FrTWt4RDl1RGR3eERlcE5RZFBhZG5Nb0FUYVlZdFdXV21xZ3RMYlg1bnNvSGQxeDVpMENkNnpZelV3dnBWVkttRFQyZjBfeFp4N3ExUUczX29BNGF1OUY4Z1RJb2huYXNBQVBVY201aw?oc=5",
+     "title": "Kim Jong Un tours North Korea ski resort with daughter Ju Ae"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYTlZZU93NS1RdFk5bWZLUkpGcHEzd1NLcTNhbXpqUUVIRFBFOENHM3hjcUY3eVRLLURtVC0zeG1DNWcyZzNWcWwtd3UybGR3MVdDTkFOQnFDUmlVT1Y5NUlBWjJvTUZ2eDBoN09yb05lT21VMzBleS1fUEltaUdacGRRRHdvZFRvMHJJY1BlRVBmR0pxbUVoNGktQmNyQXZwSUJhTDBEdw?oc=5",
+     "title": "Trump says he might meet with North Korea's Kim Jong Un in China"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "After Yemen setback, Saudi Arabia replaces military commander",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbllfNkZoYzF4U1ZLdmUtaGE2VnZsblBfeXMyV0xFSEVwcDRya3hzTG1jR2JVS08zYUFBR1laaGhkTVhyZ3hueTl5N1k5ZkFTc3V0blFaUm02WFd0Y2Y2bTR5Rm53XzhTZV8wYy1YWVRNQWo3Vjc5VF9GeXJMaU9zZnhOV3N4aDNkbmcyalJnenlReWFCamtKS0NPZWNLRV9EQ1A3SEVLeU9BNjBvYzd6VzNnQQ?oc=5",
+     "title": "After Yemen setback, Saudi Arabia replaces military commander"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd203NG52SlFONmtCTm91YjhsamNiTGxGRFlza0ZqS2FETXNPNHZ3Z1RDMWlaLXZGVjhua3A3QVA2WXgyd3ExOW96UVgweGU1VmpaM0toTl9DVEQxZXBFZVlCMDhOTmRsWExzOWhSZVNUVmFBSW50NmpUc1F3TEhYcXZ1Tno0ekdmY1lOZmhnbEM0YTNBQ2s2dWlPaTJ5U0VxRzJCQVpMZjJOaDRnTzFUbNIBtgFBVV95cUxOWGw4WGYyQUpwckQ1RUFsdjlTM25OMFYtUnlwTldhY2JhR2JwQXp0UTFOUE52Vm5qa3lCSzBZMllBNnBGcUJhOTh2Wl9lWHk2Y2VtQmh6aUZ6Z2dTRmJoY3BvR1RhMmdVRkg1Z19WTUxPU0ZOTHozci1EZ2xaX1kzTl9rLWZMb2tieDFRdHIwNWNyQ0tnMjVOQnpnMk5sNkx6YTk0anVyMHo5el9NbWcxUnlHckhqUQ?oc=5",
+     "title": "Saudi Arabia dismisses commander of coalition forces fighting Houthis"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbFloU1JOQVR4ZXE0LUtZVEJHZTBXQ2R0bmgta2UwTF9LdmJXbkl5bTFGZllGVDlWaUFEdkxDck9WYkxhNDlSRmx2MnNqc0wyVUFxaW9KanI1YVZDZXZtMUtrODlRc3c0Yk1LM19RVEZoZDh2cGJ3YUdPc21LMFZpenJCLV9rQ1o5OV9CVlBnRGw?oc=5",
+     "title": "Saudi Arabia dismisses commander of anti-Houthi coalition: state media"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUkdiNks4dk1LMnVuMmJaSmo5TFEtOEdmbDllaTd0Z1huMG83NDEwSG1GRVZudkgtQ0F4MVZneGhTbzY1X0dxZGx0a2NlbWY2S2JsSFRCbXAwMEZHTVhOZ2EzbFJ4a1d1RHBPWnVQNVhWLXZxemFoN3BVT1p5VVo0Nm5lZ2diMm5FcnZHblh4ZEZnZE1kS0J2UGE1VDltSHFSQmhYb0RRNmlqMlNBelYyT0J3RlFHUXBtelh2cEVyVWVlRUhRbUE?oc=5",
+     "title": "Russia, Saudi Arabia and Australia named as biggest CO2 exporters in history"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "AI cheating fears spook South Korea before high-stakes college entrance exam",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb0VtdnM1WFpveXp4elZ6alZOem1LaXRpNUNSamEzTUUyWHprUlZaZFJBQjNxSU9waG8wMlJGaHREd1JzaHliSEU4anNYeXktYkJWNjg2TVRsanc5RGRrUHRVc0ZtSjl6MWpoMEFDaGtObnRhcWMtNEU0MkZyTXFnQ2FtVHA5R09QVl9WTS0xVVllUTIzT0Y4VmZ3SGt1N0l3OWdmVzE4MW0xM3FiX3R4S3hSY0xNcDYtTXpFOVNTcTVPbWFiZlhrUQ?oc=5",
+     "title": "AI cheating fears spook South Korea before high-stakes college entrance exam"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTGplSkhGeTJ3YnFIQkF5S21vemk1MFNZaGx1SmpvWmtVajFhdGw5REpGSGVJSWJ0a1pzTjEzWnV2WDRDVHNQbzdNc0tpODVfYThGXzNNZmxYbVAyMm5QYWJudkVmMUJKUnhfSHMtQ3d1dVFuZnRhcllkUkJvbHJLR2p1ODBlMjdmWmhIUExJNU5lOE13N0piMjZPeXhYQUtRUWNadUdxVFo?oc=5",
+     "title": "AI cheating fears spook South Korea before high-stakes college entrance exam later this week"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUTg0M1FVWGpFbFJWb1phajZkN0lva3k2TW5zZXRhbWZEZlJ5V2VsNXFjQm9PRTl1SjBxcDM4ZlJlc0FQbkZfc0dNdEFqUTkzeWVLZTMtVkl4LUhLNzNFOWhuR3BUMHJfVkZ2eEtJd2xiOG1SU1VSdlExbFZSZEZOQm13NDNNMm5WU0d2UFRxREN2ZWdJdndZdGtyb1MwbzhnYVZDZjJGcjV0R1FkOVHSAbMBQVVfeXFMT3ZaU0Ixc0RZd3FCM3A4ZXM4SzU0STRCenVIdVJmTy1CWXF5ZVZsTWZGbU5Nc1BwaFZlekxLRXF3LUo5YVhwY28wbDViQ09uQ2FjOFpXdDZrYUFxaTk1c05rck9yRzBXQklZOEJBSTAzd0F3N3ZIc1ZuSWJyMl8zWG9reTFjTUE0OV8wN2FReTVxVndnbTNQb0RteHhhdmd1Q1ExU05BR0JmZHpFckI3Y1BYNHM?oc=5",
+     "title": "South Korea cheating scandal: Are AI smart glasses a threat to exams?"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Malaysia keen to attract French investment, including in rare earths, says Anwar",
+   "summary": "",
+   "scope": "world",
+   "category": "政治",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyOVF3dzRGczRYN0w0WFJVOFBFeUZQNzlFcS1uSkd0R2tZZUc3QkdCWkM4VDk0WTZfNzNyOVIwTE8zRHQ0VEdOMi0tRk92THdy?oc=5",
+     "title": "Malaysia keen to attract French investment, including in rare earths, says Anwar"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSkFoZEl3VnoyRDVaeVc5dFpqSTZhWU5RZXM0Y2hSQmYxZUN0ekRoWFVTZkRMVHNlNGZ5ODB1bmhNVWVQdS02bW9mNDZmTXRVX1lpU1dBY3RWaTI4anQ1LWowZUx5b01qdUhZSFRhdC1helV5aWhFaXpweVhQaW43el91R2dJd3VOcWUzUjV1WjNmeHVQS0N0cVBRWXNoMmVoMGp6dzBwQkF0OVI3ZXBPR2EyeTd5SGRIa01RWDZCMG1NVkU2a3FGSlBQbndhcGFSMnEtOS1Baw?oc=5",
+     "title": "Malaysia loosens rare earths curbs for France amid upgraded ties"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORkxncWprMHhzS29QQ2FuUm9uM1d1Q2sybDFMQTlUbEhLSFFpZDN3LUtRajVZanAybFJyOXVCOENsejNkZWRXeVo1OVBEa09ZN3dzT0d1SU5pQzFhUTJ6TF9TM3R1eEYxdklWSVdEYmJkY0gyN2pvb0R4TEUzTm1vV3NpWWctZVU3YTJfX2hoNHNvTjBNeUFhbkNSRVdPWDZJSVZmZGhR?oc=5",
+     "title": "Malaysia and France upgrade ties, strengthen cooperation in defence and rare earths"
+    }
+   ],
+   "new": true
+  }
+ ]
+}

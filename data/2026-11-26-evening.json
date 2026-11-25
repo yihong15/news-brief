@@ -1,0 +1,626 @@
+{
+ "name": "2026-11-26-evening",
+ "kind": "daily",
+ "slot": "evening",
+ "time": "2026-11-26T03:28:54.770730+08:00",
+ "items": [
+  {
+   "title": "Malaysia Aviation Group to buy 10 Boeing 787 Dreamliners, CEO says",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 6,
+   "owners": 6,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUjlzaWZJeWJnS3p6Vk9DXzlQT1NHR1ppMTJ4Yk5JVGc2NjBrNHNSNkV2aGM1RGxxZ19rbDhQQmRUWEF1SzJQV1V2Zk5FOERvRHFBVGFlLVJYbUt0dHJDQlBnT1RMemVwQ0hCMlA2SGQ3akZaZEhhbkYxWEtaLWQ4VVp0aTR3TTd3TWkyUDU0OU81TTFuSTJTSDlfeW9oWm10ZlhxVlBFVUR5QVhOU3FwdVVYRExzal9Jaks1ddIBwgFBVV95cUxPcmRBNzgyMFdIQjRSVHd3c2wyeEFoQkVQaGUyV0dBQ1hpSzRfaDFnQ252dzNJZFRQZHh1RkZib3hfT2xIMkk0VnNNZmRiaTRMNVFUMk1yNTVZODFtMi1JNmJyV3pVWGNpRGFvUDR3ZWpKcWxGSFRpY1prNmZkNnhwQ3lDVHNYS0tZOURqLUl0Y0Vjd21jSDFISjI3VmpjSEtmVUhnTzBvSEl2cE5iTVN6QTVORnZUSS1wTmlrdVh6cEZFUQ?oc=5",
+     "title": "Malaysia Aviation Group to buy 10 Boeing 787 Dreamliners, CEO says"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMDdCVkxZRFNKTUhNcWFOeHI2Wk9jalIyZ1F4R1ZlTDZFVnp2N0xib2JpdThuTE5nU25Hc3hrV2s3RjlSak9BTi05WkpHUjVjMFZtb1V2N29pV05USkk0UWJmR3pkSHNZTDdYWkk1dDNIT2FzaGE4R0NCTzFzWkMzNlIzTlptbXA5aEV2bWlMSGgxSTQ3V3hkRkUxYXlKd2xOdkgtNmhrVExYaGVlcFcxTGVsRmVaOXF5R3ZBUGQtbVlRMUZn?oc=5",
+     "title": "MAG to acquire 10 Boeing 787 Dreamliners with option for 6 more"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQ3BuekMwWDM5OG5FMlpxZzBoUXI0cjRRNklrV1ZTbFRpd1ZfX3AtemxWajZfQTdRaEUySlEtUTNORFVXcTd4b2ZpN0l4ZWRuLWczOU1qak5sc09OQ1RCeTlMbjNLdzNCUk5VWHVLa1BqUEdUOXdXQXFzcVhUeTNjUTZZUVF1TC1aQjRUYXcyckRZOUNwdXZLMnA4M0ZqOU9UTGFxRjVnbTFZN0hkOVZvTHFLMW1ZQ0J4NklKY2tsTXRjNk1GS0FQZkdFZzlrM1NOTGp2RDNR?oc=5",
+     "title": "MAG beli 10 pesawat Boeing 787 Dreamliner, dengan pilihan enam pesawat tambahan - Kapten Nasaruddin"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbmpXM0JXZFpYZUhhREJJck5hSERYdXVCM2VpUDY3NHpJVks2bl9oVVpPNWlCbkRob21zcjJmd245WTU4NHdGbE1Salk1VkpPVzVqVGJETzhMcmxJTG1jSE9DOHlianR3TDZjRUFXejM3eUNyaTQtbV9FazlFdGtNa2VxRlU3cG9IOXNJ?oc=5",
+     "title": "MAG beli 10 Boeing 787, ganti tujuh A350"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2dVVZZnh0Tmh3cU1UYnVFNnllN0s5Z1M3cm0tUmVCcU5scHRpNnc1cnVpdVlRMWNoQVFjZENOc3VMRU9BMURQVVY1Vk9COEhr?oc=5",
+     "title": "Malaysia Aviation Group acquires 10 Boeing 787 Dreamliner"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcTZsVXZpZzlWbzhyMjZmQ2lURS1PNjdRNjZ5ZmdDSHFwV3VrMGVfVE1jUUhGM1ZDdENIQ0ljNVQ4R2VZWUZDeGpIZ0x6OWdkaTd3TVpOZWIwWW9wRDVQN2tneVhCSTBXVW1XaE1VazljWTk2XzNsX29wMHgtaWVwdTltZHZHM1VSMG9vVnJzSnp2Q3RLd3lLejh3aDFaMVZGdk5NRVZvdHg4eElSY3Ata1lpYTNrQzh3UC1V?oc=5",
+     "title": "Malaysia Airlines parent to order 10 Boeing 787s to replace older Airbus jets"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "MCMC sues Google for RM600m over ‘systemic failure’ to curb harmful content",
+   "summary": "",
+   "scope": "my",
+   "category": "要闻",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTWlkOEpDS21hLTJ3dVpiVWN6eVl1SVozdWZnRDdrYlBIT2lnNk41WlhvRWFJOTJmUFFZUXJjdHdIMTQta3UwQzAwQzUxbngtcTV0c1lObWJiTUpJOFRqaUU2MUQ4ZjVYd1ZITkY4X01YNTVVZG52aTJiNUdmQ1oxXzhPemdQTXRveE1QR2JlbnN3SmhFc2lGVFg5SDFsTmJyOFVYMUtaQXJxUjdCTHVNVTFNakQ?oc=5",
+     "title": "MCMC sues Google for RM600m over ‘systemic failure’ to curb harmful content"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MZklfRXVibEdWa0JidFBJa25IQkFjMHY3dGJKTlB6UGJvOXVCWEJoV3pQY1lJX0J2UHVrc1dKdnR5LXhDOXU4THlOMGhHVm5Rb2QwZm92Vmc3TVdOeWE0Um93?oc=5",
+     "title": "MCMC seeks RM600mil from Google over harmful YouTube content"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByeDVwY09oVUcxRmtXZVR1Q2c2YWwyU3ZpZ3czVmFneWhJUlFyZHU5b3NjMmdmTzI0b0dNS0tHeERraFdKWWVFQnlTcWw5d1k0TVRJNHhFVHpXMThmT2xQODUxZ0ZvTEFVTTF2R0hn?oc=5",
+     "title": "MCMC Sues Google For RM600 Million Over Harmful Youtube Content"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTE14N1VWUVJlZHQ1QW1ZcDlhOF8ybW5qTlg3VFUyN2x3NkNrdng0SlZaR2kzLVlMT08wN3ZxdWZhTW1Sako5LUE2ZFhxZzdrNllScjdfazh6eFIzN3NmYU9RTmQxTXlpTUNXblQtTjM3eXhNV2FJcWQ5VFpCUHpvUWdNWEsxaVBhVlZVZHVaMGYxb0pFOWVNZGg1cG16MWE5Z2RjanljM2MyTWw3YVNTMmZFZ3hET2E0UW1XVjh3OTdpUnpK?oc=5",
+     "title": "Malaysia regulator seeks $146 million damages from Google over 'harmful' content"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ1pFN0lQc09McVFxVW05NmlBeW5TSEp1X3ZjbDRhRjA3bkFWQnVGUW53VTBOTEpqajRvZFVSSENYMzVwY2tMNi1xNGJCSEJ2R09Vb1B2d01IcUtHWGFnLWNmb21wdUlPbWZOMUZzWUVMU09UVENqc2MtaEpxc25paHRKYzNCRmdPeGg2S1Nhd3dJbFAycGlMejM4NGt0MHNBV1FQUi1vRmItckUxLWc?oc=5",
+     "title": "Malaysia regulator seeks US$146 million damages from Google over 'harmful' content"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Tiong, Baru among 82 GPS candidates for Sarawak polls, Soon Koh retires",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 5,
+   "owners": 5,
+   "work": false,
+   "links": [
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUm92cnYzQlB1VFRlcU5LZUdJS2dXZmVyMmNLblc0RXNGS1IzcWxPTzk3MEtnUWt4VW54ek84U1UxRnZBNkZXaGxYaEpsX3djQ0xwM3hHaUc3ZEd6MWI5OGljZThzOFNxaDJpSjREcXpuWDh3Nnk1RjdoNVJqRlFOWUxsdm5lZG1Pd05oTEtYck9UNU0xN2toVnR6NnE4M1pzM0RaSzV2ZDl1UlNJRUo4?oc=5",
+     "title": "Tiong, Baru among 82 GPS candidates for Sarawak polls, Soon Koh retires"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZSEV4QjBCelBSTzFlaTZYY3U2c2gwMGduTzJUTVhVdmF1N0RZcVZjRnloRk9JRzJwVGllZDV1UGpoWFlJSE1pVXVFbFNULXdjQUQwazM3enhET3NfcWVZcUN3?oc=5",
+     "title": "GPS kekalkan 71 penyandang, tampil 11 muka baharu pada PRN Sarawak"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY1BxOXMwVHpsOTBnR1F4aWpHWTRINklKODg1QnZJQTk1bnU0eXBoWHhQU0ktd1NqU3FmQnMwSmZOQ2tVWXBqQzBpejlsVzFzNHlhNERwXzgtdlE0SVNORk1mcEh4dW02NEhlX0dTNDRWYjcwWlFzWGdPRFVudm1DTkJIcFhLZzNwb0VZVmFUQWtvbnh3d3kxbnk4cTZRSHdDMXFOVFVMZWIxM3JKV3lJ?oc=5",
+     "title": "[TERKINI] PRN Sarawak: GPS tampil 11 muka baharu, tiada 'direct candidate'"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObTdoTjl0N3o4ek9GbE1MV1U1RU5OTU15aENsdldRc3dBV2hIWjM1bURmbUtLUERPNDdlczRHQUN5dUZ3ckRfTHNKeVBJNE1XZ2wxaDQ1RFNhNkhCY1U1U3Y5YmI3RDA0Y0g1M1Zpa0FfVDdGVnIwU2F1eTVyZmtVeWtCRVo1Mk0?oc=5",
+     "title": "GPS letak 11 muka baharu PRN Sarawak"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2eHh2eUZXdTA3cVpUa2tZczRzX0J2Rms0cUNfRjAtQ0F4VGFWMk05OHZZRmtZMDNSeWI4SmRJZDlSaVpvS1RWMThYUUlUWi1F?oc=5",
+     "title": "Sarawak polls: GPS to field candidates for all 82 seats, including 11 new faces"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Bantuan awal persekolahan RM200 diserah di sekolah, ibu bapa wajib hadir - PM Anwar",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVEZQNHJvRTVCVXFqZHgzVUFZbFk3Z09Wb2pZQ1RoYkdDRWRudGZvb0pkMHgzcF9BaE9zYW1yLTVZTmZybjVuR2EwbmxYYlhRTlJ4ZFNPNG85UGlHbXBhSGxROEVFUGhuWEJsMFB3a0k2RWh5TkVzM2MxVk8wYUpqX2ZxWWdWQTA0MVlWbXZ0MG43RUN6cnExTndpMkMzbjdtSTQ3OU5OUUJ2NEhiUnBCbUxXNjFSdjhDVFZydmVrdFBKd9IBxwFBVV95cUxPYWlQcjAyNGJpQVpUdVk1OWlFNnIwTnpRRU9lY0JCY0FoZTQySmtGNjJIOHhwMTRzZDBzRWdYT2lqQXc1eXBsUkluYV9NR2VkUmZmMzVYQTdpTFF3UHItanFsb1JJNmRvd19oUkF5eW5jaURoSUx0S0V0bXVGWFBTaGllbmJRN3UwdlBRUGJCSGhHYnc3aklTbEx5elBjeXQ5eExtb0NPSGVvcWZHaG9UYU1ReVF5SFlRbmd2Z29jd0RPZUh6bnRZ?oc=5",
+     "title": "Bantuan awal persekolahan RM200 diserah di sekolah, ibu bapa wajib hadir - PM Anwar"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrYVJpVHhSZkU3QVdSdFJZMk1CWk94LUp3RFZmZk5mMXp5S3Roa29peUZOWnYxNEJXRkkyQW9rNXFkeFI5aFVUbFdSdGo5cWhtQUZoRmZKZl9rOFJsUHgyZTRR?oc=5",
+     "title": "Ibu bapa perlu ke sekolah terima bantuan awal persekolahan RM200"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQVpoRDFYZ3ZvUnJVYW5KSnNVWGx6aVFTR05UY2dEelpTbE16RjhvTEFOd1FYakV4YWRPSUJIclZQd3FrMEM0Y0s2VVI4TE9laXdvUWdIWXNEQWNkMVdWdzRjQ0NvajNSUy1JMExJZ0tDR05rYktQVFlPZW9Wd1FIeDJhVGJ2a0RtQmRtdEh0Q1MyckdCSTFQSkxjbHE?oc=5",
+     "title": "KPM akan tambah baik sistem pembesar suara di sekolah"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdnEycEJPU0N3VEZsZkpZWXdsRndmTGEwaXhVQmhBZG9SMm5QZHZmT21TcjBlelk3eFZaeHRzRU5BZ0RvWEZUNTJNX1JWVU5leGJTSzdENEgwSjlHTER5cjlrd0J1dzJYLV9YaGZSY2FWR0QyQWhjVjlGcHNYZHVnSzFyMHFjTVFEc2xnNkpuZE1XMFYtLXFVcUYyQzN2Zw?oc=5",
+     "title": "Ibu bapa wajib hadir ke sekolah terima wang BAP – Anwar"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Bursa Malaysia tegur RHB Investment Bank berhubung urusan saham Capital A",
+   "summary": "",
+   "scope": "my",
+   "category": "经济",
+   "importance": 3,
+   "owners": 3,
+   "work": true,
+   "links": [
+    {
+     "source": "Berita Harian",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPalBfNV9GUm9VWHVYaHFpdlpDamR5VlR2T1Qtbi1mYmNOTzRRSEJZSTl0QkxUdFpYM29aNnVQeU8xZWNqV2ZrSGRVeWZSVXBsTGhMaTFvUFp4UWNLT3hKdHRKLWFGNTRGd1pJVE5wdmYxRDNsUzl4aS0zUDVfZWVjYXdOZS0wTWdMelFzWWtZSThDU3JkRXJZZDlSZVZJbEs1LW9aa0Z0RWdGZGFCSTFkcXBVZ09NSUg1SlhNNXNjdEFsU3lZ0gHEAUFVX3lxTE9qUF81X0ZSb1VYdVhocWl2WkNqZHlWVHZPVC1uLWZiY05PNFFIQllJOXRCTFR0Wlgzb1o2dVB5TzFlY2pXZmtIZFV5ZlJVcGxMaExpMW9QWnhRY0tPeEp0dEotYUY1NEZ3WklUTnB2ZjFEM2xTOXhpLTNQNV9lZWNhd05lLTBNZ0x6UXNZa1lJOENTcmRFcllkOVJlVklsSzUtb1prRnRFZ0ZkYUJJMWRxcFVnT01JSDVKWE01c2N0QWxTeVk?oc=5",
+     "title": "Bursa Malaysia tegur RHB Investment Bank berhubung urusan saham Capital A"
+    },
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TVTI0OEpiYW9oVUJqZnprXzNON3YwMUx6dVExMzFjcDE2Uk0xcWdhaXRxeW8wQWFoUWdmR0dTVkxDVS0zeXg5RmF1NjltbV9w?oc=5",
+     "title": "Bursa reprimands RHB IB over breaches involving Capital A’s distribution of AirAsia X shares"
+    },
+    {
+     "source": "大马交易所",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTlZscFVYMkJHQ2VrYm5LcUdPbnd2d0w2UzEtY01idHVzYjRyeHlqeWJ3VWNva1dSQmlUR2RTVVkzNjJLeVR5ZWk3akEzNnhidVMxSEtmQXdFWk9aRmo5dF95VFJ3ZTJMY21KS3VzdUphR2VpNjBiMHExdl9hZy01c3UwY1B6Z1czamdURVBaOF9xd28?oc=5",
+     "title": "FCPO - Bursa Malaysia"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Shuhaily returns to court over assault charges [WATCH]",
+   "summary": "",
+   "scope": "my",
+   "category": "司法",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "New Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdmdpTlFfa3lHTHlLZ3ByLW5ac010aFlpZVpGVjVjX3R3SGZJb0ZkdzVEdUZWR1hiSzRPZm1MX0Rrb0x0SjFmd0FCUXFaZlVSNkhfeV8ycTFZRDVXY2NHZ3o4T2JfV1BVd0FSZ25lMnlUQW1Ua05FTFFucndieDRPblJSaUlvNjNpc3AtdUpoTGZsd083V1BFUno0dXFoc2dLaWfSAacBQVVfeXFMTVRxLVVJbnA3TG5xTUtqVE9aLUJyc2FEU2UzNDZYREw2UkN5R282bnpDa3VVa0V0SFp6S2hLeXM5ZU0wTDZncnFpQ0VjdFlfZEJaNUxNMWgwaUpPVEZDMUx0N043TEdpUXgyWTF1MXd6dXEyX3FUS0xWSXZnLVR4Z3hycHhaaVlaVGc5TGRpUmNPLU94VXFBZ2w4dEx6VUJieG9OMkdaYW8?oc=5",
+     "title": "Shuhaily returns to court over assault charges [WATCH]"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDVnVsMVRXaXpYNkNWZXFYa0tTajdQMms2X3h1M0lnOEUtOUxlcTBjLUZhQkxUSmlMN1NjRUUxVHBhQ1ZkWlBYMGVBdHBTdUdNcjBwQkZYeFlhUTZGQjdCNTZR?oc=5",
+     "title": "Court imposes gag order in Shuhaily’s case"
+    },
+    {
+     "source": "Bernama",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YY2N2TkxQcFZleUZScnp6TXBUc3VDOUJiTU0yNnlpWHdwc2dEOUUyVHhqajFVSWZ2bTR4MGNINWp1eVVZampLcUZ2dUxCbTZBb1dPbGp3VGMzVmI2MlVxWGV1dlJENVp1ZUZxVTRR?oc=5",
+     "title": "Mohd Shuhaily's Case: Court Fixes Dec 23 For Remention"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Air force pilot allegedly transported drugs with military assets, Bukit Aman says",
+   "summary": "",
+   "scope": "my",
+   "category": "社会",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3ZrbmxYZUotWEgtZV9vdXF2UHAyOHRGZFFXLXI5MGo5eFBNTkVOcHBMSVZCcUZaaVg4VGo3QkpyTzUwTjJVWnlkN1JzTWhJVkhnalhRXzIybUVORUJqb3dWdjkyRHM2QVVKcHRNSFZDaThBR19vdzREU2NORXpkRXo5bnZnaWdYem14bVZzdk9SVVFzeE9iSV90bkxLRUlXcnZ5NkdXVnlLclBEaXNIUkFSbDA1aDlYa1cyTzBLekxER21vU2xIZHFR?oc=5",
+     "title": "Air force pilot allegedly transported drugs with military assets, Bukit Aman says"
+    },
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYVFkVENRVkhfS1JtRmZkRDJnRmdVNHZxTmdCN3FvMzc0bWkwbW9XVDBfQVVwT0h2SElJQkRfeWdlLWdnQnY2b3dXU1l6NW1DTlVHVURFU3J1VWhQQ2ZUVmt5Wlg5NWJOeWxlX3RiNHNNQTNmQmY1RVZ3blZHcG5KZE1PelBWRTJWVUZxRTczRGpoZlJScEsxdUZlS19xS01SM01hcDZ2eWlzZFJ4bnZOejVyYm9PVEpyNE1pTGo3ZjJJdDdLdlFJ?oc=5",
+     "title": "RMAF pilot identified as drug transporter in syndicate using military assets - Bukit Aman"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOWN2NHZCOC1JUm53SDlISmZsRWhSOXNLZWVHME1VR0dTeEJlZ3Fvcm9JczdRaHlHalFrU1ZqLVQ4SlVacU1SWDh0VmdrNmlFT1I5akNkUFNKalh6b2M2M2xBNG5RS2RUMGFSRG5YRGZNTlFodTBOVDRjSjdxM0V6OUlTVEhxdnpNTnZCZFZWdl9RTkFrWDVXRWxfaDdPblR0SkNR?oc=5",
+     "title": "Malaysian air force pilot used military assets to transport drugs for syndicate: Police"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "'PM, PKR caved to GPS threats' - Sarawak DAP chief",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Malaysiakini",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeHYwWlpSSHAwZjBCRFZZZWJqX2UxQXZjT2N4MjYzbzhTOW1hME5taEhOdE5hTUhFQmhSNU5TaDhzTjdxSWZxeGNXY2ZOS3lkaFZFcHlzM0g1OEkzTWVWWVY4M1VjS0kwRGlVak5UUE9UcWctZ3AybjkyZkpxdklqWlc1bVYwaUNGY3BvTGhOdw?oc=5",
+     "title": "'PM, PKR caved to GPS threats' - Sarawak DAP chief"
+    },
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XdXFscEhQb3k3Ulk5S0t5Yi13RWlKWUdqaHRIOGlzSzI2YWxCakdPeldBUmZHU2Foc0xIUjdrVURkdjNMNGhYREJtVGNOU3NUUGVrSWZkNElwQ0xlREx5aE13?oc=5",
+     "title": "PKR sits out Sarawak polls"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSl9XTHdwdUNMX21YbWpjZWV0cGtESUJweFljSUhmLW4zWUp5LXZLeGxubGxVQUEtVF9TU09tZDU0ZkpoRTJHV3BZWnJDU1g5dDl5TmhwVVFra0Z4SnZ4dUZfOHIyUXlRVjM5cVlPMWFnTGNES1kyN01pSTJaTC0zYS1n?oc=5",
+     "title": "Wawasan tak bertanding PRN Sarawak"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Anwar sekali lagi beri bayangan tiada PRU awal",
+   "summary": "",
+   "scope": "my",
+   "category": "政治",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "FMT",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KMXhpcnladFlRU1dSSnd6YWR5dGhrODBWZWZWSW82U1lIRUlnQUc4SXdlWG1kMlJSLXpqMUY2TG9nMjRaQkxtT25fd2tpemp5d0lQTGJEYWRSQ3pCQ3JWdjJ3?oc=5",
+     "title": "Anwar sekali lagi beri bayangan tiada PRU awal"
+    },
+    {
+     "source": "Astro Awani",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWk9IbW9oTDdhcjg2ZThFMWx1RzI4TXp3anktQWs3R2ZqV3FLaldvSmk4a0JyZWZ2dWZneFc4cE01dHVpQ2hxVElKRzRGZzJGbWZlQktNZWZ0cjVTNWs5SXliS0dqZXpwbGNNZEhhejNuM180Yy1OMTA3N0JpNlptNzZuTEI1NEZaQ2FYZGtKXy1sWnlxOE9qa1VZczl6dVhn?oc=5",
+     "title": "Serangan Houthi ke atas menara di Riyadh cederakan 11 orang"
+    },
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSC1lTFhTUXcxeURJUG5uV29VUXRxWk9oN01DR2Rkd3F5ZjM3OEFkMVlVVTlBR3BtaHRNXzZHbF82SXcwRy1pcWJiTlAtSHpMbHNNczA4Z2Zxd29EMzRETnFLdFVzcVEzV2VPSXdrOXFxdEZQbUJzbk5JdFprZnhuYkFxanJwZTd1S1dPQi00bXY?oc=5",
+     "title": "Menara tertinggi Riyadh sekali lagi diserang"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Huawei found guilty of US criminal charges in landmark case",
+   "summary": "",
+   "scope": "world",
+   "category": "司法",
+   "importance": 7,
+   "owners": 7,
+   "work": false,
+   "links": [
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51TXJ4dzBpbXhiaVBkZkhTVVdTSUZ6U3ZRcjZMUVVXTEJxTm1TS2VCemdPUkJQdVJ2bEE3NFAyaG1RZUNFUFFCekF1d1dxb0pu?oc=5",
+     "title": "Huawei found guilty of US criminal charges in landmark case"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ob0RXbGVjVm9xcjdLQkl6UW9ndDFEcjViS0lpN1c4RW9BX1RBYzNzcmhyN0lVN3JnSU1nY1JDN2ZRemYyY2wzUm9GcjNsMC03cXlGSnRZWTgtTjQ?oc=5",
+     "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmhBaGpBTEdjQXR4UmRuMy1KVWY0anJiNkxHQ2NVTjBFbWc4RE5MRk5KU1lzZ1BKMVNKVUNRV3hlRmxtYWc0cmlpSlAxWkJDXzBhdjFqY0RfbE54clBNU1hDODJjbEk2ZENVMWtuM3F6VVZjWGpDZXNhZGowZW1UNUlLWGJSU0tYbXhlYU8xRkYweTJrd1JsM0pDdzd3UkM1ZkpTSXdHYTkxQjNzNlhfU2pTcXExSlFJ?oc=5",
+     "title": "China's Huawei convicted in sprawling US criminal trial over Iran business"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbDNsb3gyVkJQMDFVT0p3QTJtV2tKdEhQbXpad0xXWlViLUNnWHJ1ODJJTE8xOFpjTHV2ZTU3MjRpMmt5MW5zNGhTdWU1SUxrei1aSDNhQmFROEFyUXR6OVU4SUFfb0dZSDlTbjF4dEFsRHlUM25YZ0h1OVlxV3JITjZYM1ZpcVQtU3BnSy1PN3RMR0w1LTkzb3ZJX1I5azdvNW9BR1JQVElYNXJnWlo3VzZVVFFac2gyc1B5NNIBwgFBVV95cUxPTDV0Y2ZVY0tMZEh4R29qbTdPUGUxYWtJelNLZlJrYUIwT3lJV2RPM2dnc0dldjRMT2U1dUN5djZkUFNGMlg3NTU4OVlsTlJCREJoRnNqcU5MbWxHbDFvc3BPOGRGb2p4YzZYOG1RN2VSTUVYZWVWVlZvUWhXckxEUUdsRm9Nb2JZQm9DU1M4OUR6VVNIcy13MVJqbjR0Tnd5RkZNSDN6akVUX3BtalZzU1lhZ2tVMmdHOVBObE1UTmlmUQ?oc=5",
+     "title": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0NtZWVmXzVwSkd4ajhwNVp1Y2NldE5URFRoQ0MxZXZoT1VabENCZFl3VTBScVNYZTQySEFvWV80azhCMG1xYjhmR0dJX1pOV1RwOVA1VFh5ZC1kT3c2X1BRN3YxMi1pRE16M0FCdWs4X0lWTVRkYTExcEx4eGh5dl9PNEpFcnl2WXBCdURocWJtMG1rdENyQmg5ZmdNcGhNMUFWMlRyWTUyNnBt?oc=5",
+     "title": "China's Huawei convicted in sprawling US criminal trial over Iran business"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcmRRaEFuMEkxY0ltVXJpRmpUampjSWVsTVJ2S2JNdGlzaFBHOVRqbHUyQUJrb3ZvREJOWW1wYUZDbFBSRk9UaG44aGZBZ2VHdE5HVUxOMDF1Vjh4RjV5S1JHTUEtTVJVVDJDUGNfZEJ2WTJjT092cUNMTVpDR0FLQ2ZHRWh4Yk1NYnoweXNLRTFrSFVsVU9IRGFYMDdvTmJtamZpSFNRMnZjZWZzQzQyNmxySjlBZw?oc=5",
+     "title": "China’s Huawei convicted of stealing US trade secrets"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTWl3dDhwR3FZYjRkcm9rUzN5RG1Qek9NdHNjNW9FQTRyN25zQ21teXpJMGJoc3ExVEU0N3lGN0dFaHdhbXRpLVZQc1pBVnlQaWNueDRaOGdQNGZqSnY1QXdqbHl5Z3BlWjVUZHhFSW1wenJxTGcxUS1LU0VfU3hIZWJxQmM5Wm5fR01OZ200c1B4ZDlnLXhUVNIBmAFBVV95cUxOLVlhdUpLRW1wWGpDN2xXTnVSUktITEVJZHJ0ZDBkUXRuWGV3S0drQUkyTHpaVkJEaEtYWlZUMmxmbE5DcUtxMWpxaU9ZZ09ySEZnSEtFaFk0U1h6eGlRSF9FLUJMVzlfV0FoYXVlSVVFbGhHMGFzTmxIR0ozRUVxdi1LMktyLWszOVBhQU1VWUhZYm9DVlh6MA?oc=5",
+     "title": "US jury convicts Huawei of violating sanctions, stealing trade secrets"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "China's Shenzhou-24 carries Pakistan's first astronaut Muhammad Zeeshan Ali into space",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 6,
+   "owners": 6,
+   "work": false,
+   "links": [
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0eDZwOGtQQnBoOXlyLWhIME9fanAwcGZVWjlNMWhGcmRBeWs2czVPNHRyM2NtQk1sekhQNmFLcjU2VFJLT2Nzb3hTM2xuelVqWmZDU1oxY0xhSXM?oc=5",
+     "title": "China's Shenzhou-24 carries Pakistan's first astronaut Muhammad Zeeshan Ali into space"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbUNDa1I5NlZaa2hiOFJGSHJlOHkyU3QtMEl0S2lvbGNlTWhJdGd6TzA3TV9VV0p2azc3OUZWeU0zLWtZbjZ3dlc5SXAxSklBbmlOeU5GcFdhMzZWbnJPTExMWG9KcElUOUotS3BGMDJmS2xVVV95MjFiYzdFTEcwOE1DU0tRY1ZmTzFHQ2pvYmFQUVY4dmRCb2tERDZZZV9IMWpLUTA0NXFNYnlwMm1UaTJyaXE2bThCMDRza1JDZlg?oc=5",
+     "title": "Pakistani astronaut becomes first foreigner to board China's Tiangong space station"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR3M0QnJvdnFlSmxYai1OZWNwd0pYOFVKa2t3UDZhLXZkcXVkcmNOZHU2ZEVCQk1HX0liM2ZVb3piZDFiaE5SSkY2MWdZeFNmOVhTWkM3RDdqSHYySDNkSTNwcExoemNqTWtoLWNQV1VDNXota0w3Ym1FLUZxOXFPZnB3UlllbEJySmhJ?oc=5",
+     "title": "China launches Shenzhou 24 spacecraft carrying 2 Chinese and 1 Pakistani astronaut"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWdUSGN0dUpVbVFWRXZwVUJ6akp5Sm5SNFVwbzRHYmJ5RkprMDRDVDFxdXFQTUdCc0VrUWo1QmV2QWFOVmZFVHQ4N1JWQWJRZnY5UUgwUkJjaHlzWEY2ZGt5dVd3R3RqMEh4TWZCTzNhUGx4bDZMeTNITHZfbFZBQWZ5enZoRU5aZEZJbWEyOU93YjZVcm94VE9PT1JqY19WY1daeXVMMkRheVlkUkJrSmkxNNIBuAFBVV95cUxQTVJFWXhCeC0tQ0U1ZDhyTFg0eDFDYzVOZVBtNUx4MnNIVkdtN1YxdDhWbGZtYkhNV0hHWU9vN2J5NEJ0aGdrekxVdy1Ba0FnakJPMEt0ZEtkS1BDRmQ0S2F2Z3dlRXVHWXNONkJRQnZELUdZREVjdXRWa3VZbFl3enVhSUtGY2dTckw2QV9GZUxsZ1RCWnNRNzhpNXYxd2dqVGFSZnpuZkdaNDY2VmhoaEFYVHhycWpF?oc=5",
+     "title": "Pakistani astronaut launches into space aboard Chinese rocket"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUlEwM3ZGbjNKMDNhdUtrbms4ZV9rSDdOeWkwWnBmOVZGVjNTNXpJU1p2bU9WTTZBMkpLdFhSNkZXTjNoMlVEeGhyNHhTcnRTcVNqYkVXalUyWGdaaFRodHJuTnhYN3loYmR6bUFTSWYzdHVoQ0REVEhKbFd3Skd0QmxqQmYxVlJaMURvVTVlTDJqT1Z6dUYtaWVZdzR3bmxoMDc0?oc=5",
+     "title": "China space station receives Pakistani astronaut on 'historic mission'"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZWhBb1c4SDJEd3NqVHcyQnlZYlpPblRBaVk5dkR5RFFmdUFmX2paWGxmWHZRenZ4cThIX1h5cjM0S1ZuWk1CS3Q3LTBqRm93QWhycmdzSkMxLVVCTERIQm43eTFvbDNnLWtnMVR4bl9kTHJPQWc0TUZ3Z1VpbDlpSEkweG1Edw?oc=5",
+     "title": "China launches Shenzhou-24 crew, setting up a year-long orbital stay for one astronaut"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "US proposes new tariffs on 14 trading partners, including Malaysia, to fight excess factory capacity",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 5,
+   "owners": 5,
+   "work": true,
+   "links": [
+    {
+     "source": "The Edge",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lLUlnU3JiOTdlem9fSjJjS3NBME1fU0xzZ2l0eTRFZTJyQnBKN05XUWUxQW44TEJfbTF0R3Rpbm1EMTFRc3VNczJoWFBBSTVR?oc=5",
+     "title": "US proposes new tariffs on 14 trading partners, including Malaysia, to fight excess factory capacity"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IQkloM185eWdfMGhXTkZBYmdEWHM2cy1CQjNpODYzQTRRV0V1VzU4akFoUkdsLTJucFZKTlF2MlZtMTgxMV9xZTRoZjdnTjdkRmMtTnd3Y3pZV28?oc=5",
+     "title": "US announces new tariffs on host of countries including China"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
+     "title": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWJ0MDE3ZEJzV2tVdThRbXdzcGxXN0phLUpNTHAyVWlEQV9JNzVUWlpsRXp6ZHFTNnY1dnpKMHJjNExkUnZxTlRXdzZNTUFOeXhkUTk5XzF0ZW55b1lZcnhJYTkyYUt5N1lvdm5TZ3QyZDh5UkNsVmtHMmhuNm5xcGc3VmVUcV9fellldEtWcTdaYWJpRUlBcm5R?oc=5",
+     "title": "US plans to hike tariffs on China, EU, Brazil and others over subsidized factories"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU3FnamwtTXpFa0hPcDhhc1dodGc3bXNmYnJYZXcyaEVrMkl3WmRaRXRSeDl1X1Q0aWhUTlVaSWxxOVRTanZPelpkWVY1akhzY2xrdzRNTEFYM01UQWRRSTk2NzQwWXFkdFdQdUlwSTh2aUFTcUs3U1hLbkhHUEFzQg?oc=5",
+     "title": "Trump announces new tariffs on 14 trading partners including China and Singapore"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Belarus's Lukashenko proposes flying with Ukraine's Zelenskiy to Moscow for talks",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcmZEazZPdU54WnM2ZzNPaWphX1huUVZybmZKN2NhYXE4OGxoY3NESEpMdjl4Unp5SEhqLWlZdmtieHBobkNubnFJVjJBaWJKUXZjYm1lMmZDczRZc0dpQ0tMV3ZWQUc0WUdIR254bkM4dGVHLTVMM0ZwVVZsSjNyMTFOOGpmMy0xRzUweFVibWdFcDRJZjlWaVhKNXBEak5oSWQ2VVF4d1poMThxd2VBdGQ1b1VwY3R1SHdSQThYbVFTaElNcmcyOTg0RmZkQWc?oc=5",
+     "title": "Belarus's Lukashenko proposes flying with Ukraine's Zelenskiy to Moscow for talks"
+    },
+    {
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zZU8wbUhnVkxIc1ZwTTdnM1BmNUFybWJTcDhCQ1BZZEU5Njhtek52cVdnN0hsRllhTlJqeVloeFBzbk9pWGItYW1uT2gwNVFsX3RrWHR1QlVUYUU?oc=5",
+     "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYVEyZlVjRXh4R2pLS0xqQnMzNGtuNld1VllkX0VPdzVGZkZQZG82TnY2NWpIcURrUEZSQnh4RjdjYWVUd21XN2FXMGFLcGp6WVNTX0c5V3FULVVxSEZMM2UweDZsOTJzdFpuWENrclhxb2Zhemp4MUlXU3hRVVAzalluQnNBUGJRTW1nX09XUExMUUxKUEtHbWR5SDJIdHNEYkpHTW03dU5xQjE1ZEFjTVZGQUM?oc=5",
+     "title": "Belarus's Lukashenko proposes flying with Ukraine's Zelenskiy to Moscow for talks"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWV9WQXR5bFh2WGtqVmY2Z1hDLTBjc0lNWjJDRl9KYTB5cGhCTTJIeUxhbFJqTzBaVXBfS2RVX0tlX3FjODFDb194R1liMzlHQXVCdUVCQWRtYUhveG1GSW5Ga1JITkdBamZiN3JpclJBLXBoRHEtNGxHTXFKaEs1WEp2REJUU1A1bjBmUk9YTUJlTGJOVVFxRdIBmAFBVV95cUxQcVZIMjdERU44OERlQXAtVVJzZGdSd2RVSDZBbS1nNVhIenROa2FJUjZ0RDJwRHdZSmpYOGhta2xqOVFqSUY3NDQ4WjlrQnF5SUs1X2pVQWdYZnBOWFNWM0ZuR0Vmb21Da0FyOFUwYjdTRWJFN0F4TmY2RFZscHVobVVfYnZuN1NIM3ZrUjdEei1jS0tvY1F5Nw?oc=5",
+     "title": "Ukraine: Zelenskyy and Hungary's Magyar meet amid thaw in ties"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Ukraine says attack on Russian ships in Libya was self-defence",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObjhINUk4a203YWVMY3Ztd0RaRVZGczNldTE4Y296R2ZuOGF3X0xyQnFCQzV1ZU1WUVVUOVNSdk9vWVl3N01IVjNGWE5TUmZkeUhrM3JXcU5jV0pPWC1JN2tET1FpdU54ZlVKS01zSElUSlpLSUdOSG11Nm9lRE9VRjA2RzhjeWJNMjBLY21xZXR3ZjJYX3lwNl80TEEza3FJMDIxcWV6aS00RlpnTkYzNg?oc=5",
+     "title": "Ukraine says attack on Russian ships in Libya was self-defence"
+    },
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYlhQMFFISGFSRC1TVkJtS2FtWXl1anZubHJfTnY1VzdiaG5fV2J3MGlWZk84RWUtQUQtRG1DR3Z2b2swWjdacE8zRG1xcHFHN0p3Q25GX3dMTHByRTBnSGl6dHBkcDQxZHF3VF8tMmVLVG5jRm50aGtndHBhWEFaUkFaaVJoZkp1aW8zMDFpVlZlODhqeXhwVG1TV0VNd2Frb2ZsUmg1R0wyb2VxclNscVVRMzc?oc=5",
+     "title": "Libyan army vows retaliation after 2 naval officers die of wounds from Ukrainian drone attack"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVlLVzNGdDA4X0FlQVJiZDFvR2RncEpnbThvT3ZhSTVrUzlwaXh6aWtreGRaaV82T1B3WjA5dmpkNldEUHUzRFZaUndnMXQyeF9jTnI3LVZ3NTRSWTBaNkpBT05IVEJDMlFyWVN5eTlHTjRPYmZlWm1JS2VNMGNjb09Da1BieC1WdldIQW5IZzFFUkE1MzRRdFFqWjB5STNFdC1zT1k2ZVRvMFlmRDJYZDhjNC0tZlHSAbwBQVVfeXFMTzlnSnlkOTlWUC1oeEdrU3MybWZuN2g2bmlVcFcwY29mZzRtb3IwamlBMEdjSlp3aEpJaTBiUzB0NXA1NElrWmtwMnZSZWdJWWE4dW9Wb3IyNnFqRU5KODh0eVpyLUZxQXBZSUQzTTQ5RWd5Tlp3UXowMnNBQmxRRW9UVkVad3RFZjRiTDVKYWJ1cGwyM1lubHlBNXI3OG9WaWM2SjhEZHlsNWxEdTF2LURHejZlWE52d3F6dlY?oc=5",
+     "title": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants"
+    },
+    {
+     "source": "DW",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uZzI4ZWN4anJaYTctNGhWS2lzQnR6bHU0Sk1LWjBpeDVIekhIZDZTRmQ5a09DYl9OWl9jS3g4RzFDY1FEV2psVmVoQVpFWlNQbDNHUDVXOU5OalFuYTJhTUhvZ0RNZ25BZHJrNHlzc3lOT01XLVNqVFI5MNIBe0FVX3lxTE1nS3p5SkUxa1NoWWVoX3o2M0Q2X0JZTjl1TmhCeks4enhQVEJiX3hGSmU3OW1ZRTJSYmxSQWJGSXNVOFB4Q2VDNnZPMjBUalVfNlQyMktIS1RWVW1iQ3ptSDVvR2ozaEhOcS02Mm1SSWQxOFY3ajVSaXpwMA?oc=5",
+     "title": "Libya: 2 dead after Ukrainian attack on Russian warship in Benghazi"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Houthi ugut serang pelabuhan Arab Saudi",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "Utusan Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNanp2M1Z3N1J5N0xDekN6ZVdWZnNBS2w2SmkxNEE2c1FDT3ZEVTJwNERGNDNpTnExQU41dUJzaS1tQnB2ejlTdzJPMG9uNVpCTmRJaEVIcjZuT3lNUzZ4U0VjM1RldEVkRGJ1QkZLa1FHeUI1T3JOaFVmTzAwbXhuSDh1RDhTZUF5Nnc?oc=5",
+     "title": "Houthi ugut serang pelabuhan Arab Saudi"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVGl4Nzdfc01ReTB5TnAxUkVLTXlaRVFvbGM5aTZDOEtVUXlrVDQtMHJwcWh2WldoMnVyb0QxU1pEQUoyN09sNU1SZXR3NVUzdTZXeWpkdGNTZW95MUtmdjV3dWFxTEZsRW5WUlF1djVTTWZxUGVxcHhPNEptMnBEcmZ0MURhX0JxTDFqc19HblpWd2hLSEs5SXRYTXB6bzFwNzZqOUFTc1ZOM3ItVDFZWmM2a0R5YkxsdnlsMTZWQ1ZEUQ?oc=5",
+     "title": "Oil prices rise over 1% after Houthis say they attacked Saudi refinery"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT3JsaU96a05ySk9rVHZIazNjQmt6Z2ZCZF9nRWFSVHVqa0s1LVhhRXhVc1VSMjNfWHhQTVZyZU9GZEtsZHRRVU5yVGVUYmVwZkRDNC1iSmYyWDc0UTdhV2pOenhuWDFkQ0ZWWkhwcTFoN2tsU3JjcllUWWJkcDBvUHU4MTAzSi0zX05oM0NLQVpua1VFNmJfcWE3cmh1al82V29SdDhCSkc4d9IBrwFBVV95cUxPQ1M5eHo1Rk9NaE5DM2hNbGF1akUxczVaekNKRWRUN3JxZ0ZJd05TYno2b2o2bVU0ZWJxWE5GWE5kT19lRHR6Z3k0TVpkaXFuY2dBMXNmaFE2YWpubno0VGZFUFlEbEJqY2NKODVWX09BVUpEUGZTXzRrY3RZWi1YUFdtaUN2amFOSm1sNXJRRzA3TW84Sk0wcUJYN1NCSEpKbV9ZZk8zNUtZSzJVdjFV?oc=5",
+     "title": "Saudi civil defence says 11 injured in Houthi drone attack on Riyadh tower"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYVpVemU5dzF5a0ZHZWROSlJ1cFNfN0FkcG53ZmNRc1JWaVhZOVY4RUlDTjk2cFM5ZXc5WUhTMS10ekxRWlAtQVdtWmxVemllZWotSjlJOXJ2d3FwaWZ5NXlJT2xnb2U5amxCblJPX1hrNFFIczczSlhxVzE3Mm42Y05NOXQ4QQ?oc=5",
+     "title": "Saudi coalition says struck Yemen port city, Houthis threaten retaliation"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 4,
+   "owners": 4,
+   "work": false,
+   "links": [
+    {
+     "source": "AP",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdDBtR1FfWU5YMzBKWUlXWmc3YVotaWZ2eHBQTEdLd1ZJN0duSzA3RFNkQnFFM29rSXVrdnlzMk1ZYzJLbUd5dnJhYUQxb1pVYU9DT0wzMmlfSk84NW03TUZqTEtQNDNDRzQ0OWIyOWJ4OHNEdUV6c0hIWDNtRlk3WGFkbl9LbkpwNExRSS13SjFnQ0o2b0JrbjZKNHZJQmpmZ0VYMw?oc=5",
+     "title": "Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYnJlclFZb0NoTkc1RGpyeHJEYkpTelNCUEJLbXEzUzlOUDMzbUNscGxaMHhMUnVmV2FGZHBaSVItRjZrUWJQRXdLdjVPdUl0RjVDbmRjdndHQWxDaUhUb1FoVUhUQUpDYVZYQXdXS1JmVzdnSWpNWm5PQUd3MU1KdFFwOGtXWWF1ZXlsTGtNQjRIN1Q3SkxwWXpRX1Bad3pqVnFmcWJBQ2NrRkQxU1lmNE1DeEPSAboBQVVfeXFMTnNmM0VsSE9ZY3RLQjBDWFpxbFE3dE5rZTJXWi1pRm5sN2dLQlBjZTlWRG1zTGZvRjFPY250TGxKMkdIcjdDektjU0c5SUcwWlROTHpnV0NnT0tJU1FFRTAwY2VIaC1DTmVxalpOWEpiaTI1VTNqd3ZKRWFvcFJPR3Vtb0lEbzNTSk9lRmptWnpubDM0TXlrWVJ6Y1l0b0NsSTRvYUNKZHVjNDBNaDdZODRRY3pROWdOb1VR?oc=5",
+     "title": "‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSkxJZHZqOGlzTy1MeGxrNldXb25scTdQUDJhaW9GNEJoQm1hVnliNjYzWW8wVTN0M3N4UmtlNzJEVEpON25vMDZGUWNla2ttT3RZaXpkS2tyOGFqR2tmQ0kyX0Z3WGN2dUg3MFFDTC11amtrOXVUVFZCaVhiUFA4R1B5MGtIaWllTGoxOFZTclk0T08xMUYwak1CNA?oc=5",
+     "title": "Commentary: Jensen Huang should never have been too big to fail at Nvidia"
+    },
+    {
+     "source": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdG9zbEpGMnBwWjZfbEJpTnNya2EzMDVWWWxjTjZMQW1tYjBTVndUVE5UOTBfVUx0OTdFWjZ1NHFkNDY2T1VJYnJ3WFdnSzdVRHpGcXhvaGNlN3ZrNWM3ZC1IWlREVlhjc1ZOQS1sS1NQckJ3UjNVMnhycjVjQ244MEhFWk10UmlLYV9XM01lMHM?oc=5",
+     "title": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "GraniteShares launches AIL and ANS, putting both sides of Anthropic on one exchange",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": true,
+   "links": [
+    {
+     "source": "星洲日报",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpbmZQVklTTmxnaHJHTjk0SWZ3LUtLV2pfM3R4M2NQMXJncHJOWVUtUVNUWGIyQjJfVU9SUmF0OGR1Sld6cVlXY0VHeDhQMi1TM0lJRlhZdmlzMTlGdHBJRG1aWXZOdTRRN2c?oc=5",
+     "title": "GraniteShares launches AIL and ANS, putting both sides of Anthropic on one exchange"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMHBNOVY5RDc1NmxUUjNnZkNhLWROQkhUOFZpVmQ0SEI0UG9aSUpTTjhpV3EydTNkdW8xYm1KOWF6OXg2Z3BMaUJCWTE3WnFCM0hCZGNuQ3ZKUklsYUROVWQzdExOamNKVlJLRTgwYWpoYVdOUjlDY0pxTmxZajlvckJ4cHc0TG1hbW1ZUkszaDZ2M2Rvd3RqTWRFaVRENXVWT0pr?oc=5",
+     "title": "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdmw3a2pnbzJaaE5Nc09lcGxOeDFOMkRsM3hPOVVmcTU3OVFjeDJUTlRRWHVVWjJlZ3gzNV96ZUZILUJLZ3ZiMzVqRUtlZno5eUp3aFBxVXpLSGRmX1dOSjBIUl9NRFRHUzkzQzE4czVXVllQNnZ0UHRUdnJRRllmSEtyaFphTjUzUnp4Rg?oc=5",
+     "title": "Nvidia, Anthropic end sharply lower as AI selloff resumes"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "WHO chief calls on US to lift oil blockade on Cuba, citing health impact",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR2RJLTIxZm9WY0hMWWd3c3otOFlkakN1Mk5QcjVMZHhwX3hsaUVZTEJ1ME4wSjhlaVdJZnoyMndndzJQdFFPdm9lNzJ1ZFBLY2JVSFZMbVhkWGFuVTVEMjhMMXJ2cFd5UVN6emRmU21aRGFCMjR1cUl5cGxpdkZIUmlTNDhCUGRUTi1pZW9VVXRLalliSUFPZ2tyWjliQXF4Qm1HWnlIU1BnbVJUeFhzOVhjdHdiWHlXUXAzMQ?oc=5",
+     "title": "WHO chief calls on US to lift oil blockade on Cuba, citing health impact"
+    },
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQUtreFI1ZkdfaWRTMFJZWElnOFJtM2E1ZlZ6OVhiSDlVTnFOLVQtZTExQWZjbWRvRjR0SFJ3ZUotcEV5Z3RFaE5Wb1RsUEFSdUVoVUhvaXU1bFFNckhHcHdDZjdkRTNMUVlzR0ZVcUx1VWRLeV9DSnFtQjJrOUU1NjJSM1VyTEc3QUltV2p6bFpvSGVLd3dKMXRkaXpnVEJrUWcycHI5UVBNOTAwWTIzTTloYlZSeXpiUjJIcS1HOWQ?oc=5",
+     "title": "Iran says it is prepared to withstand US blockade, seeks to curb price rises"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZ0SENvb0cxQVppX2ZNRFQyVDNzb0dKNzl3NHlBQS1TaFpQNlVpd0ZUZUtGSTBaa2pDTk95VVdaWXFxS3UzUTRmYXRXZUtCbndXZnV6VjZSZU92d0ZKU0RzbmptZUM2LXV2M3ZpWkNuMnBpdExGa3gxQjlOc1NyTnFkcnhKODlwbXpnMkhzQ2h1UjhKNUZYMFlWUXJsbm1HUm9Gdm5nZENCenQ2RHVkUUE1WWLSAboBQVVfeXFMTktvbUdsUC1kNmVoLVl3eGY1Yk1vZEpoUFFtQXFOY0NQcXltdzVZSi1HaG91OGxMRmMyWk4zMXFzWThnYjNpYXJzNUVTLVJuUTM5OF9aa2J2RDZIZzNSSW1IdUN1a1QzX2lGYlF0RTVtZFRuREI5Ym9uRFlidUhXT0wxN3cwMXc4YWx2M1lOV2l0eUhhVi1wcEF0emp0bXdwTkpLc2l1WDlkU1JYTElEd1N4eENHUTdnVGpR?oc=5",
+     "title": "Iran rations electricity: How deeply are US sanctions, blockade biting?"
+    }
+   ],
+   "new": true
+  },
+  {
+   "title": "Israeli strike kills Hamas official, his wife and children",
+   "summary": "",
+   "scope": "world",
+   "category": "要闻",
+   "importance": 3,
+   "owners": 3,
+   "work": false,
+   "links": [
+    {
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYjNlV0dRZTd0cDZJZVBnNFl6VUpTMDFlQlFIY0tJQzR5ZmNrYm9lNS1kMTRYbEpyM2FNMWp6Qms1NGh4VTU0YkxQN0NaY1FRV1diOENoQmdIQjJ0eU12VGZfamhNWHpsZUQ0MXczanBWZW1uWUZsVXpwcElhR2RXdG80RTBIcjZ1WjVHYW94MUhfUDI5dTA0ODZWRlBiVkFYNlhwR1RSaW1OZ2M?oc=5",
+     "title": "Israeli strike kills Hamas official, his wife and children"
+    },
+    {
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcjhScXl6TmVkaUZxMzJLaW1XOTN1dEpRY1d2b3llSkdpSU14VWlNekt3dFlac2c2TDUxdngzdy1Mek5xWjdZaWJEZ3BCanhQS2lZT2VjajRibmxkYk5LOHVvV1JMX3NpVEpWOXZRUV9mT1piZWotanZlaUYxSTdiQllJdnZ6cm5XRGtHWGRSV1QtZ1JieS1PYzlXQUVZOG4y0gGmAUFVX3lxTE41SFVvaGJDZThRdmdkWTluZFdUVC1lX19tUldWTW52Z0ZncUZJRnA5akdXbnpvbGJGTW5CR21GM09BUUJTaW5GY0NFZEhsMmJtME1jZ18wNnpMSlhQRGp4WjBZWkdtYlNDUHpRYXVHaXB5UFdFRzFWbDdhaGRfSG1GT1FlVDFENUdkWFZueFFjRkNvanFFcWJRNy1BVjFPNkxnSFU5R2c?oc=5",
+     "title": "Israeli strike in Gaza kills senior Hamas official, his wife and children"
+    },
+    {
+     "source": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUEVTVmVVV2VrM2FEcnZvTmU3dVlKZmdKYk0xQVFzekRmRVVtSHRrRXlLVVVqaDc1LUxpbmxWSjBBR1Y1ek1EWGJvRDdSbkZTY0xUNndENXphT0dnVjJqSVZNTjlHcWV5bEhkZHA0d1k1V2tTQmlHSW9GZ1JIZkMxUXoyVUp1QjlKbUFCRVpuV1dSdlZSR0RBV2NGWHcwdEo3U3Flam13?oc=5",
+     "title": "Israeli strike kills Hamas official, his wife and children"
+    }
+   ],
+   "new": true
+  }
+ ]
+}
